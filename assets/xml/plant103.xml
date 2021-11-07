@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Libro Azzurro</title>
+      </titleStmt>
+      <publicationStmt>
+        <p part="N">Publication information</p>
+      </publicationStmt>
+      <sourceDesc default="false">
+        <p part="N">Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader><div type="plant" xml:id="A-103" part="N" org="uniform" sample="complete">
+        <head>N. 103 MIRIDE ARBORE</head>
+        <div type="name" part="N" org="uniform" sample="complete">
+          <head>NOMI</head>
+          <p part="N"> Miride arborea da Theophrasto.</p>
+        </div>
+        <div type="genus" part="N" org="uniform" sample="complete">
+          <head>GENERA</head>
+          <p part="N"> Con questo nome di Miride sonno anche herba Diascoride.</p>
+        </div>
+        <div type="location" part="N" org="uniform" sample="complete">
+          <head>LUOGHO</head>
+          <p part="N"> Ne nasce a Mamali, circa Saba in Media et a Damiata reggion de Arabi.</p>
+        </div>
+        <div type="opinions" part="N" org="uniform" sample="complete">
+          <head>OPPINIONI</head>
+          <p part="N"> Non mancano chi si pensorno fusse questo il Therebintho et altri che il Thus et la
+            Myrrham nascesse de uno istesso arbore.</p>
+        </div>
+        <div type="editorial-D" part="N" org="uniform" sample="complete">
+          <p part="N">[Pianta sterile].</p>
+        </div>
+      </div></TEI>

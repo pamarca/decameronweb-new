@@ -2,7 +2,7 @@
 title: Italian Text
 layout: collection
 permalink: /itDecameron/
-collection: textit
+collection: itDecameron
 classes: wide
 sidebar:
   nav: "itDecameron"

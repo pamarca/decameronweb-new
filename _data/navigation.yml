@@ -347,34 +347,35 @@ edition:
         url:  /edition/plant161/
 
 #itDecameron sidebar
+
 itDecameron:
   - title: itDecameron
     children:
       - title: Proemio
-        url:  /textit/itProem/
+        url:  /itDecameron/itProem/
       - title: Prima Giornata
-        url:  /texit/itDay01/
+        url:  /itDecameron/itDay01/
       - title: Prima Giornata - Introduzione
-        url:  /textit/itDay01Intro/
+        url:  /itDecameron/itDay01Intro/
       - title: Prima Giornata - Novella Prima
-        url:  /textit/itDay01Nov01/
+        url:  /itDecameron/itDay01Nov01/
       - title: Prima Giornata - Novella Seconda
-        url:  /textit/itDay01Nov02/
+        url:  /itDecameron/itDay01Nov02/
       - title: Prima Giornata - Novella Terza
-        url:  /textit/itDay01Nov03/
+        url:  /itDecameron/itDay01Nov03/
       - title: Prima Giornata - Novella Quarta
-        url:  /textit/itDay01Nov04/
+        url:  /itDecameron/itDay01Nov04/
       - title: Prima Giornata - Novella Quinta
-        url:  /textit/itDay01Nov05/
+        url:  /itDecameron/itDay01Nov05/
       - title: Prima Giornata - Novella Sesta
-        url:  /textit/itDay01Nov06/
+        url:  /itDecameron/itDay01Nov06/
       - title: Prima Giornata - Novella Settima
-        url:  /textit/itDay01Nov07/
+        url:  /itDecameron/itDay01Nov07/
       - title: Prima Giornata - Novella Ottava
-        url:  /textit/itDay01Nov08/
+        url:  /itDecameron/itDay01Nov08/
       - title: Prima Giornata - Novella Nona
-        url:  /textit/itDay01Nov09/
+        url:  /itDecameron/itDay01Nov09/
       - title: Prima Giornata - Novella Decima
-        url:  /textit/itDay01Nov10/
+        url:  /itDecameron/itDay01Nov10/
       - title: Prima Giornata - Conclusione
-        url:  /textit/itDay01Conclusion/
+        url:  /itDecameron/itDay01Conclusion/

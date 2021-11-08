@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div2 type="conclusion" who="author" id="d08conclu">
+          <head>Conclusione</head>
+          
+          <p>
+          <milestone id="p99970001" />Come 
+          <name type="person" persref="dioneo">Dioneo</name> ebbe la sua novella finita, cos&#237; 
+          <name type="person" persref="lauretta">Lauretta</name>, conoscendo il termine esser venuto oltre al quale pi&#250; regnar non dovea, commendato il consiglio di 
+          <name type="person" persref="pietrocanigiano">Pietro Canigiano</name> che apparve dal suo effetto buono e la sagacit&#224; di 
+          <name type="person" persref="salabaetto">Salabaetto</name> che non fu minore a mandarlo a essecuzione, levatasi la laurea di capo, in testa a 
+          <name type="person" persref="emilia">Emilia</name> la pose donnescamente dicendo: 
+          <q direct="unspecified">Madonna, io non so come piacevole reina noi avrem di voi, ma bella la pure avrem noi: fate adunque che alle vostre bellezze l'opere sien rispondenti;</q>e tornossi a sedere.</p>
+          <p>
+          <milestone id="p99970002" />
+          <name type="person" persref="emilia">Emilia</name>, non tanto dell'esser reina fatta quanto del vedersi cos&#237; in pubblico commendare di ci&#242; che le donne sogliono essere pi&#250; vaghe, un pochetto si vergogn&#242; e tal nel viso divenne qual in su l'aurora son le novelle rose; ma pur, poi che tenuti ebbe gli occhi alquanto bassi e ebbe il rossore dato luogo, avendo col suo siniscalco de' fatti pertinenti alla brigata ordinato, cos&#237; cominci&#242; a parlare: 
+          <milestone id="p99970003" />
+          <q direct="unspecified">Dilettose donne, assai manifestamente veggiamo che, poi che i buoi alcuna parte del giorno hanno faticato sotto il giogo ristretti, quegli esser dal giogo alleviati e disciolti, e liberamente dove lor pi&#250; piace, per li boschi lasciati sono andare alla pastura: 
+          <milestone id="p99970004" />e veggiamo ancora non esser men belli, ma molto pi&#250;, i giardini di varie piante fronzuti che i boschi ne' quali solamente querce veggiamo; per le quali cose io estimo, avendo riguardo quanti giorni sotto certa legge ristretti ragionato abbiamo, che, s&#237; come a bisognosi, di vagare alquanto e vagando riprender forze a rientrar sotto il giogo non solamente sia utile ma oportuno. 
+          <milestone id="p99970005" />E per ci&#242; quello che domane, seguendo il vostro dilettevole ragionar, sia da dire non intendo di ristrignervi sotto alcuna spezialit&#224;, ma voglio che ciascun secondo che gli piace ragioni, fermamente tenendo che la variet&#224; delle cose che si diranno non meno graziosa ne fia che l'avrete pur d'una parlato; e cos&#237; avendo fatto, chi appresso di me nel reame verr&#224;, s&#237; come pi&#250; forti, con maggior sicurt&#224; ne potr&#224; nelle usate leggi ristrignere.</q>
+          <milestone id="p99970006" />E detto questo, infino all'ora della cena libert&#224; concedette a ciascuno.</p>
+          <p>
+          <milestone id="p99970007" />Commend&#242; ciascun la 
+          <name type="person" persref="emilia">reina</name> delle cose dette s&#237; come savia; e in pi&#232; drizzatisi, chi a un diletto e chi a un altro si diede: le donne a far ghirlande e a trastullarsi, i giovani a giucare e a cantare, e cos&#237; infino all'ora della cena passarono. La quale venuta, intorno alla 
+          <name type="place" placeref="fontebrigata-01">bella fontana</name> con festa e con piacer cenarono, e dopo la cena al modo usato cantando e ballando si trastullarono. 
+          <milestone id="p99970008" />Alla fine la reina, per seguire de' suoi predecessori lo stilo, non obstanti quelle che volontariamente avevan dette pi&#250; di loro, comand&#242; a 
+          <name type="person" persref="panfilo">Panfilo</name> che una ne dovesse cantare; il quale liberamente cos&#237; cominci&#242;:</p>
+          <div3 who="panfilo" type="song">
+            <lg>
+              <milestone id="p99970009" />
+              <l>Tanto &#232;, Amore, il bene</l>
+              <l>ch'io per te sento, e l'allegrezza e 'l gioco,</l>
+              <l>ch'io son felice ardendo nel tuo foco.</l>
+            </lg>
+            <lg>
+              <milestone id="p99970010" />
+              <l>L'abondante allegrezza ch'&#232; nel core,</l>
+              <l>dell'alta gioia e cara</l>
+              <l>nella qual m'hai recato,</l>
+              <l>non potendo capervi esce di fore,</l>
+              <l>e nella faccia chiara</l>
+              <l>mostra 'l mio lieto stato;</l>
+              <l>ch'essendo innamorato</l>
+              <l>in cos&#237; alto e raguardevol loco</l>
+              <l>lieve mi fa lo star dov'io mi coco.</l>
+            </lg>
+            <lg>
+              <milestone id="p99970011" />
+              <l>Io non so col mio canto dimostrare,</l>
+              <l>n&#233; disegnar col dito,</l>
+              <l>Amore, il ben ch'io sento;</l>
+              <l>e s'io sapessi, mel convien celare;</l>
+              <l>ch&#233;, s'el fosse sentito,</l>
+              <l>torneria in tormento:</l>
+              <l>ma io son s&#237; contento,</l>
+              <l>ch'ogni parlar sarebbe corto e fioco</l>
+              <l>pria n'avessi mostrato pure un poco.</l>
+            </lg>
+            <lg>
+              <milestone id="p99970012" />
+              <l>Chi potrebbe estimar che le mie braccia</l>
+              <l>aggiugnesser gi&#224; mai</l>
+              <l>l&#224; dov'io l'ho tenute,</l>
+              <l>e ch'io dovessi giunger la mia faccia</l>
+              <l>l&#224; dov'io l'accostai</l>
+              <l>per grazia e per salute?</l>
+              <l>Non mi sarien credute</l>
+              <l>le mie fortune; ond'io tutto m'infoco,</l>
+              <l>quel nascondendo ond'io m'allegro e gioco.</l>
+            </lg>
+          </div3>
+          <p>
+          <milestone id="p99970013" />La canzone di 
+          <name type="person" persref="panfilo">Panfilo</name> aveva fine, alla quale quantunque per tutti fosse compiutamente risposto, niun ve n'ebbe che, con pi&#250; attenta sollecitudine che a lui non apparteneva, non notasse le parole di quella, ingegnandosi di quello volersi indovinare che egli di convenirgli tener nascoso cantava; e quantunque varii varie cose andassero imaginando, niun per ci&#242; alla verit&#224; del fatto pervenne. Ma la 
+          <name type="person" persref="emilia">reina</name>, poi che vide la canzon di 
+          <name type="person" persref="panfilo">Panfilo</name> finita e le giovani donne e gli uomini volentier riposarsi, comand&#242; che ciascuno se n'andasse a dormire.</p>
+        </div2>
+      

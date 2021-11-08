@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="Day" ruler="elissa" id="day06">
+        <head>Sesta Giornata</head>
+        <argument>
+          <p>
+          <milestone id="p06990001" />Finisce la Quinta giornata del 
+          <title>Decameron</title>: incomincia la Sesta giornata, nella quale, sotto il reggimento d'
+          <name type="person" persref="elissa">Elissa</name>, si ragiona di chi con alcuno leggiadro motto, tentato, si riscosse, o con pronta risposta o avvedimento fugg&#237; perdita o pericolo o scorno.</p>
+        </argument>
+        
+        <div2 type="introduction" who="author" id="d06intro">
+          <head>Introduzione</head>
+          <p>
+          <milestone id="p06980002" />Aveva la luna, essendo nel mezzo del cielo, perduti i raggi suoi, e gi&#224; per la nuova luce vegnente ogni parte del nostro mondo era chiara, quando la 
+          <name type="person" persref="elissa">reina</name> levatasi, fatta la sua compagnia chiamare, alquanto con lento passo dal 
+          <name type="place" placeref="palagiobrigata-02">bel palagio</name>, su per la rugiada spaziandosi, s'allontanarono, d'una e d'altra cosa varii ragionamenti tegnendo e della pi&#250; bellezza e della meno delle raccontate novelle disputando e ancora de' varii casi recitati in quelle rinnovando le risa, infino a tanto che, gi&#224; pi&#250; alzandosi il sole e cominciandosi a riscaldare, a tutti parve di dover verso casa tornare: per che, voltati i passi, l&#224; se ne vennero. 
+          <milestone id="p06980003" />E quivi, essendo gi&#224; le tavole messe e ogni cosa d'erbucce odorose e di be' fiori seminata, avanti che il caldo surgesse pi&#250;, per comandamento della reina si misero a mangiare. E questo con festa fornito, avanti che altro facessero, alquante canzonette belle e leggiadre cantate, chi and&#242; a dormire e chi a giucare a scacchi e chi a tavole; e 
+          <name type="person" persref="dioneo">Dioneo</name> insieme con 
+          <name type="person" persref="lauretta">Lauretta</name> di 
+          <name type="person" persref="troilo">Troilo</name> e di 
+          <name type="person" persref="criseida">Criseida</name> cominciarono a cantare.</p>
+          <p>
+          <milestone id="p06980004" />E gi&#224; l'ora venuta del dovere a concistoro tornare, fatti tutti dalla 
+          <name type="person" persref="elissa">reina</name> chiamare, come usati erano dintorno alla fonte si posero a sedere; e volendo gi&#224; la reina comandare la prima novella, avvenne cosa che ancora adivenuta non v'era, cio&#232; che per la reina e per tutti fu un gran romore udito che per le fanti e' famigliari si faceva in cucina. 
+          <milestone id="p06980005" />Laonde, fatto chiamare il siniscalco e domandato qual gridasse e qual fosse del romore la cagione, rispose che il romore era tra 
+          <name type="person" persref="licisca">Licisca</name> e 
+          <name type="person" persref="tindaro">Tindaro</name> ma la cagione egli non sapea, s&#237; come colui che pure allora giugnea per fargli star cheti, quando per parte di lei era stato chiamato. 
+          <milestone id="p06980006" />Al quale la reina comand&#242; che incontanente quivi facesse venire la 
+          <name type="person" persref="licisca">Licisca</name> e 
+          <name type="person" persref="tindaro">Tindaro</name>; li quali venuti, domand&#242; la reina qual fosse la cagione del loro romore.</p>
+          <p>
+          <milestone id="p06980007" />Alla quale volendo 
+          <name type="person" persref="tindaro">Tindaro</name> rispondere, la 
+          <name type="person" persref="licisca">Licisca</name>, che attempatetta era e anzi superba che no e in sul gridar riscaldata, voltatasi verso lui con un mal viso disse: 
+          <q direct="unspecified" who="licisca">Vedi bestia d'uom che ardisce, l&#224; dove io sia, a parlare prima di me! Lascia dir me,</q>e alla 
+          <name type="person" persref="elissa">reina</name> rivolta disse: 
+          <milestone id="p06980008" />
+          <q direct="unspecified" who="licisca">Madonna, costui mi vuol far conoscere la moglie di 
+          <name type="person" persref="sicofante">Sicofante</name> e, n&#233; pi&#250; n&#233; meno come se io con lei usata non fossi, mi vuol dare a vedere che la notte prima che 
+          <name type="person" persref="sicofante">Sicofante</name> giacque con lei 
+          <name type="person" persref="mazza">messer Mazza</name> entrasse in 
+          <name type="place" placeref="montenero">Monte Nero</name> per forza e con ispargimento di sangue; e io dico che non &#232; vero, anzi v'entr&#242; paceficamente e con gran piacer di quei d'entro. 
+          <milestone id="p06980009" />E &#232; ben s&#237; bestia costui, che egli si crede troppo bene che le giovani sieno s&#237; sciocche, che elle stieno a perdere il tempo loro stando alla bada del padre e de' fratelli, che delle sette volte le sei soprastanno tre o quatro anni pi&#250; che non debbono a maritarle. 
+          <milestone id="p06980010" />Frate, bene starebbono se elle s'indugiasser tanto! Alla f&#233; di Cristo, ch&#233; debbo sapere quello che io mi dico quando io giuro: io non ho vicina che pulcella ne sia andata a marito, e anche delle maritate so io ben quante e quali beffe elle fanno a' mariti: e questo pecorone mi vuol far conoscer le femine, come se io fossi nata ieri!</q></p>
+          <p>
+          <milestone id="p06980011" />Mentre la 
+          <name type="person" persref="licisca">Licisca</name> parlava, facevan le donne s&#237; gran risa, che tutti i denti si sarebbero loro potuti trarre, e la 
+          <name type="person" persref="elissa">reina</name> l'aveva ben sei volte imposto silenzio ma niente valea: ella non ristette mai infino a tanto che ella ebbe detto ci&#242; che ella volle.</p>
+          <p>
+          <milestone id="p06980012" />Ma poi che fatto ebbe alle parole fine, la 
+          <name type="person" persref="elissa">reina</name> ridendo, volta a 
+          <name type="person" persref="dioneo">Dioneo</name>, disse: 
+          <q direct="unspecified" who="elissa">
+          <name type="person" persref="dioneo">Dioneo</name>, questa &#232; quistion da te: e per ci&#242; farai, quando finite fieno le nostre novelle, che tu sopr'essa dei sentenzia finale.</q></p>
+          <p>
+          <milestone id="p06980013" />Alla qual 
+          <name type="person" persref="dioneo">Dioneo</name> prestamente rispose: 
+          <q direct="unspecified" who="dioneo">
+          <name type="person" persref="elissa">Madonna</name>, la sentenzia &#232; data senza udirne altro: e dico che la 
+          <name type="person" persref="licisca">Licisca</name> ha ragione, e credo che cos&#237; sia come ella dice, e 
+          <name type="person" persref="tindaro">Tindaro</name> &#232; una bestia.</q></p>
+          <p>
+          <milestone id="p06980014" />La qual cosa la 
+          <name type="person" persref="licisca">Licisca</name> udendo cominci&#242; a ridere, e a 
+          <name type="person" persref="tindaro">Tindaro</name> rivolta disse: 
+          <q direct="unspecified" who="licisca">Ben lo diceva io: vatti con Dio, credi tu saper pi&#250; di me tu, che non hai ancora rasciutti gli occhi? Gran merc&#233;, non ci son vivuta invano io, no</q>; 
+          <milestone id="p06980015" />e, se non fosse che la 
+          <name type="person" persref="elissa">reina</name> con un mal viso le 'mpose silenzio e comandolle che pi&#250; parola n&#233; romor facesse se esser non volesse scopata e lei e 
+          <name type="person" persref="tindaro">Tindaro</name> mand&#242; via, niuna altra cosa avrebbero avuta a fare in tutto quel giorno che attendere a lei. 
+          <milestone id="p06980016" />Li quali poi che partiti furono, la reina impose a 
+          <name type="person" persref="filomena">Filomena</name> che alle novelle desse principio; la quale lietamente cos&#237; cominci&#242;.</p>
+        </div2>
+        
+        <div2 type="novella" who="filomena" id="nov0601">
+          <head>Novella Prima</head>
+          <argument>
+            <p>
+            <milestone id="p06010001" />Un 
+            <name type="person" persref="cavaliere-0601">cavalier</name> dice a 
+            <name type="person" persref="oretta">madonna Oretta</name> di portarla con una novella: e, mal compostamente dicendola, &#232; da lei pregato che a pi&#232; la ponga.</p>
+          </argument>
+          <div3 who="filomena" type="commentary">
+            <p>
+            <milestone id="p06010002" />Giovani donne, come ne' lucidi sereni sono le stelle ornamento del cielo e nella primavera i fiori de' verdi prati e de' colli i rivestiti albuscelli, cos&#237; de' laudevoli costumi e de' ragionamenti belli sono i leggiadri motti; li quali, per ci&#242; che brievi sono, tanto stanno meglio alle donne che agli uomini quanto pi&#250; alle donne che agli uomini il molto parlar si disdice. 
+            <milestone id="p06010003" />&#200; il vero che, qual si sia la cagione, o la malvagit&#224; del nostro ingegno o inimicizia singulare che a' nostri secoli sia portata da' cieli, oggi poche o non niuna donna rimasa ci &#232; la qual ne sappia ne' tempi oportuni dire alcuno o, se detto l'&#232;, intenderlo come si conviene: general vergogna di tutte noi. 
+            <milestone id="p06010004" />Ma per ci&#242; che gi&#224; sopra questa materia assai da 
+            <name type="person" persref="pampinea">Pampinea</name> fu detto, pi&#250; oltre non intendo di dirne; ma per farvi avvedere quanto abbiano in s&#233; di bellezza a' tempi detti, un cortese impor di silenzio fatto da una 
+            <name type="person" persref="oretta">gentil donna</name> a un 
+            <name type="person" persref="cavaliere-0601">cavaliere</name> mi piace di raccontarvi.</p>
+          </div3>
+          <p>
+          <milestone id="p06010005" />S&#237; come molte di voi o possono per veduta sapere o possono avere udito, egli non &#232; ancora guari che nella 
+          <name type="place" placeref="firenze">nostra citt&#224;</name> fu una gentile e costumata donna e ben parlante, il cui valore non merit&#242; che il suo nome si taccia. 
+          <milestone id="p06010006" />Fu adunque chiamata 
+          <name type="person" persref="oretta">madonna Oretta</name> e fu moglie di messer 
+          <name type="person" persref="gerispina">Geri Spina</name>; la quale per avventura essendo in 
+          <name type="place" placeref="contado-0601">contado</name>, come noi siamo, e da un luogo a un altro andando per via di diporto insieme con donne e con cavalieri, li quali a casa sua il d&#237; avuti aveva a desinare, e essendo forse la via lunghetta di l&#224; onde si partivano a col&#224; dove tutti a pi&#232; d'andare intendevano, disse uno de' cavalieri della brigata: 
+          <milestone id="p06010007" />
+          <q direct="unspecified" who="cavaliere-0601">
+          <name type="person" persref="oretta">Madonna Oretta</name>, quando voi vogliate, io vi porter&#242;, gran parte della via che a andare abbiamo, a cavallo con una delle belle novelle del mondo</q>.</p>
+          <p>
+          <milestone id="p06010008" />Al quale 
+          <name type="person" persref="oretta">la donna</name> rispose: 
+          <q direct="unspecified" who="oretta">
+          <name type="person" persref="cavaliere-0601">Messere</name>, anzi ve ne priego io molto, e sarammi carissimo</q>.</p>
+          <p>
+          <milestone id="p06010009" />Messer lo 
+          <name type="person" persref="cavaliere-0601">cavaliere</name>, al quale forse non stava meglio la spada allato che 'l novellar nella lingua, udito questo, cominci&#242; una sua novella, la quale nel vero da s&#233; era bellissima, ma egli or tre e quatro e sei volte replicando una medesima parola e ora indietro tornando e talvolta dicendo: 
+          <q direct="unspecified" who="cavaliere-0601">Io non dissi bene</q>e spesso ne' nomi errando, un per un altro ponendone, fieramente la guastava: senza che egli pessimamente, secondo le qualit&#224; delle persone e gli atti che accadevano, profereva.</p>
+          <p>
+          <milestone id="p06010010" />Di che a madonna 
+          <name type="person" persref="oretta">Oretta</name>, udendolo, spesse volte veniva un sudore e uno sfinimento di cuore, come se inferma fosse stata per terminare; la qual cosa poi che pi&#250; sofferir non pot&#233;, conoscendo che il 
+          <name type="person" persref="cavaliere-0601">cavaliere</name> era entrato nel pecoreccio n&#233; era per riuscirne, piacevolemente disse: 
+          <milestone id="p06010011" />
+          <q direct="unspecified" who="oretta">Messer, questo vostro cavallo ha troppo duro trotto, per che io vi priego che vi piaccia di pormi a pi&#232;</q>.</p>
+          <p>
+          <milestone id="p06010012" />Il 
+          <name type="person" persref="cavaliere-0601">cavaliere</name>, il quale per avventura era molto migliore intenditor che novellatore, inteso il motto e quello in festa e in gabbo preso, mise mano in altre novelle e quella che cominciata aveva e mal seguita senza finita lasci&#242; stare.</p>
+        </div2>
+        
+        <div2 type="novella" who="pampinea" id="nov0602">
+          <head>Novella Seconda</head>
+          <argument>
+            <p>
+            <milestone id="p06020001" />
+            <name type="person" persref="cisti">Cisti</name> fornaio con una sola parola fa raveder messer 
+            <name type="person" persref="gerispina">Geri Spina</name> d'una sua trascutata domanda.</p>
+          </argument>
+          <div3 who="author" type="commentary">
+            <p>
+            <milestone id="p06020002" />Molto fu da ciascuna delle donne e degli uomini il parlar di 
+            <name type="person" persref="oretta">madonna Oretta</name> lodato, il qual comand&#242; la 
+            <name type="person" persref="elissa">reina</name> a 
+            <name type="person" persref="pampinea">Pampinea</name> che seguitasse; per che ella cos&#237; cominci&#242;:</p>
+          </div3>
+          <div3 who="pampinea" type="commentary">
+            <p>
+            <milestone id="p06020003" />Belle donne, io non so da me medesima vedere che pi&#250; in questo si pecchi, o la natura apparecchiando a una nobile anima un vil corpo, o la fortuna apparecchiando a un corpo dotato d'anima nobile vil mestiero, s&#237; come in 
+            <name type="person" persref="cisti">Cisti</name> nostro cittadino e in molti ancora abbiamo potuto vedere avvenire; il qual 
+            <name type="person" persref="cisti">Cisti</name>, d'altissimo animo fornito, la fortuna fece fornaio. 
+            <milestone id="p06020004" />E certo io maladicerei e la natura parimente e la fortuna, se io non conoscessi la natura esser discretissima e la fortuna aver mille occhi, come che gli sciocchi lei cieca figurino. 
+            <milestone id="p06020005" />Le quali io avviso che, s&#237; come molto avvedute, fanno quello che i mortali spesse volte fanno, li quali, incerti de' futuri casi, per le loro oportunit&#224; le loro pi&#250; care cose ne' pi&#250; vili luoghi delle lor case, s&#237; come meno sospetti, sepelliscono, e quindi ne' maggior bisogni le traggono, avendole il vil luogo pi&#250; sicuramente servate che la bella camera non avrebbe. 
+            <milestone id="p06020006" />E cos&#237; le due ministre del mondo spesso le lor cose pi&#250; care nascondono sotto l'ombra dell'arti reputate pi&#250; vili, acci&#242; che di quelle alle necessit&#224; traendole pi&#250; chiaro appaia il loro splendore. 
+            <milestone id="p06020007" />Il che quanto in poca cosa 
+            <name type="person" persref="cisti">Cisti</name> fornaio il dichiarasse, gli occhi dello 'ntelletto rimettendo a messer 
+            <name type="person" persref="gerispina">Geri Spina</name>, il quale la novella di madonna Oretta contata, che sua moglie fu, m'ha tornata nella memoria, mi piace in una novelletta assai piccola dimostrarvi.</p>
+          </div3>
+          <p>
+          <milestone id="p06020008" />Dico adunque che, avendo 
+          <name type="person" persref="bonifazio">Bonifazio</name> papa, appo il quale messer 
+          <name type="person" persref="gerispina">Geri Spina</name> fu in grandissimo stato, mandati in 
+          <name type="place" placeref="firenze">Firenze</name> certi suoi nobili ambasciadori per certe sue gran bisogne, essendo essi in casa di messer 
+          <name type="person" persref="gerispina">Geri</name> smontati, e egli con loro insieme i fatti del Papa trattando, avvenne che, che se ne fosse cagione, messer 
+          <name type="person" persref="gerispina">Geri</name> con questi ambasciadori del Papa tutti a pi&#232; quasi ogni mattina davanti a 
+          <name type="place" placeref="santamariaughi">Santa Maria Ughi</name> passavano, dove 
+          <name type="person" persref="cisti">Cisti</name> fornaio il suo forno aveva e personalmente la sua arte esserceva. 
+          <milestone id="p06020009" />Al quale quantunque la fortuna arte assai umile data avesse, tanto in quella gli era stata benigna, che egli n'era ricchissimo divenuto, e senza volerla mai per alcuna altra abbandonare splendidissimamente vivea, avendo tra l'altre sue buone cose sempre i migliori vini bianchi e vermigli che in 
+          <name type="place" placeref="firenze">Firenze</name> si trovassero o nel contado.</p>
+          <p>
+          <milestone id="p06020010" />Il quale, veggendo ogni mattina davanti all'uscio suo passar messer 
+          <name type="person" persref="gerispina">Geri</name> e gli ambasciadori del Papa, e essendo il caldo grande, s'avis&#242; che gran cortesia sarebbe il dar lor bere del suo buon vin bianco; ma avendo riguardo alla sua condizione e a quella di messer 
+          <name type="person" persref="gerispina">Geri</name>, non gli pareva onesta cosa il presummere d'invitarlo ma pensossi di tener modo il quale inducesse messer 
+          <name type="person" persref="gerispina">Geri</name> medesimo a invitarsi. 
+          <milestone id="p06020011" />E avendo un farsetto bianchissimo indosso e un grembiule di bucato innanzi sempre, li quali pi&#250; tosto mugnaio che fornaio il dimostravano, ogni mattina in su l'ora che egli avvisava che messer 
+          <name type="person" persref="gerispina">Geri</name> con gli ambasciadori dover passare si faceva davanti all'uscio suo recare una secchia nuova e stagnata d'acqua fresca e un picciolo orcioletto bolognese nuovo del suo buon vin bianco e due bicchieri che parevano d'ariento, s&#237; eran chiari: 
+          <milestone id="p06020012" />e a seder postosi, come essi passavano, e egli, poi che una volta o due spurgato s'era, cominciava a ber s&#237; saporitamente questo suo vino, che egli n'avrebbe fatta venir voglia a' morti.</p>
+          <p>
+          <milestone id="p06020013" />La qual cosa avendo messer 
+          <name type="person" persref="gerispina">Geri</name> una e due mattine veduta, disse la terza: 
+          <q direct="unspecified" who="gerispina">Chente &#232;, 
+          <name type="person" persref="cisti">Cisti</name>? &#232; buono?</q></p>
+          <p>
+          <milestone id="p06020014" />
+          <name type="person" persref="cisti">Cisti</name>, levato prestamente in pi&#232;, rispose: 
+          <q direct="unspecified" who="cisti">Messer s&#237;, ma quanto non vi potre' io dare a intendere, se voi non assaggiaste</q>.</p>
+          <p>
+          <milestone id="p06020015" />Messer 
+          <name type="person" persref="gerispina">Geri</name>, al quale o la qualit&#224; o affanno pi&#250; che l'usato avuto o forse il saporito bere, che a 
+          <name type="person" persref="cisti">Cisti</name> vedeva fare, sete avea generata, volto agli ambasciadori sorridendo disse: 
+          <q direct="unspecified" who="gerispina">Signori, egli &#232; buono che noi assaggiamo del vino di questo valente uomo: forse che &#232; egli tale, che noi non ce ne penteremo</q>; e con loro insieme se n'and&#242; verso 
+          <name type="person" persref="cisti">Cisti</name>.</p>
+          <p>
+          <milestone id="p06020016" />Il quale, fatta di presente una bella panca venire di fuor dal forno, gli preg&#242; che sedessero; e alli lor famigliari, che gi&#224; per lavare i bicchieri si facevano innanzi, disse: 
+          <q direct="unspecified" who="cisti">Compagni, tiratevi indietro e lasciate questo servigio fare a me, ch&#233; io so non meno ben mescere che io sappia infornare; e non aspettaste voi d'assaggiarne gocciola!</q>
+          <milestone id="p06020017" />E cos&#237; detto, esso stesso, lavati quatro bicchieri belli e nuovi e fatto venire un piccolo orcioletto del suo buon vino, diligentemente diede bere a messer 
+          <name type="person" persref="gerispina">Geri</name> e a' compagni, alli quali il vino parve il migliore che essi avessero gran tempo davanti bevuto; per che, commendatol molto, mentre gli ambasciador vi stettero, quasi ogni mattina con loro insieme n'and&#242; a ber messer 
+          <name type="person" persref="gerispina">Geri</name>.</p>
+          <p>
+          <milestone id="p06020018" />A' quali, essendo espediti e partir dovendosi, messer 
+          <name type="person" persref="gerispina">Geri</name> fece un magnifico convito, al quale invit&#242; una parte de' pi&#250; orrevoli cittadini, e fecevi invitare 
+          <name type="person" persref="cisti">Cisti</name>, il quale per niuna condizione andar vi volle. 
+          <milestone id="p06020019" />Impose adunque messer 
+          <name type="person" persref="gerispina">Geri</name> a uno de' suoi famigliari che per un fiasco andasse del vin di 
+          <name type="person" persref="cisti">Cisti</name> e di quello un mezzo bicchier per uomo desse alle prime mense. Il 
+          <name type="person" persref="famigliare-0602">famigliare</name>, forse sdegnato perch&#233; niuna volta bere aveva potuto del vino, tolse un gran fiasco.</p>
+          <p>
+          <milestone id="p06020020" />Il quale come 
+          <name type="person" persref="cisti">Cisti</name> vide, disse: 
+          <q direct="unspecified" who="cisti">Figliuolo, messer 
+          <name type="person" persref="gerispina">Geri</name> non ti manda a me</q>.</p>
+          <p>
+          <milestone id="p06020021" />Il che raffermando pi&#250; volte il 
+          <name type="person" persref="famigliare-0602">famigliare</name> n&#233; potendo altra risposta avere, torn&#242; a messer 
+          <name type="person" persref="gerispina">Geri</name> e s&#237; gliele disse; a cui messer 
+          <name type="person" persref="gerispina">Geri</name> disse: 
+          <q direct="unspecified" who="gerispina">Tornavi e digli che s&#237; fo: e se egli pi&#250; cos&#237; ti risponde, domandalo a cui io ti mando</q>.</p>
+          <p>
+          <milestone id="p06020022" />Il 
+          <name type="person" persref="famigliare-0602">famigliare</name> tornato disse: 
+          <q direct="unspecified" who="famigliare-0602">
+          <name type="person" persref="cisti">Cisti</name>, per certo messer 
+          <name type="person" persref="gerispina">Geri</name> mi manda pure a te</q>.</p>
+          <p>
+          <milestone id="p06020023" />Al quale 
+          <name type="person" persref="cisti">Cisti</name> rispose: 
+          <q direct="unspecified" who="cisti">Per certo, figliuol, non fa</q>.</p>
+          <p>
+          <milestone id="p06020024" />
+          <q direct="unspecified" who="famigliare-0602">Adunque,</q>disse il 
+          <name type="person" persref="famigliare-0602">famigliare</name>
+          <q direct="unspecified">a cui mi manda?</q></p>
+          <p>
+          <milestone id="p06020025" />Rispose 
+          <name type="person" persref="cisti">Cisti</name>: 
+          <q direct="unspecified" who="cisti">A Arno</q>.</p>
+          <p>
+          <milestone id="p06020026" />Il che rapportando il 
+          <name type="person" persref="famigliare-0602">famigliare</name> a messer 
+          <name type="person" persref="gerispina">Geri</name>, subito gli occhi gli s'apersero dello 'ntelletto e disse al 
+          <name type="person" persref="famigliare-0602">famigliare</name>: 
+          <q direct="unspecified" who="gerispina">Lasciami vedere che fiasco tu vi porti</q>; e vedutol disse: 
+          <q direct="unspecified">
+          <name type="person" persref="cisti">Cisti</name> dice vero</q>; e dettagli villania gli fece torre un fiasco convenevole.</p>
+          <p>
+          <milestone id="p06020027" />Il quale 
+          <name type="person" persref="cisti">Cisti</name> vedendo disse: 
+          <q direct="unspecified" who="cisti">Ora so io bene che egli ti manda a me</q>, e lietamente glielo impi&#233;.</p>
+          <p>
+          <milestone id="p06020028" />E poi quel medesimo d&#237; fatto il botticello riempiere d'un simil vino e fattolo soavemente portare a casa di messer 
+          <name type="person" persref="gerispina">Geri</name>, and&#242; appresso, e trovatolo gli disse: 
+          <q direct="unspecified" who="cisti">Messere, io non vorrei che voi credeste che il gran fiasco stamane m'avesse spaventato; ma, parendomi che vi fosse uscito di mente ci&#242; che io a questi d&#237; co' miei piccoli orcioletti v'ho dimostrato, cio&#232; che questo non sia vin da famiglia, vel volli staman raccordare. 
+          <milestone id="p06020029" />Ora, per ci&#242; che io non intendo d'esservene pi&#250; guardiano, tutto ve l'ho fatto venire: fatene per innanzi come vi piace</q>.</p>
+          <p>
+          <milestone id="p06020030" />Messer 
+          <name type="person" persref="gerispina">Geri</name> ebbe il dono di 
+          <name type="person" persref="cisti">Cisti</name> carissimo e quelle grazie gli rend&#233; che a ci&#242; credette si convenissero, e sempre poi per da molto l'ebbe e per amico.</p>
+        </div2>
+        
+        <div2 type="novella" who="lauretta" id="nov0603">
+          <head>Novella Terza</head>
+          <argument>
+            <p>
+            <milestone id="p06030001" />
+            <name type="person" persref="nonnapulci">Monna Nonna de' Pulci</name> con una presta risposta al meno che onesto motteggiare del 
+            <name type="person" persref="antonioorso">vescovo</name> di 
+            <name type="place" placeref="firenze">Firenze</name> silenzio impone.</p>
+          </argument>
+          <div3 who="author" type="commentary">
+            <p>
+            <milestone id="p06030002" />Quando 
+            <name type="person" persref="pampinea">Pampinea</name> la sua novella ebbe finita, poi che da tutti e la risposta e la liberalit&#224; di 
+            <name type="person" persref="cisti">Cisti</name> molto fu commendata, piacque alla 
+            <name type="person" persref="elissa">reina</name> che 
+            <name type="person" persref="lauretta">Lauretta</name> dicesse appresso; la quale lietamente cos&#237; a dir cominci&#242;:</p>
+          </div3>
+          <div3 who="lauretta" type="commentary">
+            <p>
+            <milestone id="p06030003" />Piacevoli donne, prima 
+            <name type="person" persref="pampinea">Pampinea</name> e ora 
+            <name type="person" persref="filomena">Filomena</name> assai del vero toccarono della nostra poca vert&#250; e della bellezza de' motti; alla qual per ci&#242; che tornar non bisogna, oltre a quello che de' motti &#232; stato detto, vi voglio ricordare essere la natura de' motti cotale, che essi, come la pecora morde, deono cos&#237; mordere l'uditore e non come 'l cane: per ci&#242; che, se come il cane mordesse il motto, non sarebbe motto ma villania. 
+            <milestone id="p06030004" />La qual cosa ottimamente fecero e le parole di madonna 
+            <name type="person" persref="oretta">Oretta</name> e la risposta di 
+            <name type="person" persref="cisti">Cisti</name>. &#200; il vero che, se per risposta si dice e il risponditore morda come cane, essendo come da cane prima stato morso, non par da riprender come, se ci&#242; avvenuto non fosse, sarebbe: e per ci&#242; &#232; da guardare e come e quando e con cui e similmente dove si motteggia. 
+            <milestone id="p06030005" />Alle quali cose poco guardando gi&#224; un nostro prelato, non minor morso ricevette che 'l desse: il che io in una piccola novella vi voglio mostrare.</p>
+          </div3>
+          <p>
+          <milestone id="p06030006" />Essendo vescovo di 
+          <name type="place" placeref="firenze">Firenze</name> messere 
+          <name type="person" persref="antonioorso">Antonio d'Orso</name>, valoroso e savio prelato, venne in 
+          <name type="place" placeref="firenze">Firenze</name> un gentile uom catalano, chiamato messer 
+          <name type="person" persref="degoratta">Dego della Ratta</name>, maliscalco per lo re 
+          <name type="person" persref="robertoangio">Ruberto</name>; il quale essendo del corpo bellissimo e vie pi&#250; che grande vagheggiatore, avvenne che fra l'altre donne fiorentine una ne gli piacque, la quale era assai bella donna e era nepote d'un fratello del detto vescovo. 
+          <milestone id="p06030007" />E avendo sentito che il marito di lei, quantunque di buona famiglia fosse, era avarissimo e cattivo, con lui compose di dovergli dare cinquecento fiorin d'oro, e egli una notte con la moglie il lasciasse giacere; per che, fatti dorare popolini d'ariento, che allora si spendevano, giaciuto con la moglie, come che contro al piacer di lei fosse, gliele diede. Il che poi sappiendosi per tutto, rimasero al cattivo uomo il danno e le beffe; e il vescovo, come savio, s'infinse di queste cose niente sentire.</p>
+          <p>
+          <milestone id="p06030008" />Per che, usando molto insieme il vescovo e 'l maliscalco, avvenne che il d&#237; di San Giovanni, cavalcando l'uno allato all'altro veggendo le donne per la via onde il palio si corre, il vescovo vide una giovane la quale questa pistolenzia presente ci ha tolta donna, il cui nome fu monna 
+          <name type="person" persref="nonnapulci">Nonna de' Pulci</name>, cugina di messere 
+          <name type="person" persref="alessorinucci">Alesso Rinucci</name> e cui voi tutte doveste conoscere: 
+          <milestone id="p06030009" />la quale essendo allora una fresca e bella giovane e parlante e di gran cuore, di poco tempo avanti in 
+          <name type="place" placeref="portapiero">Porta San Piero</name> a marito venutane, la mostr&#242; al maliscalco; e poi, essendole presso, posta la mano sopra la spalla del maliscalco, disse: 
+          <q direct="unspecified">
+          <name type="person" persref="nonnapulci">Nonna</name>, che ti par di costui? crederestil vincere?</q></p>
+          <p>
+          <milestone id="p06030010" />Alla 
+          <name type="person" persref="nonnapulci">Nonna</name> parve che quelle parole alquanto mordessero la sua onest&#224; o la dovesser contaminare negli animi di coloro, che molti v'erano, che l'udirono; per che, non intendendo a purgar questa contaminazione ma a render colpo per colpo, prestamente rispose: 
+          <q direct="unspecified" who="nonnapulci">Messere, e forse non vincerebbe me; ma vorrei buona moneta</q>.</p>
+          <p>
+          <milestone id="p06030011" />La qual parola udita il maliscalco e 'l vescovo, sentendosi parimente trafitti, l'uno s&#237; come facitore della disonesta cosa nella nepote del fratel del vescovo e l'altro s&#237; come ricevitore nella nepote del proprio fratello, senza guardar l'un l'altro vergognosi e taciti se n'andarono, senza pi&#250; quel giorno dirle alcuna cosa. 
+          <milestone id="p06030012" />Cos&#237; adunque, essendo la giovane stata morsa, non le si disdisse il mordere altrui motteggiando.</p>
+        </div2>
+        
+        <div2 type="novella" who="neifile" id="nov0604">
+          <head>Novella Quarta</head>
+          <argument>
+            <p>
+            <milestone id="p06040001" />
+            <name type="person" persref="chichibio">Chichibio</name>, cuoco di 
+            <name type="person" persref="curradogianfigliazzi">Currado Gianfigliazzi</name>, con una presta parola a sua salute l'ira di 
+            <name type="person" persref="curradogianfigliazzi">Currado</name> volge in riso e s&#233; campa dalla mala ventura minacciatagli da 
+            <name type="person" persref="curradogianfigliazzi">Currado</name>.</p>
+          </argument>
+          <div3 who="author" type="commentary">
+            <p>
+            <milestone id="p06040002" />Tacevasi gi&#224; la 
+            <name type="person" persref="lauretta">Lauretta</name>, e da tutti era stata sommamente commendata la 
+            <name type="person" persref="nonnapulci">Nonna</name>, quando la 
+            <name type="person" persref="elissa">reina</name> a 
+            <name type="person" persref="neifile">Neifile</name> impose che seguitasse; la qual disse:</p>
+          </div3>
+          <div3 who="neifile" type="commentary">
+            <p>
+            <milestone id="p06040003" />Quantunque il pronto ingegno, amorose donne, spesso parole presti e utili e belle, secondo gli accidenti, a' dicitori, la fortuna ancora, alcuna volta aiutatrice de' paurosi, sopra la lor lingua subitamente di quelle pone che mai a animo riposato per lo dicitore si sareber sapute trovare: il che io per la mia novella intendo di dimostrarvi.</p>
+          </div3>
+          <p>
+          <milestone id="p06040004" />
+          <name type="person" persref="curradogianfigliazzi">Currado Gianfigliazzi</name> s&#237; come ciascuna di voi e udito e veduto puote avere, sempre della nostra citt&#224; &#232; stato nobile cittadino, liberale e magnifico, e vita cavalleresca tenendo continuamente in cani e in uccelli s'&#232; dilettato, le sue opere maggiori al presente lasciando stare. 
+          <milestone id="p06040005" />Il quale con un suo falcone avendo un d&#237; presso a 
+          <name type="place" placeref="peretola">Peretola</name> una gru ammazata, trovandola grassa e giovane, quella mand&#242; a un suo buon cuoco, il quale era chiamato 
+          <name type="person" persref="chichibio">Chichibio</name> e era viniziano; e s&#237; gli mand&#242; dicendo che a cena l'arrostisse e governassela bene. 
+          <milestone id="p06040006" />
+          <name type="person" persref="chichibio">Chichibio</name>, il quale come nuovo bergolo era cos&#237; pareva, acconcia la gru, la mise a fuoco e con sollicitudine a cuocer la cominci&#242;. 
+          <milestone id="p06040007" />La quale essendo gi&#224; presso che cotta grandissimo odor venendone, avvenne che una feminetta della contrada, la qual 
+          <name type="person" persref="brunetta">Brunetta</name> era chiamata e di cui 
+          <name type="person" persref="chichibio">Chichibio</name> era forte innamorato, entr&#242; nella cucina, e sentendo l'odor della gru e veggendola preg&#242; caramente 
+          <name type="person" persref="chichibio">Chichibio</name> che ne le desse una coscia.</p>
+          <p>
+          <milestone id="p06040008" />
+          <name type="person" persref="chichibio">Chichibio</name> le rispose cantando e disse: 
+          <q direct="unspecified" who="chichibio">Voi non l'avr&#237; da mi, donna 
+          <name type="person" persref="brunetta">Brunetta</name>, voi non l'avr&#237; da mi.</q></p>
+          <p>
+          <milestone id="p06040009" />Di che donna 
+          <name type="person" persref="brunetta">Brunetta</name> essendo un poco turbata, gli disse: 
+          <q direct="unspecified" who="brunetta">In f&#233; di Dio, se tu non la mi dai, tu non avrai mai da me cosa che ti piaccia</q>, e in brieve le parole furon molte; alla fine 
+          <name type="person" persref="chichibio">Chichibio</name>, per non crucciar la sua donna, spiccata l'una delle cosce alla gru, gliele diede.</p>
+          <p>
+          <milestone id="p06040010" />Essendo poi davanti a 
+          <name type="person" persref="curradogianfigliazzi">Currado</name> e a alcun suo forestiere messa la gru senza coscia, e 
+          <name type="person" persref="curradogianfigliazzi">Currado</name> maravigliandosene, fece chiamare 
+          <name type="person" persref="chichibio">Chichibio</name> e domandollo che fosse divenuta l'altra coscia della gru. Al quale il vinizian bugiardo subitamente rispose: 
+          <q direct="unspecified" who="chichibio">Signor mio, le gru non hanno se non una coscia e una gamba.</q></p>
+          <p>
+          <milestone id="p06040011" />
+          <name type="person" persref="curradogianfigliazzi">Currado</name> allora turbato disse: 
+          <q direct="unspecified" who="curradogianfigliazzi">Come diavol non hanno che una coscia e una gamba? non vid'io mai pi&#250; gru che questa?</q></p>
+          <p>
+          <milestone id="p06040012" />
+          <name type="person" persref="chichibio">Chichibio</name> seguit&#242;: 
+          <q direct="unspecified" who="chichibio">Egli &#232;, messer, com'io vi dico; e quando vi piaccia, io il vi far&#242; veder ne' vivi.</q></p>
+          <p>
+          <milestone id="p06040013" />
+          <name type="person" persref="curradogianfigliazzi">Currado</name> per amor dei forestieri che seco aveva non volle dietro alle parole andare, ma disse: 
+          <q direct="unspecified" who="curradogianfigliazzi">Poi che tu di' di farmelo vedere ne' vivi, cosa che io mai pi&#250; non vidi n&#233; udi' dir che fosse, e io il voglio veder domattina e sar&#242; contento; ma io ti giuro in sul corpo di Cristo che, se altramenti sar&#224;, che io ti far&#242; conciare in maniera, che tu con tuo danno ti ricorderai, sempre che tu ci viverai, del nome mio.</q></p>
+          <p>
+          <milestone id="p06040014" />Finite adunque per quella sera le parole, la mattina seguente come il giorno apparve, 
+          <name type="person" persref="curradogianfigliazzi">Currado</name>, a cui non era per lo dormire l'ira cessata, tutto ancor gonfiato si lev&#242; e comand&#242; che i cavalli gli fosser menati; e fatto montar 
+          <name type="person" persref="chichibio">Chichibio</name> sopra un ronzino, verso una fiumana, alla riva della quale sempre soleva in sul far del d&#237; vedersi delle gru, nel men&#242; dicendo: 
+          <q direct="unspecified" who="curradogianfigliazzi">Tosto vedremo chi avr&#224; iersera mentito, o tu o io.</q></p>
+          <p>
+          <milestone id="p06040015" />
+          <name type="person" persref="chichibio">Chichibio</name>, veggendo che ancora durava l'ira di 
+          <name type="person" persref="curradogianfigliazzi">Currado</name> e che far gli convenia pruova della sua bugia, non sappiendo come poterlasi fare cavalcava appresso a 
+          <name type="person" persref="curradogianfigliazzi">Currado</name> con la maggior paura del mondo, e volentieri, se potuto avesse, si sarebbe fuggito; ma non potendo, ora innanzi e ora adietro e dallato si riguardava, e ci&#242; che vedeva credeva che gru fossero che stessero in due pi&#232;.</p>
+          <p>
+          <milestone id="p06040016" />Ma gi&#224; vicini al fiume pervenuti, gli venner prima che a alcun vedute sopra la riva di quello ben dodici gru, le quali tutte in un pi&#232; dimoravano, si come quando dormono soglion fare; per che egli, prestamente mostratele a 
+          <name type="person" persref="curradogianfigliazzi">Currado</name>, disse: 
+          <q direct="unspecified" who="chichibio">Assai bene potete, messer, vedere che iersera vi dissi il vero, che le gru non hanno se non una coscia e un pi&#232;, se voi riguardate a quelle che col&#224; stanno.</q></p>
+          <p>
+          <milestone id="p06040017" />
+          <name type="person" persref="curradogianfigliazzi">Currado</name> vedendole disse: 
+          <q direct="unspecified" who="curradogianfigliazzi">Aspettati, che io ti mosterr&#242; che elle n'hanno due,</q>e fattosi alquanto pi&#250; a quelle vicino, grid&#242;: 
+          <q direct="unspecified">Ho, ho!</q>, per lo qual grido le gru, mandato l'altro pi&#232; gi&#250;, tutte dopo alquanti passi cominciarono a fuggire; laonde 
+          <name type="person" persref="curradogianfigliazzi">Currado</name> rivolto a 
+          <name type="person" persref="chichibio">Chichibio</name> disse: 
+          <q direct="unspecified">Che ti par, ghiottone? parti che elle n'abbian due?</q></p>
+          <p>
+          <milestone id="p06040018" />
+          <name type="person" persref="chichibio">Chichibio</name> quasi sbigottito, non sappiendo egli stesso donde si venisse, rispose: 
+          <q direct="unspecified" who="chichibio">Messer s&#237;, ma voi non gridaste 'ho, ho' a quella d'iersera; ch&#233; se cos&#237; gridato aveste ella avrebbe cos&#237; l'altra coscia e l'altro pi&#232; fuor mandata, come hanno fatto queste.</q></p>
+          <p>
+          <milestone id="p06040019" />A 
+          <name type="person" persref="curradogianfigliazzi">Currado</name> piacque tanto questa risposta, che tutta la sua ira si convert&#237; in festa e riso, e disse: 
+          <q direct="unspecified" who="curradogianfigliazzi">
+          <name type="person" persref="chichibio">Chichibio</name>, tu hai ragione, ben lo doveva fare.</q></p>
+          <p>
+          <milestone id="p06040020" />Cos&#237; adunque con la sua pronta e sollazzevol risposta 
+          <name type="person" persref="chichibio">Chichibio</name> cess&#242; la mala ventura e paceficossi col suo signore.</p>
+        </div2>
+        
+        <div2 type="novella" who="panfilo" id="nov0605">
+          <head>Novella Quinta</head>
+          <argument>
+            <p>
+            <milestone id="p06050001" />Messer 
+            <name type="person" persref="forese">Forese da Rabatta</name> e maestro 
+            <name type="person" persref="giotto">Giotto</name> dipintore, venendo di 
+            <name type="place" placeref="mugello">Mugello</name>, l'uno la sparuta apparenza dell'altro motteggiando morde.</p>
+          </argument>
+          <div3 who="author" type="commentary">
+            <p>
+            <milestone id="p06050002" />Come 
+            <name type="person" persref="neifile">Neifile</name> tacque, avendo molto le donne preso di piacere della risposta di 
+            <name type="person" persref="chichibio">Chichibio</name>, cos&#237; 
+            <name type="person" persref="panfilo">Panfilo</name> per voler della 
+            <name type="person" persref="elissa">reina</name> disse:</p>
+          </div3>
+          <div3 who="panfilo" type="commentary">
+            <p>
+            <milestone id="p06050003" />Carissime donne, egli avviene spesso che, s&#237; come la fortuna sotto vili arti alcuna volta grandissimi tesori di vert&#250; nasconde, come poco avanti per 
+            <name type="person" persref="pampinea">Pampinea</name> fu mostrato, cos&#237; ancora sotto turpissime forme d'uomini si truovano maravigliosi ingegni dalla natura essere stati riposti.</p>
+          </div3>
+          <p>
+          <milestone id="p06050004" />La qual cosa assai apparve in due nostri cittadini de' quali io intendo brievemente di ragionarvi; per ci&#242; che l'uno, il quale messer 
+          <name type="person" persref="forese">Forese da Rabatta</name> fu chiamato, essendo di persona piccolo e isformato, con viso piatto e ricagnato che a qualunque de' Baronci pi&#250; trasformato l'ebbe sarebbe stato sozzo, fu di tanto sentimento nelle leggi, che da molti valenti uomini uno armario di ragione civile fu reputato; 
+          <milestone id="p06050005" />e l'altro, il cui nome fu 
+          <name type="person" persref="giotto">Giotto</name>, ebbe uno ingegno di tanta eccellenzia, che niuna cosa d&#224; la natura, madre di tutte le cose e operatrice col continuo girar de' cieli, che egli con lo stile e con la penna o col pennello non dipignesse s&#237; simile a quella, che non simile, anzi pi&#250; tosto dessa paresse, in tanto che molte volte nelle cose da lui fatte si truova che il visivo senso degli uomini vi prese errore, quello credendo esser vero che era dipinto. 
+          <milestone id="p06050006" />E per ci&#242;, avendo egli quella arte ritornata in luce, che molti secoli sotto gli error d'alcuni, che pi&#250; a dilettar gli occhi degl'ignoranti che a compiacere allo 'ntelletto de' savi dipignendo, era stata sepulta, meritamente una delle luci della fiorentina gloria dir si puote; e tanto pi&#250;, quanto con maggiore umilt&#224;, maestro degli altri in ci&#242;, vivendo quella acquist&#242;, sempre rifiutando d'esser chiamato maestro.
+          <milestone id="p06050007" />Il quale titolo rifiutato da lui tanto pi&#250; in lui risplendeva, quanto con maggior disidero da quegli che men sapevan di lui o d&#224; suoi discepoli era cupidamente usurpato.
+          <milestone id="p06050008" />Ma quantunque la sua arte fosse grandissima, non era egli per ci&#242; n&#233; di persona n&#233; d'aspetto in niuna cosa pi&#250; bello che fosse 
+          <name type="person" persref="forese">messer Forese</name>. Ma, alla novella venendo, dico.</p>
+          <p>
+          <milestone id="p06050009" />Avevano in 
+          <name type="place" placeref="mugello">Mugello</name>
+          <name type="person" persref="forese">messer Forese</name> e 
+          <name type="person" persref="giotto">Giotto</name> lor possessioni; e essendo 
+          <name type="person" persref="forese">messer Forese</name> le sue andate a vedere, in quegli tempi di state che le ferie si celebran per le corti, e per avventura in su un cattivo ronzin da vettura venendosene, trov&#242; il gi&#224; detto 
+          <name type="person" persref="giotto">Giotto</name>, il qual similmente avendo le sue vedute se ne tornava a 
+          <name type="place" placeref="firenze">Firenze</name>; il quale n&#233; in cavallo n&#233; in arnese essendo in cosa alcuna meglio di lui, s&#237; come vecchi a pian passo venendosene insieme s'accompagnarono. 
+          <milestone id="p06050010" />Avvenne, come spesso di state veggiamo avvenire, che una subita piova gli soprapprese: la quale essi, come pi&#250; tosto poterono, fuggirono in casa d'un lavoratore amico e conoscente di ciascheduno di loro. 
+          <milestone id="p06050011" />Ma dopo alquanto, non faccendo l'acqua alcuna vista di dover ristare, e costoro volendo essere il d&#237; a 
+          <name type="place" placeref="firenze">Firenze</name>, presi dal lavoratore in prestanza due mantellacci vecchi di romagnuolo e due cappelli tutti rosi dalla vecchiezza, per ci&#242; che migliori non v'erano, cominciarono a camminare.</p>
+          <p>
+          <milestone id="p06050012" />Ora, essendo essi alquanto andati e tutti molli veggendosi e per gli schizzi che i ronzini fanno co' piedi in quantit&#224; zaccherosi, le quali cose non sogliono altrui accrescer punto d'orrevolezza, rischiarandosi alquanto il tempo, essi, che lungamente erano venuti taciti, cominciarono a ragionare. 
+          <milestone id="p06050013" />E 
+          <name type="person" persref="forese">messer Forese</name>, cavalcando e ascoltando 
+          <name type="person" persref="giotto">Giotto</name>, il quale bellissimo favellatore era, cominci&#242; a considerarlo e da lato e da capo e per tutto, e veggendo ogni cosa cos&#237; disorrevole e cos&#237; disparuto, senza avere a s&#233; niuna considerazione, cominci&#242; a ridere e disse: 
+          <milestone id="p06050014" />
+          <q direct="unspecified" who="forese">
+          <name type="person" persref="giotto">Giotto</name>, a che ora venendo di qua allo 'ncontro di noi un forestiere che mai veduto non t'avesse, credi tu che egli credesse che tu fossi il miglior dipintor del mondo, come tu se'?</q></p>
+          <p>
+          <milestone id="p06050015" />A cui 
+          <name type="person" persref="giotto">Giotto</name> prestamente rispose: 
+          <q direct="unspecified" who="giotto">Messere, credo che egli il crederebbe allora che, guardando voi, egli crederebbe che voi sapeste l'abic&#237;.</q></p>
+          <p>
+          <milestone id="p06050016" />Il che 
+          <name type="person" persref="forese">messer Forese</name> udendo il suo error riconobbe, e videsi di tal moneta pagato, quali erano state le derrate vendute.</p>
+        </div2>
+        
+        <div2 type="novella" who="fiammetta" id="nov0606">
+          <head>Novella Sesta</head>
+          <argument>
+            <p>
+            <milestone id="p06060001" />Pruova 
+            <name type="person" persref="michelescalza">Michele Scalza</name> a certi giovani come i Baronci sono i pi&#250; gentili uomini del mondo o di 
+            <name type="place" placeref="maremma">Maremma</name> e vince una cena.</p>
+          </argument>
+          <div3 who="author" type="commentary">
+            <p>
+            <milestone id="p06060002" />Ridevano ancora le donne della bella e presta risposta di 
+            <name type="person" persref="giotto">Giotto</name>, quando la 
+            <name type="person" persref="elissa">reina</name> impose il seguitare alla 
+            <name type="person" persref="fiammetta">Fiammetta</name>; la qual cos&#237; incominci&#242; a parlare:</p>
+          </div3>
+          <div3 who="fiammetta" type="commentary">
+            <p>
+            <milestone id="p06060003" />Giovani donne, l'essere stati ricordati i Baronci da 
+            <name type="person" persref="panfilo">Panfilo</name>, li quali per avventura voi non conoscete come fa egli, m'ha nella memoria tornata una novella, nella quale quanta sia la lor nobilt&#224; si dimostra senza dal nostro proposito deviare; e per ci&#242; mi piace di raccontarla.</p>
+          </div3>
+          <p>
+          <milestone id="p06060004" />Egli non &#232; ancora guari di tempo passato che nella nostra citt&#224; era un giovane chiamato 
+          <name type="person" persref="michelescalza">Michele Scalza</name>, il quale era il pi&#250; piacevole e il pi&#250; sollazzevole uomo del mondo e le pi&#250; nuove novelle aveva per le mani; per la qual cosa i giovani fiorentini avevan molto caro, quando in brigata si trovavano, di poter aver lui.
+          <milestone id="p06060005" />Ora avvenne un giorno che, essendo egli con alquanti a 
+          <name type="place" placeref="montughi">Montughi</name>, si cominci&#242; tra loro una quistion cos&#237; fatta: quali fossero li pi&#250; gentili uomini di 
+          <name type="place" placeref="firenze">Firenze</name> e i pi&#250; antichi; de' quali alcuni dicevano gli Uberti e altri i Lamberti, e chi uno e chi un altro, secondo che nell'animo gli capea.</p>
+          <p>
+          <milestone id="p06060006" />Li quali udendo lo Scalza cominci&#242; a ghignare e disse: 
+          <q direct="unspecified" who="michelescalza">Andate via, andate, goccioloni che voi siete, voi non sapete ci&#242; che voi vi dite: i pi&#250; gentili uomini e i pi&#250; antichi, non che di 
+          <name type="place" placeref="firenze">Firenze</name> ma di tutto il mondo o di 
+          <name type="place" placeref="maremma">Maremma</name>, sono i Baronci, e a questo s'accordano tutti i fisofoli e ogni uom che gli conosce come fo io: e acci&#242; che voi non intendeste d'altri, io dico de' Baronci vostri vicini da 
+          <name type="place" placeref="santamariamaggiore">Santa Maria Maggiore.</name></q></p>
+          <p>
+          <milestone id="p06060007" />Quando i giovani, che aspettavano che egli dovesse dire altro, udiron questo, tutti si fecero beffe di lui e dissero: 
+          <q direct="unspecified" who="brigata-0606">Tu ci uccelli, quasi come se noi non cognoscessimo i Baronci come facci tu</q></p>
+          <p>
+          <milestone id="p06060008" />Disse lo 
+          <name type="person" persref="michelescalza">Scalza</name>: 
+          <q direct="unspecified" who="michelescalza">Alle guagnele non fo, anzi mi dico il vero: e se egli ce n'&#232; niuno che voglia metter s&#250; una cena a doverla dare a chi vince, con sei compagni quali pi&#250; gli piaceranno, io la metter&#242; volentieri; e ancora vi far&#242; pi&#250;, che io ne star&#242; alla sentenzia di chiunque voi vorrete.</q></p>
+          <p>
+          <milestone id="p06060009" />Tra' quali disse uno, che si chiamava 
+          <name type="person" persref="nerivannini">Neri Vannini</name>: 
+          <q direct="unspecified" who="nerivannini">Io sono acconcio a voler vincer questa cena</q>; e accordatisi insieme d'aver per giudice 
+          <name type="person" persref="pierodifiorentino">Piero di Fiorentino</name>, in casa cui erano, e andatisene a lui, e tutti gli altri appresso per vedere perdere lo 
+          <name type="person" persref="michelescalza">Scalza</name> e dargli noia, ogni cosa detta gli raccontarono.</p>
+          <p>
+          <milestone id="p06060010" />
+          <name type="person" persref="pierodifiorentino">Piero</name>, che discreto giovane era, udita primieramente la ragione di 
+          <name type="person" persref="nerivannini">Neri</name>, poi allo 
+          <name type="person" persref="michelescalza">Scalza</name> rivolto disse: 
+          <q direct="unspecified" who="pierodifiorentino">E tu come potrai mostrare questo che tu affermi?</q></p>
+          <p>
+          <milestone id="p06060011" />Disse lo 
+          <name type="person" persref="michelescalza">Scalza</name>: 
+          <q direct="unspecified" who="michelescalza">Che? i' 'l mostrer&#242; per s&#237; fatta ragione, che non che tu ma costui, che il niega, dir&#224; che io dica il vero.
+          <milestone id="p06060012" />Voi sapete che, quanto gli uomini sono pi&#250; antichi, pi&#250; son gentili, e cos&#237; si diceva pur test&#233; tra costoro: e i Baronci son pi&#250; antichi che niuno altro uomo, s&#237; che son pi&#250; gentili; e come essi sien pi&#250; antichi mostrandovi, senza dubbio io avr&#242; vinta la quistione.
+          <milestone id="p06060013" />Voi dovete sapere che i Baronci furon fatti da Domenedio al tempo che Egli aveva cominciato d'apparare a dipignere, ma gli altri uomini furon fatti poscia che Domenedio seppe dipignere.
+          <milestone id="p06060014" />E che io dica di questo il vero, ponete mente a' Baronci e agli altri uomini: dove voi tutti gli altri vedrete co' visi ben composti e debitamente proporzionati, potrete vedere i Baronci qual col viso molto lungo e stretto, e quale averlo oltre a ogni convenienza largo, e tal v'&#232; col naso molto lungo e tale l'ha corto, e alcuni col mento in fuori e in s&#250; rivolto e con mascelloni che paiono d'asino; e &#232;vvi tale che ha l'uno occhio pi&#250; grosso che l'altro, e ancora chi ha l'un pi&#250; gi&#250; che l'altro, s&#237; come sogliono essere i visi che fanno da prima i fanciulli che apparano a disegnare.
+          <milestone id="p06060015" />Per che, come gi&#224; dissi, assai bene appare che Domenedio gli fece quando apparava a dipignere, s&#237; che essi son pi&#250; antichi che gli altri e cos&#237; pi&#250; gentili.</q></p>
+          <p>
+          <milestone id="p06060016" />Della qual cosa e 
+          <name type="person" persref="pierodifiorentino">Piero</name> che era il giudice e 
+          <name type="person" persref="nerivannini">Neri</name> che aveva messa la cena e ciascuno altro ricordandosi e avendo il piacevole argomento dello 
+          <name type="person" persref="michelescalza">Scalza</name> udito, tutti cominciarono a ridere e affermare che lo 
+          <name type="person" persref="michelescalza">Scalza</name> aveva la ragione e che egli aveva vinta la cena e che per certo i Baronci erano i pi&#250; gentili uomini e i pi&#250; antichi che fossero, non che in 
+          <name type="place" placeref="firenze">Firenze</name> ma nel mondo o in 
+          <name type="place" placeref="maremma">Maremma</name>.</p>
+          <p>
+          <milestone id="p06060017" />E per ci&#242; meritamente 
+          <name type="person" persref="panfilo">Panfilo</name>, volendo la turpitudine del viso di messer 
+          <name type="person" persref="forese">Forese</name> mostrare, disse che stato sarebbe sozzo ad un de' Baronci.</p>
+        </div2>
+        
+        <div2 type="novella" who="filostrato" id="nov0607">
+          <head>Novella Settima</head>
+          <argument>
+            <p>
+            <milestone id="p06070001" />
+            <name type="person" persref="madonnafilippa">Madonna Filippa</name> dal marito con un suo amante trovata, chiamata in giudicio, con una pronta e piacevol risposta s&#233; libera e fa lo statuto modificare.</p>
+          </argument>
+          <div3 who="author" type="commentary">
+            <p>
+            <milestone id="p06070002" />Gi&#224; si tacea la 
+            <name type="person" persref="fiammetta">Fiammetta</name> e ciascun rideva ancora del nuovo argomento dallo 
+            <name type="person" persref="michelescalza">Scalza</name> usato a nobilitare sopra ogni altro i Baronci, quando la 
+            <name type="person" persref="elissa">reina</name> ingiunse a 
+            <name type="person" persref="filostrato">Filostrato</name> che novellasse; ed egli a dir cominci&#242;:</p>
+          </div3>
+          <div3 who="filostrato" type="commentary">
+            <p>
+            <milestone id="p06070003" />Valorose donne, bella cosa &#232; in ogni parte saper ben parlare, ma io la reputo bellissima quivi saperlo fare dove la necessit&#224; il richiede; Il che s&#237; ben seppe fare una gentil donna della quale intendo di ragionarvi, che non solamente festa e riso porse agli uditori, ma s&#233; de' lacci di vituperosa morte disvilupp&#242;, come voi udirete.</p>
+          </div3>
+          <p>
+          <milestone id="p06070004" />Nella terra di 
+          <name type="place" placeref="prato">Prato</name> fu gi&#224; uno statuto, nel vero non men biasimevole che aspro, il quale senza alcuna distinzion far comandava che cos&#237; fosse arsa quella donna che dal marito fosse con alcuno suo amante trovata in adulterio, come quella che per denari con qualunque altro uomo stata trovata fosse. 
+          <milestone id="p06070005" />E durante questo statuto avvenne che una gentil donna e bella e oltre ad ogni altra innamorata, il cui nome fu madonna 
+          <name type="person" persref="madonnafilippa">Filippa</name>, fu trovata nella sua propria camera una notte da 
+          <name type="person" persref="rinaldodepugliesi">Rinaldo de' Pugliesi</name> suo marito nelle braccia di 
+          <name type="person" persref="lazzarinodeguazzagliotri">Lazzarino de' Guazzagliotri</name>, nobile giovane e bello di quella terra, il quale ella quanto se medesima amava. 
+          <milestone id="p06070006" />La qual cosa 
+          <name type="person" persref="rinaldodepugliesi">Rinaldo</name> vedendo, turbato forte, appena del correr loro addosso e d'uccidergli si ritenne: e, se non fosse che di se medesimo dubitava, seguitando l'impeto della sua ira l'avrebbe fatto. 
+          <milestone id="p06070007" />Rattemperatosi adunque da questo, non si pot&#233; temperar da voler quello dello statuto pratese che a lui non era licito di fare, cio&#232; la morte della sua donna.</p>
+          <p>
+          <milestone id="p06070008" />E per ci&#242;, avendo al fallo della donna provare assai convenevole testimonianza, come il d&#237; fu venuto, senza altro consiglio prendere, accusata la donna, la fece richiedere. 
+          <milestone id="p06070009" />La donna, che di gran cuore era, s&#237; come generalmente esser soglion quelle che innamorate son da dovero, ancora che sconsigliata da molti suoi amici e parenti ne fosse, del tutto dispose di comparire e di voler pi&#250; tosto, la verit&#224; confessando, con forte animo morire, che, vilmente fuggendo, per contumacia in essilio vivere e negarsi degna di cos&#237; fatto amante come colui era nelle cui braccia era stata la notte passata. 
+          <milestone id="p06070010" />E assai bene accompagnata di donne e d'uomini, da tutti confortata al negare, davanti al podest&#224; venuta, domand&#242; con fermo viso e con salda voce quello che egli a lei domandasse. 
+          <milestone id="p06070011" />Il podest&#224;, riguardando costei e veggendola bellissima e di maniere laudevoli molto e, secondo che le sue parole testimoniavano, di grande animo, cominci&#242; di lei a aver compassione, dubitando non ella confessasse cosa per la quale a lui convenisse, volendo il suo onor servare, farla morire.</p>
+          <p>
+          <milestone id="p06070012" />Ma pur, non potendo cessare di domandarla di quello che apposto l'era, le disse: 
+          <q direct="unspecified" who="podesta-0607">Madonna, come voi vedete, qui &#232; 
+          <name type="person" persref="rinaldodepugliesi">Rinaldo</name> vostro marito, e duolsi di voi, la quale egli dice che ha con altro uomo trovata in adulterio; e per ci&#242; domanda che io, secondo che uno statuto che ci &#232; vuole, faccendovi morire di ci&#242; vi punisca; ma ci&#242; far non posso se voi nol confessate, e per ci&#242; guardate bene quello che voi rispondete, e ditemi se vero &#232; quello di che vostro marito v'accusa.</q></p>
+          <p>
+          <milestone id="p06070013" />La donna, senza sbigottire punto, con voce assai piacevole rispose: 
+          <q direct="unspecified" who="madonnafilippa">Messere, egli &#232; vero che 
+          <name type="person">Rinaldo</name> &#232; mio marito, e che egli questa notte passata mi trov&#242; nelle braccia di 
+          <name type="person" persref="lazzarinodeguazzagliotri">Lazzarino</name>, nelle quali io sono, per buono e per perfetto amore che io gli porto, molte volte stata, n&#233; questo negherei mai; ma come io son certa che voi sapete, le leggi deono esser comuni e fatte con consentimento di coloro a cui toccano. 
+          <milestone id="p06070014" />Le quali cose di questa non avvengono, ch&#233; essa solamente le donne tapinelle costrigne, le quali molto meglio che gli uomini potrebbero a molti sodisfare; e oltre a questo, non che alcuna donna, quando fatta fu, ci prestasse consentimento, ma niuna ce ne fu mai chiamata: per le quali cose meritamente malvagia si pu&#242; chiamare. 
+          <milestone id="p06070015" />E se voi volete, in pregiudicio del mio corpo e della vostra anima, esser di quella essecutore, a voi sta; ma, avanti che a alcuna cosa giudicar procediate, vi prego che una piccola grazia mi facciate, cio&#232; che voi il mio marito domandiate se io ogni volta e quante volte a lui piaceva, senza dir mai di no, io di me stessa gli concedeva intera copia o no.</q></p>
+          <p>
+          <milestone id="p06070016" />A che 
+          <name type="person" persref="rinaldodepugliesi">Rinaldo</name>, senza aspettare che il podest&#224; il domandasse, prestamente rispose che senza alcun dubbio la donna ad ogni sua richiesta gli aveva di s&#233; ogni suo piacer conceduto.</p>
+          <p>
+          <milestone id="p06070017" />
+          <q direct="unspecified" who="madonnafilippa">Adunque</q>segu&#237; prestamente la donna 
+          <q direct="unspecified">domando io voi, messer podest&#224;, se egli ha sempre di me preso quello che gli &#232; bisognato e piaciuto, io che doveva fare o debbo di quel che gli avanza? debbolo io gittare a' cani? non &#232; egli molto meglio servirne un gentile uomo che pi&#250; che s&#233; m'ama, che lasciarlo perdere o guastare?</q></p>
+          <p>
+          <milestone id="p06070018" />Eran quivi a cos&#237; fatta essaminazione, e di tanta e s&#237; famosa donna quasi tutti i pratesi concorsi, li quali, udendo cos&#237; piacevol domanda, subitamente, dopo molte risa, quasi ad una voce tutti gridarono la donna aver ragione e dire bene: e prima che di quivi si partissono, a ci&#242; confortandogli il podest&#224;, modificarono il crudele statuto e lasciarono che egli s'intendesse solamente per quelle donne le quali per denari a' lor mariti facesser fallo. 
+          <milestone id="p06070019" />Per la qual cosa 
+          <name type="person" persref="rinaldodepugliesi">Rinaldo</name>, rimaso di cos&#237; matta impresa confuso, si part&#237; dal giudicio; e la donna lieta e libera, quasi dal fuoco risuscitata, alla sua casa se ne torn&#242; gloriosa.</p>
+        </div2>
+        
+        <div2 type="novella" who="emilia" id="nov0608">
+          <head>Novella Ottava</head>
+          <argument>
+            <p>
+            <milestone id="p06080001" />
+            <name type="person" persref="fresco">Fresco</name> conforta la nepote che non si specchi, se gli spiacevoli, come diceva, l'erano a veder noiosi.</p>
+          </argument>
+          <div3 who="author" type="commentary">
+            <p>
+            <milestone id="p06080002" />La novella da 
+            <name type="person" persref="filostrato">Filostrato</name> raccontata prima con un poco di vergogna punse li cuori delle donne ascoltanti, e con onesto rossore ne' lor visi apparito ne dieder segno; e poi, l'una l'altra guardando, appena del ridere potendosi abstenere, soghignando quella ascoltarono. 
+            <milestone id="p06080003" />Ma poi che esso alla fine ne fu venuto, la 
+            <name type="person" persref="elissa">reina</name>, ad 
+            <name type="person" persref="emilia">Emilia</name> voltatasi, che ella seguitasse le 'mpose; la quale, non altrimenti che se da dormir si levasse, soffiando incominci&#242;:</p>
+          </div3>
+          <div3 who="emilia" type="commentary">
+            <p>
+            <milestone id="p06080004" />Vaghe giovani, per ci&#242; che un lungo pensiero molto di qui m'ha tenuta gran pezza lontana, per ubidire alla nostra 
+            <name type="person" persref="elissa">reina</name>, forse con molto minor novella che fatto non avrei, se qui l'animo avessi avuto, mi passer&#242;, lo sciocco error d'una giovane raccontandovi con un piacevol motto corretto da un suo zio, se ella da tanto stata fosse che inteso l'avesse.</p>
+          </div3>
+          <p>
+          <milestone id="p06080005" />Uno adunque, che si chiam&#242; 
+          <name type="person" persref="fresco">Fresco da Celatico</name>, aveva una sua nepote chiamata per vezzi 
+          <name type="person" persref="cesca">Cesca</name>: la quale, ancora che bella persona avesse e viso, non per&#242; di quegli angelici che gi&#224; molte volte vedemmo, s&#233; da tanto e s&#237; nobile reputava, che per costume aveva preso di biasimare e uomini e donne e ciascuna cosa che ella vedeva, senza avere alcun riguardo a se medesima, la quale era tanto pi&#250; spiacevole, sazievole e stizzosa che alcuna altra, che a sua guisa niuna cosa si poteva fare; e tanto, oltre a tutto questo, era altiera, che se stata fosse de' Reali di 
+          <name type="place" placeref="francia">Francia</name> sarebbe stata soperchio.
+          <milestone id="p06080006" />E quando ella andava per via s&#237; forte le veniva del cencio, che altro che torcere il muso non faceva, quasi puzzo le venisse di chiunque vedesse o scontrasse.</p>
+          <p>
+          <milestone id="p06080007" />Ora, lasciando stare molti altri suoi modi spiacevoli e rincrescevoli, avvenne un giorno che, essendosi ella in casa tornata l&#224; dove 
+          <name type="person" persref="fresco">Fresco</name> era e tutta piena di smancerie postaglisi presso a sedere, altro non facea che soffiare; laonde 
+          <name type="person" persref="fresco">Fresco</name> domandando le disse: 
+          <q direct="unspecified" who="fresco">Cesca, che vuol dir questo che, essendo oggi festa, tu te ne se' cos&#237; tosto tornata in casa?</q></p>
+          <p>
+          <milestone id="p06080008" />Al quale ella tutta cascante di vezzi rispose: 
+          <q direct="unspecified" who="cesca">Egli &#232; il vero che io me ne sono venuta tosto, per ci&#242; che io non credo che mai in questa terra fossero e uomini e femine tanto spiacevoli e rincrescevoli quanto sono oggi, e non ne passa per via uno che non mi spiaccia come la mala ventura; e io non credo che sia al mondo femina a cui pi&#250; sia noioso il vedere gli spiacevoli che &#232; a me, e per non vedergli cos&#237; tosto me ne son venuta.</q></p>
+          <p>
+          <milestone id="p06080009" />Alla qual 
+          <name type="person" persref="fresco">Fresco</name>, a cui li modi fecciosi della nepote dispiacevan fieramente, disse: 
+          <q direct="unspecified" who="fresco">Figliuola, se cos&#237; ti dispiaccion gli spiacevoli, come tu d&#237;, se tu vuoi viver lieta, non ti specchiare giammai.</q></p>
+          <p>
+          <milestone id="p06080010" />Ma ella, pi&#250; che una canna vana e a cui di senno pareva pareggiar 
+          <name type="person" persref="salomone">Salamone</name>, non altramenti che un montone avrebbe fatto intese il vero motto di 
+          <name type="person" persref="fresco">Fresco</name>, anzi disse che ella si voleva specchiar come l'altre. E cos&#237; nella sua grossezza si rimase e ancor vi si sta.</p>
+        </div2>
+        
+        <div2 type="novella" who="elissa" id="nov0609">
+          <head>Novella Nona</head>
+          <argument>
+            <p>
+            <milestone id="p06090001" />
+            <name type="person" persref="guidocavalcanti">Guido Cavalcanti</name> dice con un motto onestamente villania a certi cavalier fiorentini li quali soprapreso l'aveano.</p>
+          </argument>
+          <div3 who="author" type="commentary">
+            <p>
+            <milestone id="p06090002" />Sentendo la 
+            <name type="person" persref="elissa">reina</name> che 
+            <name type="person" persref="emilia">Emilia</name> della sua novella s'era diliberata e che ad altri non restava a dir che a lei, se non a colui che per privilegio aveva il dir da sezzo, cos&#237; a dir cominci&#242;:</p>
+          </div3>
+          <div3 who="elissa" type="commentary">
+            <p>
+            <milestone id="p06090003" />Quantunque, leggiadre donne, oggi mi sieno da voi state tolte da due in s&#250; delle novelle delle quali io m'avea pensato di doverne una dire, nondimeno me n'&#232; pure una rimasa da raccontare, nella conclusion della quale si contiene un s&#237; fatto motto, che forse non ci se n'&#232; alcuno di tanto sentimento contato.</p>
+          </div3>
+          <p>
+          <milestone id="p06090004" />Dovete adunque sapere che ne' tempi passati furono nella nostra citt&#224; assai belle e laudevoli usanze, delle quali oggi niuna ve n'&#232; rimasa, merc&#233; della avarizia che in quella con le ricchezze &#232; cresciuta, la quale tutte l'ha discacciate.
+          <milestone id="p06090005" />Tralle quali n'era una cotale, che in diversi luoghi per 
+          <name type="place" placeref="firenze">Firenze</name> si ragunavano insieme i gentili uomini delle contrade e facevano lor 
+          <name persref="brigata-0609">brigate</name> di certo numero, guardando di mettervi tali che comportare potessono acconciamente le spese, e oggi l'uno, doman l'altro, e cos&#237; per ordine tutti mettevan tavola, ciascuno il suo d&#237;, a tutta la 
+          <name persref="brigata-0609">brigata</name>; e in quella spesse volte onoravano e gentili uomini forestieri, quando ve ne capitavano, e ancora de' cittadini: 
+          <milestone id="p06090006" />e similmente si vestivano insieme almeno una volta l'anno, e insieme i d&#237; pi&#250; notabili cavalcavano per la citt&#224;, e talora armeggiavano, e massimamente per le feste principali o quando alcuna lieta novella di vittoria o d'altro fosse venuta nella citt&#224;.</p>
+          <p>
+          <milestone id="p06090007" />Tralle quali 
+          <name persref="brigata-0609">brigate</name> n'era una di messer 
+          <name type="person" persref="bettobrunelleschi">Betto Brunelleschi</name>, nella quale messer 
+          <name type="person" persref="bettobrunelleschi">Betto</name> e' compagni s'eran molto ingegnati di tirare 
+          <name type="person" persref="guidocavalcanti">Guido</name> di messer 
+          <name type="person" persref="cavalcantecavalcanti">Cavalcante de' Cavalcanti</name>, e non senza cagione:
+          <milestone id="p06090008" />per ci&#242; che, oltre a quello che egli fu un de' migliori loici che avesse il mondo e ottimo filosofo naturale (delle quali cose poco la 
+          <name persref="brigata-0609">brigata</name> curava), si fu egli leggiadrissimo e costumato e parlante uom molto e ogni cosa che far volle e a gentile uom pertenente seppe meglio che altro uom fare; e con questo era ricchissimo, e a chiedere a lingua sapeva onorare cui nell'animo gli capeva che il valesse.
+          <milestone id="p06090009" />Ma a messer 
+          <name type="person" persref="bettobrunelleschi">Betto</name> non era mai potuto venir fatto d'averlo, e credeva egli co' suoi compagni che ci&#242; avvenisse per ci&#242; che 
+          <name type="person" persref="guidocavalcanti">Guido</name> alcuna volta speculando molto abstratto dagli uomini divenia; e per ci&#242; che egli alquanto tenea della oppinione degli epicuri, si diceva tralla gente volgare che queste sue speculazioni erano solo in cercare se trovar si potesse che Iddio non fosse.</p>
+          <p>
+          <milestone id="p06090010" />Ora avvenne un giorno che, essendo 
+          <name type="person" persref="guidocavalcanti">Guido</name> partito d'
+          <name type="place" placeref="ortosanmichele">Orto San Michele</name> e venutosene per lo Corso degli Adimari infino a 
+          <name type="place" placeref="sangiovanni">San Giovanni</name>, il quale spesse volte era suo cammino, essendo arche grandi di marmo, che oggi sono in 
+          <name type="place" placeref="santareparata">Santa Reparata</name>, e molte altre dintorno a 
+          <name type="place" placeref="sangiovanni">San Giovanni</name>, e egli essendo tralle colonne del porfido che vi sono e quelle arche e la porta di 
+          <name type="place" placeref="sangiovanni">San Giovanni</name>, che serrata era, messer 
+          <name type="person" persref="bettobrunelleschi">Betto</name> con sua 
+          <name persref="brigata-0609">brigata</name> a caval venendo su per la piazza di 
+          <name type="place" placeref="santareparata">Santa Reparata</name>, vedendo 
+          <name type="person" persref="guidocavalcanti">Guido</name> l&#224; tra quelle sepolture, dissero: 
+          <q direct="unspecified" who="bettobrunelleschi brigata-0609">Andiamo a dargli briga</q>; 
+          <milestone id="p06090011" />e spronati i cavalli, a guisa d'uno assalto sollazzevole gli furono, quasi prima che egli se ne avvedesse, sopra e cominciarongli a dire: 
+          <q direct="unspecified" who="bettobrunelleschi brigata-0609">Guido, tu rifiuti d'esser di nostra brigata; ma ecco, quando tu avrai trovato che Idio non sia, che avrai fatto?</q></p>
+          <p>
+          <milestone id="p06090012" />A' quali 
+          <name type="person" persref="guidocavalcanti">Guido</name>, da lor veggendosi chiuso, prestamente disse:
+          <q direct="unspecified" who="guidocavalcanti">Signori, voi mi potete dire a casa vostra ci&#242; che vi piace</q>; e posta la mano sopra una di quelle arche, che grandi erano, s&#237; come colui che leggerissimo era, prese un salto e fussi gittato dall'altra parte, e sviluppatosi da loro se n'and&#242;.</p>
+          <p>
+          <milestone id="p06090013" />Costoro rimaser tutti guatando l'un l'altro, e cominciarono a dire che egli era uno smemorato e che quello che egli aveva risposto non veniva a dir nulla, con ci&#242; fosse cosa che quivi dove erano non avevano essi a far pi&#250; che tutti gli altri cittadini, n&#233; 
+          <name type="person" persref="guidocavalcanti">Guido</name> meno che alcun di loro.</p>
+          <p>
+          <milestone id="p06090014" />Alli quali messer 
+          <name type="person" persref="bettobrunelleschi">Betto</name> rivolto disse:
+          <q direct="unspecified" who="bettobrunelleschi">Gli smemorati siete voi, se voi non l'avete inteso: egli ci ha detta onestamente in poche parole la maggior villania del mondo, per ci&#242; che, se voi riguarderete bene, queste arche sono le case de' morti, per ci&#242; che in esse si pongono e dimorano i morti; le quali egli dice che sono nostra casa, a dimostrarci che noi e gli altri uomini idioti e non litterati siamo, a comparazion di lui e degli altri uomini scienziati, peggio che uomini morti, e per ci&#242;, qui essendo, noi siamo a casa nostra.</q></p>
+          <p>
+          <milestone id="p06090015" />Allora ciascuno intese quello che 
+          <name type="person" persref="guidocavalcanti">Guido</name> aveva voluto dire e vergognossi, n&#233; mai pi&#250; gli diedero briga, e tennero per innanzi messer 
+          <name type="person" persref="bettobrunelleschi">Betto</name> sottile e intendente cavaliere.</p>
+        </div2>
+        
+        <div2 type="novella" who="dioneo" id="nov0610">
+          <head>Novella Decima</head>
+          <argument>
+            <p>
+            <milestone id="p06100001" />
+            <name type="person" persref="fratecipolla">Frate Cipolla</name> promette a certi contadini di mostrar loro la penna dell'agnolo Gabriello; in luogo della quale trovando carboni, quegli dice esser di quegli che arrostirono san Lorenzo.</p>
+          </argument>
+          <div3 who="author" type="commentary">
+            <p>
+            <milestone id="p06100002" />Essendo ciascuno della brigata della sua novella riuscito, conobbe 
+            <name type="person" persref="dioneo">Dioneo</name> che a lui toccava il dover dire; per la qual cosa, senza troppo solenne comandamento aspettare, imposto silenzio a quegli che il sentito motto di 
+            <name type="person" persref="guidocavalcanti">Guido</name> lodavano, incominci&#242;:</p>
+          </div3>
+          <div3 who="dioneo" type="commentary">
+            <p>
+            <milestone id="p06100003" />Vezzose donne, quantunque io abbia per privilegio di poter di quel che pi&#250; mi piace parlare, oggi io non intendo di volere da quella materia separarmi della quale voi tutte avete assai acconciamente parlato; ma, seguitando le vostre pedate, intendo di mostrarvi quanto cautamente con subito riparo uno de' frati di santo Antonio fuggisse uno scorno che da due giovani apparecchiato gli era. 
+            <milestone id="p06100004" />N&#233; vi dovr&#224; esser grave perch&#233; io, per ben dir la novella compiuta, alquanto in parlar mi distenda, se al sol guarderete il qual &#232; ancora a mezzo il cielo.</p>
+          </div3>
+          <p>
+          <milestone id="p06100005" />
+          <name type="place" placeref="certaldo">Certaldo</name>, come voi forse avete potuto udire, &#232; un castel di 
+          <name type="place" placeref="valdelsa">Valdelsa</name> posto nel nostro contado, il quale, quantunque piccol sia, gi&#224; di nobili uomini e d'agiati fu abitato; 
+          <milestone id="p06100006" />nel quale, per ci&#242; che buona pastura vi trovava, us&#242; un lungo tempo d'andare ogni anno una volta a ricoglier le limosine fatte loro dagli sciocchi un de' frati di santo Antonio, il cui nome era 
+          <name type="person" persref="fratecipolla">frate Cipolla</name>, forse non meno per lo nome che per altra divozione vedutovi volontieri, con ci&#242; sia cosa che quel terreno produca cipolle famose per tutta 
+          <name type="place" placeref="toscana">Toscana</name>. 
+          <milestone id="p06100007" />Era questo 
+          <name type="person" persref="fratecipolla">frate Cipolla</name> di persona piccolo, di pelo rosso e lieto nel viso e il miglior brigante del mondo: e oltre a questo, niuna scienza avendo, s&#237; ottimo parlatore e pronto era, che chi conosciuto non l'avesse, non solamente un gran rettorico l'avrebbe stimato, ma avrebbe detto esser Tulio medesimo o forse Quintiliano: e quasi di tutti quegli della contrada era compare o amico o benivogliente.</p>
+          <p>
+          <milestone id="p06100008" />Il quale, secondo la sua usanza, del mese d'agosto tra l'altre v'and&#242; una volta; e una domenica mattina, essendo tutti i buoni uomini e le femine delle ville da torno venuti alla messa nella calonica, quando tempo gli parve, fattosi innanzi disse: 
+          <milestone id="p06100009" />
+          <q direct="unspecified" who="fratecipolla">Signori e donne, come voi sapete, vostra usanza &#232; di mandare ogni anno a' poveri del baron messer Santo Antonio del vostro grano e delle vostre biade, chi poco e chi assai, secondo il podere e la divozion sua, acci&#242; che il beato santo Antonio vi sia guardia de' buoi e degli asini e de' porci e delle pecore vostre; 
+          <milestone id="p06100010" />e oltre a ci&#242; solete pagare, e spezialmente quegli che alla nostra compagnia scritti sono, quel poco debito che ogni anno si paga una volta. Alle quali cose ricogliere io sono dal mio maggiore, cio&#232; da messer l'abate, stato mandato, e per ci&#242;, con la benedizion di Dio, dopo nona, quando udirete sonare le campanelle, verrete qui di fuori della chiesa l&#224; dove io al modo usato vi far&#242; la predicazione, e bacerete la croce; 
+          <milestone id="p06100011" />e oltre a ci&#242;, per ci&#242; che divotissimi tutti vi conosco del barone messer santo Antonio, di spezial grazia vi mostrer&#242; una santissima e bella reliquia, la quale io medesimo gi&#224; recai dalle sante terre d'oltremare: e questa &#232; una delle penne dell'agnol Gabriello, la quale nella camera della Vergine Maria rimase quando egli la venne ad annunziare in 
+          <name type="place" placeref="nazarette">Nazarette</name>.</q>
+          <milestone id="p06100012" />E questo detto, si tacque e ritornossi alla messa.</p>
+          <p>
+          <milestone id="p06100013" />Erano, quando 
+          <name type="person" persref="fratecipolla">frate Cipolla</name> queste cose diceva, tra gli altri molti nella chiesa due giovani astuti molto, chiamato l'uno 
+          <name type="person" persref="giovannibragoniera">Giovanni del Bragoniera</name> e l'altro 
+          <name type="person" persref="biagiopizzini">Biagio Pizzini</name>, li quali, poi che alquanto tra s&#233; ebbero riso della reliquia di 
+          <name type="person" persref="fratecipolla">frate Cipolla</name>, ancora che molto fossero suoi amici e di sua brigata, seco proposero di fargli di questa penna alcuna beffa. 
+          <milestone id="p06100014" />E avendo saputo che 
+          <name type="person" persref="fratecipolla">frate Cipolla</name> la mattina desinava nel castello con un suo amico, come a tavola il sentirono cos&#237; se ne scesero alla strada e all'albergo dove il frate era smontato se n'andarono con questo proponimento, che 
+          <name type="person" persref="biagiopizzini">Biagio</name> dovesse tenere a parole il fante di 
+          <name type="person" persref="fratecipolla">frate Cipolla</name> e 
+          <name type="person" persref="giovannibragoniera">Giovanni</name> dovesse tralle cose del frate cercare di questa penna, chente che ella si fosse, e torgliele, per vedere come egli di questo fatto poi dovesse al popol dire.</p>
+          <p>
+          <milestone id="p06100015" />Aveva 
+          <name type="person" persref="fratecipolla">frate Cipolla</name> un suo fante, il quale alcuni chiamavano 
+          <name type="person" persref="guccio">Guccio Balena</name> e altri 
+          <name type="person" persref="guccio">Guccio Imbratta</name>, e chi gli diceva 
+          <name type="person" persref="guccio">Guccio Porco</name>: il quale era tanto cattivo, che egli non &#232; vero che mai Lippo Topo ne facesse alcun cotanto. 
+          <milestone id="p06100016" />Di cui spesse volte 
+          <name type="person" persref="fratecipolla">frate Cipolla</name> era usato di motteggiare con la sua brigata e di dire: 
+          <q direct="unspecified">Il fante mio ha in s&#233; nove cose tali che, se qualunque &#232; l'una di quelle fosse in Salamone o in Aristotile o in Seneca, avrebbe forza di guastare ogni lor vert&#250;, ogni lor senno, ogni lor santit&#224;. Pensate adunque che uom dee essere egli, nel quale n&#233; vert&#250; n&#233; senno n&#233; santit&#224; alcuna &#232;, avendone nove!</q>; 
+          <milestone id="p06100017" />e essendo alcuna volta domandato quali fossero queste nove cose, e egli, avendole in rima messe, rispondeva: 
+          <q direct="unspecified" who="fratecipolla">Dirolvi: egli &#232; tardo, sugliardo e bugiardo; negligente, disubidente e maldicente; trascutato, smemorato e scostumato; senza che egli ha alcune altre teccherelle con queste, che si taccion per lo migliore. 
+          <milestone id="p06100018" />E quel che sommamente &#232; da rider de' fatti suoi &#232; che egli in ogni luogo vuol pigliar moglie e tor casa a pigione; e avendo la barba grande e nera e unta, gli par s&#237; forte esser bello e piacevole, che egli s'avisa che quante femine il veggano tutte di lui s'innamorino, e essendo lasciato, a tutte andrebbe dietro perdendo la coreggia. 
+          <milestone id="p06100019" />&#200; il vero che egli m'&#232; d'un grande aiuto, per ci&#242; che mai niun non mi vuol s&#237; segreto parlare, che egli non voglia la sua parte udire; e se avviene che io d'alcuna cosa sia domandato, ha s&#237; gran paura che io non sappia rispondere, che prestamente risponde egli e s&#237; e no, come giudica si convenga.</q></p>
+          <p>
+          <milestone id="p06100020" />A costui, lasciandolo all'albergo, aveva 
+          <name type="person" persref="fratecipolla">frate Cipolla</name> comandato che ben guardasse che alcuna persona non toccasse le cose sue, e spezialmente le sue bisacce, per ci&#242; che in quelle erano le cose sacre. 
+          <milestone id="p06100021" />Ma 
+          <name type="person" persref="guccio">Guccio Imbratta</name>, il quale era pi&#250; vago di stare in cucina che sopra i verdi rami l'usignuolo, e massimamente se fante vi sentiva niuna, avendone in quella dell'oste una veduta, grassa e grossa e piccola e mal fatta, con un paio di poppe che parean due ceston da letame e con un viso che parea de' Baronci, tutta sudata, unta e affumicata, non altramenti che si gitti l'avoltoio alla carogna, lasciata la camera di 
+          <name type="person" persref="fratecipolla">frate Cipolla</name> aperta e tutte le sue cose in abbandono, l&#224; si cal&#242;. 
+          <milestone id="p06100022" />E ancora che d'agosto fosse, postosi presso al fuoco a sedere, cominci&#242; con costei, che 
+          <name type="person" persref="nuta">Nuta</name> aveva nome, a entrare in parole e dirle che egli era gentile uomo per procuratore e che egli aveva de' fiorini pi&#250; di millantanove, senza quegli che egli aveva a dare altrui, che erano anzi pi&#250; che meno, e che egli sapeva tante cose fare e dire, che domine pure unquanche. 
+          <milestone id="p06100023" />E senza riguardare a un suo cappuccio sopra il quale era tanto untume, che avrebbe condito il calderon d'Altopascio, e a un suo farsetto rotto e ripezzato e intorno al collo e sotto le ditella smaltato di sucidume, con pi&#250; macchie e di pi&#250; colori che mai drappi fossero tartereschi o indiani, e alle sue scarpette tutte rotte e alle calze sdrucite, le disse, quasi stato fosse il siri di Castiglione, che rivestir la voleva e rimetterla in arnese, e trarla di quella cattivit&#224; di star con altrui e senza gran possession d'avere ridurla in isperanza di miglior fortuna e altre cose assai: 
+          <milestone id="p06100024" />le quali quantunque molto affettuosamente le dicesse, tutte in vento convertite, come le pi&#250; delle sue imprese facevano, tornarono in niente.</p>
+          <p>
+          <milestone id="p06100025" />Trovarono adunque i due giovani 
+          <name type="person" persref="guccio">Guccio Porco</name> intorno alla 
+          <name type="person" persref="nuta">Nuta</name> occupato; della qual cosa contenti, per ci&#242; che mezza la lor fatica era cessata, non contradicendolo alcuno nella camera di 
+          <name type="person" persref="fratecipolla">frate Cipolla</name>, la quale aperta trovarono, entrati, la prima cosa che venne lor presa per cercare fu la bisaccia nella quale era la penna; 
+          <milestone id="p06100026" />la quale aperta, trovarono in un gran viluppo di zendado fasciata una piccola cassettina; la quale aperta, trovarono in essa una penna di quelle della coda d'un pappagallo, la quale avvisarono dovere esser quella che egli promessa avea di mostrare a' certaldesi. 
+          <milestone id="p06100027" />E certo egli il poteva a quei tempi leggiermente far credere, per ci&#242; che ancora non erano le morbidezze d'
+          <name type="place" placeref="egitto">Egitto</name>, se non in piccola quantit&#224;, trapassate in 
+          <name type="place" placeref="toscana">Toscana</name>, come poi in grandissima copia con disfacimento di tutta 
+          <name type="person" placeref="italia">Italia</name> son trapassate: 
+          <milestone id="p06100028" />e dove che elle poco conosciute fossero, in quella contrada quasi in niente erano da gli abitanti sapute; anzi, durandovi ancora la rozza onest&#224; degli antichi, non che veduti avessero pappagalli ma di gran lunga la maggior parte mai uditi non gli avean ricordare. 
+          <milestone id="p06100029" />Contenti adunque i giovani d'aver la penna trovata, quella tolsero e, per non lasciare la cassetta vota, vedendo carboni in un canto della camera, di quegli la cassetta empierono; e richiusala e ogni cosa racconcia come trovata avevano, senza essere stati veduti, lieti se ne vennero con la penna e cominciarono a aspettare quello che 
+          <name type="person" persref="fratecipolla">frate Cipolla</name>, in luogo della penna trovando carboni, dovesse dire.</p>
+          <p>
+          <milestone id="p06100030" />Gli uomini e le femine semplici che nella chiesa erano, udendo che veder dovevano la penna dell'agnol Gabriello dopo nona, detta la messa, si tornarono a casa; e dettolo l'un vicino all'altro e l'una comare all'altra, come desinato ebbero ogni uomo, tanti uomini e tante femine concorsono nel castello, che appena vi capeano, con desiderio aspettando di veder questa penna. 
+          <milestone id="p06100031" />
+          <name type="person" persref="fratecipolla">Frate Cipolla</name>, avendo ben desinato e poi alquanto dormito, un poco dopo nona levatosi e sentendo la moltitudine grande esser venuta di contadini per dovere la penna vedere, mand&#242; a 
+          <name type="person" persref="guccio">Guccio Imbratta</name> che la s&#250; con le campanelle venisse e recasse le sua bisacce. 
+          <milestone id="p06100032" />Il quale, poi che con fatica dalla cucina e dalla 
+          <name type="person" persref="nuta">Nuta</name> si fu divelto, con le cose addimandate con fatica lass&#250; n'and&#242;: dove ansando giunto, per ci&#242; che il ber dell'acqua gli avea molto fatto crescere il corpo, per comandamento di 
+          <name type="person" persref="fratecipolla">frate Cipolla</name> andatone in su la porta della chiesa, forte incominci&#242; le campanelle a sonare.</p>
+          <p>
+          <milestone id="p06100033" />Dove, poi che tutto il popolo fu ragunato, 
+          <name type="person" persref="fratecipolla">frate Cipolla</name>, senza essersi avveduto che niuna sua cosa fosse stata mossa, cominci&#242; la sua predica, e in acconcio de' fatti suoi disse molte parole; 
+          <milestone id="p06100034" />e dovendo venire al mostrar della penna dell'agnolo Gabriello, fatta prima con grande solennit&#224; la confessione, fece accender due torchi, e soavemente sviluppando il zendado, avendosi prima tratto il cappuccio, fuori la cassetta ne trasse. E dette primieramente alcune parolette a laude e a commendazione dell'agnolo Gabriello e della sua reliquia, la cassetta aperse. 
+          <milestone id="p06100035" />La quale come piena di carboni vide, non sospic&#242; che ci&#242; che 
+          <name type="person" persref="guccio">Guccio Balena</name> gli avesse fatto, per ci&#242; che nol conosceva da tanto, n&#233; il maladisse del male aver guardato che altri ci&#242; non facesse, ma bestemmi&#242; tacitamente s&#233;, che a lui la guardia delle sue cose aveva commessa, conoscendol, come faceva, negligente, disubidente, trascurato e smemorato. 
+          <milestone id="p06100036" />Ma non per tanto, senza mutar colore, alzato il viso e le mani al cielo, disse s&#237; che da tutti fu udito: 
+          <q direct="unspecified" who="fratecipolla">O Idio, lodata sia sempre la tua potenzia!</q></p>
+          <p>
+          <milestone id="p06100037" />Poi richiusa la cassetta e al popolo rivolto disse: 
+          <q direct="unspecified" who="fratecipolla">Signori e donne, voi dovete sapere che, essendo io ancora molto giovane, io fui mandato dal mio superiore in quelle parti dove apparisce il sole, e fummi commesso con espresso comandamento che io cercassi tanto che io trovassi i privilegi del 
+          <name type="place" placeref="porcellana">Porcellana</name>, li quali, ancora che a bollar niente costassero, molto pi&#250; utili sono a altrui che a noi. 
+          <milestone id="p06100038" />Per la qual cosa messom'io cammino, di 
+          <name type="place" placeref="venezia">Vinegia</name> partendomi e andandomene per lo 
+          <name type="place" placeref="borgogreci">Borgo de' Greci</name> e di quindi per lo 
+          <name type="place" placeref="reamegarbo">reame del Garbo</name> cavalcando e per 
+          <name type="place" placeref="baldacca">Baldacca</name>, pervenni in 
+          <name type="place" placeref="parione">Parione</name>, donde, non senza sete, dopo alquanto per venni in 
+          <name type="place" placeref="sardegna">Sardigna</name>. 
+          <milestone id="p06100039" />Ma perch&#233; vi vo io tutti i paesi cerchi da me divisando? Io capitai, passato il braccio di San Giorgio, in 
+          <name type="place" placeref="truffia">Truffia</name> e in 
+          <name type="place" placeref="buffia">Buffia</name>, paesi molto abitati e con gran popoli; e di quindi pervenni in terra di 
+          <name type="place" placeref="menzogna">Menzogna</name>, dove molti de' nostri frati e d'altre religioni trovai assai, li quali tutti il disagio andavan per l'amor di Dio schifando, poco dell'altrui fatiche curandosi, dove la loro utilit&#224; vedessero seguitare, nulla altra moneta spendendo che senza conio per quei paesi: 
+          <milestone id="p06100040" />e quindi passai in terra d'
+          <name type="place" placeref="abruzzi">Abruzzi</name>, dove gli uomini e le femine vanno in zoccoli su pe' monti, rivestendo i porci delle lor busecchie medesime; 
+          <milestone id="p06100041" />e poco pi&#250; l&#224; trovai gente che portano il pan nelle mazze e 'l vin nelle sacca: da' quali alle montagne de' bachi pervenni, dove tutte le acque corrono alla 'ngi&#250;. 
+          <milestone id="p06100042" />E in brieve tanto andai adentro, che io pervenni mei infino in 
+          <name type="place" placeref="indiapastinacca">India Pastinaca</name>, l&#224; dove io vi giuro, per l'abito che io porto addosso che io vidi volare i pennati, cosa incredibile a chi non gli avesse veduti; ma di ci&#242; non mi lasci mentire 
+          <name type="person" persref="masosaggio">Maso del Saggio</name>, il quale gran mercante io trovai l&#224;, che schiacciava noci e vendeva gusci a ritaglio. 
+          <milestone id="p06100043" />Ma non potendo quello che io andava cercando trovare, perci&#242; che da indi in l&#224; si va per acqua, indietro tornandomene, arrivai in quelle sante terre dove l'anno di state vi vale il pan freddo quattro denari, e il caldo v'&#232; per niente. E quivi trovai il venerabile padre messer Nonmiblasmete Sevoipiace, degnissimo patriarca di 
+          <name type="place" placeref="gerusalemme">Ierusalem</name>. 
+          <milestone id="p06100044" />Il quale, per reverenzia dell'abito che io ho sempre portato del baron messer santo Antonio, volle che io vedessi tutte le sante reliquie le quali egli appresso di s&#233; aveva; e furon tante che, se io ve le volessi tutte contare, io non ne verrei a capo in parecchie miglia, ma pure, per non lasciarvi sconsolate, ve ne dir&#242; alquante. 
+          <milestone id="p06100045" />Egli primieramente mi mostr&#242; il dito dello Spirito Santo cos&#237; intero e saldo come fu mai, e il ciuffetto del serafino che apparve a san Francesco, e una dell'unghie de' Gherubini, e una delle coste del Verbum caro fatti alle finestre, e de' vestimenti della Santa F&#233; catolica, e alquanti de' raggi della stella che apparve a' tre Magi in oriente, e un ampolla del sudore di san Michele quando combatt&#233; col diavole, e la mascella della Morte di san Lazzaro e altre. 
+          <milestone id="p06100046" />E per ci&#242; che io liberamente gli feci copia delle piagge di 
+          <name type="place" placeref="mmorello">Monte Morello</name> in volgare e d'alquanti capitoli del 
+          <name type="place" placeref="caprezio">Caprezio</name>, li quali egli lungamente era andati cercando, mi fece egli partefice delle sue sante reliquie: 
+          <milestone id="p06100047" />e donommi uno de' denti della santa Croce, e in una ampolletta alquanto del suono delle campane del tempio di Salomone e la penna dell'agnol Gabriello, della quale gi&#224; detto v'ho, e l'un de' zoccoli di san Gherardo da Villamagna (il quale io, non ha molto, a 
+          <name type="place" placeref="firenze">Firenze</name> donai a Gherardo di Bonsi, il quale in lui ha grandissima divozione) e diedemi de' carboni, co' quali fu il beatissimo martire san Lorenzo arrostito; le quali cose io tutte di qua con meco divotamente le recai, e holle tutte. 
+          <milestone id="p06100048" />&#200; il vero che il mio maggiore non ha mai sofferto che io l'abbia mostrate infino a tanto che certificato non s'&#232; se desse sono o no; ma ora che per certi miracoli fatti da esse e per lettere ricevute dal Patriarca fatto n'&#232; certo m'ha conceduta licenzia che io le mostri; ma io, temendo di fidarle altrui, sempre le porto meco. 
+          <milestone id="p06100049" />Vera cosa &#232; che io porto la penna dell'agnol Gabriello, acci&#242; che non si guasti, in una cassetta e i carboni co' quali fu arrostito san Lorenzo in un'altra; le quali son s&#237; simiglianti l'una all'altra, che spesse volte mi vien presa l'una per l'altra, e al presente m'&#232; avvenuto; per ci&#242; che, credendomi io qui avere arrecata la cassetta dove era la penna, io ho arrecata quella dove sono i carboni. 
+          <milestone id="p06100050" />Il quale io non reputo che stato sia errore, anzi mi pare esser certo che volont&#224; sia stata di Dio e che Egli stesso la cassetta de' carboni ponesse nelle mie mani, ricordandom'io pur test&#233; che la festa di san Lorenzo sia di qui a due d&#237;. 
+          <milestone id="p06100051" />E per ci&#242;, volendo Idio che io, col mostrarvi i carboni co' quali esso fu arrostito, raccenda nelle vostre anime la divozione che in lui aver dovete, non la penna che io voleva, ma i benedetti carboni spenti dall'omor di quel santissimo corpo mi f&#233; pigliare. 
+          <milestone id="p06100052" />E per ci&#242;, figliuoli benedetti, trarretevi i cappucci e qua divotamente v'appresserete a vedergli. Ma prima voglio che voi sappiate che chiunque da questi carboni in segno di croce &#232; tocco, tutto quello anno pu&#242; viver sicuro che fuoco nol cocer&#224; che non si senta.</q></p>
+          <p>
+          <milestone id="p06100053" />E poi che cos&#237; detto ebbe, cantando una laude di san Lorenzo, aperse la cassetta e mostr&#242; i carboni; li quali poi che alquanto la stolta moltitudine ebbe con ammirazione reverentemente guardati, con grandissima calca tutti s'appressarono a 
+          <name type="person" persref="fratecipolla">frate Cipolla</name> e, migliori offerte dando che usati non erano, che con essi gli dovesse toccare il pregava ciascuno. 
+          <milestone id="p06100054" />Per la qual cosa 
+          <name type="person" persref="fratecipolla">frate Cipolla</name>, recatisi questi carboni in mano, sopra li lor camisciotti bianchi e sopra i farsetti e sopra li veli delle donne cominci&#242; a fare le maggior croci che vi capevano, affermando che tanto quanto essi scemavano a far quelle croci, poi ricrescevano nella cassetta, s&#237; come egli molte volte aveva provato.</p>
+          <p>
+          <milestone id="p06100055" />E in cotal guisa, non senza sua grandissima utilit&#224; avendo tutti crociati i certaldesi, per presto accorgimento fece coloro rimanere scherniti, che lui, togliendogli la penna, avevan creduto schernire. Li quali stati alla sua predica e avendo udito il nuovo riparo preso da lui e quanto da lungi fatto si fosse e con che parole, avevan tanto riso che eran creduti smascellare. 
+          <milestone id="p06100056" />E poi che partito si fu il vulgo, a lui andatisene, con la maggior festa del mondo ci&#242; che fatto avevan gli discoprirono, e appresso gli renderono la sua penna; la quale l'anno seguente gli valse non meno che quel giorno gli fosser valuti i carboni.</p>
+        </div2>
+        
+        <div2 type="conclusion" who="author" id="d06conclu">
+          <head>Conclusione</head>
+          <p>
+          <milestone id="p06970001" />Questa novella porse igualmente a tutta la brigata grandissimo piacere e sollazzo, e molto per tutti fu riso di 
+          <name type="person" persref="fratecipolla">fra Cipolla</name> e massimamente del suo pellegrinaggio e delle reliquie cos&#237; da lui vedute come recate; la quale la 
+          <name type="person" persref="elissa">reina</name> sentendo esser finita, e similmente la sua signoria, levata in pi&#232;, la corona si trasse e ridendo la mise in capo a 
+          <name type="person" persref="dioneo">Dioneo</name>, e disse: 
+          <milestone id="p06970002" />
+          <q direct="unspecified" who="elissa">Tempo &#232;, 
+          <name type="person" persref="dioneo">Dioneo</name>, che tu alquanto pruovi che carico sia l'aver donne a reggere e a guidare: sii adunque re e s&#237; fattamente ne reggi, che del tuo reggimento nella fine ci abbiamo a lodare.</q></p>
+          <p>
+          <milestone id="p06970003" />
+          <name type="person" persref="dioneo">Dioneo</name>, presa la corona, ridendo rispose: 
+          <q direct="unspecified" who="dioneo">Assai volte gi&#224; ne potete aver veduti, io dico delli re da scacchi, troppo pi&#250; cari che io non sono; e per certo, se voi m'ubidiste come vero re si dee ubidire, io vi farei goder di quello senza il che per certo niuna festa compiutamente &#232; lieta. Ma lasciamo star queste parole: io regger&#242; come io sapr&#242;.</q>
+          <milestone id="p06970004" />E fattosi secondo il costume usato venire il siniscalco, ci&#242; che a fare avesse quanto durasse la sua signoria ordinatamente gl'impose, e appresso disse: 
+          <q direct="unspecified" who="dioneo">Valorose donne, in diverse maniere ci s'&#232; della umana industria e de' casi varii ragionato tanto, che, se donna 
+          <name type="person" persref="licisca">Licisca</name> non fosse poco avanti qui venuta, la quale con le sue parole m'ha trovata materia a' futuri ragionamenti di domane, io dubito che io non avessi gran pezza penato a trovar tema da ragionare. 
+          <milestone id="p06970005" />Ella, come voi udiste, disse che vicina non avea che pulcella ne fosse andata a marito e sogiunse che ben sapeva quante e quali beffe le maritate ancora facessero a' mariti. 
+          <milestone id="p06970006" />Ma lasciando stare la prima parte, che &#232; opera fanciullesca, reputo che la seconda debbia essere piacevole a ragionarne, e perci&#242; voglio che domane si dica, poi che donna 
+          <name type="person" persref="licisca">Licisca</name> data ce n'ha cagione, 
+          <seg type="topic">delle beffe le quali o per amore o per salvamento di loro le donne hanno gi&#224; fatte a' lor mariti, senza essersene essi o avveduti o no</seg></q>.</p>
+          <p>
+          <milestone id="p06970007" />Il ragionare di s&#237; fatta materia pareva a alcuna delle donne che male a lor si convenisse, e pregavanlo che mutasse la proposta gi&#224; detta; alle quali il 
+          <name type="person" persref="dioneo">re</name> rispose: 
+          <milestone id="p06970008" />
+          <q direct="unspecified" who="dioneo">Donne, io conosco ci&#242; che io ho imposto non meno che facciate voi, e da imporlo non mi pot&#233; istorre quello che voi mi volete mostrare, pensando che il tempo &#232; tale che, guardandosi e gli uomini e le donne d'operar disonestamente, ogni ragionare &#232; conceduto. 
+          <milestone id="p06970009" />Or non sapete voi che, per la perversit&#224; di questa stagione, li giudici hanno lasciati i tribunali? le leggi, cos&#237; le divine come le umane, tacciono? e ampia licenzia per conservar la vita &#232; conceduta a ciascuno? 
+          <milestone id="p06970010" />Per che, se alquanto s'allarga la vostra onest&#224; nel favellare, non per dover con l'opere mai alcuna cosa sconcia seguire ma per dare diletto a voi e a altrui, non veggio con che argomento da concedere vi possa nello avvenire riprendere alcuno. 
+          <milestone id="p06970011" />Oltre a questo la nostra brigata, dal primo d&#237; infino a questa ora stata onestissima, per cosa che detta ci si sia non mi pare che in atto alcuno si sia maculata n&#233; si maculer&#224; con l'aiuto di Dio. 
+          <milestone id="p06970012" />Appresso, chi &#232; colui che non conosca la vostra onest&#224;? La quale non che i ragionamenti sollazzevoli ma il terrore della morte non credo che potesse smagare. 
+          <milestone id="p06970013" />E a dirvi il vero, chi sapesse che voi vi cessaste da queste ciance ragionare alcuna volta forse suspicherebbe che voi in ci&#242; non foste colpevoli, e per ci&#242; ragionare non ne voleste. 
+          <milestone id="p06970014" />Senza che voi mi fareste un bello onore, essendo io stato ubidente a tutti, e ora, avendomi vostro re fatto, mi voleste la legge porre in mano, e di quello non dire che io avessi imposto. 
+          <milestone id="p06970015" />Lasciate adunque questa suspizione pi&#250; atta a' cattivi animi che a' nostri, e con la buona ventura pensi ciascuna di dirla bella.</q>
+          <milestone id="p06970016" />Quando le donne ebbero udito questo, dissero che cos&#237; fosse come gli piacesse: per che il re per infino a ora della cena di fare il suo piacere diede licenzia a ciascuno.</p>
+          <p>
+          <milestone id="p06970017" />Era ancora il sole molto alto, per ci&#242; che il ragionamento era stato brieve: per che, essendosi 
+          <name type="person" persref="dioneo">Dioneo</name> con gli altri giovani messo a giucare a tavole, 
+          <name type="person" persref="elissa">Elissa</name>, chiamate l'altre donne da una parte, disse: 
+          <milestone id="p06970018" />
+          <q direct="unspecified" who="elissa">Poi che noi fummo qui, ho io disiderato di menarvi in parte assai vicina di questo luogo, dove io non credo che mai alcuna fosse di voi, e chiamavisi la 
+          <name type="place" placeref="valledonnebrigata-01">Valle delle Donne</name>, n&#233; ancora vidi tempo da potervi quivi menare se non oggi, s&#237; &#232; alto ancora il sole: e per ci&#242;, se di venirvi vi piace, io non dubito punto che quando vi sarete non siate contentissime d'esservi state</q>.</p>
+          
+          <p>
+          <milestone id="p06970019" />Le donne risposono che erano apparecchiate; e chiamata una delle lor fanti, senza farne alcuna cosa sentire a' giovani, si misero in via: n&#233; guari pi&#250; d'un miglio furono andate, che alla 
+          <name type="place" placeref="valledonnebrigata-01">Valle delle Donne</name> pervennero. Dentro dalla quale per una via assai stretta, dall'una delle parti della qual &#232; un 
+          <name type="place" placeref="fiumicello1-c06">chiarissimo fiumicello</name>, entrarono, e viderla tanto bella e tanto dilettevole, e spezialmente in quel tempo che era il caldo grande, quanto pi&#250; si potesse divisare. 
+          <milestone id="p06970020" />E secondo che alcuna di loro poi mi ridisse, il piano, che nella valle era, cos&#237; era ritondo come se a sesta fosse stato fatto, quantunque artificio della natura e non manual paresse: e era di giro poco pi&#250; che un mezzo miglio, intorniato di 
+          <name type="place" placeref="montagnette-c06">sei montagnette</name> di non troppa altezza, e in su la sommit&#224; di ciascuna si vedeva un palagio quasi in forma fatto d'un bel castelletto.</p>
+          <p>
+          <milestone id="p06970021" />Le piagge delle quali 
+          <name type="place" placeref="montagnette-c06">montagnette</name> cos&#237; digradando giuso verso il pian discendevano, come ne' teatri veggiamo dalla lor sommit&#224; i gradi infino all'infimo venire successivamente ordinati, sempre ristrignendo il cerchio loro. 
+          <milestone id="p06970022" />E erano queste piagge, quante alla piaga del mezzogiorno ne riguardavano, tutte di vigne, d'ulivi, di mandorli, di ciriegi, di fichi e d'altre maniere assai d'
+          <name type="place" placeref="alberifrutt-c06">albori fruttiferi</name> piene senza spanna perdersene. 
+          <milestone id="p06970023" />Quelle le quali il carro di tramontana guardava, tutte eran boschetti di querciuoli, di frassini e d'altri arberi verdissimi e ritti quanto pi&#250; esser poteano. 
+          <milestone id="p06970024" />Il piano appresso, senza aver pi&#250; entrate che quella donde le donne venute v'erano, era pieno d'abeti, di cipressi, d'allori e d'alcun pini s&#237; ben composti e s&#237; bene ordinati, come se qualunque &#232; di ci&#242; il migliore artefice gli avesse piantati: e fra essi poco sole o niente, allora che egli era alto, entrava infino al suolo, il quale era tutto un 
+          <name type="place" placeref="prato-c06">prato</name> d'erba minutissima e piena di fiori porporini e d'altri.</p>
+          <p>
+          <milestone id="p06970025" />E oltre a questo, quel che non meno di diletto che altro porgeva, era un 
+          <name type="place" placeref="fiumicello2-c06">fiumicello</name> il quale d'una delle valli, che due di quelle 
+          <name type="place" placeref="montagnette-c06">montagnette</name> dividea, cadeva gi&#250; per balzi di pietra viva, e cadendo faceva un romore a udire assai dilettevole, e sprizzando pareva da lungi ariento vivo che d'alcuna cosa premuta minutamente sprizzasse; 
+          <milestone id="p06970026" />e come gi&#250; al piccol pian pervenia, cos&#237; quivi in un bel canaletto raccolta infino al mezzo del piano velocissima discorreva, e ivi faceva un picciol 
+          <name type="place" placeref="laghettobrigata-01">laghetto</name>, quale talvolta per modo di vivaio fanno ne' lor giardini i cittadini che di ci&#242; hanno destro. 
+          <milestone id="p06970027" />E era questo laghetto non pi&#250; profondo che sia una statura d'uomo infino al petto lunga; e senza avere in s&#233; mistura alcuna, chiarissimo il suo fondo mostrava esser d'una minutissima ghiaia, la quale tutta, chi altro non avesse avuto a fare, avrebbe volendo potuta annoverare; n&#233; solamente nell'acqua vi si vedeva il fondo riguardando, ma tanto pesce in qua e in l&#224; andar discorrendo, che oltre al diletto era una maraviglia; 
+          <milestone id="p06970028" />n&#233; da altra ripa era chiuso che dal suolo del prato, tanto d'intorno a quel pi&#250; bello quanto pi&#250; dell'umido sentiva di quello. L'acqua la quale alla sua capacit&#224; soprabondava un altro canaletto ricevea, per lo qual fuori del valloncello uscendo, alle parti pi&#250; basse se ne correva.</p>
+          
+          <p>
+          <milestone id="p06970029" />In questo adunque venute le giovani donne, poi che per tutto riguardato ebbero e molto commendato il luogo, essendo il caldo grande e vedendosi il 
+          <name type="place" placeref="laghettobrigata-01">pelaghetto</name> davanti e senza alcun sospetto d'esser vedute, diliberaron di volersi bagnare. 
+          <milestone id="p06970030" />E comandato alla lor fante che sopra la via per la quale quivi s'entrava dimorasse e guardasse se alcun venisse e loro il facesse sentire, tutte e sette si spogliarono e entrarono in esso, il quale non altramenti li lor corpi candidi nascondeva che farebbe una vermiglia rosa un sottil vetro. 
+          <milestone id="p06970031" />Le quali essendo in quello, n&#233; per ci&#242; alcuna turbazion d'acqua nascendone, cominciarono come potevano a andare in qua in l&#224; di dietro a' pesci, i quali male avevan dove nascondersi, e a volerne con esso le mani pigliare. 
+          <milestone id="p06970032" />E poi che in cos&#237; fatta festa, avendone presi alcuni, dimorate furono alquanto, uscite di quello si rivestirono e senza poter pi&#250; commendare il luogo che commendato l'avessero, parendo lor tempo da dover tornar verso casa, con soave passo, molto della bellezza del luogo parlando, in cammino si misero.</p>
+          <p>
+          <milestone id="p06970033" />E al palagio giunte a assai buona ora, ancora quivi trovarono i giovani giucando dove lasciati gli aveano; alli quali 
+          <name type="person" persref="pampinea">Pampinea</name> ridendo disse: 
+          <q direct="unspecified" who="pampinea">Oggi vi pure abbiam noi ingannati</q>.</p>
+          <p>
+          <milestone id="p06970034" />
+          <q direct="unspecified" who="dioneo">E come?</q>disse 
+          <name type="person" persref="dioneo">Dioneo</name>
+          <q direct="unspecified">cominciate voi prima a far de' fatti che a dir delle parole?</q></p>
+          <p>
+          <milestone id="p06970035" />Disse 
+          <name type="person" persref="pampinea">Pampinea</name>: 
+          <q direct="unspecified" who="pampinea">Signor nostro, s&#237;</q>, e distesamente gli narr&#242; donde venivano e come era fatto il luogo e quanto di quivi distante e ci&#242; che fatto avevano.</p>
+          <p>
+          <milestone id="p06970036" />Il 
+          <name type="person" persref="dioneo">re</name>, udendo contare la bellezza del luogo, disideroso di vederlo, prestamente fece comandar la cena: la qual poi che con assai piacer di tutti fu fornita, li tre giovani con li lor famigliari, lasciate le donne, se n'andarono a questa valle, e ogni cosa considerata, non essendovene alcuno di loro stato mai pi&#250;, quella per una delle belle cose del mondo lodarono. 
+          <milestone id="p06970037" />E poi che bagnati si furono e rivestiti, per ci&#242; che troppo tardi si faceva, se ne tornarono a casa, dove trovarono le donne che facevano una carola a un verso che facea la 
+          <name type="person" persref="fiammetta">Fiammetta</name>; e con loro, fornita la carola, entrati in ragionamenti della 
+          <name type="place" placeref="valledonnebrigata-01">Valle delle Donne</name>, assai di bene e di lode ne dissero. 
+          <milestone id="p06970038" />Per la qual cosa il 
+          <name type="person" persref="dioneo">re</name>, fattosi venire il siniscalco, gli comand&#242; che la seguente mattina l&#224; facesse che fosse apparecchiato e portatovi alcun letto se alcun volesse o dormire o giacersi di meriggiana. 
+          <milestone id="p06970039" />Appresso questo, fatto venir de' lumi e vino e confetti e alquanto riconfortatisi, comand&#242; che ogn'uomo fosse in sul ballare; e avendo per suo volere 
+          <name type="person" persref="panfilo">Panfilo</name> una danza presa, il 
+          <name type="person" persref="dioneo">re</name> rivoltatosi verso 
+          <name type="person" persref="elissa">Elissa</name> le disse piacevolemente: 
+          <milestone id="p06970040" />
+          <q direct="unspecified" who="dioneo">Bella giovane, tu mi facesti oggi onore della corona, e io il voglio questa sera a te fare della canzone; e per ci&#242; una fa che ne dichi qual pi&#250; ti piace</q>.</p>
+          <p>
+          <milestone id="p06970041" />A cui 
+          <name type="person" persref="elissa">Elissa</name> sorridendo rispose che volentieri, e con soave voce incominci&#242; in cotal guisa:</p>
+          <div3 who="elissa" type="song">
+            <lg>
+              <milestone id="p06970042" />
+              <l>Amor, s'io posso uscir de' tuoi artigli,</l>
+              <l>appena creder posso</l>
+              <l>che alcuno altro uncin mai pi&#250; mi pigli.</l>
+            </lg>
+            <lg>
+              <milestone id="p06970043" />
+              <l>Io entrai giovinetta en la tua guerra,</l>
+              <l>quella credendo somma e dolce pace,</l>
+              <l>e ciascuna mia arma posi in terra,</l>
+              <l>come sicuro chi si fida face:</l>
+              <l>tu, disleal tiranno, aspro e rapace,</l>
+              <l>tosto mi fosti addosso</l>
+              <l>con le tue armi e co' crudel roncigli.</l>
+            </lg>
+            <lg>
+              <milestone id="p06970044" />
+              <l>Poi, circundata delle tue catene,</l>
+              <l>a quel che nacque per la morte mia,</l>
+              <l>piena d'amare lagrime e di pene</l>
+              <l>presa mi desti, e hammi in sua balia;</l>
+              <l>e &#232; s&#237; cruda la sua signoria,</l>
+              <l>che giammai non l'ha mosso</l>
+              <l>sospir n&#233; pianto alcun che m'asottigli.</l>
+            </lg>
+            <lg>
+              <milestone id="p06970045" />
+              <l>Li prieghi miei tutti glien porta il vento:</l>
+              <l>nullo n'ascolta n&#233; ne vuole udire,</l>
+              <l>per che ognora cresce il mio tormento,</l>
+              <l>onde 'l viver m'&#232; noia n&#233; so morire.</l>
+              <l>Deh! dolgati, signor, del mio languire,</l>
+              <l>fa tu quel ch'io non posso:</l>
+              <l>dalmi legato dentro a' tuoi vincigli.</l>
+            </lg>
+            <lg>
+              <milestone id="p06970046" />
+              <l>Se questo far non vuogli, almeno sciogli</l>
+              <l>i legami annodati da speranza.</l>
+              <l>Deh! io ti priego, signor, che tu vogli;</l>
+              <l>ch&#233;, se tu 'l fai, ancor porto fidanza</l>
+              <l>di tornar bella qual fu mia usanza,</l>
+              <l>e, il dolor rimosso,</l>
+              <l>di bianchi fiori ornarmi e di vermigli.</l>
+            </lg>
+          </div3>
+          <p>
+          <milestone id="p06970047" />Poi che con un sospiro assai pietoso 
+          <name type="person" persref="elissa">Elissa</name> ebbe alla sua canzon fatta fine, ancor che tutti si maravigliasser di tali parole, niuno per ci&#242; ve n'ebbe che potesse avvisare chi di cos&#237; cantare le fosse cagione. 
+          <milestone id="p06970048" />Ma il 
+          <name type="person" persref="dioneo">re</name>, che in buona tempera era, fatto chiamar 
+          <name type="person" persref="tindaro">Tindaro</name>, gli comand&#242; che fuori traesse la sua cornamusa, al suono della quale esso fece fare molte danze; ma essendo gi&#224; buona parte di notte passata, a ciascun disse ch'andasse a dormire.</p>
+        </div2>
+      </div1>
+      
+      

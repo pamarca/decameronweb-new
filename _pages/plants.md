@@ -6,5 +6,5 @@ collection: plants
 # layout: single
 classes: wide
 sidebar:
-  nav: "plants" 
+  nav: "plants"
 ---

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div2 type="novella" who="lauretta" id="nov0108">
+          <head>Novella Ottava</head>
+          <argument>
+            <p>
+            <milestone id="p01080001" />
+            <name type="person" persref="guiglielmoborsiere">Guiglielmo Borsiere</name> con leggiadre parole trafigge l'avarizia di messer 
+            <name type="person" persref="erminogrimaldi">Ermino de' Grimaldi</name>.</p>
+          </argument>
+          <div3 who="author" type="commentary">
+            <p>
+            <milestone id="p01080002" />Sedeva appresso 
+            <name type="person" persref="filostrato">Filostrato</name>
+            <name type="person" persref="lauretta">Lauretta</name>, la quale, poscia che udito ebbe lodare la 'ndustria di 
+            <name type="person" persref="bergamino">Bergamino</name> e sentendo a lei convenir dire alcuna cosa, senza alcuno comandamento aspettare piacevolmente cos&#237; cominci&#242; a parlare:</p>
+          </div3>
+          <div3 who="lauretta" type="commentary">
+            <p>
+            <milestone id="p01080003" />La precedente novella, care compagne, m'induce a voler dire come un valente uomo di corte similmente, e non senza frutto, pugnesse d'un ricchissimo mercatante la cupidigia; la quale, perch&#233; l'effetto della passata somigli, non vi dovr&#224; perci&#242; esser men cara, pensando che bene n'adivenisse alla fine.</p>
+          </div3>
+          <p>
+          <milestone id="p01080004" />Fu adunque in 
+          <name type="place" placeref="genova">Genova</name>, buon tempo &#232; passato, un gentile uomo chiamato messere 
+          <name type="person" persref="erminogrimaldi">Ermino de' Grimaldi</name>, il quale, per quello che da tutti era creduto, di grandissime possessioni e di denari di gran lunga trapassava la ricchezza d'ogni altro ricchissimo cittadino che allora si sapesse in 
+          <name type="place" placeref="italia">Italia</name>. 
+          <milestone id="p01080005" />E s&#237; come egli di ricchezza ogni altro avanzava che italico fosse, cos&#237; d'avarizia e di miseria ogni altro misero e avaro che al mondo fosse soperchiava oltre misura per ci&#242; che non solamente in onorare altrui teneva la borsa stretta, ma nelle cose oportune alla sua propria persona, contra il general costume de' genovesi che usi sono di nobilemente vestire, sosteneva egli per non ispendere difetti grandissimi, e similmente nel mangiare e nel bere. 
+          <milestone id="p01080006" />Per la qual cosa, e meritamente, gli era de' Grimaldi caduto il sopranome e solamente messere 
+          <name type="person" persref="erminogrimaldi">Ermino Avarizia</name> era da tutti chiamato.</p>
+          <p>
+          <milestone id="p01080007" />Avvenne che in questi tempi, che costui non ispendendo il suo multiplicava, arriv&#242; a 
+          <name type="place" placeref="genova">Genova</name> un valente uomo di corte e costumato e ben parlante, il qual fu chiamato 
+          <name type="person" persref="guiglielmoborsiere">Guiglielmo Borsiere</name>, non miga simile a quegli li quali sono oggi, li quali, non senza gran vergogna de' corrotti e vituperevoli costumi di coloro li quali al presente vogliono essere gentili uomini e signor chiamati e reputati, son pi&#250; tosto da dire asini nella bruttura di tutta la cattivit&#224; de' vilissimi uomini allevati che nelle corti. 
+          <milestone id="p01080008" />E l&#224; dove a que' tempi soleva essere il lor mestiere e consumarsi la lor fatica in trattar paci, dove guerre o sdegni tra gentili uomini fosser nati, o trattar matrimonii, parentadi e amist&#224;, e con belli motti e leggiadri ricreare gli animi degli affaticati e sollazzar le corti e con agre riprensioni, s&#237; come padri, mordere i difetti de' cattivi, e questo con premii assai leggieri; 
+          <milestone id="p01080009" />oggi di rapportar male dall'uno all'altro, in seminare zizzania, in dir cattivit&#224; e tristizie, e, che &#232; peggio, in farle nella presenza degli uomini, in rimproverare i mali, le vergogne e le tristezze vere e non vere l'uno all'altro e con false lusinghe gli uomini gentili alle cose vili e scellerate ritrarre s'ingegnano il lor tempo di consumare. 
+          <milestone id="p01080010" />E colui &#232; pi&#250; caro avuto e pi&#250; da' miseri e scostumati signori onorato e con premii grandissimi essaltato, che pi&#250; abominevoli parole dice o fa atti: gran vergogna e biasimevole del mondo presente, e argomento assai evidente che le virt&#250;, di qua gi&#250; dipartitesi, hanno nella feccia de' vizii i miseri viventi abbandonati.</p>
+          <p>
+          <milestone id="p01080011" />Ma tornando a ci&#242; che io cominciato avea, da che giusto sdegno un poco m'ha trasviata pi&#250; che io non credetti, dico che il gi&#224; detto 
+          <name type="person" persref="guiglielmoborsiere">Guiglielmo</name> da tutti i gentili uomini di 
+          <name type="place" placeref="genova">Genova</name> fu onorato e volentier veduto: il quale, essendo dimorato alquanti giorni nella citt&#224; e avendo udite molte cose della miseria e della avarizia di 
+          <name type="person" persref="erminogrimaldi">messere Ermino</name>, il volle vedere. 
+          <milestone id="p01080012" />
+          <name type="person" persref="erminogrimaldi">Messere Ermino</name> aveva gi&#224; sentito come questo 
+          <name type="person" persref="guiglielmoborsiere">Guiglielmo Borsiere</name> era valente uomo; e pure avendo in s&#233;, quantunque avaro fosse, alcuna favilluzza di gentilezza, con parole assai amichevoli e con lieto viso il ricevette e con lui entr&#242; in molti e varii ragionamenti, e ragionando il men&#242; seco, insieme con altri genovesi che con lui erano, in una sua casa nuova, la quale fatta aveva fare assai bella.</p>
+          <p>
+          <milestone id="p01080013" />E, dopo avergliele tutta mostrata, disse: 
+          <q direct="unspecified" who="erminogrimaldi">Deh, 
+          <name type="person" persref="guiglielmoborsiere">messer Guiglielmo</name>, voi che avete e vedute e udite molte cose, saprestemi voi insegnare cosa alcuna che mai pi&#250; non fosse stata veduta, la quale io potessi far dipignere nella sala di questa mia casa?</q></p>
+          <p>
+          <milestone id="p01080014" />A cui 
+          <name type="person" persref="guiglielmoborsiere">Guiglielmo</name>, udendo il suo mal conveniente parlare, rispose: 
+          <q direct="unspecified" who="guiglielmoborsiere">Messere, cosa che non fosse mai stata veduta non vi crederei io sapere insegnare, se ci&#242; non fosser gi&#224; starnuti o cose a quegli simiglianti; ma, se vi piace, io ve ne insegner&#242; bene una che voi non credo che vedeste giammai</q>.</p>
+          <p>
+          <milestone id="p01080015" />Messere 
+          <name type="person" persref="erminogrimaldi">Ermino</name> disse: 
+          <q direct="unspecified" who="erminogrimaldi">Deh, io ve ne priego, ditemi quale &#232; dessa</q>, non aspettando lui quello dover rispondere che rispose.</p>
+          <p>
+          <milestone id="p01080016" />A cui 
+          <name type="person" persref="guiglielmoborsiere">Guiglielmo</name> allora prestamente disse: 
+          <q direct="unspecified" who="guiglielmoborsiere">Fateci dipignere la Cortesia</q>.</p>
+          <p>
+          <milestone id="p01080017" />Come messere 
+          <name type="person" persref="erminogrimaldi">Ermino</name> ud&#237; questa parola, cos&#237; subitamente il prese una vergogna tale, che ella ebbe forza di fargli mutare animo quasi tutto in contrario a quello che infino a quella ora aveva avuto, e disse: 
+          <q direct="unspecified" who="erminogrimaldi">Messer 
+          <name type="person" persref="guiglielmoborsiere">Guiglielmo</name>, io la ci far&#242; dipignere in maniera che mai n&#233; voi n&#233; altri con ragione mi potr&#224; pi&#250; dire che io non l'abbia veduta e conosciuta</q>.</p>
+          <p>
+          <milestone id="p01080018" />E da questo d&#237; innanzi, di tanta virt&#250; fu la parola da 
+          <name type="person" persref="guiglielmoborsiere">Guiglielmo</name> detta, fu il pi&#250; liberale e 'l pi&#250; grazioso gentile uomo e quello che pi&#250; e' forestieri e i cittadini onor&#242; che altro che in 
+          <name type="place" placeref="genova">Genova</name> fosse a' tempi suoi.</p>
+        </div2>
+        
+        

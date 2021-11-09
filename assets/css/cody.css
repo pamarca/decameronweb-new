@@ -38,7 +38,7 @@ div#TEI {
 		align-items: center;
 		/* border: 1px solid blue; */
 	}
-	
+
 	.flex-child {
 		flex: 1 0 50%;
 		padding-bottom: 1em
@@ -79,22 +79,22 @@ div#TEI {
 		border-top: thick double aqua;
 		width: 80%;
 		}
-	/* 
+	/*
   ##Device = Desktops
   ##Screen = 1281px to higher resolution desktops
 */
 
 @media (min-width: 1281px) {
-  
+
 	/* CSS */
-	
+
   }
-  
-  /* 
+
+  /*
 	##Device = Laptops, Desktops
 	##Screen = B/w 1025px to 1280px
   */
-  
+
   @media (min-width: 1025px) and (max-width: 1280px) {
 	.top-flex img#img1 {
 		width: 50%;
@@ -107,34 +107,34 @@ div#TEI {
 		padding-left: .125em;
 	}
   }
-  
-  /* 
+
+  /*
 	##Device = Tablets, Ipads (portrait)
 	##Screen = B/w 768px to 1024px
   */
-  
+
   @media (min-width: 768px) and (max-width: 1024px) {
-	
+
 	/* CSS */
-	
+
   }
-  
-  /* 
+
+  /*
 	##Device = Tablets, Ipads (landscape)
 	##Screen = B/w 768px to 1024px
   */
-  
+
   @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-	
+
 	/* CSS */
-	
+
   }
-  
-  /* 
+
+  /*
 	##Device = Low Resolution Tablets, Mobiles (Landscape)
 	##Screen = B/w 481px to 767px
   */
-  
+
   @media (min-width: 481px) and (max-width: 767px) {
 	.top-flex img#img1 {
 		width: 45%;
@@ -146,14 +146,14 @@ div#TEI {
 		height: auto;
 		padding-left: .125em;
 	}
-	
+
   }
-  
-  /* 
+
+  /*
 	##Device = Most of the Smartphones Mobiles (Portrait)
 	##Screen = B/w 320px to 479px
   */
-  
+
   @media (min-width: 320px) and (max-width: 480px) {
 	h3{
 		font-size:.8em;
@@ -221,7 +221,7 @@ display: flex;
 	} */
 	/* .top-flex a img {
 		  width: 25%;
-		  height: 25%; 
+		  height: 25%;
 		  height: 230px;
 	    width: 50%;
 		float: left;
@@ -237,7 +237,7 @@ display: flex;
 		right: 0;
 		margin: auto;
 	}*/
-	
+
 	/* .top-flex a img#img1 {
 		border: 1px solid blue;
 		padding-right: 2px;

@@ -498,29 +498,31 @@ tei-gap[reason='ellipsis'] {
 
 /* added stuff */
 
-tei-num {
+num {
   unicode-bidi: bidi-override;
   direction: ltr;
   text-align: left;
 }
 
-tei-p {
+p {
   display: block;
 }
 
-tei-div1 {
+div1 {
   display: block;
 }
 
-tei-div2 {
+div2 {
   display: block;
+  font-family: Garamond;
 }
 
-tei-div3 {
+div3 {
   display: block;
+  font-family: Garamond;
 }
 
-tei-head {
+head {
   display: block;
   text-align: justify;
   margin-top: 2%;
@@ -528,7 +530,7 @@ tei-head {
   font-family: Garamond;
 }
 
-tei-argument {
+argument {
   display: block;
   margin-left: 5%;
   font-style: italic;
@@ -539,13 +541,13 @@ h1 {
   font-family: Garamond;
 }
 
-tei-milestone::before {
+milestone::before {
   content: "[" attr(id) "] ";
   font-style: normal;
-  font-size: 90%;
-  color: green;
+  font-size: 70%;
+  color: lightgreen;
 }
 
-tei-name[type='person'] {
-  color: blue;
+name[type='person'] {
+  color: lightblue;
 }

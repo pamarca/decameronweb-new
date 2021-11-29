@@ -350,7 +350,7 @@ edition:
 #itDecameron sidebar
 
 itDecameron:
-  - title: itDecameron
+  - title: Prima Giornata
     children:
       - title: Proemio
         url:  /itDecameron/itProem/
@@ -380,3 +380,7 @@ itDecameron:
         url:  /itDecameron/itDay01Nov10/
       - title: Prima Giornata - Conclusione
         url:  /itDecameron/itDay01Conclusion/
+  - title: Seconda Giornata
+    children:
+      - title: Seconda Giornata - Proemio
+        url: /itDecameron/itDay02

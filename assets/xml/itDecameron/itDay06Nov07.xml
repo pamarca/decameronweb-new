@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="filostrato" id="nov0607">
           <head>Novella Settima</head>
           <argument>
@@ -57,4 +58,4 @@
           <name type="person" persref="rinaldodepugliesi">Rinaldo</name>, rimaso di cos&#237; matta impresa confuso, si part&#237; dal giudicio; e la donna lieta e libera, quasi dal fuoco risuscitata, alla sua casa se ne torn&#242; gloriosa.</p>
         </div2>
         
-        
+        </TEI>

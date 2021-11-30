@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="panfilo" id="nov0709">
           <head>Novella Nona</head>
           <argument>
@@ -319,4 +320,4 @@
           <name type="person" persref="lidia">Lidia</name> e ella di lui con pi&#250; agio presero piacere e diletto. Dio ce ne dea a noi.</p>
         </div2>
         
-        
+        </TEI>

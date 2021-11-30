@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="introduction" who="author" id="d05intro">
           <head>Introduzione</head>
           <p>
@@ -14,4 +15,4 @@
           <name type="person" persref="panfilo">Panfilo</name> riguardando, sorridendo a lui impose che principio desse alle felici novelle. Il quale a ci&#242; volentier si dispose e cos&#237; disse.</p>
         </div2>
         
-        
+        </TEI>

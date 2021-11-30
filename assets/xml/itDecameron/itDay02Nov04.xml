@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="lauretta" id="nov0204">
           <head>Novella Quarta</head>
           <argument>
@@ -91,4 +92,4 @@
           <name type="place" placeref="trani">Trani</name> a coloro che rivestito l'aveano; e il rimanente, senza pi&#250; voler mercatare, si ritenne, e onorevolemente visse infino alla fine.</p>
         </div2>
         
-        
+        </TEI>

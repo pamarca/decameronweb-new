@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="filostrato" id="nov0202">
           <head>Novella Seconda</head>
           <argument>
@@ -158,4 +159,4 @@
           <name type="person" persref="rinaldoasti">Rinaldo</name>, Idio e san Giulian ringraziando, mont&#242; a cavallo e sano e salvo ritorn&#242; a casa sua; e i tre masnadieri il d&#237; seguente andaro a dare de' calci a rovaio.</p>
         </div2>
         
-        
+        </TEI>

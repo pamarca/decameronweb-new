@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="introduction" who="author" id="d03intro">
           <head>Introduzione</head>
           <p>
@@ -41,4 +42,4 @@
           <name type="person" persref="filostrato">Filostrato</name>, il quale cominci&#242; in questa guisa.</p>
         </div2>
         
-        
+        </TEI>

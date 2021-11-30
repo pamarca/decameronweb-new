@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="neifile" id="nov0904">
           <head>Novella Quarta</head>
           <argument>
@@ -126,4 +127,4 @@
           <name type="person" persref="ceccoangiulieri">Angiulieri</name>, quantunque da lui non fosse a luogo e a tempo lasciata impunita.</p>
         </div2>
         
-        
+        </TEI>

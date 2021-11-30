@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="emilia" id="nov0407">
           <head>Novella Settima</head>
           <argument>
@@ -116,4 +117,4 @@
           <name type="place" placeref="sanpaolo">San Paolo</name> sepelliti, della quale per avventura eran popolani.</p>
         </div2>
         
-        
+        </TEI>

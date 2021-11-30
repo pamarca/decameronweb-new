@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="introduction" id="d10intro">
           <head>Introduzione</head>
           <p>
@@ -14,4 +15,4 @@
           <name type="person" persref="neifile">Neifile</name>, la quale lietamente cos&#237; cominci&#242;.</p>
         </div2>
         
-        
+        </TEI>

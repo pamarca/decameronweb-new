@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="dioneo" id="nov0910">
           <head>Novella Decima</head>
           <argument>
@@ -109,4 +110,4 @@
           <name type="place" placeref="bitonto">Bitonto</name> n&#233; mai pi&#250; di tal servigio il richiese.</p>
         </div2>
         
-        
+        </TEI>

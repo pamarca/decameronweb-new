@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="conclusion" who="author" id="d09conclu">
           <head>Conclusione</head>
           <p>
@@ -75,4 +76,4 @@
           <name type="person" persref="panfilo">re</name> e da tutte le donne commendata la canzonetta di 
           <name type="person" persref="neifile">Neifile</name>; appresso alla quale, per ci&#242; che gi&#224; molta notte andata n'era, comand&#242; il re che ciascuno per infino al giorno s'andasse a riposare.</p>
         </div2>
-      
+      </TEI>

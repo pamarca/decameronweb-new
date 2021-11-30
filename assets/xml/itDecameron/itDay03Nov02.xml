@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="pampinea" id="nov0302">
           <head>Novella Seconda</head>
           <argument>
@@ -76,4 +77,4 @@
           <milestone id="p03020031" />Un altro gli avrebbe voluti far collare, martoriare, essaminare, e domandare; e ci&#242; facendo, avrebbe scoperto quello che ciascun dee andar cercando di ricoprire; e essendosi scoperto, ancora che intera vendetta n'avesse presa, non scemata ma molto cresciuta n'avrebbe la sua vergogna, e contaminata l'onest&#224; della donna sua. Coloro che quella parola udirono si maravigliarono e lungamente fra s&#233; esaminarono che avesse il re voluto per quella dire, ma niuno ve ne fu che la 'ntendesse se non colui solo a cui toccava. Il quale, s&#237; come savio, mai, vivente il re, non la scoperse, n&#233; pi&#250; la sua vita in s&#237; fatto atto commise alla fortuna.</p>
         </div2>
         
-        
+        </TEI>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="panfilo" id="nov0304">
           <head>Novella Quarta</head>
           <argument>
@@ -119,4 +120,4 @@
           <name type="person" persref="donfelice">il monaco</name>, che da andarvi tosto gli avea mostrata la via, e la moglie, che con lui in gran necessit&#224; vivea di ci&#242; che messer lo monaco, come misericordioso, gran divizia le fece.</p>
         </div2>
         
-        
+        </TEI>

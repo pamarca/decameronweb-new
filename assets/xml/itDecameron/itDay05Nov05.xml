@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="neifile" id="nov0505">
           <head>Novella Quinta</head>
           <argument>
@@ -190,4 +191,4 @@
           <name type="person" persref="minghino">Minghino</name> appresso lietissimo fece le nozze belle e grandi, e a casa menatalasi, con lei in pace e in bene poscia pi&#250; anni visse.</p>
         </div2>
         
-        
+        </TEI>

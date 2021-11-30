@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="fiammetta" id="nov0808">
           <head>Novella Ottava</head>
           <argument>
@@ -164,4 +165,4 @@
           <name type="person" persref="zeppa">Zeppa</name> fu contento, e nella miglior pace del mondo tutti e quattro desinarono insieme; e da indi innanzi ciascuna di quelle donne ebbe due mariti e ciascun di loro ebbe due mogli, senza alcuna quistione o zuffa mai per quello insieme averne.</p>
         </div2>
         
-        
+        </TEI>

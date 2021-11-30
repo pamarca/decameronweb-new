@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="fiammetta" id="nov0705">
           <head>Novella Quinta</head>
           <argument>
@@ -200,4 +201,4 @@
           <name type="person" persref="filippo">amante</name> su per lo tetto come vanno le gatte ma pur per l'uscio, discretamente operando poi pi&#250; volte con lui buon tempo e lieta vita si diede.</p>
         </div2>
         
-        
+        </TEI>

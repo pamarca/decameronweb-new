@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="dioneo" id="nov0610">
           <head>Novella Decima</head>
           <argument>
@@ -142,4 +143,4 @@
           <milestone id="p06100056" />E poi che partito si fu il vulgo, a lui andatisene, con la maggior festa del mondo ci&#242; che fatto avevan gli discoprirono, e appresso gli renderono la sua penna; la quale l'anno seguente gli valse non meno che quel giorno gli fosser valuti i carboni.</p>
         </div2>
         
-        
+        </TEI>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="panfilo" id="nov1009">
           <head>Novella Nona</head>
           <argument>
@@ -501,4 +502,4 @@
           <name type="person" persref="adalieta">donna</name> e il guiderdone delle lor liete e preste cortesie; le quali molti si sforzan di fare che, bench&#233; abbian di che, s&#237; mal far le sanno, che prima le fanno assai pi&#250; comperar che non vagliono, che fatte l'abbiano: per che, se loro merito non ne segue, n&#233; essi n&#233; altri maravigliar se ne dee.</p>
         </div2>
         
-        
+        </TEI>

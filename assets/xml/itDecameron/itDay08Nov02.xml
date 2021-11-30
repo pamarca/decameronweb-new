@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="panfilo" id="nov0802">
           <head>Novella Seconda</head>
           <argument>
@@ -207,4 +208,4 @@
           <name type="person" persref="prete-0802">prete</name> rincartare il cembal suo e appiccarvi un sonagliuzzo, e ella fu contenta.</p>
         </div2>
         
-        
+        </TEI>

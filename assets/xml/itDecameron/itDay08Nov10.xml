@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="dioneo" id="nov0810">
           <head>Novella Decima</head>
           <argument>
@@ -201,4 +202,4 @@
           </q>. E cos&#237;, rimasasi col danno e colle beffe, trov&#242; che tanto seppe altri quanto altri.</p>
         </div2>
         
-        
+        </TEI>

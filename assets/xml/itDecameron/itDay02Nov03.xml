@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="pampinea" id="nov0203">
           <head>Novella Terza</head>
           <argument>
@@ -185,4 +186,4 @@
           <name type="place" placeref="scozia">Scozia</name> e funne re coronato.</p>
         </div2>
         
-        
+        </TEI>

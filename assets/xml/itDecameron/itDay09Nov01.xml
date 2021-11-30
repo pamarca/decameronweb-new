@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="filomena" id="nov0901">
           <head>Novella Prima</head>
           <argument>
@@ -117,4 +118,4 @@
           <milestone id="p09010036" />Nondimeno ciascun de' due amanti, significato alla donna ci&#242; che fatto avea e quello che era intervenuto, e con questo scusandosi se fornito non avean pienamente il suo comandamento, la sua grazia e il suo amore addimandava. La qual mostrando a niun ci&#242; voler credere, con recisa risposta di mai per lor niente voler fare, poi che essi ci&#242; che essa ad dimandato avea non avean fatto, se gli tolse da dosso.</p>
         </div2>
         
-        
+        </TEI>

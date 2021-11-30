@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="conclusion" who="author" id="d03conclu">
           <head>Conclusione</head>
           <p>
@@ -118,4 +119,4 @@
           <seg type="proverb">meglio un buon porco che una bella tosa;</seg>altri furono di pi&#250; sublime e migliore e pi&#250; vero intelletto, del quale al presente recitar non accade. 
           <milestone id="p03970019" />Il re, dopo questa, su l'erba e 'n su i fiori avendo fatti molti doppieri accendere ne fece pi&#250; altre cantare infin che gi&#224; ogni stella a cader cominci&#242; che salia; per che, ora parendogli da dormire, comand&#242; che con la buona notte ciascuno alla sua camera si tornasse.</p>
         </div2>
-      
+      </TEI>

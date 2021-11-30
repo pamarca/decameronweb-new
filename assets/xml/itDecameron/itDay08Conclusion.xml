@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="conclusion" who="author" id="d08conclu">
           <head>Conclusione</head>
           
@@ -74,4 +75,4 @@
           <name type="person" persref="emilia">reina</name>, poi che vide la canzon di 
           <name type="person" persref="panfilo">Panfilo</name> finita e le giovani donne e gli uomini volentier riposarsi, comand&#242; che ciascuno se n'andasse a dormire.</p>
         </div2>
-      
+      </TEI>

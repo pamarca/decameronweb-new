@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="filomena" id="nov0209">
           <head>Novella Nona</head>
           <argument>
@@ -300,4 +301,4 @@
           <seg type="proverb">rimase lo 'ngannatore a pi&#232; dello 'ngannato.</seg></p>
         </div2>
         
-        
+        </TEI>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="dioneo" id="nov0104">
           <head>Novella Quarta</head>
           <argument>
@@ -89,4 +90,4 @@
           <name type="person" persref="monaco-0104">monaco</name> quello che egli, s&#237; come lui, aveva meritato. E perdonatogli e impostogli di ci&#242; che veduto aveva silenzio, onestamente misero la 
           <name type="person" persref="giovinetta-0104">giovanetta</name> di fuori e poi pi&#250; volte si dee credere ve la facesser tornare.</p>
         </div2>
-        
+        </TEI>

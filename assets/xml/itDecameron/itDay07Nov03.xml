@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="elissa" id="nov0703">
           <head>Novella Terza</head>
           <argument>
@@ -192,4 +193,4 @@
           <name type="place" placeref="milano">Melano</name>.</p>
         </div2>
         
-        
+        </TEI>

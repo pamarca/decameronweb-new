@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="filostrato" id="nov0504">
           <head>Novella Quarta</head>
           <argument>
@@ -196,4 +197,4 @@
           <name type="person" persref="lizio">Lizio</name>, pochi d&#237; appresso, s&#237; come si convenia, in presenzia degli amici e de' parenti da capo spos&#242; la giovane, e con gran festa se ne la men&#242; a casa, e fece onorevoli e belle nozze, e poi con lei lungamente in pace e in consolazione uccell&#242; agli usignuoli e di d&#237; e di notte quanto gli piacque.</p>
         </div2>
         
-        
+        </TEI>

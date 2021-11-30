@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="dioneo" id="nov0310">
           <head>Novella Decima</head>
           <argument>
@@ -138,4 +139,4 @@
           <seg type="proverb">il pi&#250; piacevol servigio che a Dio si facesse era il rimettere il diavolo in inferno</seg>: il qual motto passato di qua da mare ancora dura. E per ci&#242; voi, giovani donne, alle quali la grazia di Dio bisogna, apparate a rimettere il diavolo in inferno, per ci&#242; che egli &#232; forte a grado a Dio e piacer delle parti, e molto bene ne pu&#242; nascere e seguire.</p>
         </div2>
         
-        
+        </TEI>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="filostrato" id="nov0702">
           <head>Novella Seconda</head>
           <argument>
@@ -129,4 +130,4 @@
           <name type="person" persref="giannello">Giannello</name>, guardatovi dentro, disse che stava bene e che egli era contento; e datigli sette gigliati, a casa sel fece portare.</p>
         </div2>
         
-        
+        </TEI>

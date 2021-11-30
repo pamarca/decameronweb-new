@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="filomena" id="nov0103">
           <head>Novella Terza</head>
           <argument>
@@ -50,4 +51,4 @@
           <name type="person" persref="saladino">Saladino</name> poi interamente il sodisfece; e oltre a ci&#242; gli don&#242; grandissimi doni e sempre per suo amico l'ebbe e in grande e onorevole stato appresso di s&#233; il mantenne.</p>
         </div2>
         
-        
+        </TEI>

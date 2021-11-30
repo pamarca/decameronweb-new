@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="elissa" id="nov0902">
           <head>Novella Seconda</head>
           <argument>
@@ -61,4 +62,4 @@
           <milestone id="p09020019" />Il qual poi molte volte, in dispetto di quelle che di lei avevano invidia, vi f&#233; venire; l'altre che senza amante erano, come seppero il meglio, segretamente procacciaron lor ventura.</p>
         </div2>
         
-        
+        </TEI>

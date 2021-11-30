@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="conclusion" who="author" id="d01conclu">
           <head>Conclusione</head>
           <p>
@@ -92,4 +93,4 @@
           <milestone id="p01970022" />Questa ballatetta finita, alla qual tutti lietamente avean risposto, ancor che alcuni molto alle parole di quella pensar facesse, dopo alcune altre carolette fatte, essendo gi&#224; una particella della brieve notte passata, piacque alla 
           <name type="person" persref="filomena">reina</name> di dar fine alla prima giornata. E fatti torchi accender, comand&#242; che ciascuno infino alla seguente mattina s'andasse a riposare: per che ciascuno alla sua camera tornatosi cos&#237; fece.</p>
         </div2>
-      
+      </TEI>

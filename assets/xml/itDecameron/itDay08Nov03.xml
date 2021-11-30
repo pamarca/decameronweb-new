@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="elissa" id="nov0803">
           <head>Novella Terza</head>
           <argument>
@@ -269,4 +270,4 @@
           <milestone id="p08030065" />E dopo molte parole, non senza gran fatica la dolente donna riconciliata con essolui, e lasciandol malinconoso colla casa piena di pietre, si partirono.</p>
         </div2>
         
-        
+        </TEI>

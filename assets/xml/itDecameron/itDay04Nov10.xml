@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="dioneo" id="nov0410">
           <head>Novella Decima</head>
           <argument>
@@ -214,4 +215,4 @@
           <name type="person" persref="fante-0410">fante</name>, che dare gli aveva voluto delle coltella, pi&#250; volte rise ed ebbe festa, il loro amore e il loro sollazzo sempre continuando di bene in meglio: il che vorrei che cos&#237; a me avvenisse ma non d'esser messo nell'arca.</p>
         </div2>
         
-        
+        </TEI>

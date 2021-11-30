@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="elissa" id="nov0404">
           <head>Novella Quarta</head>
           <argument>
@@ -118,4 +119,4 @@
           <milestone id="p04040027" />Adunque cos&#237; miseramente in pochi giorni i due amanti, senza alcun frutto del loro amore aver sentito, di mala morte morirono, com'io v'ho detto.</p>
         </div2>
         
-        
+        </TEI>

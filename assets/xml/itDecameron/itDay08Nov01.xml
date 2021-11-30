@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="neifile" id="nov0801">
           <head>Novella Prima</head>
           <argument who="author">
@@ -71,4 +72,4 @@
           <name type="person" persref="gulfardo">Gulfardo</name> partitosi, e la donna rimasa scornata diede al marito il disonesto prezzo della sua cattivit&#224;; e cos&#237; il sagace amante senza costo god&#233; della sua avara donna.</p>
         </div2>
         
-        
+        </TEI>

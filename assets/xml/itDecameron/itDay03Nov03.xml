@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="filomena" id="nov0303">
           <head>Novella Terza</head>
           <argument>
@@ -175,4 +176,4 @@
           <seg type="commentary">alle quali io priego Idio per la sua santa misericordia che tosto conduca me e tutte l'anime cristiane che voglia n'hanno.</seg></p>
         </div2>
         
-        
+        </TEI>

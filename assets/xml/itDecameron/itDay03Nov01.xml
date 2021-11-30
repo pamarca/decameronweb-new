@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="filostrato" id="nov0301">
           <head>Novella Prima</head>
           <argument>
@@ -148,4 +149,4 @@
           <name type="person" persref="masettolamporecchio">Masetto</name> vecchio, padre e ricco, senza aver fatica di nutricare i figliuoli o spesa di quegli, per lo suo avvedimento avendo saputo la sua giovanezza bene adoperare, donde con una scure in collo partito s'era se ne torn&#242;, affermando che cos&#237; trattava Cristo chi gli poneva le corna sopra 'l cappello.</p>
         </div2>
         
-        
+        </TEI>

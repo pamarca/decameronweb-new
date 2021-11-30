@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="conclusion" who="author" id="d02conclu">
           <head>Conclusione</head>
           <p>
@@ -74,4 +75,4 @@
           <milestone id="p02970016" />Appresso questa, pi&#250; altre se ne cantarono e pi&#250; danze si fecero e sonarono diversi suoni; ma estimando la 
           <name type="person" persref="neifile">reina</name> tempo essere di doversi andare a posare, co' torchi avanti ciascuno alla sua camera se n'and&#242;. E li due d&#237; seguenti a quelle cose vacando che prima la reina avea ragionate, con disiderio aspettarono la domenica.</p>
         </div2>
-      
+      </TEI>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div1 type="Day" ruler="lauretta" id="day08">
         <head>Ottava Giornata</head>
         <argument>
@@ -2315,4 +2316,4 @@
         </div2>
       </div1>
       
-      
+      </TEI>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="neifile" id="nov0102">
           <head>Novella Seconda</head>
           <argument>
@@ -92,4 +93,4 @@
           <name type="person" persref="abraam">Giovanni</name>, e appresso a gran valenti uomini il fece compiutamente ammaestrare nella nostra fede, la quale egli prestamente apprese: e fu poi buono e valente uomo e di santa vita.</p>
         </div2>
         
-        
+        </TEI>

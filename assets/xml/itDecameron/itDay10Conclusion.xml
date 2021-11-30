@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="conclusion" id="d10conclu">
           <head>Conclusione</head>
           <p>
@@ -90,4 +91,4 @@
           <name type="place" placeref="firenze">Firenze</name> si ritornarono; e i tre giovani, lasciate le sette donne in 
           <name type="place" placeref="smnovella">Santa Maria Novella</name>, donde con loro partiti s'erano, da esse accommiatatisi, a loro altri piaceri attesero; ed esse, quando tempo lor parve, se ne tornarono alle loro case.</p>
         </div2>
-      
+      </TEI>

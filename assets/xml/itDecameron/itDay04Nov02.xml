@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="pampinea" id="nov0402">
           <head>Novella Seconda</head>
           <argument>
@@ -202,4 +203,4 @@
           <milestone id="p04020058" />Cos&#237; costui, tenuto buono e male adoperando non essendo creduto, ard&#237; di farsi l'agnolo Gabriello, e di questo in uom salvatico convertito, a lungo andare, come meritato avea, vituperato senza pro pianse i peccati commessi. Cos&#237; piaccia a Dio che a tutti gli altri possa intervenire.</p>
         </div2>
         
-        
+        </TEI>

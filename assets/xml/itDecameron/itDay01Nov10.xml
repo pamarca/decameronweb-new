@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="pampinea" id="nov0110">
           <head>Novella Decima</head>
           <argument>
@@ -54,4 +55,4 @@
           <name type="person" persref="malgheridaghisolieri">donna</name>: e, ridendo e con festa da lei preso commiato, si part&#237;. Cos&#237; la donna, non guardando cui motteggiasse, credendo vincer fu vinta: di che voi, se savie sarete, ottimamente vi guarderete.</p>
         </div2>
         
-        
+        </TEI>

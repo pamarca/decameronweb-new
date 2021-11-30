@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="emilia" id="nov0701">
           <head>Novella Prima</head>
           <argument>
@@ -148,4 +149,4 @@
           <seg type="commentary">E per ci&#242;, donne mie care, nella vostra elezione sta di torre qual pi&#250; vi piace delle due, o volete amendune: elle hanno grandissima virt&#250; a cos&#237; fatte cose, come per esperienzia avete udito: apparatele, e potravvi ancor giovare.</seg></p>
         </div2>
         
-        
+        </TEI>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="dioneo" id="nov0510">
           <head>Novella Decima</head>
           <argument>
@@ -179,4 +180,4 @@
           <milestone id="p05100064" />Per che cos&#237; vi vo' dire, donne mie care, che chi te la fa, fagliele; e se tu non puoi, tienloti a mente fin che tu possa, acci&#242; che quale asin d&#224; in parete tal riceva.</p>
         </div2>
         
-        
+        </TEI>

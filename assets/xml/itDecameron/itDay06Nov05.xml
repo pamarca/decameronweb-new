@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="panfilo" id="nov0605">
           <head>Novella Quinta</head>
           <argument>
@@ -58,4 +59,4 @@
           <name type="person" persref="forese">messer Forese</name> udendo il suo error riconobbe, e videsi di tal moneta pagato, quali erano state le derrate vendute.</p>
         </div2>
         
-        
+        </TEI>

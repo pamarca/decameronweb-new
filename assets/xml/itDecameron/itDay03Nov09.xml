@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="neifile" id="nov0309">
           <head>Novella Nona</head>
           <argument>
@@ -241,4 +242,4 @@
           <milestone id="p03090061" />E fattala di vestimenti a lei convenevoli rivestire, con grandissimo piacere di quanti ve n'erano e di tutti gli altri suoi vassalli che ci&#242; sentirono, fece non solamente tutto quel d&#237; ma pi&#250; altri grandissima festa; e da quel d&#237; innanzi, lei sempre come sua sposa e moglie onorando, l'am&#242; e sommamente ebbe cara.</p>
         </div2>
         
-        
+        </TEI>

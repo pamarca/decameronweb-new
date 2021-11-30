@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="lauretta" id="nov0308">
           <head>Novella Ottava</head>
           <argument>
@@ -328,4 +329,4 @@
           <name type="person" persref="abate-0308">abate</name> si ritrovava, il quale bene e diligentemente ne' suoi maggior bisogni servita l'avea.</p>
         </div2>
         
-        
+        </TEI>

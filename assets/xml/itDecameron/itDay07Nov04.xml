@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="lauretta" id="nov0704">
           <head>Novella Quarta</head>
           <argument>
@@ -123,4 +124,4 @@
           <milestone id="p07040031" />E cos&#237;, a modo del villan matto, dopo danno f&#233; patto. E viva amore, e muoia soldo, e tutta la brigata.</p>
         </div2>
         
-        
+        </TEI>

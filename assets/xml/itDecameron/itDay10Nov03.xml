@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="filostrato" id="nov1003">
           <head>Novella Terza</head>
           <argument>
@@ -184,4 +185,4 @@
           <name type="person" persref="natan">Natan</name> assai ben fatto conoscere che mai di liberalit&#224; nol potrebbe avanzare, il licenzi&#242;.</p>
         </div2>
         
-        
+        </TEI>

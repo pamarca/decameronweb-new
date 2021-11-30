@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="filostrato" id="nov0805">
           <head>Novella Quinta</head>
           <argument>
@@ -89,4 +90,4 @@
           <milestone id="p08050020" />Il podest&#224; d'altra parte, sentitolo, fece un grande schiamazzio: poi per suoi amici mostratogli che questo non gli era fatto se non per mostrargli che i fiorentini conoscevano che, dove egli doveva aver menati giudici, egli aveva menati becconi per averne miglior mercato, per lo miglior si tacque, n&#233; pi&#250; avanti and&#242; la cosa per quella volta.</p>
         </div2>
         
-        
+        </TEI>

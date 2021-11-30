@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="emilia" id="nov0502">
           <head>Novella Seconda</head>
           <argument>
@@ -169,4 +170,4 @@
           <name type="person" persref="martuccio">Martuccio</name> la spos&#242; e grandi e belle nozze fece e poi appresso con lei insieme in pace e in riposo lungamente goderono del loro amore.</p>
         </div2>
         
-        
+        </TEI>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="introduction" who="author" id="d02intro">
           <head>Introduzione</head>
           <p>
@@ -12,4 +13,4 @@
           <name type="person" persref="neifile">Neifile</name> comand&#242; che alle future novelle con una desse principio. La quale, senza alcuna scusa fare, cos&#237; lieta cominci&#242; a parlare.</p>
         </div2>
         
-        
+        </TEI>

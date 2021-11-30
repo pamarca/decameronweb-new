@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="filomena" id="nov0508">
           <head>Novella Ottava</head>
           <argument>
@@ -122,4 +123,4 @@
           <name type="person" persref="nastagio">Nastagio</name> sposatala e fatte le sue nozze, con lei pi&#250; tempo lietamente visse. E non fu questa paura cagione solamente di questo bene, anzi s&#237; tutte le ravignane donne paurose ne divennero, che sempre poi troppo pi&#250; arrendevoli a' piaceri degli uomini furono che prima state non erano.</p>
         </div2>
         
-        
+        </TEI>

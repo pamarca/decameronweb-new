@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="fiammetta" id="nov0509">
           <head>Novella Nona</head>
           <argument>
@@ -122,4 +123,4 @@
           <name type="person" persref="federigoalberighi">Federigo</name> da molto, quantunque povero fosse, s&#237; come ella volle, lei con tutte le sue ricchezze gli donarono. Il quale cos&#237; fatta donna e cui egli cotanto amata avea per moglie vedendosi, e oltre a ci&#242; ricchissimo, in letizia con lei, miglior massaio fatto, termin&#242; gli anni suoi.</p>
         </div2>
         
-        
+        </TEI>

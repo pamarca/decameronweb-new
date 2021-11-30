@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="introduction" who="author" id="d07intro">
           <head>Introduzione</head>
           <p>
@@ -21,4 +22,4 @@
           <name type="person" persref="emilia">Emilia</name> che cominciasse. La qual lietamente cos&#237; cominci&#242; a dir sorridendo.</p>
         </div2>
         
-        
+        </TEI>

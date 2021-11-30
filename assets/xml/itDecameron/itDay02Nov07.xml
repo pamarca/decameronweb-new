@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <div2 type="novella" who="panfilo" id="nov0207">
           <head>Novella Settima</head>
           <argument>
@@ -467,4 +468,4 @@
           <q type="proverb" direct="unspecified">Bocca basciata non perde ventura, anzi rinnuova come fa la luna</q>.</p>
         </div2>
         
-        
+        </TEI>

@@ -18,26 +18,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-#plants sidebar
-edition:
-  - title: Edition
-    children:
-      - title: Libro Azzurro
-        url:  /edition/index/
-      - title: Introduction
-        url:  /edition/plant000/
-      - title: 1 CIRUELAS MONTESES
-        url:  /edition/plant001/
-      - title: 2 INCOGNITA
-        url:  /edition/plant002/
-      - title: 3 LAURO SILVESTRE
-        url:  /edition/plant003/
-      - title: 4 ALBERO INCOGNITO
-        url:  /edition/plant004/
-      - title: 5 ATRAGENE
-        url:  /edition/plant005/
-
-
 #itDecameron sidebar
 
 itDecameron:

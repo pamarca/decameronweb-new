@@ -6,10 +6,6 @@ main:
     url: /itDecameron/
   - title: "English"
     url: /enDecameron/
-  - title: "Edition"
-    url: /edition/
-  - title: "Apothecaries"
-    url: /apothecaries/
   - title: "About"
     url: /about/
 

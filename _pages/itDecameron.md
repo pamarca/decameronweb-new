@@ -1,6 +1,6 @@
 ---
 title: Italian Text
-layout: collection
+layout: single
 permalink: /itDecameron/
 collection: itDecameron
 classes: wide

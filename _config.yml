@@ -343,3 +343,14 @@ defaults:
       share: false
       sidebar:
         nav: "itDecameron"
+
+  # _enDecameron
+  - scope:
+      path: "_enDecameron"
+      type: enDecameron
+    values:
+      layout: single-xml
+      author_profile: false
+      share: false
+      sidebar:
+        nav: "enDecameron"

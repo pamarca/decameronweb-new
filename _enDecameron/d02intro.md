@@ -1,7 +1,20 @@
 ---
 title: "Introduction"
-permalink: "/enDecameron/d02intro/"
 day: "d02intro"
-plant-xml: "/assets/xml/enDecameron/d02intro.xml"
 layout: "single-xml"
 ---
+<div id="d02intro" type="introduction" who="author"><head>Introduction</head><p><milestone id="p02980002"/><!--(sc)-->The<!--(/sc)--> sun was already trailing the new day in his
+      wake of light,
+ and the birds, blithely chanting their lays among the green boughs,
+ carried the tidings to the ear, when with one accord all the ladies and
+ the three young men arose, and entered the gardens, where for no
+ little time they found their delight in sauntering about the dewy
+ meads, straying hither and thither, culling flowers, and weaving them
+      into fair garlands. <milestone id="p02980003"/>The day passed like its predecessor;
+      they breakfasted
+ in the shade, and danced and slept until noon, when they rose,
+ and, at their queen's behest, assembled in the cool meadow, and sat
+      them down in a circle about her. <milestone id="p02980004"/>Fair and very debonair she shewed,
+ crowned with her laurel wreath, as for a brief space she scanned the
+ company, and then bade Neifile shew others the way with a story.
+ Neifile made no excuse, and gaily thus began.</p></div>

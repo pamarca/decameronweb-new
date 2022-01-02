@@ -7,14 +7,18 @@ import helpers
 ## load up xml-objects --------------------------
 english_xml_path = os.path.abspath( '../xml/source_files/engDecameron.xml' )
 italian_xml_path = os.path.abspath( '../xml/source_files/itDecameron.xml' )
-english_soup = helpers.load_xml( english_xml_path )
-assert type(english_soup) == bs4.BeautifulSoup
-italian_soup = helpers.load_xml( italian_xml_path )
-assert type(italian_soup) == bs4.BeautifulSoup
+english_soup = helpers.load_xml(english_xml_path)
+italian_soup = helpers.load_xml(italian_xml_path)
 
+#changing div2 into 'div'
+divs_eng = english_soup.find_all('div2')
+for div_eng in divs_eng:
+    div_eng.name = 'div'
+divs_it = italian_soup.find_all('div2')
+for div_it in divs_it:
+    div_it.name = 'div'
 
-
-## find all <div2> elements & store dct info for both texts----
+#create dict
 def add_dict_to_div2(div2_variable):
     div2_data_info = []
     for div2_obj in div2_variable:
@@ -38,47 +42,31 @@ def add_dict_to_div2(div2_variable):
         div2_data_info.append(dct)
     return div2_data_info
 
-# write separate xml files for each div2
-def separate_novella(div2_results, div2_data_info, outpath):
-    for cc, result in enumerate(div2_results):
-        filename_xml = os.path.abspath('../xml/{}/'.format(outpath) + div2_data_info[cc]['id'] + '.xml')
-        with open(filename_xml, "w") as file:
-            file.write('<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<TEI xmlns="http://www.tei-c.org/ns/1.0>\n')
-            file.write(str(result))
-            file.write('\n</TEI>')
-    return
-
-# write separate md files for each div2
-def create_md_files(div2_results, div2_data_info, outpath, xmlpath):
+#create md files with names from id containing md tags + xml text
+def create_md_files(div2_results, div2_data_info, outpath):
     for cc, result in enumerate(div2_results):
         filename_md = os.path.abspath('../../{}/'.format(outpath) + div2_data_info[cc]['id'] + '.md')
-        with open(filename_md, "w") as file2:
+        with open(filename_md, "w", encoding='utf-8') as file2:
             file2.write('---\n')
-            file2.write('title: "' + div2_data_info[cc]['head_text'] + '"\n')
-            file2.write('permalink: "/' + xmlpath + '/' + div2_data_info[cc]['id'] + '/"\n')
+            file2.write('title: "' + div2_data_info[cc]['head_text'] +'"\n')
             file2.write('day: "' + div2_data_info[cc]['id'] + '"\n')
-            file2.write('plant-xml: "/assets/xml/' + xmlpath + '/' + div2_data_info[cc]['id'] + '.xml"\n')
             file2.write('layout: "single-xml"\n')
             file2.write('---\n')
+            file2.write(str(result))
     return
 
-# parse div2
-div2_results_eng = english_soup.select( 'div2' )
-div2_results_it = italian_soup.select('div2')
+div2_results_eng = english_soup.select('div')
+div2_results_it = italian_soup.select('div')
 
-# parse div1
-#div1_results_eng = english_soup.select('div1')
-#div1_results_it = italian_soup.select('div1')
-
-# give results for div2
 div2_data_info_eng = add_dict_to_div2(div2_results_eng)
 div2_data_info_it = add_dict_to_div2(div2_results_it)
 
-# create xml files
-separate_novella(div2_results_eng, div2_data_info_eng, 'enDecameron')
-separate_novella(div2_results_it, div2_data_info_it, 'itDecameron')
+create_md_files(div2_results_eng, div2_data_info_eng, '_enDecameron')
+create_md_files(div2_results_it, div2_data_info_it, '_itDecameron')
 
-# create md files
-create_md_files(div2_results_eng, div2_data_info_eng, '_enDecameron', 'enDecameron')
-create_md_files(div2_results_it, div2_data_info_it, '_itDecameron', 'itDecameron')
-
+# with open(english_xml_path, 'r') as md_file:
+#     content = md_file.read()
+#
+#     soup = BeautifulSoup(content, 'lxml')
+#     div2_tags = soup.div2
+#     div2_tags.name = 'div'

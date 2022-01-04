@@ -1,0 +1,598 @@
+---
+title: "Novella Seconda"
+day: "itnov0402"
+layout: "single"
+---
+<html>
+ <head>
+ </head>
+ <body>
+  <div id="nov0402" type="novella" who="pampinea">
+   <head>
+    Novella Seconda
+   </head>
+   <argument>
+    <p>
+     <milestone id="p04020001"/>
+     <name persref="berto" type="person">
+      Frate Alberto
+     </name>
+     d&agrave; a vedere ad una donna che l'Agnolo Gabriello &egrave; di lei innamorato, in forma del quale pi&uacute; volte si giace con lei; poi, per paura de' parenti di lei della casa gittatosi, in casa d'un povero uomo ricovera, il quale in forma d'uom salvatico il d&iacute; seguente nella piazza il mena: dove, riconosciuto, e da' suoi frati preso &egrave; incarcerato.
+    </p>
+   </argument>
+   <div3 type="commentary" who="author">
+    <p>
+     <milestone id="p04020002"/>
+     Aveva la novella dalla
+     <name persref="fiammetta" type="person">
+      Fiammetta
+     </name>
+     raccontata le lagrime pi&uacute; volte tirate insino in su gli occhi alle sue compagne; ma quella gi&agrave; essendo compiuta, il re con rigido viso disse:
+     <q direct="unspecified" who="filostrato">
+      Poco prezzo mi parrebbe la vita mia a dover dare per la met&agrave; diletto di quello che con
+      <name persref="guiscardo" type="person">
+       Guiscardo
+      </name>
+      ebbe
+      <name persref="ghismonda" type="person">
+       Ghismonda
+      </name>
+      , n&eacute; se ne dee di voi maravigliare alcuna, con ci&ograve; sia cosa che io, vivendo, ogni ora mille morti sento, n&eacute; per tutte quelle una sola particella di diletto m'&egrave; data.
+      <milestone id="p04020003"/>
+      Ma, lasciando al presente li miei fatti ne' loro termini stare, voglio che ne' fieri ragionamenti, e a' miei accidenti in parte simili,
+      <name persref="pampinea" type="person">
+       Pampinea
+      </name>
+      ragionando seguisca; la quale se, come
+      <name persref="fiammetta" type="person">
+       Fiammetta
+      </name>
+      ha cominciato, andr&agrave; appresso, senza dubbio alcuna rugiada cadere sopra il mio fuoco comincer&ograve; a sentire
+     </q>
+     .
+     <milestone id="p04020004"/>
+     <name persref="pampinea" type="person">
+      Pampinea
+     </name>
+     , a s&eacute; sentendo il comandamento venuto, pi&uacute; per la sua affezione cognobbe l'animo delle compagne che quello del re per le sue parole: e per ci&ograve;, pi&uacute; disposta a dovere alquanto recrear loro che a dovere, fuori che del comandamento solo, il re contentare, a dire una novella, senza uscir del proposto, da ridere si dispose, e cominci&ograve;.
+    </p>
+   </div3>
+   <div3 type="commentary" who="pampinea">
+    <p>
+     <milestone id="p04020005"/>
+     Usano i volgari un cos&iacute; fatto proverbio:
+     <seg type="proverb">
+      'Chi &egrave; reo e buono &egrave; tenuto, pu&ograve; fare il male e non &egrave; creduto'
+     </seg>
+     ; il quale ampia materia a ci&ograve; che m'&egrave; stato proposto mi presta di favellare, e ancora a dimostrare quanta e quale sia la ipocresia de' religiosi, li quali, co' panni larghi e lunghi e co' visi artificialmente pallidi e con le voci umili e mansuete nel domandar l'altrui, e altissime e rubeste in mordere negli altri li loro medesimi vizii e nel mostrar s&eacute; per torre e altri per lor donare venire a salvazione;
+     <milestone id="p04020006"/>
+     e oltre a ci&ograve;, non come uomini che il Paradiso abbiano a procacciare come noi, ma quasi come possessori e signori di quello danti a ciaschedun che muore, secondo la quantit&agrave; de' danari loro lasciata da lui, pi&uacute; e meno eccellente luogo, con questo prima s&eacute; medesimo, se cos&iacute; credono, e poscia coloro che in ci&ograve; alle loro parole dan fede, sforzandosi d'ingannare.
+     <milestone id="p04020007"/>
+     De' quali, se quantosi convenisse fosse licito a me di mostrare, tosto dichiarerei a molti semplici quello che nelle lor cappe larghissime tengan nascoso. Ma ora fosse piacer di Dio che cos&iacute; delle loro bugie a tutti intervenisse, come a un frate minore, non miga giovane, ma di quelli che de' maggior cassesi era tenuto a
+     <name placeref="venezia" type="place">
+      Vinegia
+     </name>
+     : del quale sommamente mi piace di raccontare, per alquanto gli animi vostri pieni di compassione per la morte di
+     <name persref="ghismonda" type="person">
+      Ghismunda
+     </name>
+     forse con risa e con piacer rilevare.
+    </p>
+   </div3>
+   <p>
+    <milestone id="p04020008"/>
+    Fu adunque, valorose donne, in
+    <name placeref="imola" type="place">
+     Imola
+    </name>
+    uno uomo di scelerata vita e di corrotta, il qual fu chiamato
+    <name persref="berto" type="person">
+     Berto della Massa
+    </name>
+    ; le cui vituperose opere molto dagl'imolesi conosciute a tanto il recarono, che, non che la bugia, ma la verit&agrave; non era in
+    <name placeref="imola" type="place">
+     Imola
+    </name>
+    chi gli credesse: per che, accorgendosi quivi pi&uacute; le sue gherminelle non aver luogo, come disperato, a
+    <name placeref="venezia" type="place">
+     Vinegia
+    </name>
+    , d'ogni bruttura ricevitrice, si trasmut&ograve; e quivi pens&ograve; di trovare altra maniera al suo malvagio adoperare che fatto non aveva in altra parte.
+    <milestone id="p04020009"/>
+    E, quasi da coscienzia rimorso delle malvage opere nel preterito fatte da lui, da somma umilit&agrave; soprapreso mostrandosi, e oltre a ogni altro uomo divenuto catolico, and&ograve; e s&iacute; si fece frate minore, e fecesi chiamare
+    <name persref="berto" type="person">
+     frate Alberto da Imola
+    </name>
+    : e in tale abito cominci&ograve; a far per sembianti una aspra vita e a commendar molto la penitenzia e l'astinenzia, n&eacute; mai carne mangiava n&eacute; bevea vino, quando no' n'avea che gli piacesse.
+    <milestone id="p04020010"/>
+    N&eacute; se ne fu appena avveduto alcuno, che di ladrone, di ruffiano, di falsario, d'omicida, subitamente fu un gran predicator divenuto, senza aver per ci&ograve; i predetti vizii abbandonati, quando nascosamente gli avesse potuti mettere in opera; e oltre a ci&ograve; fattosi prete, sempre all'altare, quando celebrava, se da molti veduto era, piagneva la passione del Salvatore, s&iacute; come colui al quale poco costavan le lagrime quando le volea.
+    <milestone id="p04020011"/>
+    E in brieve, tra con le sue prediche e le sue lagrime, egli seppe in s&iacute; fatta guisa li viniziani adescare, che egli quasi d'ogni testamento che vi si faceva era fedel commessario e dipositario, e guardatore di denari di molti, confessoro e consigliatore quasi della maggior parte degli uomini e delle donne: e cos&iacute; faccendo, di lupo era divenuto pastore e era la sua fama di santit&agrave; in quelle parti troppo maggiore che mai non fu di san Francesco a Ascesi.
+   </p>
+   <p>
+    <milestone id="p04020012"/>
+    Ora avvenne che una giovane donna bamba e sciocca, che chiamata fu madonna
+    <name persref="lisettaquirino" type="person">
+     Lisetta da ca' Quirino
+    </name>
+    , moglie d'un gran mercatante che era andato con le galee in
+    <name placeref="lefiandre" type="place">
+     Fiandra
+    </name>
+    , s'and&ograve; con altre donne a confessar da questo santo frate; la quale essendogli a' piedi, s&iacute; come colei che viniziana era, e essi son tutti bergoli, avendo parte detta de' fatti suoi, fu da
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    addomandata se alcuno amadore avesse.
+   </p>
+   <p>
+    <milestone id="p04020013"/>
+    Al quale ella con un mal viso rispose:
+    <q direct="unspecified" who="lisettaquirino">
+     Deh, messere lo frate, non avete voi occhi in capo? paionvi le mie bellezze fatte come quelle di queste altre? Troppi n'avrei degli amadori, se io ne volessi; ma non son le mie bellezze da lasciare amare da tale n&eacute; da quale. Quante ce ne vedete voi, le cui bellezze sien fatte come le mie? ch&eacute; sarei bella nel paradiso?
+    </q>
+    E oltre a ci&ograve;, disse tante cose di questa sua bellezza, che fu un fastidio a udire.
+   </p>
+   <p>
+    <milestone id="p04020014"/>
+    <name persref="berto" type="person">
+     Frate Alberto
+    </name>
+    conobbe incontanente che costei sentia dello scemo, e parendogli terreno da' ferri suoi, di lei subitamente e oltre modo s'innamor&ograve;. Ma, riserbandosi in pi&uacute; comodo tempo le lusinghe, pur per mostrarsi santo, quella volta cominci&ograve; a volerla riprendere e a dirle che questa era vanagloria, e altre sue novelle; per che la donna gli disse che egli era una bestia e che egli non conosceva che si fosse pi&uacute; una bellezza che un'altra. Per che
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    , non volendola troppo turbare, fattale la confessione, la lasci&ograve; andar via con l'altre.
+   </p>
+   <p>
+    <milestone id="p04020015"/>
+    E stato alquanti d&iacute;, preso un suo fido compagno, n'and&ograve; a casa
+    <name persref="lisettaquirino" type="person">
+     madonna Lisetta
+    </name>
+    : e, trattosi da una parte in una sala con lei e non potendo da altri esser veduto, le si gitt&ograve; davanti inginocchione e disse:
+    <q direct="unspecified" who="berto">
+     Madonna, io vi priego per Dio che voi mi perdoniate di ci&ograve; che io domenica, ragionandomi voi della vostra bellezza, vi dissi, per ci&ograve; che s&iacute; fieramente la notte seguente gastigato ne fui, che mai poscia da giacere non mi son potuto levar se non oggi
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020016"/>
+    Disse allora donna mestola:
+    <q direct="unspecified" who="lisettaquirino">
+     E chi ve ne gastig&ograve; cos&iacute;?
+    </q>
+   </p>
+   <p>
+    <milestone id="p04020017"/>
+    Disse
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    :
+    <q direct="unspecified" who="berto">
+     Io il vi dir&ograve;. Standomi io la notte in orazione, s&iacute; come io soglio star sempre, io vidi subitamente nella mia cella un grande splendore, n&eacute; prima mi pote' volgere per veder che ci&ograve; fosse, che io mi vidi sopra un giovane bellissimo con un grosso bastone in mano, il quale, presomi per la cappa e tiratomisi a' pi&egrave;, tante mi di&egrave; che tutto mi ruppe.
+     <milestone id="p04020018"/>
+     Il quale io appresso domandai perch&eacute; ci&ograve; fatto avesse, ed egli rispose:
+     <q direct="unspecified" type="othervoice">
+      Per ci&ograve; che tu presummesti oggi di riprendere le celestiali bellezze di
+      <name persref="lisettaquirino" type="person">
+       madonna Lisetta
+      </name>
+      , la quale io amo, da Dio in fuori, sopra ogni altra cosa
+     </q>
+     .
+     <milestone id="p04020019"/>
+     E io allora domandai:
+     <q direct="unspecified" who="berto">
+      Chi siete voi?
+     </q>
+     A cui egli rispose che era l'agnol Gabriello.
+     <q direct="unspecified" who="berto">
+      O signor mio
+     </q>
+     , diss'io
+     <q direct="unspecified">
+      io vi priego che voi mi perdoniate
+     </q>
+     . E egli allora disse:
+     <q direct="unspecified" type="othervoice">
+      E io ti perdono per tal convenente, che tu a lei vadi come tu prima potrai, e facciti perdonare: e dove ella non ti perdoni, io ci torner&ograve; e darottene tante, che io ti far&ograve; tristo per tutto il tempo che tu ci viverai.
+     </q>
+     Quello che egli poi mi dicesse, io non ve l'oso dire, se prima non mi perdonate
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020020"/>
+    Donna zucca al vento, la quale era anzi che no un poco dolce di sale, godeva tutta udendo queste parole e verissime tutte le credea, e dopo alquanto disse:
+    <q direct="unspecified" who="lisettaquirino">
+     Io vi diceva bene,
+     <name persref="berto" type="person">
+      frate Alberto
+     </name>
+     , che le mie bellezze eran celestiali; ma, se Dio m'aiuti, di voi m'incresce, e in fino a ora, acci&ograve; che pi&uacute; non vi sia fatto male, io vi perdono, s&iacute; veramente che voi mi diciate ci&ograve; che l'angelo poi vi disse
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020021"/>
+    <name persref="berto" type="person">
+     Frate Alberto
+    </name>
+    disse:
+    <q direct="unspecified" who="lisettaquirino">
+     Madonna, poi che perdonato m'avete, io il vi dir&ograve; volentieri; ma una cosa vi ricordo, che cosa che io vi dica voi vi guardiate di non dire a alcuna persona che sia nel mondo, se voi non volete guastare i fatti vostri, che siete la pi&uacute; avventurata donna che oggi sia al mondo.
+     <milestone id="p04020022"/>
+     Questo agnol Gabriello mi disse che io vi dicessi che voi gli piacete tanto, che pi&uacute; volte a starsi con voi venuto la notte sarebbe, se non fosse per non ispaventarvi.
+     <milestone id="p04020023"/>
+     Ora vi manda egli dicendo per me che a voi vuol venire una notte e dimorarsi una pezza con voi; e per ci&ograve; che egli &egrave; agnolo e venendo in forma d'agnolo voi nol potreste toccare, dice che per diletto di voi vuol venire in forma d'uomo, e per ci&ograve; dice che voi gli mandiate a dire quando volete che egli venga, e in forma di cui, e egli ci verr&agrave;: di che voi, pi&uacute; che altra donna che viva, tener vi potete beata
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020024"/>
+    Madonna Baderla allora disse che molto le piaceva se l'agnolo Gabriello l'amava; per ci&ograve; che ella amava ben lui, n&eacute; era mai che una candela d'un mattapan non gli accendesse davanti dove dipinto il vedeva; e che, qualora egli volesse a lei venire, egli fosse il ben venuto, ch&eacute; egli la troverebbe tutta sola nella sua camera:
+    <milestone id="p04020025"/>
+    ma con questo patto, che egli non dovesse lasciar lei per la Vergine Maria, che l'era detto che egli le voleva molto bene, e anche si pareva, ch&eacute; in ogni luogo che ella il vedeva, le stava ginocchione innanzi; e oltre a questo, che a lui stesse di venire in qual forma volesse, pure che ella non avesse paura.
+   </p>
+   <p>
+    <milestone id="p04020026"/>
+    Allora disse
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    :
+    <q direct="unspecified" who="berto">
+     Madonna, voi parlate saviamente; e io ordiner&ograve; ben con lui quello che voi mi dite. Ma voi mi potete fare una gran grazia, e a voi non coster&agrave; niente; e la grazia &egrave; questa, che voi vogliate che egli venga con questo mie corpo. E udite in che voi mi farete grazia: che egli mi trarr&agrave; l'anima mia di corpo e metteralla in Paradiso, e egli entrer&agrave; in me, e quanto egli star&agrave; con voi, tanto si star&agrave; l'anima mia in Paradiso
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020027"/>
+    Disse allora donna pocofila:
+    <q direct="unspecified" who="lisettaquirino">
+     Ben mi piace; io voglio che, in luogo delle busse le quali egli vi diede a mie cagioni, che voi abbiate questa consolazione
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020028"/>
+    Allora disse
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    :
+    <q direct="unspecified" who="berto">
+     Or farete che questa notte egli truovi la porta della vostra casa per modo che egli possa entrarci, per ci&ograve; che vegnendo in corpo umano, come egli verr&agrave;, non potrebbe entrare se non per l'uscio
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020029"/>
+    La donna rispose che fatto sarebbe.
+    <name persref="berto" type="person">
+     Frate Alberto
+    </name>
+    si part&iacute;, ed ella rimase faccendo s&iacute; gran galloria, che non le toccava il cul la camiscia, mille anni parendole che l'agnolo Gabriello a lei venisse.
+    <milestone id="p04020030"/>
+    <name persref="berto" type="person">
+     Frate Alberto
+    </name>
+    , pensando che cavaliere, non agnolo, esser gli convenia la notte, con confetti e altre buone cose s'incominci&ograve; a confortare, acci&ograve; che di leggiere non fosse da caval gittato; e avuta la licenzia, con un compagno, come notte fu, se n'entr&ograve; in casa d'una sua amica, dalla quale altra volta aveva prese le mosse quando andava a correr le giumente: e di quindi, quando tempo gli parve, trasformato se n'and&ograve; a casa della donna, e in quella entrato, con sue frasche che portate aveva, in agnolo si trasfigur&ograve;, e salitose suso, se n'entr&ograve; nella camera della donna.
+   </p>
+   <p>
+    <milestone id="p04020031"/>
+    La quale, come questa cosa cos&iacute; bianca vide, gli s'inginocchi&ograve; innanzi, e l'agnolo la benedisse e levolla in pi&egrave; e fecele segno che a letto s'andasse; il che ella, volenterosa d'ubidire, fece prestamente, e l'agnolo appresso con la sua divota si coric&ograve;.
+    <milestone id="p04020032"/>
+    Era
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    bell'uomo del corpo e robusto, e stavangli troppo bene le gambe in su la persona; per la qual cosa con donna
+    <name persref="lisettaquirino" type="person">
+     Lisetta
+    </name>
+    trovandosi, che era fresca e morbida, altra giacitura faccendole che il marito, molte volte la notte vol&ograve; senza ali, di che ella forte si chiam&ograve; per contenta; e oltre a ci&ograve; molte cose le disse della gloria celestiale.
+    <milestone id="p04020033"/>
+    Poi, appressandosi il d&iacute;, dato ordine al ritornare, co' suoi arnesi fuor se n'usc&iacute; e tornossi al compagno suo, al quale, acci&ograve; che paura non avesse dormendo solo, aveva la buona femina della casa fatta amichevole compagnia.
+   </p>
+   <p>
+    <milestone id="p04020034"/>
+    La donna, come desinato ebbe, presa sua compagnia, se n'and&ograve; a
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    e novelle gli disse dell'agnol Gabriello e ci&ograve; che da lui udito avea della gloria di vita eterna, e come egli era fatto, aggiugnendo oltre a questo maravigliose favole.
+   </p>
+   <p>
+    <milestone id="p04020035"/>
+    A cui
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    disse:
+    <q direct="unspecified" who="berto">
+     Madonna, io non so come voi vi steste con lui; so io bene che stanotte, vegnendo egli a me e io avendogli fatta la vostra ambasciata, egli ne port&ograve; subitamente l'anima mia tra tanti fiori e tra tante rose, che mai non se ne videro di qua tante, e stettimi in un de' pi&uacute; dilettevoli luoghi che fosse mai infino a stamane a matutino: quello che il mio corpo si divenisse, io non so
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020036"/>
+    <q direct="unspecified" who="lisettaquirino">
+     Non vel dich'io?
+    </q>
+    disse la donna
+    <q direct="unspecified" who="lisettaquirino">
+     il vostro corpo stette tutta notte in braccio mio con l'agnol Gabriello; e se voi non mi credete, guateretevi sotto la poppa manca l&agrave; dove io diedi un grandissimo bacio all'agnolo, tale che egli vi si parr&agrave; il segnale parecchi d&iacute;
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020037"/>
+    Disse allora
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    :
+    <q direct="unspecified" who="berto">
+     Ben far&ograve; oggi una cosa che io non feci gi&agrave; &egrave; gran tempo pi&uacute;, che io mi spoglier&ograve; per vedere se voi dite il vero
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020038"/>
+    E dopo molto cianciare la donna se ne torn&ograve; a casa; alla quale in forma d'agnolo
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    and&ograve; poi molte volte sanza alcuno impedimento ricevere.
+   </p>
+   <p>
+    <milestone id="p04020039"/>
+    Pure avvenne un giorno che, essendo
+    <name persref="lisettaquirino" type="person">
+     madonna Lisetta
+    </name>
+    con una sua
+    <name persref="comare-0402" type="person">
+     comare
+    </name>
+    e insieme di bellezze quistionando, per porre la sua innanzi ad ogn'altra, s&iacute; come colei che poco sale aveva in zucca, disse:
+    <q direct="unspecified" who="lisettaquirino">
+     Se voi sapeste a cui la mia bellezza piace, in verit&agrave; voi tacereste dell'altre
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020040"/>
+    La
+    <name persref="comare-0402" type="person">
+     comare
+    </name>
+    , vaga d'udire, s&iacute; come colei che ben la conoscea, disse:
+    <q direct="unspecified" who="comare-0402">
+     Madonna, voi potreste dir vero, ma tuttavia, non sappiendo chi questi si sia, altri non si rivolgerebbe cos&iacute; di leggiero
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020041"/>
+    Allora
+    <name persref="lisettaquirino" type="person">
+     la donna
+    </name>
+    , che piccola levatura avea, disse:
+    <q direct="unspecified" who="lisettaquirino">
+     Comare, egli non si vuol dire, ma lo 'ntendimento mio &egrave; l'agnolo Gabriello, il quale pi&uacute; che s&eacute; m'ama, s&iacute; come la pi&uacute; bella donna, per quello che egli mi dica, che sia nel mondo o in
+     <name placeref="maremma" type="place">
+      Maremma
+     </name>
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020042"/>
+    La
+    <name persref="comare-0402" type="person">
+     comare
+    </name>
+    ebbe allora voglia di ridere, ma pur si tenne per farla pi&uacute; avanti parlare, e disse:
+    <q direct="unspecified" who="comare-0402">
+     In f&eacute; di Dio, madonna, se l'agnolo Gabriello &egrave; vostro intendimento e dicevi questo, egli dee bene esser cos&iacute;; ma io non credeva che gli agnoli facesson queste cose
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020043"/>
+    Disse la
+    <name persref="lisettaquirino" type="person">
+     donna
+    </name>
+    :
+    <q direct="unspecified" who="lisettaquirino">
+     Comare, voi siete errata: per le plaghe di Dio, egli il fa meglio che mio marido, e dicemi che egli si fa anche colass&uacute;; ma, per ci&ograve; che io gli paio pi&uacute; bella che niuna che ne sia in cielo, s'&egrave; egli innamorato di me e viensene a star con meco bene spesso: mo ved&iacute; vu?
+    </q>
+   </p>
+   <p>
+    <milestone id="p04020044"/>
+    La
+    <name persref="comare-0402" type="person">
+     comare
+    </name>
+    , partita da
+    <name persref="lisettaquirino" type="person">
+     madonna Lisetta
+    </name>
+    , le parve mille anni che ella fosse in parte ove ella potesse queste cose ridire; e ragunatasi a una festa con una gran brigata di donne, loro ordinatamente raccont&ograve; la novella. Queste donne il dissero a' mariti e a altre donne, e quelle a quell'altre, e cos&iacute; in meno di due d&iacute; ne fu tutta ripiena
+    <name placeref="venezia" type="place">
+     Vinegia
+    </name>
+    . Ma tra gli altri a' quali questa cosa venne agli orecchi furono i cognati di lei, li quali, senza alcuna cosa dirle, si posero in cuore di trovar questo agnolo e di sapere se egli sapesse volare; e pi&uacute; notti stettero in posta.
+   </p>
+   <p>
+    <milestone id="p04020045"/>
+    Avvenne che di questo fatto alcuna novelluzza ne venne a
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    agli orecchi; il quale, per riprender la
+    <name persref="lisettaquirino" type="person">
+     donna
+    </name>
+    una notte andatovi, appena spogliato s'era, che
+    <name persref="cognati-0402" type="person">
+     i cognati
+    </name>
+    di lei, che veduto l'avevan venire, furono all'uscio della sua camera per aprirlo. Il che
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    sentendo, e avvisato ci&ograve; che era, levatosi n&eacute; vedendo altro rifugio, aperse una finestra la qual sopra il maggior canal rispondea, e quindi si gitt&ograve; nell'acqua.
+    <milestone id="p04020046"/>
+    Il fondo v'era grande ed egli sapeva ben notare, s&iacute; che male alcun non si fece: e, notato dall'altra parte del canale, in una casa che aperta v'era prestamente se n'entr&ograve;, pregando un
+    <name persref="buono-uomo-0402" type="person">
+     buono uomo
+    </name>
+    che dentro v'era che per l'amor di Dio gli scampasse la vita, sue favole dicendo perch&eacute; quivi a quella ora e ignudo fosse. Il buono uomo, mosso a piet&agrave;, convenendogli andare a far sue bisogne, nel suo letto il mise, e dissegli che quivi infino alla sua tornata si stesse; e dentro serratolo, and&ograve; a fare i fatti suoi.
+   </p>
+   <p>
+    <milestone id="p04020047"/>
+    I
+    <name persref="cognati-0402" type="person">
+     cognati
+    </name>
+    della
+    <name persref="lisettaquirino" type="person">
+     donna
+    </name>
+    entrati nella camera trovarono che l'agnolo Gabriello, quivi avendo lasciate l'ali, se n'era volato: di che quasi scornati grandissima villania dissero alla donna, e lei ultimamente sconsolata lasciarono stare e a casa loro tornarsi con gli arnesi dello agnolo.
+    <milestone id="p04020048"/>
+    In questo mezzo, fattosi il d&iacute; chiaro, essendo il
+    <name persref="buono-uomo-0402" type="person">
+     buono uomo
+    </name>
+    in sul
+    <name placeref="rialto" type="place">
+     Rialto
+    </name>
+    , ud&iacute; dire come l'agnolo Gabriello era la notte andato a giacere con
+    <name persref="lisettaquirino" type="person">
+     madonna Lisetta
+    </name>
+    e da' cognati trovatovi, s'era per paura gittato nel canale, n&eacute; si sapeva che divenuto se ne fosse: per che prestamente s'avis&ograve; colui che in casa avea esser desso. E l&agrave; venutosene e riconosciutolo, dopo molte novelle, con lui trov&ograve; modo che, s'egli no n volesse che a'
+    <name persref="cognati-0402" type="person">
+     cognati
+    </name>
+    di lei il desse, gli facesse venire cinquanta ducati; e cos&iacute; fu fatto.
+   </p>
+   <p>
+    <milestone id="p04020049"/>
+    E appresso questo, disiderando
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    d'uscir di quindi, gli disse il
+    <name persref="buono-uomo-0402" type="person">
+     buono
+    </name>
+    :
+    <q direct="unspecified" who="buono-uomo-0402">
+     Qui non ha modo alcuno, se gi&agrave; in un non voleste. Noi facciamo oggi una festa, nella quale chi mena uno uomo vestito a modo d'orso e chi a guisa d'uom salvatico, e chi d'una cosa e chi d'un'altra, e in su la
+     <name placeref="sanmarco" type="place">
+      piazza di San Marco
+     </name>
+     si fa una caccia, la qual fornita, &egrave; finita la festa; e poi ciascun va, con quel che menato ha, dove gli piace.
+     <milestone id="p04020050"/>
+     Se voi volete, anzi che spiar si possa che voi siate qui, che io in alcun di questi modi vi meni, io vi potr&ograve; menare dove voi vorrete; altrimenti non veggio come uscirci possiate che conosciuto non siate: e i
+     <name persref="cognati-0402" type="person">
+      cognati
+     </name>
+     della
+     <name persref="lisettaquirino" type="person">
+      donna
+     </name>
+     , avvisando che voi in alcun luogo quincentro siate, per tutto hanno messe le guardie per avervi
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p04020051"/>
+    Come che duro paresse a
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    l'andare in cotal guisa, pur per la paura che aveva de' parenti della
+    <name persref="lisettaquirino" type="person">
+     donna
+    </name>
+    vi si condusse: e disse a costui dove voleva esser menato, e come il menasse era contento.
+    <milestone id="p04020052"/>
+    Costui, avendol gi&agrave; tutto unto di mele ed empiuto di sopra di penna matta, e messagli una catena in gola e una maschera in capo, e datogli dall'una mano un gran bastone e dall'altra due gran cani, che dal
+    <name placeref="macello" type="place">
+     Macello
+    </name>
+    avea menati, mand&ograve; uno al
+    <name placeref="rialto" type="place">
+     Rialto
+    </name>
+    , che bandisse che chi volesse veder l'agnolo Gabriello andasse in su
+    <name placeref="sanmarco" type="place">
+     la piazza di San Marco
+    </name>
+    : e fu lealt&agrave; viniziana questa.
+    <milestone id="p04020053"/>
+    E questo fatto, dopo alquanto il men&ograve; fuori e miseselo innanzi, e andandol tenendo per la catena di dietro, non senza gran romore di molti, che tutti diceano:
+    <q direct="unspecified" who="folla-0402">
+     Che s'&egrave; quel? che s'&egrave; quel?
+    </q>
+    , il condusse in su la
+    <name placeref="sanmarco" type="place">
+     Piazza
+    </name>
+    , dove, tra quegli che venuti gli eran dietro e quegli ancora che, udito il bando, da
+    <name placeref="rialto" type="place">
+     Rialto
+    </name>
+    venuti v'erano, erano gente senza fine.
+    <milestone id="p04020054"/>
+    <name persref="buono-uomo-0402" type="person">
+     Questi
+    </name>
+    l&agrave; pervenuto, in luogo rilevato e alto leg&ograve; il suo
+    <name persref="berto" type="person">
+     uom salvatico
+    </name>
+    ad una colonna, sembianti faccendo d'attender la caccia; al quale le mosche e' tafani, per ci&ograve; che di mele era unto, davan grandissima noia.
+   </p>
+   <p>
+    <milestone id="p04020055"/>
+    Ma poi che costui vide
+    <name placeref="sanmarco" type="place">
+     la Piazza
+    </name>
+    ben piena, faccendo sembiante di volere scatenare il suo uom salvatico, a
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    trasse la maschera dicendo:
+    <q direct="unspecified" who="uomo-buono-0402">
+     Signori, poi che il porco non viene alla caccia, e non si fa, acci&ograve; che voi non siate venuti invano, io voglio che voi veggiate l'agnolo Gabriello, il quale di cielo in terra discende la notte a consolare le donne viniziane
+    </q>
+    .
+    <milestone id="p04020056"/>
+    Come la maschera fu fuori, cos&iacute; fu
+    <name persref="berto" type="person">
+     frate Alberto
+    </name>
+    incontanente da tutti conosciuto; contro al quale si levaron le grida di tutti, dicendogli le pi&uacute; vituperose parole e la maggior villania che mai a alcun ghiotton si dicesse, e oltre a questo per lo viso gettandogli chi una lordura e chi un'altra.
+    <milestone id="p04020057"/>
+    E cos&iacute; grandissimo spazio il tennero, tanto che, per ventura la novella a' suoi frati pervenuta, infino a sei di loro mossisi quivi vennero, e gittatagli una cappa in dosso e scatenatolo, non senza grandissimo romor dietro, infino a casa loro nel menarono, dove, incarceratolo, dopo misera vita si crede che egli morisse.
+   </p>
+   <p>
+    <milestone id="p04020058"/>
+    Cos&iacute; costui, tenuto buono e male adoperando non essendo creduto, ard&iacute; di farsi l'agnolo Gabriello, e di questo in uom salvatico convertito, a lungo andare, come meritato avea, vituperato senza pro pianse i peccati commessi. Cos&iacute; piaccia a Dio che a tutti gli altri possa intervenire.
+   </p>
+  </div>
+ </body>
+</html>

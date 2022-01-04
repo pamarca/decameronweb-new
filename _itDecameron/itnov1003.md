@@ -1,0 +1,559 @@
+---
+title: "Novella Terza"
+day: "itnov1003"
+layout: "single"
+---
+<html>
+ <head>
+ </head>
+ <body>
+  <div id="nov1003" type="novella" who="filostrato">
+   <head>
+    Novella Terza
+   </head>
+   <argument>
+    <p>
+     <milestone id="p00030001"/>
+     <name persref="mitridanes" type="person">
+      Mitridanes
+     </name>
+     , invidioso della cortesia di
+     <name persref="natan" type="person">
+      Natan
+     </name>
+     , andando per ucciderlo, senza conoscerlo capita a lui e, da lui stesso informato del modo, il truova in un boschetto come ordinato avea; il quale riconoscendolo si vergogna e suo amico diviene.
+    </p>
+   </argument>
+   <div3 type="commentary" who="author">
+    <p>
+     <milestone id="p00030002"/>
+     Simil cosa a miracolo per certo pareva a tutti avere udito, cio&egrave; che un cherico alcuna cosa magnificamente avesse operata; ma riposandosene gi&agrave; il ragionare delle donne, comand&ograve;
+     <name persref="panfilo" type="person">
+      il re
+     </name>
+     a
+     <name persref="filostrato" type="person">
+      Filostrato
+     </name>
+     che procedesse; il quale prestamente incominci&ograve;:
+    </p>
+   </div3>
+   <div3 type="commentary" who="filostrato">
+    <p>
+     <milestone id="p00030003"/>
+     Nobili donne, grande fu la magnificenzia del
+     <name persref="realfonso" type="person">
+      re di Spagna
+     </name>
+     e forse cosa pi&uacute; non udita gi&agrave; mai quella dell'
+     <name persref="abatecligni" type="person">
+      abate di Clign&iacute;
+     </name>
+     ; ma forse non meno maravigliosa cosa vi parr&agrave; l'udire che uno, per liberalit&agrave; usare a un altro che il suo sangue, anzi il suo spirito, disiderava, cautamente a dargliele si disponesse: e fatto l'avrebbe se colui prender l'avesse voluto, s&iacute; come io in una mia novelletta intendo di dimostrarvi.
+    </p>
+   </div3>
+   <p>
+    <milestone id="p00030004"/>
+    Certissima cosa &egrave;, se fede si pu&ograve; dare alle parole d'alcuni genovesi e d'altri uomini che in quelle contrade stati sono, che nelle parti del
+    <name placeref="cattaio" type="place">
+     Cattaio
+    </name>
+    fu gi&agrave; uno uomo di legnaggio nobile e ricco senza comparazione, per nome chiamato
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    .
+    <milestone id="p00030005"/>
+    Il quale, avendo ricetto vicino a una strada per la qual quasi di necissit&agrave; passava ciascuno che di Ponente verso Levante andar voleva o di Levante in Ponente e avendo l'animo grande e liberale e disideroso che fosse per opera conosciuto, quivi avendo molti maestri fece in piccolo spazio di tempo fare un de' pi&uacute; belli e de' maggiori e de' pi&uacute; ricchi
+    <name placeref="palagionatan-1003" type="place">
+     palagi
+    </name>
+    che mai fosse stato veduto, e quello di tutte quelle cose che opportune erano a dovere gentili uomini ricevere e onorare fece ottimamente fornire.
+    <milestone id="p00030006"/>
+    E avendo grande e bella famiglia, con piacevolezza e con festa chiunque andava e veniva faceva ricevere e onorare; e in tanto persever&ograve; in questo laudevol costume, che gi&agrave; non solamente il Levante ma quasi tutto il Ponente per fama il conoscea.
+   </p>
+   <p>
+    <milestone id="p00030007"/>
+    E essendo egli gi&agrave; d'anni pieno, n&eacute; per&ograve; del corteseggiar divenuto stanco, avvenne che la sua fama agli orecchi pervenne d'un giovane chiamato
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    , di paese non guari al suo lontano; il quale, sentendosi non meno ricco che
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    fosse, divenuto della sua fama e della sua virt&uacute; invidioso, seco propose con maggior liberalit&agrave; quella o annullare o offuscare.
+    <milestone id="p00030008"/>
+    E fatto fare un
+    <name placeref="palagiomitridanes-1003" type="place">
+     palagio
+    </name>
+    simile a quello di
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    , cominci&ograve; a fare le pi&uacute; smisurate cortesie che mai facesse alcuno altro a chi andava o veniva per quindi; e senza dubbio in piccol tempo assai divenne famoso.
+   </p>
+   <p>
+    <milestone id="p00030009"/>
+    Ora avvenne un giorno che dimorando
+    <name persref="mitridanes" type="person">
+     il giovane
+    </name>
+    tutto solo nella corte del suo
+    <name placeref="palagiomitridanes-1003" type="place">
+     palagio
+    </name>
+    , una
+    <name persref="donna-1003" type="person">
+     feminella
+    </name>
+    entrata dentro per una delle porti del
+    <name placeref="palagionatan-1003" type="place">
+     palagio
+    </name>
+    gli domand&ograve; limosina e ebbela; e ritornata per la seconda porta pure a lui, ancora l'ebbe e cos&iacute; successivamente insino alla duodecima; e la tredecima volta tornata, disse
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    :
+    <q direct="unspecified" who="mitridanes">
+     Buona femina, tu se' assai sollicita a questo tuo dimandare
+    </q>
+    e nondimeno le fece limosina.
+   </p>
+   <p>
+    <milestone id="p00030010"/>
+    <name persref="donna-1003" type="person">
+     La vecchierella
+    </name>
+    , udita questa parola, disse:
+    <q direct="unspecified" who="donna-1003">
+     O liberalit&agrave; di
+     <name persref="natan" type="person">
+      Natan
+     </name>
+     , quanto se' tu maravigliosa! ch&eacute; per trentadue porti che ha il suo
+     <name placeref="palagionatan-1003" type="place">
+      palagio
+     </name>
+     , s&iacute; come questo, entrata e domandatagli limosina, mai da lui, che egli mostrasse, riconosciuta non fui e sempre l'ebbi; e qui non venuta ancora se non per tredici e riconosciuta e proverbiata sono stata
+    </q>
+    ; e cos&iacute; dicendo senza pi&uacute; ritornarvi si dipart&iacute;.
+   </p>
+   <p>
+    <milestone id="p00030011"/>
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    , udite le parole della
+    <name persref="donna-1003" type="person">
+     vecchia
+    </name>
+    , come colui che ci&ograve; che della fama di
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    udiva diminuimento della sua estimava, in rabbiosa ira acceso cominci&ograve; a dire:
+    <q direct="unspecified" who="mitridanes">
+     Ahi lasso a me! Quando aggiugner&ograve; io alla liberalit&agrave; delle gran cose di
+     <name persref="natan" type="person">
+      Natan
+     </name>
+     , non che io il trapassi come io cerco, quando nelle piccolissime io non gli posso avvicinare? Veramente io mi fatico invano, se io di terra nol tolgo: la qual cosa, poscia che la vecchiezza nol porta via, convien senza alcuno indugio che io faccia con le mie mani
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p00030012"/>
+    E con questo impeto levatosi, senza comunicare il suo consiglio a alcuno, con poca compagnia montato a cavallo dopo il terzo d&iacute; dove
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    dimorava pervenne; e a'
+    <name persref="compagni-1003" type="person">
+     compagni
+    </name>
+    imposto che sembianti facessero di non esser con lui n&eacute; di conoscerlo e che di stanzia si procacciassero infino che da lui altro avessero, quivi in sul fare della sera pervenuto e solo rimaso, non guari lontano al bel
+    <name placeref="palagionatan-1003" type="place">
+     palagio
+    </name>
+    trov&ograve;
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    tutto solo, il quale senza alcuno abito pomposo andava a suo diporto; cui egli, non conoscendolo, domand&ograve; se insegnar gli sapesse dove
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    dimorasse.
+   </p>
+   <p>
+    <milestone id="p00030013"/>
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    lietamente rispose:
+    <q direct="unspecified" who="natan">
+     Figliuol mio, niuno &egrave; in questa contrada che meglio di me cotesto ti sappia mostrare: e per ci&ograve;, quando ti piaccia, io vi ti mener&ograve;
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p00030014"/>
+    <name persref="mitridanes" type="person">
+     Il giovane
+    </name>
+    disse che questo gli sarebbe a grado assai ma che, dove esser potesse, egli non voleva da
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    esser veduto n&eacute; conosciuto: al qual
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    disse:
+    <q direct="unspecified" who="natan">
+     E cotesto ancora far&ograve;, poi che ti piace
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p00030015"/>
+    Ismontato adunque
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    con
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    , che in piacevolissimi ragionamenti assai tosto il mise, infino al suo bel
+    <name placeref="palagionatan-1003" type="place">
+     palagio
+    </name>
+    n'and&ograve;. Quivi
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    fece a un de' suoi famigliari prendere il caval del
+    <name persref="mitridanes" type="person">
+     giovane
+    </name>
+    , e accostatoglisi agli orecchi gl'impose che egli prestamente con tutti quegli della casa facesse che niuno al giovane dicesse lui esser
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    : e cos&iacute; fu fatto.
+    <milestone id="p00030016"/>
+    Ma poi che nel palagio furono, mise
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    in una bellissima camera dove alcuno nol vedeva, se non quegli che egli al suo servigio diputati avea; e sommamente faccendolo onorare, esso stesso gli tenea compagnia.
+   </p>
+   <p>
+    <milestone id="p00030017"/>
+    Col quale dimorando
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    , ancora che in reverenzia come padre l'avesse, pur lo domand&ograve; chi el fosse: al quale
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    rispose:
+    <q direct="unspecified" who="natan">
+     Io sono un picciol servidor di
+     <name persref="natan" type="person">
+      Natan
+     </name>
+     , il quale dalla mia fanciullezza con lui mi sono invecchiato, n&eacute; mai a altro che tu mi vegghi mi trasse; per che, come che ogni altro uomo molto di lui si lodi, io me ne posso poco lodare io
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p00030018"/>
+    Queste parole porsero alcuna speranza a
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    di potere con pi&uacute; consiglio e con pi&uacute; salvezza dare effetto al suo perverso intendimento: il qual
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    assai cortesemente domand&ograve; chi egli fosse e qual bisogno per quindi il portasse, offerendo il suo consiglio e il suo aiuto in ci&ograve; che per lui si potesse.
+    <milestone id="p00030019"/>
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    soprastette alquanto al rispondere, e ultimamente diliberando di fidarsi di lui, con una lunga circuizion di parole la sua fede richiese e appresso il consiglio e l'aiuto; e chi egli era e per che venuto e da che mosso interamente gli discoperse.
+   </p>
+   <p>
+    <milestone id="p00030020"/>
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    , udendo il ragionare e il fiero proponimento di
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    , in s&eacute; tutto si cambi&ograve;, ma senza troppo stare, con forte animo e con fermo viso gli rispose:
+    <q direct="unspecified" who="natan">
+     <name persref="mitridanes" type="person">
+      Mitridanes
+     </name>
+     , nobile uomo fu il tuo padre, dal quale tu non vuogli degenerare, s&iacute; alta impresa avendo fatta come hai, cio&egrave; d'essere liberale a tutti; e molto la invidia che alla virt&uacute; di
+     <name persref="natan" type="person">
+      Natan
+     </name>
+     porti commendo, per ci&ograve; che, se di cos&iacute; fatte fossero assai, il mondo, che &egrave; miserissimo, tosto buon diverrebbe.
+     <milestone id="p00030021"/>
+     Il tuo proponimento mostratomi senza dubbio sar&agrave; occulto, al quale io pi&uacute; tosto util consiglio che grande aiuto posso donare: il quale &egrave; questo.
+     <milestone id="p00030022"/>
+     Tu puoi di quinci vedere, forse un mezzo miglio vicin di qui, un boschetto, nel quale
+     <name persref="natan" type="person">
+      Natan
+     </name>
+     quasi ogni mattina va tutto solo prendendo diporto per ben lungo spazio: quivi leggier cosa ti fia il trovarlo e farne il tuo piacere.
+     <milestone id="p00030023"/>
+     Il quale se tu uccidi, acci&ograve; che tu possa senza impedimento a casa tua ritornare, non per quella via donde tu qui venisti ma per quella che tu vedi a sinistra uscir fuor del bosco n'andrai, per ci&ograve; che, ancora che un poco pi&uacute; salvatica sia, ella &egrave; pi&uacute; vicina a casa tua e per te pi&uacute; sicura
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p00030024"/>
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    , ricevuta la informazione e
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    da lui essendo partito, cautamente a' suoi
+    <name persref="compagni-1003" type="person">
+     compagni
+    </name>
+    , che similmente l&agrave; entro erano, fece sentire dove aspettare il dovessero il d&iacute; seguente. Ma poi che il nuovo d&iacute; fu venuto,
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    , non avendo animo vario al consiglio dato a
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    n&eacute; quello in parte alcuna mutato, solo se n'and&ograve; al boschetto a dover morire.
+   </p>
+   <p>
+    <milestone id="p00030025"/>
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    , levatosi e preso il suo arco e la sua spada, ch&eacute; altra arme non avea, e montato a cavallo, n'and&ograve; al boschetto e di lontano vide
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    tutto soletto andar passeggiando per quello; e diliberato avanti che l'assalisse di volerlo vedere e d'udirlo parlare, corse verso lui e presolo per la benda, la quale in capo avea, disse:
+    <q direct="unspecified" who="mitridanes">
+     Vegliardo, tu se' morto!
+    </q>
+   </p>
+   <p>
+    <milestone id="p00030026"/>
+    Al quale niun'altra cosa rispose
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    se non:
+    <q direct="unspecified" who="natan">
+     Dunque l'ho io meritato
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p00030027"/>
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    , udita la voce e nel viso guardatolo, subitamente riconobbe lui esser colui che benignamente l'avea ricevuto e familiarmente accompagnato e fedelmente consigliato; per che di presente gli cadde il furore e la sua ira si convert&iacute; in vergogna; laonde egli, gittata via la spada, la qual gi&agrave; per ferirlo aveva tirata fuori, da caval dismontato piagnendo corse a' pi&egrave; di
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    e disse:
+    <milestone id="p00030028"/>
+    <q direct="unspecified" who="mitridanes">
+     Manifestamente conosco, carissimo padre, la vostra liberalit&agrave;, riguardando con quanta cautela venuto siate per darmi il vostro spirito, del quale io, niuna ragione avendo, a voi medesimo disideroso mostra'mi: ma Idio, pi&uacute; al mio dover sollicito che io stesso, a quel punto che maggior bisogno &egrave; stato gli occhi m'ha aperto dello 'ntelletto, li quali misera invidia m'avea serrati.
+     <milestone id="p00030029"/>
+     E per ci&ograve; quanto voi pi&uacute; pronto stato siete a compiacermi, tanto pi&uacute; mi cognosco debito alla penitenzia del mio errore: prendete adunque di me quella vendetta che convenevole estimate al mio peccato
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p00030030"/>
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    fece levar
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    in piede e teneramente l'abbracci&ograve; e baci&ograve; e gli disse:
+    <q direct="unspecified" who="natan">
+     Figliuol mio, alla tua impresa, chente che tu la vogli chiamare o malvagia o altrimenti, non bisogna di domandar n&eacute; di dar perdono, per ci&ograve; che non per odio la seguivi ma per potere essere tenuto migliore.
+     <milestone id="p00030031"/>
+     Vivi adunque di me sicuro, e abbi di certo che niuno altro uom vive il quale te quant'io ami, avendo riguardo all'altezza dello animo tuo, il quale non a ammassar denari, come i miseri fanno, ma a ispender gli ammassati s'&egrave; dato.
+     <milestone id="p00030032"/>
+     N&eacute; ti vergognare d'avermi voluto uccidere per divenir famoso, n&eacute; credere che io me ne maravigli. I sommi imperadori e i grandissimi re non hanno quasi con altra arte che d'uccidere, non uno uomo come tu volevi fare ma infiniti, e ardere paesi e abbattere le citt&agrave;, li loro regni ampliati e per conseguente la fama loro: per che, se tu per pi&uacute; farti famoso me solo uccider volevi, non maravigliosa cosa n&eacute; nuova facevi ma molto usata
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p00030033"/>
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    , non iscusando il suo disidero perverso ma commendando l'onesta scusa da
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    trovata a esso, ragionando pervenne a dire s&eacute; oltre modo maravigliarsi come a ci&ograve; fosse
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    potuto disporre e a ci&ograve; dargli modo e consiglio:
+    <milestone id="p00030034"/>
+    al quale
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    disse:
+    <q direct="unspecified" who="natan">
+     <name persref="mitridanes" type="person">
+      Mitridanes
+     </name>
+     , io non voglio che tu del mio consiglio e della mia disposizione ti maravigli, per ci&ograve; che, poi che io nel mio albitrio fui e disposto a fare quello medesimo che tu hai a fare impreso, niun fu che mai a casa mia capitasse, che io nol contentasse a mio potere di ci&ograve; che da lui mi fu domandato.
+     <milestone id="p00030035"/>
+     Venistivi tu vago della mia vita, per che, sentendolati domandare, acci&ograve; che tu non fossi solo colui che sanza la sua dimanda di qui si partisse, prestamente diliberai di donarlati, e acci&ograve; che tu l'avessi quel consiglio ti diedi che io credetti che buon ti fosse a aver la mia e non perder la tua; e per ci&ograve; ancora ti dico e priego che, s'ella ti piace, che tu la prenda e te medesimo ne sodisfaccia: io non so come io la mi possa meglio spendere.
+     <milestone id="p00030036"/>
+     Io l'ho adoperata gi&agrave; ottanta anni, e ne' miei diletti e nelle mie consolazioni usata: e so che, seguendo il corso della natura, come gli altri uomini fanno e generalmente tutte le cose, ella mi pu&ograve; omai piccol tempo esser lasciata: per che io iudico molto meglio esser quella donare, come io ho sempre i miei tesori donati e spesi, che tanto volerla guardare, che ella mi sia contro a mia voglia tolta dalla natura.
+     <milestone id="p00030037"/>
+     Piccol dono &egrave; donare cento anni: quanto adunque &egrave; minor donarne sei o otto che io a starci abbia? Prendila adunque, se ella t'agrada, io te ne priego; per ci&ograve; che, mentre vivuto ci sono, niuno ho ancor trovato che disiderata l'abbia n&eacute; so quando trovar me ne possa veruno, se tu non la prendi che la dimandi.
+     <milestone id="p00030038"/>
+     E se pure avvenisse che io ne dovessi alcun trovare, conosco che quanto pi&uacute; la guarder&ograve; di minor pregio sar&agrave;; e per&ograve;, anzi che ella divenga pi&uacute; vile, prendila, io te ne priego
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p00030039"/>
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    , vergognandosi forte, disse:
+    <q direct="unspecified" who="mitridanes">
+     Tolga Iddio che cos&iacute; cara cosa come la vostra vita &egrave;, non che io, da voi dividendola, la prenda, ma pur la disideri, come poco avanti faceva; alla quale non che io diminuissi gli anni suoi ma io l'aggiugnerei volentier de' miei
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p00030040"/>
+    A cui prestamente
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    disse:
+    <q direct="unspecified" who="natan">
+     E se tu puoi, vuo' nele tu aggiugnere? E farai a me fare verso di te quello che mai verso alcuno altro non feci, cio&egrave; delle tue cose pigliare, che mai dell'altrui non pigliai
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p00030041"/>
+    <q direct="unspecified" who="mitridanes">
+     S&iacute;
+    </q>
+    disse subitamente
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    .
+   </p>
+   <p>
+    <milestone id="p00030042"/>
+    <q direct="unspecified" who="natan">
+     Adunque
+    </q>
+    disse
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    <q direct="unspecified">
+     farai tu come io ti dir&ograve;. Tu rimarrai, giovane come tu se', qui nella mia casa e avrai nome
+     <name persref="natan" type="person">
+      Natan
+     </name>
+     , e io me n'andr&ograve; nella tua e farommi sempre chiamar
+     <name persref="mitridanes" type="person">
+      Mitridanes
+     </name>
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p00030043"/>
+    Allora
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    ri spose:
+    <q direct="unspecified" who="mitridanes">
+     Se io sapessi cos&iacute; bene operare come voi sapete e avete saputo, io prenderei senza troppa diliberazione quello che m'offerete; ma per ci&ograve; che egli mi pare esser molto certo che le mie opere sarebbon diminuimento della fama di
+     <name persref="natan" type="person">
+      Natan
+     </name>
+     , e io non intendo di guastare in altrui quello che in me io non so acconciare, nol prender&ograve;
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p00030044"/>
+    Questi e molti altri piacevoli ragionamenti stati tra
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    e
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    , come a
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    piacque, insieme verso il
+    <name placeref="palagionatan-1003" type="place">
+     palagio
+    </name>
+    se ne tornarono, dove
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    pi&uacute; giorni sommamente onor&ograve;
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    , e lui con ogni ingegno e saper confort&ograve; nel suo alto e grande proponimento. E volendosi
+    <name persref="mitridanes" type="person">
+     Mitridanes
+    </name>
+    con la sua
+    <name persref="compagni-1003" type="person">
+     compagnia
+    </name>
+    ritornare a casa, avendogli
+    <name persref="natan" type="person">
+     Natan
+    </name>
+    assai ben fatto conoscere che mai di liberalit&agrave; nol potrebbe avanzare, il licenzi&ograve;.
+   </p>
+  </div>
+ </body>
+</html>

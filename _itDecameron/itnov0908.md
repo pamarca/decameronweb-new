@@ -1,0 +1,472 @@
+---
+title: "Novella Ottava"
+day: "itnov0908"
+layout: "single"
+---
+<html>
+ <head>
+ </head>
+ <body>
+  <div id="nov0908" type="novella" who="lauretta">
+   <head>
+    Novella Ottava
+   </head>
+   <argument>
+    <p>
+     <milestone id="p09080001"/>
+     <name persref="biondello" type="person">
+      Biondello
+     </name>
+     fa una beffa a
+     <name persref="ciacco" type="person">
+      Ciacco
+     </name>
+     d'un desinare, della quale
+     <name persref="ciacco" type="person">
+      Ciacco
+     </name>
+     cautamente si vendica faccendo lui sconciamente battere.
+    </p>
+   </argument>
+   <div3 type="commentary" who="author">
+    <p>
+     <milestone id="p09080002"/>
+     Universalmente ciascuno della lieta compagnia disse quel che
+     <name persref="talano" type="person">
+      Talano
+     </name>
+     veduto avea dormendo non essere stato sogno ma visione, s&iacute; appunto, senza alcuna cosa mancarne, era avvenuto. Ma tacendo ciascuno, impose
+     <name persref="emilia" type="person">
+      la reina
+     </name>
+     alla
+     <name persref="lauretta" type="person">
+      Lauretta
+     </name>
+     che seguitasse; la qual disse:
+    </p>
+   </div3>
+   <div3 type="commentary" who="lauretta">
+    <p>
+     <milestone id="p09080003"/>
+     Come costoro, soavissime donne, che oggi davanti a me hanno parlato, quasi tutti da alcuna cosa gi&agrave; detta mossi sono stati a ragionare, cos&iacute; me muove la rigida vendetta, ieri raccontata da Pampinea, che f&eacute; lo
+     <name persref="rinieri" type="person">
+      scolare
+     </name>
+     , a dover dire d'una assai grave a colui che la sostenne, quantunque non fosse per ci&ograve; tanto fiera.
+    </p>
+   </div3>
+   <p>
+    <milestone id="p09080004"/>
+    E per ci&ograve; dico che, essendo in
+    <name placeref="firenze" type="place">
+     Firenze
+    </name>
+    uno da tutti chiamato
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    , uomo ghiottissimo quanto alcun altro fosse giammai, e non potendo la sua possibilit&agrave; sostener le spese che la sua ghiottornia richiedea, essendo per altro assai costumato e tutto pieno di belli e di piacevoli motti, si diede ad essere non del tutto uom di corte ma morditore e a usare con coloro che ricchi erano e di mangiare delle buone cose si dilettavano; e con questi a desinare e a cena, ancor che chiamato non fosse ogni volta, andava assai sovente.
+    <milestone id="p09080005"/>
+    Era similmente in quei tempi in
+    <name placeref="firenze" type="place">
+     Firenze
+    </name>
+    uno il quale era chiamato
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    , piccoletto della persona, leggiadro molto e pi&uacute; pulito che una mosca, con sua cuffia in capo, con una zazzerina bionda e per punto senza un capel torto avervi, il quale quel medesimo mestiere usava che
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    .
+   </p>
+   <p>
+    <milestone id="p09080006"/>
+    Il quale essendo una mattina di quaresima andato l&agrave; dove il pesce si vende e comperando due grossissime lamprede per
+    <name persref="vieridecerchi" type="person">
+     messer Vieri de' Cerchi
+    </name>
+    , fu veduto da
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    ; il quale, avvicinatosi a
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    disse:
+    <q direct="unspecified" who="ciacco">
+     Che vuol dir questo?
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080007"/>
+    A cui
+    <name persref="biondello" type="person">
+     Biondel
+    </name>
+    rispose:
+    <q direct="unspecified" who="biondello">
+     Iersera ne furono mandate tre altre troppo pi&uacute; belle che queste non sono e uno storione a
+     <name persref="corsodonati" type="person">
+      messer Corso Donati
+     </name>
+     , le quali non bastandogli per voler dar mangiare a certi gentili uomini, m'ha fatte comperare quest'altre due: non vi verrai tu?
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080008"/>
+    Rispose
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    :
+    <q direct="unspecified" who="ciacco">
+     Ben sai che io vi verr&ograve;.
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080009"/>
+    E quando tempo gli parve, a casa
+    <name persref="corsodonati" type="person">
+     messer Corso
+    </name>
+    se n'and&ograve; e trovollo con alcuni suoi vicini che ancora non era andato a desinare; al quale egli, essendo da lui domandato che andasse faccendo, rispose:
+    <q direct="unspecified" who="ciacco">
+     Messere, io vengo a desinar con voi e con la vostra brigata.
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080010"/>
+    A cui
+    <name persref="corsodonati" type="person">
+     messer Corso
+    </name>
+    disse:
+    <q direct="unspecified" who="corsodonati">
+     Tu sie 'l ben venuto: e per ci&ograve; che egli &egrave; tempo, andianne.
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080011"/>
+    Postisi dunque a tavola, primieramente ebbero del cece e della sorra, e appresso del pesce d'
+    <name placeref="arno" type="place">
+     Arno
+    </name>
+    fritto, senza pi&uacute;.
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    , accortosi dello 'nganno di
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    e in s&eacute; non poco turbatosene, propose di dovernel pagare; n&eacute; passar molti d&iacute; che egli in lui si scontr&ograve;, il qual gi&agrave; molti aveva fatti ridere di questa beffa.
+    <milestone id="p09080012"/>
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    , vedutolo, il salut&ograve; e ridendo il domand&ograve; chenti fosser state le lamprede di
+    <name persref="corsodonati" type="person">
+     messer Corso
+    </name>
+    ; a cui
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    rispondendo disse:
+    <q direct="unspecified" who="ciacco">
+     Avanti che otto giorni passino tu il saprai molto meglio dir di me.
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080013"/>
+    E senza mettere indugio al fatto, partitosi da
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    , con un saccente
+    <name persref="barattiere-0908" type="person">
+     barattier
+    </name>
+    si convenne del prezzo; e datogli un bottaccio di vetro il men&ograve; vicino della
+    <name placeref="loggiacavicciuli" type="place">
+     loggia de' Cavicciuli
+    </name>
+    e mostrogli in quella un cavaliere chiamato
+    <name persref="filippoargenti" type="person">
+     messer Filippo Argenti
+    </name>
+    , uomo grande e nerboruto e forte, sdegnoso, iracundo e bizzarro pi&uacute; che altro, e dissegli:
+    <milestone id="p09080014"/>
+    <q direct="unspecified" who="ciacco">
+     Tu te ne andrai a lui con questo fiasco in mano, e dira'gli cos&iacute;: `Messere, a voi mi manda
+     <name persref="biondello" type="person">
+      Biondello
+     </name>
+     , e mandavi pregando che vi piaccia d'arrubinargli questo fiasco del vostro buon vin vermiglio, ch'e' si vuole alquanto sollazzar con suoi zanzeri'; e sta bene accorto che egli non ti ponesse le mani addosso, per ci&ograve; che egli ti darebbe il mal d&iacute;, e avresti guasti i fatti miei.
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080015"/>
+    Disse il
+    <name persref="barattiere-0908" type="person">
+     barattiere
+    </name>
+    :
+    <q direct="unspecified" who="barattiere-0908">
+     Ho io a dire altro?
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080016"/>
+    Disse
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    :
+    <q direct="unspecified" who="ciacco">
+     No, va pure; e come tu hai questo detto, torna qui a me col fiasco, e io ti pagher&ograve;.
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080017"/>
+    Mossosi adunque il
+    <name persref="barattiere-0908" type="person">
+     barattiere
+    </name>
+    , fece a
+    <name persref="filippoargenti" type="person">
+     messer Filippo
+    </name>
+    l'ambasciata.
+    <name persref="filippoargenti" type="person">
+     Messer Filippo
+    </name>
+    , udito costui, come colui che piccola levatura avea, avvisando che
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    , il quale egli conosceva, si facesse beffe di lui, tutto tinto nel viso, dicendo:
+    <q direct="unspecified" who="filippoargenti">
+     Che "arrubinatemi" e che "zanzeri" son questi? Che nel mal anno metta Idio te e lui!
+    </q>
+    si lev&ograve; in pi&egrave; e distese il braccio per pigliar con la mano il barattiere;
+    <milestone id="p09080018"/>
+    ma il barattiere, come colui che attento stava, fu presto e fugg&iacute; via, e per altra parte ritorn&ograve; a
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    , il quale ogni cosa veduta avea, e dissegli ci&ograve; che
+    <name persref="filippoargenti" type="person">
+     messer Filippo
+    </name>
+    aveva detto.
+   </p>
+   <p>
+    <milestone id="p09080019"/>
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    contento pag&ograve; il
+    <name persref="barattiere-0908" type="person">
+     barattiere
+    </name>
+    , e non ripos&ograve; mai ch'egli ebbe ritrovato
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    , al quale egli disse:
+    <q direct="unspecified" who="ciacco">
+     Fost&uacute; a questa pezza dalla
+     <name placeref="loggiacavicciuli" type="place">
+      loggia de' Cavicciuli?
+     </name>
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080020"/>
+    Rispose
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    :
+    <q direct="unspecified" who="biondello">
+     Mai no; perch&eacute; me ne domandi tu?
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080021"/>
+    Disse
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    :
+    <q direct="unspecified" who="ciacco">
+     Per ci&ograve; che io ti so dire che
+     <name persref="filippoargenti" type="person">
+      messer Filippo
+     </name>
+     ti fa cercare, non so quel ch'e' si vuole
+    </q>
+    .
+   </p>
+   <p>
+    <milestone id="p09080022"/>
+    Disse allora
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    :
+    <q direct="unspecified" who="biondello">
+     Bene, io vo verso l&agrave;, io gli far&ograve; motto.
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080023"/>
+    Partitosi
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    ,
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    gli and&ograve; appresso per vedere come il fatto andasse.
+    <name persref="filippoargenti" type="person">
+     Messer Filippo
+    </name>
+    , non avendo potuto giugnere il
+    <name persref="barattiere-0908" type="person">
+     barattiere
+    </name>
+    , era rimaso fieramente turbato e tutto in s&eacute; medesimo si rodea, non potendo dalle parole dette dal barattiere cosa del mondo trarre altro, se non che
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    , a instanzia di cui che sia, si facesse beffe di lui; e in questo: che egli cos&iacute; si rodeva, e
+    <name persref="biondello" type="person">
+     Biondel
+    </name>
+    venne. Il quale come egli vide, fattoglisi incontro, gli di&egrave; nel viso un gran punzone.
+   </p>
+   <p>
+    <milestone id="p09080024"/>
+    <q direct="unspecified" who="biondello">
+     Ohim&egrave;! messer
+    </q>
+    , disse
+    <name persref="biondello" type="person">
+     Biondel
+    </name>
+    <q direct="unspecified">
+     che &egrave; questo?
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080025"/>
+    <name persref="filippoargenti" type="person">
+     Messer Filippo
+    </name>
+    , presolo per li capelli e stracciatagli la cuffia in capo e gittato il cappuccio per terra e dandogli tuttavia forte, diceva:
+    <q direct="unspecified" who="filippoargenti">
+     Traditore, tu il vedrai bene ci&ograve; che questo &egrave;. Che "arrubinatemi" e che "zanzeri" mi mandi tu dicendo a me? Paioti io fanciullo da dovere essere uccellato?
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080026"/>
+    E cos&iacute; dicendo, con le pugna, le quali aveva che parevan di ferro, tutto il viso gli ruppe, n&eacute; gli lasci&ograve; in capo capello che ben gli volesse, e convoltolo per lo fango, tutti i panni in dosso gli stracci&ograve;; e s&iacute; a questo fatto si studiava, che pure una volta dalla prima innanzi non gli pot&eacute;
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    dire una parola, n&eacute; domandar perch&eacute; questo gli facesse.
+    <milestone id="p09080027"/>
+    Aveva egli bene inteso dello "arrubinatemi" e de' "zanzeri", ma non sapeva che ci&ograve; si volesse dire.
+    <milestone id="p09080028"/>
+    Alla fine, avendol
+    <name persref="filippoargenti" type="person">
+     messer Filippo
+    </name>
+    ben battuto e essendogli molti dintorno, alla maggior fatica del mondo gliele trasser di mano cos&iacute; rabbuffato e malconcio come era; e dissergli perch&eacute;
+    <name persref="filippoargenti" type="person">
+     messer Filippo
+    </name>
+    questo avea fatto, riprendendolo di ci&ograve; che mandato gli avea dicendo, e dicendogli ch'egli doveva bene oggimai cognoscer
+    <name persref="filippoargenti" type="person">
+     messer Filippo
+    </name>
+    e che egli non era uomo da motteggiar con lui.
+    <milestone id="p09080029"/>
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    piagnendo si scusava e diceva che mai a
+    <name persref="filippoargenti" type="person">
+     messer Filippo
+    </name>
+    non aveva mandato per vino. Ma poi che un poco si fu rimesso in assetto, tristo e dolente se ne torn&ograve; a casa, avvisando questa essere stata opera di
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    .
+   </p>
+   <p>
+    <milestone id="p09080030"/>
+    E poi che dopo molti d&iacute;, partiti i lividori del viso, cominci&ograve; di casa ad uscire, avvenne che
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    il trov&ograve;, e ridendo il domand&ograve;:
+    <q direct="unspecified" who="ciacco">
+     <name persref="biondello" type="person">
+      Biondello
+     </name>
+     , chente ti parve il vino di
+     <name persref="filippoargenti" type="person">
+      messer Filippo
+     </name>
+     ?
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080031"/>
+    Rispose
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    :
+    <q direct="unspecified" who="biondello">
+     Tali fosser parute a te le lamprede di
+     <name persref="corsodonati" type="person">
+      messer Corso
+     </name>
+     !
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080032"/>
+    Allora disse
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    :
+    <q direct="unspecified" who="ciacco">
+     A te sta oramai: qualora tu mi vuogli cos&iacute; ben dare da mangiar come facesti, io dar&ograve; a te cos&iacute; ben da bere come avesti.
+    </q>
+   </p>
+   <p>
+    <milestone id="p09080033"/>
+    <name persref="biondello" type="person">
+     Biondello
+    </name>
+    , che conosceva che contro a
+    <name persref="ciacco" type="person">
+     Ciacco
+    </name>
+    egli poteva pi&uacute; aver mala voglia che opera, preg&ograve; Idio della pace sua, e da indi innanzi si guard&ograve; di mai pi&uacute; non beffarlo.
+   </p>
+  </div>
+ </body>
+</html>

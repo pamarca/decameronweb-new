@@ -287,13 +287,18 @@ tag_archive:
 
 # Collections
 collections:
-  edition:
-    output: true
-    permalink: /:collection/:path/
 
   itDecameron:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
+
+  enDecameron:
+    output: true
+    permalink: /:collection/:path/
+  
+  # edition:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 # HTML Compression
 # - https://jch.penibelst.de/

@@ -1,0 +1,48 @@
+p {
+  display: block;
+}
+
+div {
+  display: block;
+  font-family: Garamond;
+}
+
+div1 {
+  display: block;
+}
+
+div2 {
+  display: block;
+  font-family: Garamond;
+}
+
+div3 {
+  display: block;
+  font-family: Garamond;
+}
+
+head {
+  display: block;
+  text-align: justify;
+  margin-top: 2%;
+  font-size: 1m;
+  font-family: Garamond;
+}
+
+argument {
+  display: block;
+  margin-left: 5%;
+  font-style: italic;
+  font-size: 90%;
+}
+
+milestone::before {
+  content: "[" attr(id) "] ";
+  font-style: normal;
+  font-size: 70%;
+  color: green;
+}
+
+name[type='person'] {
+  color: blue;
+}

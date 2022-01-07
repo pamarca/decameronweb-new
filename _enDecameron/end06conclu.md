@@ -12,6 +12,9 @@ layout: "single"
     Conclusion
    </head>
    <p>
+    [Speaker: author]
+   </p>
+   <p>
     <milestone id="p06970001"/>
     Immense was the delight and
 diversion which this story afforded

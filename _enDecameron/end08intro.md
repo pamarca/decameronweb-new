@@ -12,6 +12,9 @@ layout: "single"
     Introduction
    </head>
    <p>
+    [Speaker: author]
+   </p>
+   <p>
     <milestone id="p08980002"/>
     <!--(sc)-->
     The

@@ -12,6 +12,9 @@ layout: "single"
     Conclusion
    </head>
    <p>
+    [Speaker: author]
+   </p>
+   <p>
     <milestone id="p02970001"/>
     This story provoked so much laughter that the jaws of every one
  in the company ached; and all the ladies by common consent

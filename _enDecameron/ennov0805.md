@@ -11,6 +11,9 @@ layout: "single"
    <head>
     Novel V
    </head>
+   <p>
+    [Speaker: filostrato]
+   </p>
    <argument>
     <p>
      <milestone id="p08050001"/>

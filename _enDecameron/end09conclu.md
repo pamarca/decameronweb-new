@@ -12,6 +12,9 @@ layout: "single"
     Conclusion
    </head>
    <p>
+    [Speaker: author]
+   </p>
+   <p>
     <milestone id="p09970001"/>
     What laughter this story drew from the ladies, who understood it
  better than Dioneo had wished, may be left to the imagination of

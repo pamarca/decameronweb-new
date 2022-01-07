@@ -12,6 +12,9 @@ layout: "single"
     Conclusion
    </head>
    <p>
+    [Speaker: author]
+   </p>
+   <p>
     <milestone id="p03970001"/>
     A thousand times or more had Dioneo's story brought the laugh to
  the lips of the honourable ladies, so quaint and curiously entertaining

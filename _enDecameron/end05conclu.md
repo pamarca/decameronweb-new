@@ -12,6 +12,9 @@ layout: "single"
     Conclusion
    </head>
    <p>
+    [Speaker: author]
+   </p>
+   <p>
     <milestone id="p05970001"/>
     Dioneo's story, whereat the ladies laughed the less for shamefastness
  rather than for disrelish, being ended, the queen, taking

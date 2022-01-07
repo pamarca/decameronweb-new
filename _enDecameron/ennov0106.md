@@ -11,6 +11,9 @@ layout: "single"
    <head>
     Novel VI
    </head>
+   <p>
+    [Speaker: emilia]
+   </p>
    <argument>
     <p>
      <milestone id="p01060001"/>

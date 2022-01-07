@@ -12,6 +12,9 @@ layout: "single"
     Introduction
    </head>
    <p>
+    [Speaker: author]
+   </p>
+   <p>
     <milestone id="p01980002"/>
     As often, most gracious ladies, as I bethink me, how compassionate
  you are by nature one and all, I do not disguise from

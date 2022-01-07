@@ -11,6 +11,9 @@ layout: "single"
    <head>
     Novel I
    </head>
+   <p>
+    [Speaker: neifile]
+   </p>
    <argument>
     <p>
      <milestone id="p02010001"/>

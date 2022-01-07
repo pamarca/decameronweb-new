@@ -12,6 +12,9 @@ layout: "single"
     Conclusion
    </head>
    <p>
+    [Speaker: author]
+   </p>
+   <p>
     <milestone id="p01970001"/>
     As the young ladies and the three young men finished their story-telling
       the sun was westering and the heat of the day in great

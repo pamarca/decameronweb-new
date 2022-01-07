@@ -8,6 +8,9 @@ layout: "single"
  </head>
  <body>
   <div id="nov0705" type="novella" who="fiammetta">
+   <p>
+    [Speaker: fiammetta]
+   </p>
    <head>
     Novella Quinta
    </head>

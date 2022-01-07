@@ -8,6 +8,9 @@ layout: "single"
  </head>
  <body>
   <div id="d10conclu" type="conclusion">
+   <p>
+    [Speaker: dioneo]
+   </p>
    <head>
     Conclusione
    </head>

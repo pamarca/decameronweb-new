@@ -18,6 +18,25 @@ divs_it = italian_soup.find_all('div2')
 for div_it in divs_it:
     div_it.name = 'div'
 
+# adding speaker line
+for d2t in divs_eng:
+    novella = d2t['id']
+    speaker = d2t['who']
+
+    adding_speaker_line = english_soup.new_tag('p')
+    adding_speaker_line.string = '[Speaker: ' + speaker + ']'
+    d2t.insert(1, adding_speaker_line)
+
+for d2t in divs_it:
+    novella = d2t['id']
+    try:
+        speaker = d2t['who']
+    except:
+        speaker: 'None'
+    adding_speaker_line = italian_soup.new_tag('p')
+    adding_speaker_line.string = '[Speaker: ' + speaker + ']'
+    d2t.insert(1, adding_speaker_line)
+
 #create dict
 def add_dict_to_div2(div2_variable):
     div2_data_info = []

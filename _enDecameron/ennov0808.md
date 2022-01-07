@@ -11,6 +11,9 @@ layout: "single"
    <head>
     Novel VIII
    </head>
+   <p>
+    [Speaker: fiammetta]
+   </p>
    <argument>
     <p>
      <milestone id="p08080001"/>

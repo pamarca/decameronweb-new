@@ -8,6 +8,9 @@ layout: "single"
  </head>
  <body>
   <div id="d10intro" type="introduction">
+   <p>
+    [Speaker: author]
+   </p>
    <head>
     Introduzione
    </head>

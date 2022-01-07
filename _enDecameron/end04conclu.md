@@ -12,6 +12,9 @@ layout: "single"
     Conclusion
    </head>
    <p>
+    [Speaker: author]
+   </p>
+   <p>
     <milestone id="p04970001"/>
     Heartsore as the gentle ladies had been made by the preceding
  stories, this last of Dioneo provoked them to such merriment, more

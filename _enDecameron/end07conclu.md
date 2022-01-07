@@ -12,6 +12,9 @@ layout: "single"
     Conclusion
    </head>
    <p>
+    [Speaker: author]
+   </p>
+   <p>
     <milestone id="p07970001"/>
     The sun was westering, and a light breeze blew,
 when the king, his story ended, and none else being left to speak, arose, and taking off

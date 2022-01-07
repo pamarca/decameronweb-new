@@ -11,9 +11,6 @@ layout: "single"
    <head>
     Novel III
    </head>
-   <p>
-    [Speaker: filomena]
-   </p>
    <argument>
     <p>
      <milestone id="p01030001"/>
@@ -21,6 +18,11 @@ layout: "single"
 	great danger with which he was menaced by Saladin.
     </p>
    </argument>
+   <p>
+    <i>
+     [Speaker: filomena]
+    </i>
+   </p>
    <div3 type="commentary" who="author">
     <p>
      <milestone id="p01030002"/>

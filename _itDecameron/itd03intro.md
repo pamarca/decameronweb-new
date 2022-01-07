@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d03intro" type="introduction" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Introduzione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p03980002"/>
     L'aurora gi&agrave; di vermiglia cominciava, appressandosi il sole, a divenir rancia, quando la domenica, la

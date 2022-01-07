@@ -7,13 +7,15 @@ layout: "single"
  <head>
  </head>
  <body>
-  <div id="d10conclu" type="conclusion">
-   <p>
-    [Speaker: dioneo]
-   </p>
+  <div id="d10conclu" type="conclusion" who="author">
    <head>
     Conclusione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p10970001"/>
     La novella di

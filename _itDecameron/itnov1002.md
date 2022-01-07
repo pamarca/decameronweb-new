@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="nov1002" type="novella" who="elissa">
-   <p>
-    [Speaker: elissa]
-   </p>
    <head>
     Novella Seconda
    </head>
+   <p>
+    <i>
+     [Speaker: elissa]
+    </i>
+   </p>
    <argument>
     <p>
      <milestone id="p00020001"/>

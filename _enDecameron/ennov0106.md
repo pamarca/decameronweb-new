@@ -11,9 +11,6 @@ layout: "single"
    <head>
     Novel VI
    </head>
-   <p>
-    [Speaker: emilia]
-   </p>
    <argument>
     <p>
      <milestone id="p01060001"/>
@@ -21,6 +18,11 @@ layout: "single"
  hypocrisy of the religious.
     </p>
    </argument>
+   <p>
+    <i>
+     [Speaker: emilia]
+    </i>
+   </p>
    <div3 type="commentary" who="author">
     <p>
      <milestone id="p01060002"/>

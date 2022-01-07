@@ -12,9 +12,6 @@ layout: "single"
     Introduction
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p02980002"/>
     <!--(sc)-->
     The
@@ -38,6 +35,11 @@ layout: "single"
  crowned with her laurel wreath, as for a brief space she scanned the
  company, and then bade Neifile shew others the way with a story.
  Neifile made no excuse, and gaily thus began.
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
   </div>
  </body>

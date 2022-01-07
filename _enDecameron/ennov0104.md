@@ -11,9 +11,6 @@ layout: "single"
    <head>
     Novel IV
    </head>
-   <p>
-    [Speaker: dioneo]
-   </p>
    <argument>
     <p>
      <milestone id="p01040001"/>
@@ -22,6 +19,11 @@ layout: "single"
  thus evades the penalty.
     </p>
    </argument>
+   <p>
+    <i>
+     [Speaker: dioneo]
+    </i>
+   </p>
    <div3 type="commentary" who="author">
     <p>
      <milestone id="p01040002"/>

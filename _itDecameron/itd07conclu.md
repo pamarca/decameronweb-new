@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d07conclu" type="conclusion" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Conclusione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p07970001"/>
     <name>

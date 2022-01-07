@@ -5,8 +5,8 @@ import bs4  # for assertions
 import helpers
 
 ## load up xml-objects --------------------------
-english_xml_path = os.path.abspath( '../xml/source_files/engDecameron.xml' )
-italian_xml_path = os.path.abspath( '../xml/source_files/itDecameron.xml' )
+english_xml_path = os.path.abspath( '../xml/engDecameron.xml' )
+italian_xml_path = os.path.abspath( '../xml/itDecameron.xml' )
 english_soup = helpers.load_xml(english_xml_path)
 italian_soup = helpers.load_xml(italian_xml_path)
 
@@ -19,23 +19,16 @@ for div_it in divs_it:
     div_it.name = 'div'
 
 # adding speaker line
-for d2t in divs_eng:
-    novella = d2t['id']
-    speaker = d2t['who']
-
-    adding_speaker_line = english_soup.new_tag('p')
-    adding_speaker_line.string = '[Speaker: ' + speaker + ']'
-    d2t.insert(1, adding_speaker_line)
-
-for d2t in divs_it:
-    novella = d2t['id']
-    try:
+def add_speaker_line(div2_variable, soup):
+    for d2t in div2_variable:
         speaker = d2t['who']
-    except:
-        speaker: 'None'
-    adding_speaker_line = italian_soup.new_tag('p')
-    adding_speaker_line.string = '[Speaker: ' + speaker + ']'
-    d2t.insert(1, adding_speaker_line)
+
+        add_speaker = soup.new_tag('p')
+        add_speaker.string = '[Speaker: ' + speaker + ']'
+        d2t.insert(2, add_speaker)
+        #d2t.p.insert_before(add_speaker)
+        add_speaker.string.wrap(soup.new_tag('i'))
+    return
 
 #create dict
 def add_dict_to_div2(div2_variable):
@@ -43,10 +36,7 @@ def add_dict_to_div2(div2_variable):
     for div2_obj in div2_variable:
         assert type(div2_obj) == bs4.element.Tag
         type_attribute = div2_obj['type']
-        try:
-            who = div2_obj['who']
-        except:
-            who = 'None'
+        who = div2_obj['who']
         id_attribute = div2_obj['id']
         heads = div2_obj.select('head')
         head_text = heads[0].text
@@ -79,6 +69,9 @@ def create_md_files(div2_results, div2_data_info, outpath, lang):
 
 div2_results_eng = english_soup.select('div')
 div2_results_it = italian_soup.select('div')
+
+div2_speaker_eng = add_speaker_line(div2_results_eng, english_soup)
+div2_speaker_it = add_speaker_line(div2_results_it, italian_soup)
 
 div2_data_info_eng = add_dict_to_div2(div2_results_eng)
 div2_data_info_it = add_dict_to_div2(div2_results_it)

@@ -18020,7 +18020,7 @@ Settima-->
           <name type="person" persref="panfilo">Panfilo</name>, si ragiona di chi liberalmente ovvero magnificamente alcuna cosa operasse intorno a' fatti d'amore o d'altra cosa.</p>
         </argument>
         <!--Introduzione-->
-        <div2 type="introduction" id="d10intro">
+        <div2 type="introduction" who="author" id="d10intro">
           <head>Introduzione</head>
           <p>
           <milestone id="p10980002" />Ancora eran vermigli certi nuvoletti nell'occidente, essendo già quegli dello oriente nelle loro estremità simili ad oro lucentissimi divenuti per li solari raggi che molto loro avvicinandosi li ferieno, quando 
@@ -20342,7 +20342,7 @@ Terza-->
           <milestone id="p00100069" />Al quale non sarebbe forse stato male investito d'essersi abbattuto a una che quando, fuor di casa, l'avesse in camiscia cacciata, s'avesse sí a un altro fatto scuotere il pilliccione che riuscito ne fosse una bella roba.</p>
         </div2>
         <!--Conclusione-->
-        <div2 type="conclusion" id="d10conclu">
+        <div2 type="conclusion" who="author" id="d10conclu">
           <head>Conclusione</head>
           <p>
           <milestone id="p10970001" />La novella di 

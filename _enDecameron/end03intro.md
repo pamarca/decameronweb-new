@@ -12,9 +12,6 @@ layout: "single"
     Introduction
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p03980002"/>
     <!--(sc)-->
     The
@@ -161,6 +158,11 @@ layout: "single"
  them down in their wonted order by the fountain, waited for the
  story-telling to begin upon the theme assigned by the queen. With
  this duty the queen first charged Filostrato, who began on this wise.
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
   </div>
  </body>

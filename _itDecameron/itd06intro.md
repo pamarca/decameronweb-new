@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d06intro" type="introduction" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Introduzione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p06980002"/>
     Aveva la luna, essendo nel mezzo del cielo, perduti i raggi suoi, e gi&agrave; per la nuova luce vegnente ogni parte del nostro mondo era chiara, quando la

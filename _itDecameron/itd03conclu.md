@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d03conclu" type="conclusion" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Conclusione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p03970001"/>
     Mille fiate o pi&uacute; aveva la novella di Dioneo a rider mosse l'oneste donne, tali e s&iacute; fatte lor parevan le sue parole; per che, venuto egli al conchiuder di quella, conoscendo la

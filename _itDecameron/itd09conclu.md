@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d09conclu" type="conclusion" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Conclusione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p09970001"/>
     Quanto di questa novella si ridesse, meglio dalle donne intesa che

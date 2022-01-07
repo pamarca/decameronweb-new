@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d09intro" type="introduction" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Introduzione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p09980002"/>
     La luce, il cui splendore la notte fugge, aveva gi&agrave; l'ottavo cielo d'azzurrino in color cilestro mutato tutto, e cominciavansi i fioretti per li prati a levar suso, quando

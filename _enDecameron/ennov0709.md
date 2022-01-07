@@ -11,9 +11,6 @@ layout: "single"
    <head>
     Novel IX
    </head>
-   <p>
-    [Speaker: panfilo]
-   </p>
    <argument>
     <p>
      <milestone id="p07090001"/>
@@ -25,6 +22,11 @@ Nicostratus believe that what he saw was not real.
      <!--(/i)-->
     </p>
    </argument>
+   <p>
+    <i>
+     [Speaker: panfilo]
+    </i>
+   </p>
    <div3 type="commentary" who="author">
     <p>
      <milestone id="p07090002"/>

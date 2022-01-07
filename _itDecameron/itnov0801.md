@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="nov0801" type="novella" who="neifile">
-   <p>
-    [Speaker: neifile]
-   </p>
    <head>
     Novella Prima
    </head>
+   <p>
+    <i>
+     [Speaker: neifile]
+    </i>
+   </p>
    <argument who="author">
     <p id="p08010001">
      <name persref="gulfardo" type="person">

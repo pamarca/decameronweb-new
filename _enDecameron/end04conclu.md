@@ -12,9 +12,6 @@ layout: "single"
     Conclusion
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p04970001"/>
     Heartsore as the gentle ladies had been made by the preceding
  stories, this last of Dioneo provoked them to such merriment, more
@@ -88,6 +85,11 @@ layout: "single"
     <milestone id="p04970010"/>
     Filostrato answered that he
  would gladly do so; and without delay began to sing on this wise:
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
    <div3 type="song" who="filostrato">
     <lg>

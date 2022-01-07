@@ -12,9 +12,6 @@ layout: "single"
     Introduction
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p09980002"/>
     <!--(sc)-->
     The
@@ -81,6 +78,11 @@ layout: "single"
  gathered at the wonted spot for their discoursing, and the queen,
  bending her regard upon Filomena, bade her make a beginning of
  the day's story-telling, which she with a smile did on this wise:
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
   </div>
  </body>

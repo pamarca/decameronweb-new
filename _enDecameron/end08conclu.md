@@ -12,9 +12,6 @@ layout: "single"
     Conclusion
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p08970001"/>
     No sooner was Dioneo's story ended, than Lauretta, witting
  that therewith the end of her sovereignty was come, bestowed her
@@ -30,6 +27,11 @@ layout: "single"
     </q>
     Which said, she resumed
  her seat.
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
    <p>
     <milestone id="p08970002"/>

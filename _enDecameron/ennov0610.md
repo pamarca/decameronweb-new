@@ -11,9 +11,6 @@ layout: "single"
    <head>
     Novel X
    </head>
-   <p>
-    [Speaker: dioneo]
-   </p>
    <argument>
     <p>
      <milestone id="p06100001"/>
@@ -24,6 +21,11 @@ those with which St. Lawrence was roasted.
      <!--(/i)-->
     </p>
    </argument>
+   <p>
+    <i>
+     [Speaker: dioneo]
+    </i>
+   </p>
    <div3 type="commentary" who="author">
     <p>
      <milestone id="p06100002"/>

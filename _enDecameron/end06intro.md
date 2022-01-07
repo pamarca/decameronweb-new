@@ -12,9 +12,6 @@ layout: "single"
     Introduction
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p06980002"/>
     <!--(sc)-->
     Still
@@ -35,6 +32,11 @@ themselves to their meal. So, having blithely
 breakfasted, they first of all sang some dainty and jocund ditties, and
 then, as they were severally minded, composed them to sleep or sat them down to chess or
 dice, while Dioneo and Lauretta fell a singing of Troilus and Cressida.
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
    <p>
     <milestone id="p06980004"/>

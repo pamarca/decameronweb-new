@@ -12,9 +12,6 @@ layout: "single"
     Introduction
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p05980002"/>
     <!--(sc)-->
     All
@@ -53,6 +50,11 @@ layout: "single"
  queen, having seated herself on her throne, glanced towards Pamfilo,
  and bade him with a smile lead off with the stories of good fortune.
  Whereto Pamfilo gladly addressed himself, and thus began.
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
   </div>
  </body>

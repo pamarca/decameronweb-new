@@ -7,13 +7,15 @@ layout: "single"
  <head>
  </head>
  <body>
-  <div id="d10intro" type="introduction">
-   <p>
-    [Speaker: author]
-   </p>
+  <div id="d10intro" type="introduction" who="author">
    <head>
     Introduzione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p10980002"/>
     Ancora eran vermigli certi nuvoletti nell'occidente, essendo gi&agrave; quegli dello oriente nelle loro estremit&agrave; simili ad oro lucentissimi divenuti per li solari raggi che molto loro avvicinandosi li ferieno, quando

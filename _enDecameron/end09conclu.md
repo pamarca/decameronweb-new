@@ -12,9 +12,6 @@ layout: "single"
     Conclusion
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p09970001"/>
     What laughter this story drew from the ladies, who understood it
  better than Dioneo had wished, may be left to the imagination of
@@ -70,6 +67,11 @@ layout: "single"
  beasts, must not only covet, but with all zeal seek after and labour to
  attain.
     </q>
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
    <p>
     <milestone id="p09970006"/>

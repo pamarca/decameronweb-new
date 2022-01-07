@@ -12,9 +12,6 @@ layout: "single"
     Introduction
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p10980002"/>
     <!--(sc)-->
     Some
@@ -40,6 +37,11 @@ layout: "single"
  meal taken, they slept as they were wont; and then, at a spot chosen
  by the king, they reassembled, where Neifile, having received his
  command to lead the way, blithely thus began.
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
   </div>
  </body>

@@ -11,9 +11,6 @@ layout: "single"
    <head>
     Novel III
    </head>
-   <p>
-    [Speaker: lauretta]
-   </p>
    <argument>
     <p>
      <milestone id="p06030001"/>
@@ -23,6 +20,11 @@ scarce seemly jesting of the Bishop of Florence.
      <!--(/i)-->
     </p>
    </argument>
+   <p>
+    <i>
+     [Speaker: lauretta]
+    </i>
+   </p>
    <div3 type="commentary" who="author">
     <p>
      <milestone id="p06030002"/>

@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d01intro" type="introduction" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Introduzione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p01980002"/>
     Quantunque volte, graziosissime donne, meco pensando riguardo quanto voi naturalmente tutte siete pietose, tante conosco che la presente opera al vostro iudicio avr&agrave; grave e noioso principio, s&iacute; come &egrave; la dolorosa ricordazione della pestifera mortalit&agrave; trapassata, universalmente a ciascuno che quella vide o altramenti conobbe dannosa, la quale essa porta nella sua fronte.

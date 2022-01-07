@@ -11,9 +11,6 @@ layout: "single"
    <head>
     Novel IX
    </head>
-   <p>
-    [Speaker: elissa]
-   </p>
    <argument>
     <p>
      <milestone id="p01090001"/>
@@ -21,6 +18,11 @@ layout: "single"
 	Cyprus from a churlish to an honourable temper.
     </p>
    </argument>
+   <p>
+    <i>
+     [Speaker: elissa]
+    </i>
+   </p>
    <div3 type="commentary" who="author">
     <p>
      <milestone id="p01090002"/>

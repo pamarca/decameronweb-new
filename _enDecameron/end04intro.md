@@ -12,9 +12,6 @@ layout: "single"
     Introduction
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p04980002"/>
     <!--(sc)-->
     Dearest
@@ -140,6 +137,11 @@ layout: "single"
  you, may thereafter go to Florence for our supplies at your pleasure,
  and you remain here?
     </q>
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
    <p>
     <milestone id="p04980018"/>

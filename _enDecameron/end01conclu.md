@@ -12,9 +12,6 @@ layout: "single"
     Conclusion
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p01970001"/>
     As the young ladies and the three young men finished their story-telling
       the sun was westering and the heat of the day in great
@@ -44,6 +41,11 @@ layout: "single"
       gesture of reverence set it on the brow of Filomena, whom she then,
       and after her all the other ladies and the young men, saluted as
       queen, doing her due and graceful homage.
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
    <p>
     <milestone id="p01970005"/>

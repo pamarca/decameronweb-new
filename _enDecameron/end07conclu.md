@@ -12,9 +12,6 @@ layout: "single"
     Conclusion
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p07970001"/>
     The sun was westering, and a light breeze blew,
 when the king, his story ended, and none else being left to speak, arose, and taking off
@@ -89,6 +86,11 @@ music.
     <milestone id="p07970009"/>
     Which done, the queen bade Filomena give them a song; and thus Filomena
 sang:
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
    <div3 type="song" who="filomena">
     <lg>

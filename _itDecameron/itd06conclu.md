@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d06conclu" type="conclusion" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Conclusione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p06970001"/>
     Questa novella porse igualmente a tutta la brigata grandissimo piacere e sollazzo, e molto per tutti fu riso di

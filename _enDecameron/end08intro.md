@@ -12,9 +12,6 @@ layout: "single"
     Introduction
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p08980002"/>
     <!--(sc)-->
     The
@@ -33,6 +30,11 @@ layout: "single"
  was past the meridian, the queen mustered them again for their
  wonted pastime; and, all being seated by the fair fountain, thus, at
  her command, Neifile began.
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
   </div>
  </body>

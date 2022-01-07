@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d02intro" type="introduction" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Introduzione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p02980002"/>
     Gi&agrave; per tutto aveva il sol recato con la sua luce il nuovo giorno e gli uccelli su per li verdi rami cantando piacevoli versi ne davano agli orecchi testimonianza, quando parimente tutte le donne e i tre giovani levatisi ne'

@@ -12,9 +12,6 @@ layout: "single"
     Conclusion
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p06970001"/>
     Immense was the delight and
 diversion which this story afforded
@@ -162,6 +159,11 @@ fitter for low minds than yours, and let each
 goodly story, and Fortune prosper her
  therein.
     </q>
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
    <p>
     <milestone id="p06970016"/>

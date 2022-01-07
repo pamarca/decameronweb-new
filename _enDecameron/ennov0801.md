@@ -11,9 +11,6 @@ layout: "single"
    <head>
     Novel I
    </head>
-   <p>
-    [Speaker: neifile]
-   </p>
    <argument>
     <p>
      <milestone id="p08010001"/>
@@ -26,6 +23,11 @@ layout: "single"
      <!--(/i)-->
     </p>
    </argument>
+   <p>
+    <i>
+     [Speaker: neifile]
+    </i>
+   </p>
    <div3 type="commentary" who="neifile">
     <p>
      <milestone id="p08010002"/>

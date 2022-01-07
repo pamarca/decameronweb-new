@@ -12,9 +12,6 @@ layout: "single"
     Conclusion
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p00970001"/>
     So ended Dioneo's story, whereof the ladies, diversely inclining,
  one to censure where another found matter for commendation, had
@@ -68,6 +65,11 @@ layout: "single"
  morning. Should you decide otherwise, I have already
  determined whom to crown for the ensuing day.
     </q>
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
    <p>
     <milestone id="p00970008"/>

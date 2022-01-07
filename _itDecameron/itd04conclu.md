@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d04conclu" type="conclusion" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Conclusione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p04970001"/>
     Se le prime novelle li petti delle vaghe donne avevan contristati questa ultima di

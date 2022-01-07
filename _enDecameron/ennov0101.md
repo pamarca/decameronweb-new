@@ -11,9 +11,6 @@ layout: "single"
    <head>
     Novel I
    </head>
-   <p>
-    [Speaker: panfilo]
-   </p>
    <argument>
     <p>
      <milestone id="p01010001"/>
@@ -23,6 +20,11 @@ layout: "single"
 	Ciappelletto.
     </p>
    </argument>
+   <p>
+    <i>
+     [Speaker: panfilo]
+    </i>
+   </p>
    <div3 type="commentary" who="panfilo">
     <p>
      <milestone id="p01010002"/>

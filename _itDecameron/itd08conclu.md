@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d08conclu" type="conclusion" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Conclusione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <!--****giovi
 04/15: you need to encode la "bella fontana" once you know which one it is
 

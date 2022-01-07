@@ -11,9 +11,6 @@ layout: "single"
    <head>
     Novel V
    </head>
-   <p>
-    [Speaker: fiammetta]
-   </p>
    <argument>
     <p>
      <milestone id="p01050001"/>
@@ -22,6 +19,11 @@ layout: "single"
 	of France.
     </p>
    </argument>
+   <p>
+    <i>
+     [Speaker: fiammetta]
+    </i>
+   </p>
    <div3 type="commentary" who="author">
     <p>
      <milestone id="p01050002"/>

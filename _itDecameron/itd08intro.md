@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d08intro" type="introduction" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Introduzione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p08980002"/>
     Gi&agrave; nella sommit&agrave; de' pi&uacute; alti monti apparivano la

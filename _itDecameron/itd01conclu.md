@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d01conclu" type="conclusion" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Conclusione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p01970001"/>
     Gi&agrave; era il sole inchinato al vespro e in gran parte il caldo diminuito, quando le novelle delle giovani donne e de' tre giovani si trovarono esser finite.

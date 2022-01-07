@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d04intro" type="introduction" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Introduzione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p04980002"/>
     Carissime donne, s&iacute; per le parole de' savi uomini udite e s&iacute; per le cose da me molte volte e vedute e lette, estimava io che lo 'mpetuoso vento e ardente della invidia non dovesse percuotere se non l'alte torri o le pi&uacute; levate cime degli alberi; ma io mi truovo dalla mia estimazione ingannato.

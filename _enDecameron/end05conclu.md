@@ -12,9 +12,6 @@ layout: "single"
     Conclusion
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p05970001"/>
     Dioneo's story, whereat the ladies laughed the less for shamefastness
  rather than for disrelish, being ended, the queen, taking
@@ -172,6 +169,11 @@ layout: "single"
     <milestone id="p05970015"/>
     Whereupon Dioneo forthwith ceased his
       fooling, and sang on this wise:
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
    <pb n="70"/>
    <div3 type="song" who="dioneo">

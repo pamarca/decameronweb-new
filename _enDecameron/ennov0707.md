@@ -11,9 +11,6 @@ layout: "single"
    <head>
     Novel VII
    </head>
-   <p>
-    [Speaker: filomena]
-   </p>
    <argument>
     <p>
      <milestone id="p07070001"/>
@@ -26,6 +23,11 @@ Egano.
      <!--(/i)-->
     </p>
    </argument>
+   <p>
+    <i>
+     [Speaker: filomena]
+    </i>
+   </p>
    <div3 type="commentary" who="author">
     <p>
      <milestone id="p07070002"/>

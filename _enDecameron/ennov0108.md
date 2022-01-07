@@ -11,9 +11,6 @@ layout: "single"
    <head>
     Novel VIII
    </head>
-   <p>
-    [Speaker: lauretta]
-   </p>
    <argument>
     <p>
      <milestone id="p01080001"/>
@@ -21,6 +18,11 @@ layout: "single"
  avarice in Messer Ermino de' Grimaldi.
     </p>
    </argument>
+   <p>
+    <i>
+     [Speaker: lauretta]
+    </i>
+   </p>
    <div3 type="commentary" who="author">
     <p>
      <milestone id="p01080002"/>

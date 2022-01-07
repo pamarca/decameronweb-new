@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d07intro" type="introduction" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Introduzione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p07980002"/>
     Ogni stella era gi&agrave; delle parti d'oriente fuggita, se non quella sola, la qual noi chiamiamo

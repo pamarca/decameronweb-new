@@ -12,9 +12,6 @@ layout: "single"
     Introduction
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p01980002"/>
     As often, most gracious ladies, as I bethink me, how compassionate
  you are by nature one and all, I do not disguise from
@@ -50,6 +47,11 @@ layout: "single"
     <pb n="5"/>
     will hereafter read, came to pass, I am almost bound of necessity to
  enter upon it, if I would write of them at all.
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
    <p>
     <milestone id="p01980008"/>

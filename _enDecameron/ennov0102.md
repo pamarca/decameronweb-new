@@ -11,9 +11,6 @@ layout: "single"
    <head>
     Novel II
    </head>
-   <p>
-    [Speaker: neifile]
-   </p>
    <argument>
     <p>
      <milestone id="p01020001"/>
@@ -23,6 +20,11 @@ layout: "single"
  and becomes a Christian.
     </p>
    </argument>
+   <p>
+    <i>
+     [Speaker: neifile]
+    </i>
+   </p>
    <div3 type="commentary" who="author">
     <p>
      <milestone id="p01020002"/>

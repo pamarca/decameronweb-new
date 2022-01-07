@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d05intro" type="introduction" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Introduzione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p05980002"/>
     Era gi&agrave; l'oriente tutto bianco e li surgenti raggi per tutto il nostro emisperio avevan fatto chiaro, quando

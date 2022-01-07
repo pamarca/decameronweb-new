@@ -12,9 +12,6 @@ layout: "single"
     Introduction
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p07980002"/>
     <!--(sc)-->
     Fled
@@ -67,6 +64,11 @@ diversions.
 the story-telling being come, the king had carpets spread on the sward no great way from
 the place where they had breakfasted; and, all having sat them down beside the lake, he
 bade Emilia begin; which, blithe and smiling, Emilia did on this wise.
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
   </div>
  </body>

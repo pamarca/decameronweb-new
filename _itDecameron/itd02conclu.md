@@ -8,12 +8,14 @@ layout: "single"
  </head>
  <body>
   <div id="d02conclu" type="conclusion" who="author">
-   <p>
-    [Speaker: author]
-   </p>
    <head>
     Conclusione
    </head>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
+   </p>
    <p>
     <milestone id="p02970001"/>
     Questa novella di&egrave; tanto che ridere a tutta la compagnia, che niuna ve n'era a cui non dolessero le mascelle: e di pari consentimento tutte le donne dissero che

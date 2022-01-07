@@ -12,9 +12,6 @@ layout: "single"
     Conclusion
    </head>
    <p>
-    [Speaker: author]
-   </p>
-   <p>
     <milestone id="p02970001"/>
     This story provoked so much laughter that the jaws of every one
  in the company ached; and all the ladies by common consent
@@ -88,6 +85,11 @@ layout: "single"
  some matter, which to tell may be profitable or at least delectable to
  the company, saving always Dioneo's privilege.
     </q>
+   </p>
+   <p>
+    <i>
+     [Speaker: author]
+    </i>
    </p>
    <p>
     <milestone id="p02970010"/>

@@ -171,9 +171,9 @@ layout: "single"
       fooling, and sang on this wise:
    </p>
    <p>
-    <i>
-     [Speaker: author]
-    </i>
+    <h3>
+     [Voice: author]
+    </h3>
    </p>
    <pb n="70"/>
    <div3 type="song" who="dioneo">

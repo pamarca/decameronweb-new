@@ -24,9 +24,9 @@ afterwards to carry it to his house.
     </p>
    </argument>
    <p>
-    <i>
-     [Speaker: filostrato]
-    </i>
+    <h3>
+     [Voice: filostrato]
+    </h3>
    </p>
    <div3 type="commentary" who="author">
     <p>

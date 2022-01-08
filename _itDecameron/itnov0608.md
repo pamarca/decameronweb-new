@@ -12,9 +12,9 @@ layout: "single"
     Novella Ottava
    </head>
    <p>
-    <i>
-     [Speaker: emilia]
-    </i>
+    <h3>
+     [Voice: emilia]
+    </h3>
    </p>
    <argument>
     <p>

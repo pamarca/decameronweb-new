@@ -46,3 +46,7 @@ milestone::before {
 name[type='person'] {
   color: blue;
 }
+
+header {
+  display: none;
+}

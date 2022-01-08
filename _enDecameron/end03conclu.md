@@ -86,9 +86,9 @@ layout: "single"
     Which said, he arose, and dismissed them all until supper-time.
    </p>
    <p>
-    <i>
-     [Speaker: author]
-    </i>
+    <h3>
+     [Voice: author]
+    </h3>
    </p>
    <p>
     <milestone id="p03970007"/>

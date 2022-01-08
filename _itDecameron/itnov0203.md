@@ -12,9 +12,9 @@ layout: "single"
     Novella Terza
    </head>
    <p>
-    <i>
-     [Speaker: pampinea]
-    </i>
+    <h3>
+     [Voice: pampinea]
+    </h3>
    </p>
    <argument>
     <p>

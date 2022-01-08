@@ -19,9 +19,9 @@ layout: "single"
     </p>
    </argument>
    <p>
-    <i>
-     [Speaker: elissa]
-    </i>
+    <h3>
+     [Voice: elissa]
+    </h3>
    </p>
    <div3 type="commentary" who="author">
     <p>

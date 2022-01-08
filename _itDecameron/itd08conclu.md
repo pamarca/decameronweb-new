@@ -12,9 +12,9 @@ layout: "single"
     Conclusione
    </head>
    <p>
-    <i>
-     [Speaker: author]
-    </i>
+    <h3>
+     [Voice: author]
+    </h3>
    </p>
    <!--****giovi
 04/15: you need to encode la "bella fontana" once you know which one it is

@@ -24,9 +24,9 @@ him.
     </p>
    </argument>
    <p>
-    <i>
-     [Speaker: fiammetta]
-    </i>
+    <h3>
+     [Voice: fiammetta]
+    </h3>
    </p>
    <div3 type="commentary" who="author">
     <p>

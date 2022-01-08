@@ -21,9 +21,9 @@ scarce seemly jesting of the Bishop of Florence.
     </p>
    </argument>
    <p>
-    <i>
-     [Speaker: lauretta]
-    </i>
+    <h3>
+     [Voice: lauretta]
+    </h3>
    </p>
    <div3 type="commentary" who="author">
     <p>

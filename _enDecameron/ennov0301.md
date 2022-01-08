@@ -22,9 +22,9 @@ layout: "single"
     </p>
    </argument>
    <p>
-    <i>
-     [Speaker: filostrato]
-    </i>
+    <h3>
+     [Voice: filostrato]
+    </h3>
    </p>
    <div3 type="commentary" who="filostrato">
     <p>

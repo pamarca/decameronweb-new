@@ -27,9 +27,9 @@ rating.
     </p>
    </argument>
    <p>
-    <i>
-     [Speaker: neifile]
-    </i>
+    <h3>
+     [Voice: neifile]
+    </h3>
    </p>
    <div3 type="commentary" who="author">
     <p>

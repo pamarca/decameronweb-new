@@ -12,9 +12,9 @@ layout: "single"
     Novella Nona
    </head>
    <p>
-    <i>
-     [Speaker: filostrato]
-    </i>
+    <h3>
+     [Voice: filostrato]
+    </h3>
    </p>
    <argument>
     <p>

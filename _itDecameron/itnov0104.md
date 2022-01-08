@@ -12,9 +12,9 @@ layout: "single"
     Novella Quarta
    </head>
    <p>
-    <i>
-     [Speaker: dioneo]
-    </i>
+    <h3>
+     [Voice: dioneo]
+    </h3>
    </p>
    <argument>
     <p>

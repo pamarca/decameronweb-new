@@ -12,9 +12,9 @@ layout: "single"
     Novella Prima
    </head>
    <p>
-    <i>
-     [Speaker: neifile]
-    </i>
+    <h3>
+     [Voice: neifile]
+    </h3>
    </p>
    <argument who="author">
     <p id="p08010001">

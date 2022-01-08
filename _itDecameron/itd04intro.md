@@ -12,9 +12,9 @@ layout: "single"
     Introduzione
    </head>
    <p>
-    <i>
-     [Speaker: author]
-    </i>
+    <h3>
+     [Voice: author]
+    </h3>
    </p>
    <p>
     <milestone id="p04980002"/>

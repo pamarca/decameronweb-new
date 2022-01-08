@@ -80,9 +80,9 @@ layout: "single"
  the day's story-telling, which she with a smile did on this wise:
    </p>
    <p>
-    <i>
-     [Speaker: author]
-    </i>
+    <h3>
+     [Voice: author]
+    </h3>
    </p>
   </div>
  </body>

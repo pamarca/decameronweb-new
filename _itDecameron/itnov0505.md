@@ -12,9 +12,9 @@ layout: "single"
     Novella Quinta
    </head>
    <p>
-    <i>
-     [Speaker: neifile]
-    </i>
+    <h3>
+     [Voice: neifile]
+    </h3>
    </p>
    <argument>
     <p>

@@ -1,0 +1,52 @@
+---
+title: Proem
+day: "proem"
+layout: "single-xml"
+---
+<html>
+ <head>
+ </head>
+ <body>
+  <prologue id="proem" who="author">
+   <head>
+    Proemio
+   </head>
+   <p>
+    <milestone id="p99990002"/>
+    Umana cosa &egrave; aver compassione degli afflitti: e come che a ciascuna persona stea bene, a coloro &egrave; massimamente richiesto li quali gi&agrave; hanno di conforto avuto mestiere e hannol trovato in alcuni; fra' quali, se alcuno mai n'ebbe bisogno o gli fu caro o gi&agrave; ne ricevette piacere, io sono uno di quegli.
+    <milestone id="p99990003"/>
+    Per ci&ograve; che, dalla mia prima giovinezza infino a questo tempo oltre modo essendo acceso stato d'altissimo e nobile amore, forse pi&uacute; assai che alla mia bassa condizione non parrebbe, narrandolo, si richiedesse, quantunque appo coloro che discreti erano e alla cui notizia pervenne io ne fossi lodato e da molto pi&uacute; reputato, nondimeno mi fu egli di grandissima fatica a sofferire, certo non per crudelt&agrave; della donna amata, ma per soverchio fuoco nella mente concetto da poco regolato appetito: il quale, per ci&ograve; che a niuno convenevole termine mi lasciava un tempo stare, pi&uacute; di noia che bisogno non m'era spesse volte sentir mi facea.
+    <milestone id="p99990004"/>
+    Nella qual noia tanto rifrigerio gi&agrave; mi porsero i piacevoli ragionamenti d'alcuno amico le sue laudevoli consolazioni, che io porto fermissima opinione per quelle essere avvenuto che io non sia morto.
+    <milestone id="p99990005"/>
+    Ma s&iacute; come a Colui piacque il quale, essendo Egli infinito, diede per legge incommutabile a tutte le cose mondane aver fine, il mio amore, oltre a ogn'altro fervente e il quale niuna forza di proponimento o di consiglio o di vergogna evidente, o pericolo che seguir ne potesse, aveva potuto n&eacute; rompere n&eacute; piegare, per se medesimo in processo di tempo si diminu&iacute; in guisa, che sol di s&eacute; nella mente m'ha al presente lasciato quel piacere che egli &egrave; usato di porgere a chi troppo non si mette ne' suoi pi&uacute; cupi pelaghi navigando; per che, dove faticoso esser solea, ogni affanno togliendo via, dilettevole il sento esser rimaso.
+   </p>
+   <p>
+    <milestone id="p99990006"/>
+    Ma quantunque cessata sia la pena, non per ci&ograve; &egrave; la memoria fuggita de' benefici gi&agrave; ricevuti, datimi da coloro a' quali per benivolenza da loro a me portata erano gravi le mie fatiche: n&eacute; passer&agrave; mai, s&iacute; come io credo, se non per morte.
+    <milestone id="p99990007"/>
+    E per ci&ograve; che la gratitudine, secondo che io credo, trall'altre virt&uacute; &egrave; sommamente da commendare e il contrario da biasimare, per non parere ingrato ho meco stesso proposto di volere, in quel poco che per me si pu&ograve;, in cambio di ci&ograve; che io ricevetti, ora che libero dir mi posso, e se non a coloro che me atarono, alli quali per avventura per lo lor senno o per la loro buona ventura non abisogna, a quegli almeno a' quali fa luogo, alcuno alleggiamento prestare.
+    <milestone id="p99990008"/>
+    E quantunque il mio sostentamento, o conforto che vogliam dire, possa essere e sia a' bisognosi assai poco, nondimeno parmi quello doversi pi&uacute; tosto porgere dove il bisogno apparisce maggiore, s&iacute; perch&eacute; pi&uacute; utilit&agrave; vi far&agrave; e s&iacute; ancora perch&eacute; pi&uacute; vi fia caro avuto.
+   </p>
+   <p>
+    <milestone id="p99990009"/>
+    E chi negher&agrave; questo, quantunque egli si sia, non molto pi&uacute; alle vaghe donne che agli uomini convenirsi donare?
+    <milestone id="p99990010"/>
+    Esse dentro a' dilicati petti, temendo e vergognando, tengono l'amorose fiamme nascose, le quali quanto pi&uacute; di forza abbian che le palesi coloro il sanno che l'hanno provate: e oltre a ci&ograve;, ristrette da' voleri, da' piaceri, da' comandamenti de' padri, delle madri, de' fratelli e de' mariti, il pi&uacute; del tempo nel piccolo circuito delle loro camere racchiuse dimorano e quasi oziose sedendosi, volendo e non volendo in una medesima ora, seco rivolgendo diversi pensieri, li quali non &egrave; possibile che sempre sieno allegri.
+    <milestone id="p99990011"/>
+    E se per quegli alcuna malinconia, mossa da focoso disio, sopraviene nelle lor menti, in quelle conviene che con grave noia si dimori, se da nuovi ragionamenti non &egrave; rimossa: senza che elle sono molto men forti che gli uomini a sostenere; il che degli innamorati uomini non avviene, s&iacute; come noi possiamo apertamente vedere.
+    <milestone id="p99990012"/>
+    Essi, se alcuna malinconia o gravezza di pensieri gli affligge, hanno molti modi da alleggiare o da passar quello, per ci&ograve; che a loro, volendo essi, non manca l'andare a torno, udire e veder molte cose, uccellare, cacciare, pescare, cavalcare, giucare o mercatare: de' quali modi ciascuno ha forza di trarre, o in tutto o in parte, l'animo a s&eacute; e dal noioso pensiero rimuoverlo almeno per alcuno spazio di tempo, appresso il quale, con un modo o con altro, o consolazion sopraviene o diventa la noia minore.
+   </p>
+   <p>
+    <milestone id="p99990013"/>
+    Adunque, acci&ograve; che in parte per me s'amendi il peccato della fortuna, la quale dove meno era di forza, s&iacute; come noi nelle dilicate donne veggiamo, quivi pi&uacute; avara fu di sostegno, in soccorso e rifugio di quelle che amano, per ci&ograve; che all'altre &egrave; assai l'ago e 'l fuso e l'arcolaio, intendo di raccontare cento novelle, o favole o parabole o istorie che dire le vogliamo, raccontate in diece giorni da una onesta brigata di sette donne e di tre giovani nel pistelenzioso tempo della passata mortalit&agrave; fatta, e alcune canzonette dalle predette donne cantate al lor diletto.
+    <milestone id="p99990014"/>
+    Nelle quali novelle piacevoli e aspri casi d'amore e altri fortunati avvenimenti si vederanno cos&iacute; ne' moderni tempi avvenuti come negli antichi; delle quali le gi&agrave; dette donne, che queste leggeranno, parimente diletto delle sollazzevoli cose in quelle mostrate e utile consiglio potranno pigliare, in quanto potranno cognoscere quello che sia da fuggire e che sia similmente da seguitare: le quali cose senza passamento di noia non credo che possano intervenire.
+    <milestone id="p99990015"/>
+    Il che se avviene, che voglia Idio che cos&iacute; sia, a Amore ne rendano grazie, il quale liberandomi da' suoi legami m'ha conceduto il potere attendere a' lor piaceri.
+   </p>
+  </prologue>
+ </body>
+</html>

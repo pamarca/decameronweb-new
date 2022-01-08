@@ -88,9 +88,9 @@ music.
 sang:
    </p>
    <p>
-    <i>
-     [Speaker: author]
-    </i>
+    <h3>
+     [Voice: author]
+    </h3>
    </p>
    <div3 type="song" who="filomena">
     <lg>

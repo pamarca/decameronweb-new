@@ -23,9 +23,9 @@ Nicostratus believe that what he saw was not real.
     </p>
    </argument>
    <p>
-    <i>
-     [Speaker: panfilo]
-    </i>
+    <h3>
+     [Voice: panfilo]
+    </h3>
    </p>
    <div3 type="commentary" who="author">
     <p>

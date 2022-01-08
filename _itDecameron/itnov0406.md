@@ -12,9 +12,9 @@ layout: "single"
     Novella Sesta
    </head>
    <p>
-    <i>
-     [Speaker: panfilo]
-    </i>
+    <h3>
+     [Voice: panfilo]
+    </h3>
    </p>
    <argument>
     <p>

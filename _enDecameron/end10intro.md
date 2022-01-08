@@ -39,9 +39,9 @@ layout: "single"
  command to lead the way, blithely thus began.
    </p>
    <p>
-    <i>
-     [Speaker: author]
-    </i>
+    <h3>
+     [Voice: author]
+    </h3>
    </p>
   </div>
  </body>

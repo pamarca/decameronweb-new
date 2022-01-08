@@ -12,9 +12,9 @@ layout: "single"
     Novella Quinta
    </head>
    <p>
-    <i>
-     [Speaker: fiammetta]
-    </i>
+    <h3>
+     [Voice: fiammetta]
+    </h3>
    </p>
    <argument>
     <p>

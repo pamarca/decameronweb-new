@@ -66,9 +66,9 @@ the place where they had breakfasted; and, all having sat them down beside the l
 bade Emilia begin; which, blithe and smiling, Emilia did on this wise.
    </p>
    <p>
-    <i>
-     [Speaker: author]
-    </i>
+    <h3>
+     [Voice: author]
+    </h3>
    </p>
   </div>
  </body>

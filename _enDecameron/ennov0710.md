@@ -23,9 +23,9 @@ there.
     </p>
    </argument>
    <p>
-    <i>
-     [Speaker: dioneo]
-    </i>
+    <h3>
+     [Voice: dioneo]
+    </h3>
    </p>
    <div3 type="commentary" who="author">
     <p>

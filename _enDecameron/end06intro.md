@@ -34,9 +34,9 @@ then, as they were severally minded, composed them to sleep or sat them down to 
 dice, while Dioneo and Lauretta fell a singing of Troilus and Cressida.
    </p>
    <p>
-    <i>
-     [Speaker: author]
-    </i>
+    <h3>
+     [Voice: author]
+    </h3>
    </p>
    <p>
     <milestone id="p06980004"/>

@@ -32,9 +32,9 @@ layout: "single"
  her command, Neifile began.
    </p>
    <p>
-    <i>
-     [Speaker: author]
-    </i>
+    <h3>
+     [Voice: author]
+    </h3>
    </p>
   </div>
  </body>

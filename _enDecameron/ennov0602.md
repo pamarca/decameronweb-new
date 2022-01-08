@@ -22,9 +22,9 @@ not.
     </p>
    </argument>
    <p>
-    <i>
-     [Speaker: pampinea]
-    </i>
+    <h3>
+     [Voice: pampinea]
+    </h3>
    </p>
    <div3 type="commentary" who="author">
     <p>

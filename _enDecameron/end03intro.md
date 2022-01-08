@@ -160,9 +160,9 @@ layout: "single"
  this duty the queen first charged Filostrato, who began on this wise.
    </p>
    <p>
-    <i>
-     [Speaker: author]
-    </i>
+    <h3>
+     [Voice: author]
+    </h3>
    </p>
   </div>
  </body>

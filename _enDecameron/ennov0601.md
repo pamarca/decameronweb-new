@@ -22,9 +22,9 @@ her.
     </p>
    </argument>
    <p>
-    <i>
-     [Speaker: filomena]
-    </i>
+    <h3>
+     [Voice: filomena]
+    </h3>
    </p>
    <div3 type="commentary" who="filomena">
     <p>

@@ -12,9 +12,9 @@ layout: "single"
     Novella Nona
    </head>
    <p>
-    <i>
-     [Speaker: elissa]
-    </i>
+    <h3>
+     [Voice: elissa]
+    </h3>
    </p>
    <argument>
     <p>

@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: dioneo]
+   </h3>
+  </p>
+  <p>
    <a name="p02100001">
     [001]
    </a>
@@ -20,11 +25,6 @@ layout: "single"
  Messer Ricciardo dies, and she marries Paganino.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: dioneo]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p02100002">

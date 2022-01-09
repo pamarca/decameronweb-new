@@ -8,6 +8,11 @@ layout: "single"
   Conclusion
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p00970001">
    [001]
   </a>
@@ -74,11 +79,6 @@ layout: "single"
  morning. Should you decide otherwise, I have already
  determined whom to crown for the ensuing day.
   </q>
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
  <p>
   <a name="p00970008">

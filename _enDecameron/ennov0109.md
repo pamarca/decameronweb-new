@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: elissa]
+   </h3>
+  </p>
+  <p>
    <a name="p01090001">
     [001]
    </a>
@@ -16,11 +21,6 @@ layout: "single"
 	Cyprus from a churlish to an honourable temper.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: elissa]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p01090002">

@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: fiammetta]
+   </h3>
+  </p>
+  <p>
    <a name="p07050001">
     [001]
    </a>
@@ -19,11 +24,6 @@ the priest, and meanwhile the lady brings her lover in by the roof, and tarries 
 him.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: fiammetta]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p07050002">

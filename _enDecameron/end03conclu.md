@@ -8,6 +8,11 @@ layout: "single"
   Conclusion
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p03970001">
    [001]
   </a>
@@ -89,11 +94,6 @@ layout: "single"
  you address me, given me by one that well knew its signification.
   </q>
   Which said, he arose, and dismissed them all until supper-time.
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
  <p>
   <a name="p03970007">

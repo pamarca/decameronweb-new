@@ -45,8 +45,8 @@ def add_speaker_line(div2_variable, soup):
 
         add_speaker = soup.new_tag('p')
         add_speaker.string = '[Voice: ' + speaker + ']'
-        d2t.insert(2, add_speaker)
-        #d2t.p.insert_before(add_speaker)
+        #d2t.insert(2, add_speaker)
+        d2t.p.insert_before(add_speaker)
         add_speaker.string.wrap(soup.new_tag('h3'))
     return
 

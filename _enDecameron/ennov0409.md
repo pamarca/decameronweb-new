@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: filostrato]
+   </h3>
+  </p>
+  <p>
    <a name="p04090001">
     [001]
    </a>
@@ -19,11 +24,6 @@ layout: "single"
 	and is buried with her lover.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: filostrato]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p04090002">

@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: panfilo]
+   </h3>
+  </p>
+  <p>
    <a name="p06050001">
     [001]
    </a>
@@ -17,11 +22,6 @@ painter, journeying together from Mugello, deride one another's scurvy
 appearance.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: panfilo]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p06050002">

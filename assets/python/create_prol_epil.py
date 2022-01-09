@@ -64,6 +64,7 @@ def prologue_md_file(soup, outpath, lang):
     front.name = "div"
     prologue = soup.find('prologue')
     prologue.name = "div"
+    prologue.string = "Proem"
     prologue_md = os.path.abspath('../../{}/'.format(outpath) + lang + prologue['id'] + '.md')
     #pretty_prologue = soup.front.prettify()
     with open(prologue_md, "w", encoding='utf-8') as file2:

@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: panfilo]
+   </h3>
+  </p>
+  <p>
    <a name="p01010001">
     [001]
    </a>
@@ -18,11 +23,6 @@ layout: "single"
 	Ciappelletto.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: panfilo]
-  </h3>
- </p>
  <div3 type="commentary" who="panfilo">
   <p>
    <a name="p01010002">

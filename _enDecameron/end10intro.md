@@ -8,6 +8,11 @@ layout: "single"
   Introduction
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p10980002">
    [002]
   </a>
@@ -37,10 +42,5 @@ layout: "single"
  meal taken, they slept as they were wont; and then, at a spot chosen
  by the king, they reassembled, where Neifile, having received his
  command to lead the way, blithely thus began.
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
 </div>

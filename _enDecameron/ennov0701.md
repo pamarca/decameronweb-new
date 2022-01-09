@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: emilia]
+   </h3>
+  </p>
+  <p>
    <a name="p07010001">
     [001]
    </a>
@@ -18,11 +23,6 @@ bogey, which they fall to exorcising with a prayer; whereupon the knocking
 ceases.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: emilia]
-  </h3>
- </p>
  <div3 type="commentary" who="emilia">
   <p>
    <a name="p07010002">

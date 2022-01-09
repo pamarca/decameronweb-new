@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: pampinea]
+   </h3>
+  </p>
+  <p>
    <a name="p03020001">
     [001]
    </a>
@@ -18,11 +23,6 @@ layout: "single"
  and so comes safe out of the scrape.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: pampinea]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p03020002">

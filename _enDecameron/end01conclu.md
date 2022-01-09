@@ -8,6 +8,11 @@ layout: "single"
   Conclusion
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p01970001">
    [001]
   </a>
@@ -44,11 +49,6 @@ layout: "single"
       gesture of reverence set it on the brow of Filomena, whom she then,
       and after her all the other ladies and the young men, saluted as
       queen, doing her due and graceful homage.
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
  <p>
   <a name="p01970005">

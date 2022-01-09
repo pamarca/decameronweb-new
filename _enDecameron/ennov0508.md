@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: filomena]
+   </h3>
+  </p>
+  <p>
    <a name="p05080001">
     [001]
    </a>
@@ -23,11 +28,6 @@ layout: "single"
  takes Nastagio to husband.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: filomena]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p05080002">

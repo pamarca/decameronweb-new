@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: filomena]
+   </h3>
+  </p>
+  <p>
    <a name="p06010001">
     [001]
    </a>
@@ -17,11 +22,6 @@ with a story, but tells it so ill that she prays him to dismount
 her.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: filomena]
-  </h3>
- </p>
  <div3 type="commentary" who="filomena">
   <p>
    <a name="p06010002">

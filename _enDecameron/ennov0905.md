@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: fiammetta]
+   </h3>
+  </p>
+  <p>
    <a name="p09050001">
     [001]
    </a>
@@ -19,11 +24,6 @@ layout: "single"
  examination.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: fiammetta]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p09050002">

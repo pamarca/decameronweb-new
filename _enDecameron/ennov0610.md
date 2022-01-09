@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: dioneo]
+   </h3>
+  </p>
+  <p>
    <a name="p06100001">
     [001]
    </a>
@@ -17,11 +22,6 @@ feather of the Angel Gabriel, in lieu of which he finds coals, which he avers to
 those with which St. Lawrence was roasted.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: dioneo]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p06100002">

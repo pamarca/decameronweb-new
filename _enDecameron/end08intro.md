@@ -8,6 +8,11 @@ layout: "single"
   Introduction
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p08980002">
    [002]
   </a>
@@ -28,10 +33,5 @@ layout: "single"
  was past the meridian, the queen mustered them again for their
  wonted pastime; and, all being seated by the fair fountain, thus, at
  her command, Neifile began.
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
 </div>

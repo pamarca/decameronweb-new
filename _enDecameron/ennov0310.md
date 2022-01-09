@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: dioneo]
+   </h3>
+  </p>
+  <p>
    <a name="p03100001">
     [001]
    </a>
@@ -17,11 +22,6 @@ layout: "single"
 	thence, and becomes the wife of Neerbale.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: dioneo]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p03100002">

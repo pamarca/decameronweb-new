@@ -8,6 +8,11 @@ layout: "single"
   Conclusion
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p02970001">
    [001]
   </a>
@@ -97,11 +102,6 @@ layout: "single"
  some matter, which to tell may be profitable or at least delectable to
  the company, saving always Dioneo's privilege.
   </q>
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
  <p>
   <a name="p02970010">

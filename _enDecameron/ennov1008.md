@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: filomena]
+   </h3>
+  </p>
+  <p>
    <a name="p00080001">
     [001]
    </a>
@@ -25,11 +30,6 @@ layout: "single"
  wife, and shares with him all his substance.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: filomena]
-  </h3>
- </p>
  <div3 type="commentary" who="filomena">
   <p>
    <a name="p00080002">

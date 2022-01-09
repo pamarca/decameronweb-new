@@ -8,6 +8,11 @@ layout: "single"
   Introduction
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p02980002">
    [002]
   </a>
@@ -35,10 +40,5 @@ layout: "single"
  crowned with her laurel wreath, as for a brief space she scanned the
  company, and then bade Neifile shew others the way with a story.
  Neifile made no excuse, and gaily thus began.
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
 </div>

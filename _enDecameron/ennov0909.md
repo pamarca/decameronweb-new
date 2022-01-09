@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: emilia]
+   </h3>
+  </p>
+  <p>
    <a name="p09090001">
     [001]
    </a>
@@ -18,11 +23,6 @@ layout: "single"
  love, and the other to go to the Bridge of Geese.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: emilia]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p09090002">

@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: panfilo]
+   </h3>
+  </p>
+  <p>
    <a name="p03040001">
     [001]
    </a>
@@ -18,11 +23,6 @@ layout: "single"
  Puccio's wife.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: panfilo]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p03040002">

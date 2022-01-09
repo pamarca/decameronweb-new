@@ -8,6 +8,11 @@ layout: "single"
   Conclusion
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p06970001">
    [001]
   </a>
@@ -184,11 +189,6 @@ fitter for low minds than yours, and let each
 goodly story, and Fortune prosper her
  therein.
   </q>
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
  <p>
   <a name="p06970016">

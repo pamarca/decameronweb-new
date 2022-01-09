@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: emilia]
+   </h3>
+  </p>
+  <p>
    <a name="p02060001">
     [001]
    </a>
@@ -22,11 +27,6 @@ layout: "single"
 	in great honour.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: emilia]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p02060002">

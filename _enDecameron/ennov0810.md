@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: dioneo]
+   </h3>
+  </p>
+  <p>
    <a name="p08100001">
     [001]
    </a>
@@ -19,11 +24,6 @@ layout: "single"
  her in lieu thereof water and tow.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: dioneo]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p08100002">

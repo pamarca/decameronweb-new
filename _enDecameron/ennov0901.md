@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: filomena]
+   </h3>
+  </p>
+  <p>
    <a name="p09010001">
     [001]
    </a>
@@ -20,11 +25,6 @@ layout: "single"
  rids herself of both.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: filomena]
-  </h3>
- </p>
  <div3 type="commentary" who="filomena">
   <p>
    <a name="p09010002">

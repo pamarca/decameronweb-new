@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: fiammetta]
+   </h3>
+  </p>
+  <p>
    <a name="p00060001">
     [001]
    </a>
@@ -18,11 +23,6 @@ layout: "single"
  marriage.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: fiammetta]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p00060002">

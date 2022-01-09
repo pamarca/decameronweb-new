@@ -7,12 +7,12 @@ layout: "single"
  <h1>
   Novella Quinta
  </h1>
- <p>
-  <h3>
-   [Voice: panfilo]
-  </h3>
- </p>
  <argument>
+  <p>
+   <h3>
+    [Voice: panfilo]
+   </h3>
+  </p>
   <p>
    <a name="p06050001">
     [001]

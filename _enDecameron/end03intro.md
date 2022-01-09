@@ -8,6 +8,11 @@ layout: "single"
   Introduction
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p03980002">
    [002]
   </a>
@@ -176,10 +181,5 @@ layout: "single"
  them down in their wonted order by the fountain, waited for the
  story-telling to begin upon the theme assigned by the queen. With
  this duty the queen first charged Filostrato, who began on this wise.
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
 </div>

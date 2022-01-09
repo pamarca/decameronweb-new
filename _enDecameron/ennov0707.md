@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: filomena]
+   </h3>
+  </p>
+  <p>
    <a name="p07070001">
     [001]
    </a>
@@ -19,11 +24,6 @@ who thereafter, being risen, hies him to the garden and cudgels
 Egano.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: filomena]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p07070002">

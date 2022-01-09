@@ -7,12 +7,12 @@ layout: "single"
  <h1>
   Novella Quarta
  </h1>
- <p>
-  <h3>
-   [Voice: dioneo]
-  </h3>
- </p>
  <argument>
+  <p>
+   <h3>
+    [Voice: dioneo]
+   </h3>
+  </p>
   <p>
    <a name="p01040001">
     [001]

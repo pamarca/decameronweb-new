@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: fiammetta]
+   </h3>
+  </p>
+  <p>
    <a name="p04010001">
     [001]
    </a>
@@ -18,11 +23,6 @@ layout: "single"
  dies.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: fiammetta]
-  </h3>
- </p>
  <div3 type="commentary" who="fiammetta">
   <p>
    <a name="p04010002">

@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: neifile]
+   </h3>
+  </p>
+  <p>
    <a name="p03090001">
     [001]
    </a>
@@ -21,11 +26,6 @@ layout: "single"
  her as his wife.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: neifile]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p03090002">

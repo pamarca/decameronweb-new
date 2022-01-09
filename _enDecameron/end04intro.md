@@ -8,6 +8,11 @@ layout: "single"
   Introduction
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p04980002">
    [002]
   </a>
@@ -161,11 +166,6 @@ layout: "single"
  you, may thereafter go to Florence for our supplies at your pleasure,
  and you remain here?
   </q>
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
  <p>
   <a name="p04980018">

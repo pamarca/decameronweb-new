@@ -8,6 +8,11 @@ layout: "single"
   Conclusion
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p05970001">
    [001]
   </a>
@@ -193,11 +198,6 @@ layout: "single"
   </a>
   Whereupon Dioneo forthwith ceased his
       fooling, and sang on this wise:
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
  <div3 type="song" who="dioneo">
   <lg>

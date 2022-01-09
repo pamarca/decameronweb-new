@@ -8,6 +8,11 @@ layout: "single"
   Conclusion
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p09970001">
    [001]
   </a>
@@ -72,11 +77,6 @@ layout: "single"
  beasts, must not only covet, but with all zeal seek after and labour to
  attain.
   </q>
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
  <p>
   <a name="p09970006">

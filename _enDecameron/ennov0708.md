@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: neifile]
+   </h3>
+  </p>
+  <p>
    <a name="p07080001">
     [001]
    </a>
@@ -22,11 +27,6 @@ goes and calls his wife's brothers, who, holding his accusation to be false, giv
 rating.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: neifile]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p07080002">

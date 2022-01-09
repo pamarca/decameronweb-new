@@ -8,6 +8,11 @@ layout: "single"
   Introduction
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p09980002">
    [002]
   </a>
@@ -79,10 +84,5 @@ layout: "single"
  gathered at the wonted spot for their discoursing, and the queen,
  bending her regard upon Filomena, bade her make a beginning of
  the day's story-telling, which she with a smile did on this wise:
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
 </div>

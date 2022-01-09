@@ -8,6 +8,11 @@ layout: "single"
   Introduction
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p05980002">
    [002]
   </a>
@@ -52,10 +57,5 @@ layout: "single"
  queen, having seated herself on her throne, glanced towards Pamfilo,
  and bade him with a smile lead off with the stories of good fortune.
  Whereto Pamfilo gladly addressed himself, and thus began.
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
 </div>

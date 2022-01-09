@@ -8,6 +8,11 @@ layout: "single"
   Introduction
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p01980002">
    [002]
   </a>
@@ -54,11 +59,6 @@ layout: "single"
  would not be in my power to shew how the matters, of which you
   will hereafter read, came to pass, I am almost bound of necessity to
  enter upon it, if I would write of them at all.
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
  <p>
   <a name="p01980008">

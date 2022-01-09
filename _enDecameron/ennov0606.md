@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: fiammetta]
+   </h3>
+  </p>
+  <p>
    <a name="p06060001">
     [001]
    </a>
@@ -17,11 +22,6 @@ Baronci are the best gentlemen in the world and the Maremma, and wins a
 supper.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: fiammetta]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p06060002">

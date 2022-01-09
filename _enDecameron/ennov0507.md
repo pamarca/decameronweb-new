@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: lauretta]
+   </h3>
+  </p>
+  <p>
    <a name="p05070001">
     [001]
    </a>
@@ -19,11 +24,6 @@ layout: "single"
  at large, takes Violante to wife.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: lauretta]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p05070002">

@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: filomena]
+   </h3>
+  </p>
+  <p>
    <a name="p08060001">
     [001]
    </a>
@@ -21,11 +26,6 @@ layout: "single"
 	them off, if he would not have them tell his wife.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: filomena]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p08060002">

@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: filostrato]
+   </h3>
+  </p>
+  <p>
    <a name="p07020001">
     [001]
    </a>
@@ -19,11 +24,6 @@ sound. Whereupon the lover jumps out, and causes the husband to scour the tun fo
 afterwards to carry it to his house.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: filostrato]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p07020002">

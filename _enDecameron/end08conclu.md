@@ -8,6 +8,11 @@ layout: "single"
   Conclusion
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p08970001">
    [001]
   </a>
@@ -25,11 +30,6 @@ layout: "single"
   </q>
   Which said, she resumed
  her seat.
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
  <p>
   <a name="p08970002">

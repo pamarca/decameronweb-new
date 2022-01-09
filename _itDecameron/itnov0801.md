@@ -7,12 +7,12 @@ layout: "single"
  <h1>
   Novella Prima
  </h1>
- <p>
-  <h3>
-   [Voice: neifile]
-  </h3>
- </p>
  <argument who="author">
+  <p>
+   <h3>
+    [Voice: neifile]
+   </h3>
+  </p>
   <p id="p08010001">
    <name persref="gulfardo" type="person">
     Gulfardo

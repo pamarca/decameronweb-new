@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: pampinea]
+   </h3>
+  </p>
+  <p>
    <a name="p06020001">
     [001]
    </a>
@@ -17,11 +22,6 @@ Spina to know that he has by inadvertence asked that of him which he should
 not.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: pampinea]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p06020002">

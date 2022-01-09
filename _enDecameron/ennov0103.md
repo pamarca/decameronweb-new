@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: filomena]
+   </h3>
+  </p>
+  <p>
    <a name="p01030001">
     [001]
    </a>
@@ -16,11 +21,6 @@ layout: "single"
 	great danger with which he was menaced by Saladin.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: filomena]
-  </h3>
- </p>
  <div3 type="commentary" who="author">
   <p>
    <a name="p01030002">

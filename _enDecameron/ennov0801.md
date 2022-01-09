@@ -9,6 +9,11 @@ layout: "single"
  </h1>
  <argument>
   <p>
+   <h3>
+    [Voice: neifile]
+   </h3>
+  </p>
+  <p>
    <a name="p08010001">
     [001]
    </a>
@@ -19,11 +24,6 @@ layout: "single"
 	acknowledges that 'tis true.
   </p>
  </argument>
- <p>
-  <h3>
-   [Voice: neifile]
-  </h3>
- </p>
  <div3 type="commentary" who="neifile">
   <p>
    <a name="p08010002">

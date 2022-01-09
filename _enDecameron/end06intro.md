@@ -8,6 +8,11 @@ layout: "single"
   Introduction
  </h1>
  <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <p>
   <a name="p06980002">
    [002]
   </a>
@@ -30,11 +35,6 @@ themselves to their meal. So, having blithely
 breakfasted, they first of all sang some dainty and jocund ditties, and
 then, as they were severally minded, composed them to sleep or sat them down to chess or
 dice, while Dioneo and Lauretta fell a singing of Troilus and Cressida.
- </p>
- <p>
-  <h3>
-   [Voice: author]
-  </h3>
  </p>
  <p>
   <a name="p06980004">

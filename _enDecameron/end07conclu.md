@@ -3,68 +3,73 @@ title: "Conclusion"
 day: "end07conclu"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="d07conclu" type="conclusion" who="author">
-   <head>
-    Conclusion
-   </head>
-   <p>
-    <milestone id="p07970001"/>
-    The sun was westering, and a light breeze blew,
+<div id="d07conclu" type="conclusion" who="author">
+ <h1>
+  Conclusion
+ </h1>
+ <p>
+  <a name="p07970001">
+   [001]
+  </a>
+  The sun was westering, and a light breeze blew,
 when the king, his story ended, and none else being left to speak, arose, and taking off
 the crown, set it on Lauretta's head, saying:
-    <q direct="unspecified">
-     Madam, I crown you with yourself
-     <note>
-      A
+  <q direct="unspecified">
+   Madam, I crown you with yourself
+   <note>
+    A
 play upon
-      <!--(i)-->
-      laurea
-      <!--(/i)-->
-      (laurel wreath) and Lauretta.
-     </note>
-     queen of our
+    laurea
+    (laurel wreath) and Lauretta.
+   </note>
+   queen of our
 company: 'tis now for you, as our sovereign lady, to make such ordinances as you shall
 deem meet for our common solace and delectation;
-    </q>
-    and having so said, he sat him
+  </q>
+  and having so said, he sat him
 down again.
-    <milestone id="p07970002"/>
-    Queen Lauretta sent for the seneschal, and bade him have a care
+  <a name="p07970002">
+   [002]
+  </a>
+  Queen Lauretta sent for the seneschal, and bade him have a care
 that the tables should be set in the pleasant vale somewhat earlier than had been their
 wont, that their return to the palace might be more leisurely; after which she gave him to
 know what else he had to do during her sovereignty.
-    <milestone id="p07970003"/>
-    Then turning to the
+  <a name="p07970003">
+   [003]
+  </a>
+  Then turning to the
 company:
-    <q direct="unspecified">
-     Yesterday,
-    </q>
-    quoth she,
-    <q direct="unspecified">
-     Dioneo would have it that to-day we should
+  <q direct="unspecified">
+   Yesterday,
+  </q>
+  quoth she,
+  <q direct="unspecified">
+   Dioneo would have it that to-day we should
 discourse of the tricks that wives play their husbands; and but that I am minded not to
 shew as of the breed of yelping curs, that are ever prompt to retaliate, I would ordain
 that to-morrow we discourse of the tricks that husbands play their wives.
-     <milestone id="p07970004"/>
-     However, in lieu thereof, I will have every one take thought to tell of those
+   <a name="p07970004">
+    [004]
+   </a>
+   However, in lieu thereof, I will have every one take thought to tell of those
 tricks
-     <pb n="173"/>
-     that, daily, woman plays man, or man woman, or one man another;
+   that, daily, woman plays man, or man woman, or one man another;
 wherein, I doubt not, there will be matter of discourse no less agreeable than has been
 that of to-day.
-    </q>
-    So saying, she rose and dismissed the company until
+  </q>
+  So saying, she rose and dismissed the company until
 supper-time.
-    <milestone id="p07970005"/>
-    So the ladies and the men being risen, some bared their feet and
+  <a name="p07970005">
+   [005]
+  </a>
+  So the ladies and the men being risen, some bared their feet and
 betook them to the clear water, there to disport them, while others took their pleasure
 upon the green lawn amid the trees that there grew goodly and straight.
-    <milestone id="p07970006"/>
-    For no
+  <a name="p07970006">
+   [006]
+  </a>
+  For no
 brief
 while Dioneo and Fiammetta sang in concert of Arcite and Palamon.  And so, each and all
 taking their several pastimes, they sped the hours with exceeding great delight until
@@ -72,215 +77,235 @@ supper-time. Which being come, they sat them down at table beside the little lak
 there, while a thousand songsters charmed their ears, and a gentle breeze, that blew from
 the environing hills, fanned them, and never a fly annoyed them, reposefully and joyously
 they supped.
-    <milestone id="p07970007"/>
-    The tables removed, they roved a while about the pleasant vale,
+  <a name="p07970007">
+   [007]
+  </a>
+  The tables removed, they roved a while about the pleasant vale,
 and then, the sun being still high, for 'twas but half vespers, the queen gave the word,
 and they wended their way back to their wonted abode, and going slowly, and beguiling the
 way with quips and quirks without number upon divers matters, nor those alone of which
 they had that day discoursed, they arrived, hard upon nightfall, at the goodly palace.
-    <milestone id="p07970008"/>
-    There, the short walk's fatigue dispelled by wines most cool and
+  <a name="p07970008">
+   [008]
+  </a>
+  There, the short walk's fatigue dispelled by wines most cool and
 comfits, they presently gathered for the dance about the fair fountain,
 and now they footed it to the strains of Tindaro's cornemuse, and now to other
 music.
-    <milestone id="p07970009"/>
-    Which done, the queen bade Filomena give them a song; and thus Filomena
+  <a name="p07970009">
+   [009]
+  </a>
+  Which done, the queen bade Filomena give them a song; and thus Filomena
 sang:
-   </p>
-   <p>
-    <h3>
-     [Voice: author]
-    </h3>
-   </p>
-   <div3 type="song" who="filomena">
-    <lg>
-     <milestone id="p07970010"/>
-     <l>
-      Ah! woe
+ </p>
+ <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+ <div3 type="song" who="filomena">
+  <lg>
+   <a name="p07970010">
+    [010]
+   </a>
+   <l>
+    Ah! woe
 is me, my soul!
-     </l>
-     <l>
-      Ah! shall I ever thither fare again
-     </l>
-     <l>
-      Whence I
+   </l>
+   <l>
+    Ah! shall I ever thither fare again
+   </l>
+   <l>
+    Whence I
 was parted to my grievous dole?
-     </l>
-    </lg>
-    <lg>
-     <milestone id="p07970011"/>
-     <l>
-      Full sure I know not; but
+   </l>
+  </lg>
+  <lg>
+   <a name="p07970011">
+    [011]
+   </a>
+   <l>
+    Full sure I know not; but
 within my breast
-     </l>
-     <l>
-      Throbs ever the same fire
-     </l>
-     <l>
-      Of yearning there
+   </l>
+   <l>
+    Throbs ever the same fire
+   </l>
+   <l>
+    Of yearning there
 where erst I was to be.
-     </l>
-     <l>
-      O thou in whom is all my weal, my
+   </l>
+   <l>
+    O thou in whom is all my weal, my
 rest,
-     </l>
-     <l>
-      Lord of my heart's desire,
-     </l>
-     <l>
-      Ah! tell me thou! for none
+   </l>
+   <l>
+    Lord of my heart's desire,
+   </l>
+   <l>
+    Ah! tell me thou! for none
 to ask save thee
-     </l>
-     <l>
-      Neither dare I, nor see.
-     </l>
-     <l>
-      Ah! dear my Lord,
+   </l>
+   <l>
+    Neither dare I, nor see.
+   </l>
+   <l>
+    Ah! dear my Lord,
 this wasted heart disdain
-     </l>
-     <l>
-      Thou wilt not, but with hope at length
+   </l>
+   <l>
+    Thou wilt not, but with hope at length
 console.
-     </l>
-    </lg>
-    <pb n="174"/>
-    <lg>
-     <milestone id="p07970012"/>
-     <l>
-      Kindled the flame I know not what
+   </l>
+  </lg>
+  <lg>
+   <a name="p07970012">
+    [012]
+   </a>
+   <l>
+    Kindled the flame I know not what
 delight,
-     </l>
-     <l>
-      Which me doth so devour,
-     </l>
-     <l>
-      That day and night alike I
+   </l>
+   <l>
+    Which me doth so devour,
+   </l>
+   <l>
+    That day and night alike I
 find no ease;
-     </l>
-     <l>
-      For whether it was by hearing, touch, or
+   </l>
+   <l>
+    For whether it was by hearing, touch, or
 sight,
-     </l>
-     <l>
-      Unwonted was the power,
-     </l>
-     <l>
-      And fresh the fire that me
+   </l>
+   <l>
+    Unwonted was the power,
+   </l>
+   <l>
+    And fresh the fire that me
 each way did seize;
-     </l>
-     <l>
-      Wherein without release
-     </l>
-     <l>
-      I languish still,
+   </l>
+   <l>
+    Wherein without release
+   </l>
+   <l>
+    I languish still,
 and of thee, Lord, am fain,
-     </l>
-     <l>
-      For thou alone canst comfort and make
+   </l>
+   <l>
+    For thou alone canst comfort and make
 whole.
-     </l>
-    </lg>
-    <lg>
-     <milestone id="p07970013"/>
-     <l>
-      Ah! tell me if it shall be, and how
+   </l>
+  </lg>
+  <lg>
+   <a name="p07970013">
+    [013]
+   </a>
+   <l>
+    Ah! tell me if it shall be, and how
 soon,
-     </l>
-     <l>
-      That I again thee meet
-     </l>
-     <l>
-      Where those death-dealing eyes I
+   </l>
+   <l>
+    That I again thee meet
+   </l>
+   <l>
+    Where those death-dealing eyes I
 kissed. Thou, chief
-     </l>
-     <l>
-      Weal of my soul, my very soul, this
+   </l>
+   <l>
+    Weal of my soul, my very soul, this
 boon
-     </l>
-     <l>
-      Deny not; say that fleet
-     </l>
-     <l>
-      Thou hiest hither: comfort thus
+   </l>
+   <l>
+    Deny not; say that fleet
+   </l>
+   <l>
+    Thou hiest hither: comfort thus
 my grief.
-     </l>
-     <l>
-      Ah! let the time be brief
-     </l>
-     <l>
-      Till thou art here, and
+   </l>
+   <l>
+    Ah! let the time be brief
+   </l>
+   <l>
+    Till thou art here, and
 then long time remain;
-     </l>
-     <l>
-      For I, Love-stricken, crave but Love's
+   </l>
+   <l>
+    For I, Love-stricken, crave but Love's
 control.
-     </l>
-    </lg>
-    <lg>
-     <milestone id="p07970014"/>
-     <l>
-      Let me but once again mine own thee
+   </l>
+  </lg>
+  <lg>
+   <a name="p07970014">
+    [014]
+   </a>
+   <l>
+    Let me but once again mine own thee
 call,
-     </l>
-     <l>
-      No more so indiscreet
-     </l>
-     <l>
-      As erst, I'll be, to let thee
+   </l>
+   <l>
+    No more so indiscreet
+   </l>
+   <l>
+    As erst, I'll be, to let thee
 from me part:
-     </l>
-     <l>
-      Nay, I'll still hold thee, let what may
+   </l>
+   <l>
+    Nay, I'll still hold thee, let what may
 befall,
-     </l>
-     <l>
-      And of thy mouth so sweet
-     </l>
-     <l>
-      Such solace take as may
+   </l>
+   <l>
+    And of thy mouth so sweet
+   </l>
+   <l>
+    Such solace take as may
 content my heart:
-     </l>
-     <l>
-      So this be all my art,
-     </l>
-     <l>
-      Thee to entice, me
+   </l>
+   <l>
+    So this be all my art,
+   </l>
+   <l>
+    Thee to entice, me
 with thine arms to enchain:
-     </l>
-     <l>
-      Whereon but musing inly chants my
+   </l>
+   <l>
+    Whereon but musing inly chants my
 soul.
-     </l>
-    </lg>
-   </div3>
-   <p>
-    <milestone id="p07970015"/>
-    This song set all the company conjecturing what new and delightsome love might now hold
+   </l>
+  </lg>
+ </div3>
+ <p>
+  <a name="p07970015">
+   [015]
+  </a>
+  This song set all the company conjecturing what new and delightsome love might now hold
 Filomena in its sway; and as its words imported that she had had more joyance thereof than
 sight alone
 
 might yield, some that were there grew envious of her excess of happiness.  However, the
 song being ended, the queen, bethinking her that the morrow was Friday, thus graciously
 addressed them all:
-    <milestone id="p07970016"/>
-    <q direct="unspecified">
-     Ye wot, noble ladies, and ye also, my gallants, that
+  <a name="p07970016">
+   [016]
+  </a>
+  <q direct="unspecified">
+   Ye wot, noble ladies, and ye also, my gallants, that
 to-morrow is the day that is sacred to the passion of our Lord, which, if ye remember, we
 kept devoutly when Neifile was queen, intermitting delectable discourse, as we did also on
 the ensuing Saturday.
-     <milestone id="p07970017"/>
-     Where
-     <pb n="175"/>
-     fore, being minded to follow Neifile's
+   <a name="p07970017">
+    [017]
+   </a>
+   Where
+   fore, being minded to follow Neifile's
 excellent example, I deem that now, as then, 'twere a seemly thing to surcease from this
 our pastime of story-telling for those two days, and compose our minds to meditation on
 what was at that season accomplished for the weal of our souls.
-    </q>
-    <milestone id="p07970018"/>
-    All the
+  </q>
+  <a name="p07970018">
+   [018]
+  </a>
+  All the
 company having approved their queen's devout speech, she, as the night was now far spent,
 dismissed them; and so they all betook them to slumber.
-   </p>
-  </div>
- </body>
-</html>
+ </p>
+</div>

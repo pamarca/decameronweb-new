@@ -3,25 +3,23 @@ title: "Introduction"
 day: "end10intro"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="d10intro" type="introduction" who="author">
-   <head>
-    Introduction
-   </head>
-   <p>
-    <milestone id="p10980002"/>
-    <!--(sc)-->
-    Some
-    <!--(/sc)-->
-    cloudlets in the West still shewed a vermeil flush, albeit
+<div id="d10intro" type="introduction" who="author">
+ <h1>
+  Introduction
+ </h1>
+ <p>
+  <a name="p10980002">
+   [002]
+  </a>
+  Some
+  cloudlets in the West still shewed a vermeil flush, albeit
       those of the eastern sky, as the sun's rays smote them anear, were
  already fringed as with most lucent gold, when uprose Pamfilo, and
  roused the ladies and his comrades.
-    <milestone id="p10980003"/>
-    And all the company being
+  <a name="p10980003">
+   [003]
+  </a>
+  And all the company being
  assembled, and choice made of the place whither they should betake
  them for their diversion, he, accompanied by Filomena and Fiammetta,
  led the way at a slow pace, followed by all the rest. So fared they
@@ -29,20 +27,20 @@ layout: "single"
  life, whereof there was much to tell and much to answer, until, as
  the sun gained strength, they returned, having made quite a long
  round, to the palace;
-    <milestone id="p10980004"/>
-    and being gathered about the fountain, such as
+  <a name="p10980004">
+   [004]
+  </a>
+  and being gathered about the fountain, such as
  were so minded drank somewhat from beakers rinsed in its pure
  waters; and then in the delicious shade of the garden they hied them
  hither and thither, taking their pleasure until breakfast-time. Their
  meal taken, they slept as they were wont; and then, at a spot chosen
  by the king, they reassembled, where Neifile, having received his
  command to lead the way, blithely thus began.
-   </p>
-   <p>
-    <h3>
-     [Voice: author]
-    </h3>
-   </p>
-  </div>
- </body>
-</html>
+ </p>
+ <p>
+  <h3>
+   [Voice: author]
+  </h3>
+ </p>
+</div>

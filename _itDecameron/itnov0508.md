@@ -3,351 +3,433 @@ title: "Novella Ottava"
 day: "itnov0508"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0508" type="novella" who="filomena">
-   <head>
-    Novella Ottava
-   </head>
-   <p>
-    <h3>
-     [Voice: filomena]
-    </h3>
-   </p>
-   <argument>
-    <p>
-     <milestone id="p05080001"/>
-     <name persref="nastagio" type="person">
-      Nastagio degli Onesti
-     </name>
-     , amando una de'
-     <name persref="traversari" type="person">
-      Traversari
-     </name>
-     , spende le sue ricchezze senza essere amato; vassene pregato da' suoi a
-     <name placeref="chiassi" type="place">
-      Chiassi
-     </name>
-     ; quivi vede cacciare a un cavaliere una giovane e ucciderla e divorarla da due cani; Invita i parenti suoi e quella donna amata da lui ad un desinare, la quale vede questa medesima giovane sbranare e temendo di simile avvenimento prende per marito
-     <name persref="nastagio" type="person">
-      Nastagio
-     </name>
-     .
-    </p>
-   </argument>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p05080002"/>
-     Come la
-     <name persref="lauretta" type="person">
-      Lauretta
-     </name>
-     si tacque, cos&iacute; per comandamento della
-     <name persref="fiammetta" type="person">
-      reina
-     </name>
-     cominci&ograve;
-     <name persref="filomena" type="person">
-      Filomena
-     </name>
-     :
-    </p>
-   </div3>
-   <div3 type="commentary" who="filomena">
-    <p>
-     <milestone id="p05080003"/>
-     Amabili donne, come in noi &egrave; la piet&agrave; commendata, cos&iacute; ancora in noi &egrave; dalla divina giustizia rigidamente la crudelt&agrave; vendicata: il che acci&ograve; che io vi dimostri e materia vi dea di cacciarla del tutto da voi, mi piace di dirvi una novella non meno di compassion piena che dilettevole.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p05080004"/>
-    In
-    <name placeref="ravenna" type="place">
-     Ravenna
-    </name>
-    , antichissima citt&agrave; di
-    <name placeref="romagna" type="place">
-     Romagna
-    </name>
-    , furon gi&agrave; assai nobili e gentili uomini, tra' quali un giovane chiamato
-    <name persref="nastagio" type="person">
-     Nastagio degli Onesti
-    </name>
-    , per la morte del padre di lui e d'un suo zio, senza stima rimaso ricchissimo.
-    <milestone id="p05080005"/>
-    Il quale, s&iacute; come de' giovani avviene, essendo senza moglie s'innamor&ograve; d'una figliuola di messer
-    <name persref="paolotraversari" type="person">
-     Paolo Traversaro
-    </name>
-    , giovane troppo pi&uacute; nobile che esso non era, prendendo speranza con le sue opere di doverla trarre ad amar lui.
-    <milestone id="p05080006"/>
-    Le quali, quantunque grandissime, belle e laudevoli fossero, non solamente non gli giovavano, anzi pareva che gli nocessero, tanto cruda e dura e salvatica gli si mostrava la giovinetta amata, forse per la sua singular bellezza o per la sua nobilt&agrave; s&iacute; altiera e disdegnosa divenuta, che n&eacute; egli n&eacute; cosa che gli piacesse le piaceva.
-    <milestone id="p05080007"/>
-    La qual cosa era tanto a
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    gravosa a comportare, che per dolore pi&uacute; volte dopo essersi doluto gli venne in disidero d'uccidersi; poi, pur tenendosene, molte volte si mise in cuore di doverla del tutto lasciare stare, o se potesse d'averla in odio come ella aveva lui.
-    <milestone id="p05080008"/>
-    Ma invano tal proponimento prendeva, per ci&ograve; che pareva che quanto pi&uacute; la speranza mancava, tanto pi&uacute; multiplicasse il suo amore.
-   </p>
-   <p>
-    <milestone id="p05080009"/>
-    Perseverando adunque il giovane e nello amare e nello spendere smisuratamente, parve a certi suoi amici e parenti che egli s&eacute; e 'l suo avere parimente fosse per consumare; per la qual cosa pi&uacute; volte il pregarono e consigliarono che si dovesse di
-    <name placeref="ravenna" type="place">
-     Ravenna
-    </name>
-    partire e in alcuno altro luogo per alquanto tempo andare a dimorare; per ci&ograve; che, cos&iacute; faccendo, scemerebbe l'amore e le spese.
-    <milestone id="p05080010"/>
-    Di questo consiglio pi&uacute; volte fece beffe
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    ; ma pure, essendo da loro sollecitato, non potendo tanto dir di no, disse di farlo; e fatto fare un grande apparecchiamento, come se in
-    <name placeref="francia" type="place">
-     Francia
-    </name>
-    o in
-    <name placeref="spagna" type="place">
-     Ispagna
-    </name>
-    o in alcuno altro luogo lontano andar volesse, montato a cavallo e da' suoi molti amici accompagnato di
-    <name placeref="ravenna" type="place">
-     Ravenna
-    </name>
-    usc&iacute; e andossen a un luogo fuor di
-    <name placeref="ravenna" type="place">
-     Ravenna
-    </name>
-    forse tre miglia, che si chiama
-    <name placeref="chiassi" type="place">
-     Chiassi
-    </name>
-    ;
-    <milestone id="p05080011"/>
-    e quivi fatti venir padiglioni e trabacche, disse a coloro che accompagnato l'aveano che starsi volea e che essi a
-    <name placeref="ravenna" type="place">
-     Ravenna
-    </name>
-    se ne tornassono.
-    <milestone id="p05080012"/>
-    Attendatosi adunque quivi
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    cominci&ograve; a fare la pi&uacute; bella vita e la pi&uacute; magnifica che mai si facesse or questi e or quegli altri invitando a cena e a desinare, come usato s'era.
-   </p>
-   <p>
-    <milestone id="p05080013"/>
-    Ora avvenne che, venendo quasi all'entrata di maggio, essendo un bellissimo tempo ed egli entrato in pensiero della sua crudel donna, comandato a tutta la sua famiglia che solo il lasciassero per pi&uacute; potere pensare a suo piacere, piede innanzi pi&egrave; s&eacute; medesimo trasport&ograve; pensando infino nella pigneta.
-    <milestone id="p05080014"/>
-    E essendo gi&agrave; passata presso che la quinta ora del giorno ed esso bene un mezzo miglio per la pigneta entrato, non ricordandosi di mangiare n&eacute; d'altra cosa, subitamente gli parve udire un grandissimo pianto e guai altissimi messi da una donna; per che, rotto il suo dolce pensiero, alz&ograve; il capo per veder che fosse e maravigliossi nella pigneta veggendosi.
-    <milestone id="p05080015"/>
-    E oltre a ci&ograve;, davanti guardandosi, vide venire per un boschetto assai folto d'albuscelli e di pruni, correndo verso il luogo dove egli era, una bellissima giovane ignuda, scapigliata e tutta graffiata dalle frasche e da' pruni, piagnendo e gridando forte merc&eacute;;
-    <milestone id="p05080016"/>
-    e oltre a questo le vide a' fianchi due grandi e fieri mastini, li quali duramente appresso correndole spesse volte crudelmente dove la giugnevano la mordevano; e dietro a lei vide venire sopra un corsiere nero un
-    <name persref="guidoanastagi" type="person">
-     cavalier
-    </name>
-    bruno, forte nel viso crucciato, con uno stocco in mano, lei di morte con parole spaventevoli e villane minacciando.
-    <milestone id="p05080017"/>
-    Questa cosa a un'ora maraviglia e spavento gli mise nell'animo, e ultimamente compassione della sventurata donna, dalla qual nacque disidero di liberarla da s&iacute; fatta angoscia e morte, se el potesse.
-    <milestone id="p05080018"/>
-    Ma senza arme trovandosi, ricorse a prendere un ramo d'albero in luogo di bastone e cominci&ograve; a farsi incontro a' cani e contro al cavaliere.
-   </p>
-   <p>
-    <milestone id="p05080019"/>
-    Ma il
-    <name persref="guidoanastagi" type="person">
-     cavaliere
-    </name>
-    che questo vide gli grid&ograve; di lontano:
-    <q direct="unspecified" who="guidoanastagi">
-     <name persref="nastagio" type="person">
-      Nastagio
-     </name>
-     , non t'impacciare, lascia fare a' cani e a me quello che questa malvagia femina ha meritato.
-    </q>
-   </p>
-   <p>
-    <milestone id="p05080020"/>
-    E cos&iacute; dicendo, i cani, presa forte la giovane ne' fianchi, la fermarono, e il
-    <name persref="guidoanastagi" type="person">
-     cavaliere
-    </name>
-    sopragiunto smont&ograve; da cavallo; al quale
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    avvicinatosi disse:
-    <q direct="unspecified" who="nastagio">
-     Io non so chi tu ti se', che me cos&iacute; cognosci ma tanto ti dico che gran vilt&agrave; &egrave; d'un cavaliere armato volere uccidere una femina ignuda, e averle i cani alle coste messi come se ella fosse una fiera salvatica: io per certo la difender&ograve; quant'io potr&ograve;.
-    </q>
-   </p>
-   <p>
-    <milestone id="p05080021"/>
-    Il
-    <name persref="guidoanastagi" type="person">
-     cavaliere
-    </name>
-    allora disse:
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    , io fui d'una medesima terra teco, ed eri tu ancora piccol fanciullo quando io, il quale fui chiamato messer
-    <name persref="guidoanastagi" type="person">
-     Guido degli Anastagi
-    </name>
-    , era troppo pi&uacute; innamorato di costei che tu ora non se' di quella de'
-    <name persref="traversari" type="person">
-     Traversari
-    </name>
-    ; e per la sua fierezza e crudelt&agrave; and&ograve; s&iacute; la mia sciagura, che io un d&iacute; con questo stocco, il quale tu mi vedi in mano, come disperato m'uccisi, e sono alle pene eternali dannato.
-    <milestone id="p05080022"/>
-    N&eacute; stette poi guari tempo che costei, la qual della mia morte fu lieta oltre misura, mor&iacute;, e per lo peccato della sua crudelt&agrave; e della letizia avuta de' miei tormenti, non pentendosene, come colei che non credeva in ci&ograve; aver peccato ma meritato, similmente fu ed &egrave; dannata alle pene del Ninferno.
-    <milestone id="p05080023"/>
-    Nel quale come ella discese, cos&iacute; ne fu e a lei e a me per pena dato, a lei di fuggirmi davanti e a me, che gi&agrave; cotanto l'amai, di seguitarla come mortal nimica, non come amata donna;
-    <milestone id="p05080024"/>
-    e quante volte io la giungo, tante con questo stocco, col quale io uccisi me, uccido lei e aprola per ischiena, e quel cuor duro e freddo, nel qual mai n&eacute; amor n&eacute; piet&agrave; poterono entrare, con l'altre interiora insieme, s&iacute; come tu vedrai incontanente, le caccio di corpo e dolle mangiare a questi cani.
-    <milestone id="p05080025"/>
-    N&eacute; sta poi grande spazio che ella, s&iacute; come la giustizia e la potenzia di Dio vuole, come se morta non fosse stata, risurge e da capo incomincia la dolorosa fugga, e i cani e io a seguitarla.
-    <milestone id="p05080026"/>
-    E avviene che ogni venerd&iacute; in su questa ora io la giungo qui e qui ne fo lo strazio che vederai; e gli altri d&iacute; non creder che noi riposiamo, ma giungola in altri luoghi ne' quali ella crudelmente contro a me pens&ograve; o oper&ograve;; e essendole d'amante divenuto nimico, come tu vedi, me la conviene in questa guisa tanti anni seguitare quanti mesi ella fu contro a me crudele.
-    <milestone id="p05080027"/>
-    Adunque lasciami la divina giustizia mandare a essecuzione, n&eacute; ti volere opporre a quello che tu non potresti contrastare.
-   </p>
-   <p>
-    <milestone id="p05080028"/>
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    , udendo queste parole, tutto timido divenuto e quasi non avendo pelo addosso che arricciato non fosse, tirandosi addietro e riguardando alla misera giovane, cominci&ograve; pauroso ad aspettare quello che facesse il
-    <name persref="guidoanastagi" type="person">
-     cavaliere
-    </name>
-    ;
-    <milestone id="p05080029"/>
-    il quale, finito il suo ragionare, a guisa d'un cane rabbioso con lo stocco in mano corse addosso alla giovane, la quale inginocchiata e da' due mastini tenuta forte gli gridava merc&eacute;, e a quella con tutta sua forza diede per mezzo il petto e passolla dall'altra parte.
-    <milestone id="p05080030"/>
-    Il qual colpo come la giovane ebbe ricevuto, cos&iacute; cadde boccone sempre piagnendo e gridando: e il
-    <name persref="guidoanastagi" type="person">
-     cavaliere
-    </name>
-    , messo mano ad un coltello, quella apr&iacute; nelle reni, e fuori trattone il cuore e ogni altra cosa da torno, a' due mastini il gitt&ograve;, li quali affamatissimi incontanente il mangiarono.
-    <milestone id="p05080031"/>
-    N&eacute; stette guari che la giovane, quasi niuna di queste cose stata fosse, subitamente si lev&ograve; in pi&egrave; e cominci&ograve; a fuggire verso il mare, e i cani appresso di lei sempre lacerandola: e il
-    <name persref="guidoanastagi" type="person">
-     cavaliere
-    </name>
-    , rimontato a cavallo e ripreso il suo stocco, la cominci&ograve; a seguitare, e in picciola ora si dileguarono in maniera che pi&uacute;
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    non gli pot&eacute; vedere.
-   </p>
-   <p>
-    <milestone id="p05080032"/>
-    Il quale, avendo queste cose vedute, gran pezza stette tra pietoso e pauroso: e dopo alquanto gli venne nella mente questa cosa dovergli molto poter valere, poi che ogni venerd&iacute; avvenia; per che, segnato il luogo, a' suoi famigliari se ne torn&ograve;, e appresso, quando gli parve, mandato per pi&uacute; suoi parenti e amici, disse loro:
-    <milestone id="p05080033"/>
-    <q direct="unspecified" who="nastagio">
-     Voi m'avete lungo tempo stimolato che io d'amare questa mia nemica mi rimanga e ponga fine al mio spendere, e io son presto di farlo dove voi una grazia m'impetriate, la quale &egrave; questa: che venerd&iacute; che viene voi facciate s&iacute; che messer
-     <name persref="paolotraversari" type="person">
-      Paolo Traversari
-     </name>
-     e la moglie e la figliuola e tutte le donne lor parenti, e altre chi vi piacer&agrave;, qui sieno a desinar meco.
-     <milestone id="p05080034"/>
-     Quello per che io questo voglia, voi il vedrete allora.
-    </q>
-   </p>
-   <p>
-    <milestone id="p05080035"/>
-    A costor parve questa assai piccola cosa a dover fare; e a
-    <name placeref="ravenna" type="place">
-     Ravenna
-    </name>
-    tornati, quando tempo fu, coloro invitarono li quali
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    voleva, e come che dura cosa fosse il potervi menare la giovane da
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    amata, pur v'and&ograve; con l'altre insieme.
-    <milestone id="p05080036"/>
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    fece magnificamente apprestare da mangiare e fece le tavole mettere sotto i pini dintorno a quel luogo dove veduto aveva lo strazio della crudel donna; e fatti mettere gli uomini e le donne a tavola, s&iacute; ordin&ograve;, che appunto la giovane amata da lui fu posta a sedere di rimpetto al luogo dove doveva il fatto intervenire.
-   </p>
-   <p>
-    <milestone id="p05080037"/>
-    Essendo adunque gi&agrave; venuta l'ultima vivanda, e il romore disperato della cacciata giovane da tutti fu cominciato a udire. Di che maravigliandosi forte ciascuno e domandando che ci&ograve; fosse e niuno sappiendol dire, levatisi tutti diritti e riguardando che ci&ograve; potesse essere, videro la dolente giovane e 'l
-    <name persref="guidoanastagi" type="person">
-     cavaliere
-    </name>
-    e' cani; n&eacute; guari stette che essi tutti furon quivi tra loro.
-    <milestone id="p05080038"/>
-    Il romore fu fatto grande e a' cani e al cavaliere, e molti per aiutare la giovane si fecero innanzi; ma il
-    <name persref="guidoanastagi" type="person">
-     cavaliere
-    </name>
-    , parlando loro come a
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    aveva parlato, non solamente gli fece indietro tirare ma tutti gli spavent&ograve; e riempi&eacute; di maraviglia;
-    <milestone id="p05080039"/>
-    e faccendo quello che altra volta aveva fatto, quante donne v'aveva (ch&eacute; ve ne aveva assai che parenti erano state e della dolente giovane e del cavaliere e che si ricordavano dell'amore e della morte di lui) tutte cos&iacute; miseramente piagnevano come se a se medesime quello avesser veduto fare.
-    <milestone id="p05080040"/>
-    La qual cosa al suo termine fornita, e andata via la donna e 'l
-    <name persref="guidoanastagi" type="person">
-     cavaliere
-    </name>
-    , mise costoro che ci&ograve; veduto aveano in molti e varii ragionamenti. Ma tra gli altri che pi&uacute; di spavento ebbero, fu la crudel giovane da
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    amata, la quale ogni cosa distintamente veduta avea e udita e conosciuto che a s&eacute; pi&uacute; che a altra persona che vi fosse queste cose toccavano, ricordandosi della crudelt&agrave; sempre da lei usata verso
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    ; per che gi&agrave; le parea fuggire dinanzi da lui adirato e avere i mastini a' fianchi.
-   </p>
-   <p>
-    <milestone id="p05080041"/>
-    E tanta fu la paura che di questo le nacque, che, acci&ograve; che questo a lei non avvenisse, prima tempo non si vide, il quale quella medesima sera prestato le fu, che ella, avendo l'odio in amor tramutato, una sua fida cameriera segretamente a
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    mand&ograve;, la quale da parte di lei il preg&ograve; che gli dovesse piacer d'andare a lei, per ci&ograve; ch'ella era presta di far tutto ci&ograve; che fosse piacer di lui.
-    <milestone id="p05080042"/>
-    Alla qual
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    fece rispondere che questo gli era a grado molto, ma che, dove le piacesse, con onor di lei voleva il suo piacere, e questo era sposandola per moglie.
-    <milestone id="p05080043"/>
-    La giovane, la qual sapeva che da altrui che da lei rimaso non era che moglie di
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    stata non fosse, gli fece risponder che le piacea. Per che, essendo ella medesima la messaggera, al padre e alla madre disse che era contenta d'essere sposa di
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    , di che essi furon contenti molto.
-   </p>
-   <p>
-    <milestone id="p05080044"/>
-    E la domenica seguente
-    <name persref="nastagio" type="person">
-     Nastagio
-    </name>
-    sposatala e fatte le sue nozze, con lei pi&uacute; tempo lietamente visse. E non fu questa paura cagione solamente di questo bene, anzi s&iacute; tutte le ravignane donne paurose ne divennero, che sempre poi troppo pi&uacute; arrendevoli a' piaceri degli uomini furono che prima state non erano.
-   </p>
-  </div>
- </body>
-</html>
+<div id="nov0508" type="novella" who="filomena">
+ <h1>
+  Novella Ottava
+ </h1>
+ <p>
+  <h3>
+   [Voice: filomena]
+  </h3>
+ </p>
+ <argument>
+  <p>
+   <a name="p05080001">
+    [001]
+   </a>
+   <name persref="nastagio" type="person">
+    Nastagio degli Onesti
+   </name>
+   , amando una de'
+   <name persref="traversari" type="person">
+    Traversari
+   </name>
+   , spende le sue ricchezze senza essere amato; vassene pregato da' suoi a
+   <name placeref="chiassi" type="place">
+    Chiassi
+   </name>
+   ; quivi vede cacciare a un cavaliere una giovane e ucciderla e divorarla da due cani; Invita i parenti suoi e quella donna amata da lui ad un desinare, la quale vede questa medesima giovane sbranare e temendo di simile avvenimento prende per marito
+   <name persref="nastagio" type="person">
+    Nastagio
+   </name>
+   .
+  </p>
+ </argument>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p05080002">
+    [002]
+   </a>
+   Come la
+   <name persref="lauretta" type="person">
+    Lauretta
+   </name>
+   si tacque, cos&iacute; per comandamento della
+   <name persref="fiammetta" type="person">
+    reina
+   </name>
+   cominci&ograve;
+   <name persref="filomena" type="person">
+    Filomena
+   </name>
+   :
+  </p>
+ </div3>
+ <div3 type="commentary" who="filomena">
+  <p>
+   <a name="p05080003">
+    [003]
+   </a>
+   Amabili donne, come in noi &egrave; la piet&agrave; commendata, cos&iacute; ancora in noi &egrave; dalla divina giustizia rigidamente la crudelt&agrave; vendicata: il che acci&ograve; che io vi dimostri e materia vi dea di cacciarla del tutto da voi, mi piace di dirvi una novella non meno di compassion piena che dilettevole.
+  </p>
+ </div3>
+ <p>
+  <a name="p05080004">
+   [004]
+  </a>
+  In
+  <name placeref="ravenna" type="place">
+   Ravenna
+  </name>
+  , antichissima citt&agrave; di
+  <name placeref="romagna" type="place">
+   Romagna
+  </name>
+  , furon gi&agrave; assai nobili e gentili uomini, tra' quali un giovane chiamato
+  <name persref="nastagio" type="person">
+   Nastagio degli Onesti
+  </name>
+  , per la morte del padre di lui e d'un suo zio, senza stima rimaso ricchissimo.
+  <a name="p05080005">
+   [005]
+  </a>
+  Il quale, s&iacute; come de' giovani avviene, essendo senza moglie s'innamor&ograve; d'una figliuola di messer
+  <name persref="paolotraversari" type="person">
+   Paolo Traversaro
+  </name>
+  , giovane troppo pi&uacute; nobile che esso non era, prendendo speranza con le sue opere di doverla trarre ad amar lui.
+  <a name="p05080006">
+   [006]
+  </a>
+  Le quali, quantunque grandissime, belle e laudevoli fossero, non solamente non gli giovavano, anzi pareva che gli nocessero, tanto cruda e dura e salvatica gli si mostrava la giovinetta amata, forse per la sua singular bellezza o per la sua nobilt&agrave; s&iacute; altiera e disdegnosa divenuta, che n&eacute; egli n&eacute; cosa che gli piacesse le piaceva.
+  <a name="p05080007">
+   [007]
+  </a>
+  La qual cosa era tanto a
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  gravosa a comportare, che per dolore pi&uacute; volte dopo essersi doluto gli venne in disidero d'uccidersi; poi, pur tenendosene, molte volte si mise in cuore di doverla del tutto lasciare stare, o se potesse d'averla in odio come ella aveva lui.
+  <a name="p05080008">
+   [008]
+  </a>
+  Ma invano tal proponimento prendeva, per ci&ograve; che pareva che quanto pi&uacute; la speranza mancava, tanto pi&uacute; multiplicasse il suo amore.
+ </p>
+ <p>
+  <a name="p05080009">
+   [009]
+  </a>
+  Perseverando adunque il giovane e nello amare e nello spendere smisuratamente, parve a certi suoi amici e parenti che egli s&eacute; e 'l suo avere parimente fosse per consumare; per la qual cosa pi&uacute; volte il pregarono e consigliarono che si dovesse di
+  <name placeref="ravenna" type="place">
+   Ravenna
+  </name>
+  partire e in alcuno altro luogo per alquanto tempo andare a dimorare; per ci&ograve; che, cos&iacute; faccendo, scemerebbe l'amore e le spese.
+  <a name="p05080010">
+   [010]
+  </a>
+  Di questo consiglio pi&uacute; volte fece beffe
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  ; ma pure, essendo da loro sollecitato, non potendo tanto dir di no, disse di farlo; e fatto fare un grande apparecchiamento, come se in
+  <name placeref="francia" type="place">
+   Francia
+  </name>
+  o in
+  <name placeref="spagna" type="place">
+   Ispagna
+  </name>
+  o in alcuno altro luogo lontano andar volesse, montato a cavallo e da' suoi molti amici accompagnato di
+  <name placeref="ravenna" type="place">
+   Ravenna
+  </name>
+  usc&iacute; e andossen a un luogo fuor di
+  <name placeref="ravenna" type="place">
+   Ravenna
+  </name>
+  forse tre miglia, che si chiama
+  <name placeref="chiassi" type="place">
+   Chiassi
+  </name>
+  ;
+  <a name="p05080011">
+   [011]
+  </a>
+  e quivi fatti venir padiglioni e trabacche, disse a coloro che accompagnato l'aveano che starsi volea e che essi a
+  <name placeref="ravenna" type="place">
+   Ravenna
+  </name>
+  se ne tornassono.
+  <a name="p05080012">
+   [012]
+  </a>
+  Attendatosi adunque quivi
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  cominci&ograve; a fare la pi&uacute; bella vita e la pi&uacute; magnifica che mai si facesse or questi e or quegli altri invitando a cena e a desinare, come usato s'era.
+ </p>
+ <p>
+  <a name="p05080013">
+   [013]
+  </a>
+  Ora avvenne che, venendo quasi all'entrata di maggio, essendo un bellissimo tempo ed egli entrato in pensiero della sua crudel donna, comandato a tutta la sua famiglia che solo il lasciassero per pi&uacute; potere pensare a suo piacere, piede innanzi pi&egrave; s&eacute; medesimo trasport&ograve; pensando infino nella pigneta.
+  <a name="p05080014">
+   [014]
+  </a>
+  E essendo gi&agrave; passata presso che la quinta ora del giorno ed esso bene un mezzo miglio per la pigneta entrato, non ricordandosi di mangiare n&eacute; d'altra cosa, subitamente gli parve udire un grandissimo pianto e guai altissimi messi da una donna; per che, rotto il suo dolce pensiero, alz&ograve; il capo per veder che fosse e maravigliossi nella pigneta veggendosi.
+  <a name="p05080015">
+   [015]
+  </a>
+  E oltre a ci&ograve;, davanti guardandosi, vide venire per un boschetto assai folto d'albuscelli e di pruni, correndo verso il luogo dove egli era, una bellissima giovane ignuda, scapigliata e tutta graffiata dalle frasche e da' pruni, piagnendo e gridando forte merc&eacute;;
+  <a name="p05080016">
+   [016]
+  </a>
+  e oltre a questo le vide a' fianchi due grandi e fieri mastini, li quali duramente appresso correndole spesse volte crudelmente dove la giugnevano la mordevano; e dietro a lei vide venire sopra un corsiere nero un
+  <name persref="guidoanastagi" type="person">
+   cavalier
+  </name>
+  bruno, forte nel viso crucciato, con uno stocco in mano, lei di morte con parole spaventevoli e villane minacciando.
+  <a name="p05080017">
+   [017]
+  </a>
+  Questa cosa a un'ora maraviglia e spavento gli mise nell'animo, e ultimamente compassione della sventurata donna, dalla qual nacque disidero di liberarla da s&iacute; fatta angoscia e morte, se el potesse.
+  <a name="p05080018">
+   [018]
+  </a>
+  Ma senza arme trovandosi, ricorse a prendere un ramo d'albero in luogo di bastone e cominci&ograve; a farsi incontro a' cani e contro al cavaliere.
+ </p>
+ <p>
+  <a name="p05080019">
+   [019]
+  </a>
+  Ma il
+  <name persref="guidoanastagi" type="person">
+   cavaliere
+  </name>
+  che questo vide gli grid&ograve; di lontano:
+  <q direct="unspecified" who="guidoanastagi">
+   <name persref="nastagio" type="person">
+    Nastagio
+   </name>
+   , non t'impacciare, lascia fare a' cani e a me quello che questa malvagia femina ha meritato.
+  </q>
+ </p>
+ <p>
+  <a name="p05080020">
+   [020]
+  </a>
+  E cos&iacute; dicendo, i cani, presa forte la giovane ne' fianchi, la fermarono, e il
+  <name persref="guidoanastagi" type="person">
+   cavaliere
+  </name>
+  sopragiunto smont&ograve; da cavallo; al quale
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  avvicinatosi disse:
+  <q direct="unspecified" who="nastagio">
+   Io non so chi tu ti se', che me cos&iacute; cognosci ma tanto ti dico che gran vilt&agrave; &egrave; d'un cavaliere armato volere uccidere una femina ignuda, e averle i cani alle coste messi come se ella fosse una fiera salvatica: io per certo la difender&ograve; quant'io potr&ograve;.
+  </q>
+ </p>
+ <p>
+  <a name="p05080021">
+   [021]
+  </a>
+  Il
+  <name persref="guidoanastagi" type="person">
+   cavaliere
+  </name>
+  allora disse:
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  , io fui d'una medesima terra teco, ed eri tu ancora piccol fanciullo quando io, il quale fui chiamato messer
+  <name persref="guidoanastagi" type="person">
+   Guido degli Anastagi
+  </name>
+  , era troppo pi&uacute; innamorato di costei che tu ora non se' di quella de'
+  <name persref="traversari" type="person">
+   Traversari
+  </name>
+  ; e per la sua fierezza e crudelt&agrave; and&ograve; s&iacute; la mia sciagura, che io un d&iacute; con questo stocco, il quale tu mi vedi in mano, come disperato m'uccisi, e sono alle pene eternali dannato.
+  <a name="p05080022">
+   [022]
+  </a>
+  N&eacute; stette poi guari tempo che costei, la qual della mia morte fu lieta oltre misura, mor&iacute;, e per lo peccato della sua crudelt&agrave; e della letizia avuta de' miei tormenti, non pentendosene, come colei che non credeva in ci&ograve; aver peccato ma meritato, similmente fu ed &egrave; dannata alle pene del Ninferno.
+  <a name="p05080023">
+   [023]
+  </a>
+  Nel quale come ella discese, cos&iacute; ne fu e a lei e a me per pena dato, a lei di fuggirmi davanti e a me, che gi&agrave; cotanto l'amai, di seguitarla come mortal nimica, non come amata donna;
+  <a name="p05080024">
+   [024]
+  </a>
+  e quante volte io la giungo, tante con questo stocco, col quale io uccisi me, uccido lei e aprola per ischiena, e quel cuor duro e freddo, nel qual mai n&eacute; amor n&eacute; piet&agrave; poterono entrare, con l'altre interiora insieme, s&iacute; come tu vedrai incontanente, le caccio di corpo e dolle mangiare a questi cani.
+  <a name="p05080025">
+   [025]
+  </a>
+  N&eacute; sta poi grande spazio che ella, s&iacute; come la giustizia e la potenzia di Dio vuole, come se morta non fosse stata, risurge e da capo incomincia la dolorosa fugga, e i cani e io a seguitarla.
+  <a name="p05080026">
+   [026]
+  </a>
+  E avviene che ogni venerd&iacute; in su questa ora io la giungo qui e qui ne fo lo strazio che vederai; e gli altri d&iacute; non creder che noi riposiamo, ma giungola in altri luoghi ne' quali ella crudelmente contro a me pens&ograve; o oper&ograve;; e essendole d'amante divenuto nimico, come tu vedi, me la conviene in questa guisa tanti anni seguitare quanti mesi ella fu contro a me crudele.
+  <a name="p05080027">
+   [027]
+  </a>
+  Adunque lasciami la divina giustizia mandare a essecuzione, n&eacute; ti volere opporre a quello che tu non potresti contrastare.
+ </p>
+ <p>
+  <a name="p05080028">
+   [028]
+  </a>
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  , udendo queste parole, tutto timido divenuto e quasi non avendo pelo addosso che arricciato non fosse, tirandosi addietro e riguardando alla misera giovane, cominci&ograve; pauroso ad aspettare quello che facesse il
+  <name persref="guidoanastagi" type="person">
+   cavaliere
+  </name>
+  ;
+  <a name="p05080029">
+   [029]
+  </a>
+  il quale, finito il suo ragionare, a guisa d'un cane rabbioso con lo stocco in mano corse addosso alla giovane, la quale inginocchiata e da' due mastini tenuta forte gli gridava merc&eacute;, e a quella con tutta sua forza diede per mezzo il petto e passolla dall'altra parte.
+  <a name="p05080030">
+   [030]
+  </a>
+  Il qual colpo come la giovane ebbe ricevuto, cos&iacute; cadde boccone sempre piagnendo e gridando: e il
+  <name persref="guidoanastagi" type="person">
+   cavaliere
+  </name>
+  , messo mano ad un coltello, quella apr&iacute; nelle reni, e fuori trattone il cuore e ogni altra cosa da torno, a' due mastini il gitt&ograve;, li quali affamatissimi incontanente il mangiarono.
+  <a name="p05080031">
+   [031]
+  </a>
+  N&eacute; stette guari che la giovane, quasi niuna di queste cose stata fosse, subitamente si lev&ograve; in pi&egrave; e cominci&ograve; a fuggire verso il mare, e i cani appresso di lei sempre lacerandola: e il
+  <name persref="guidoanastagi" type="person">
+   cavaliere
+  </name>
+  , rimontato a cavallo e ripreso il suo stocco, la cominci&ograve; a seguitare, e in picciola ora si dileguarono in maniera che pi&uacute;
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  non gli pot&eacute; vedere.
+ </p>
+ <p>
+  <a name="p05080032">
+   [032]
+  </a>
+  Il quale, avendo queste cose vedute, gran pezza stette tra pietoso e pauroso: e dopo alquanto gli venne nella mente questa cosa dovergli molto poter valere, poi che ogni venerd&iacute; avvenia; per che, segnato il luogo, a' suoi famigliari se ne torn&ograve;, e appresso, quando gli parve, mandato per pi&uacute; suoi parenti e amici, disse loro:
+  <a name="p05080033">
+   [033]
+  </a>
+  <q direct="unspecified" who="nastagio">
+   Voi m'avete lungo tempo stimolato che io d'amare questa mia nemica mi rimanga e ponga fine al mio spendere, e io son presto di farlo dove voi una grazia m'impetriate, la quale &egrave; questa: che venerd&iacute; che viene voi facciate s&iacute; che messer
+   <name persref="paolotraversari" type="person">
+    Paolo Traversari
+   </name>
+   e la moglie e la figliuola e tutte le donne lor parenti, e altre chi vi piacer&agrave;, qui sieno a desinar meco.
+   <a name="p05080034">
+    [034]
+   </a>
+   Quello per che io questo voglia, voi il vedrete allora.
+  </q>
+ </p>
+ <p>
+  <a name="p05080035">
+   [035]
+  </a>
+  A costor parve questa assai piccola cosa a dover fare; e a
+  <name placeref="ravenna" type="place">
+   Ravenna
+  </name>
+  tornati, quando tempo fu, coloro invitarono li quali
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  voleva, e come che dura cosa fosse il potervi menare la giovane da
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  amata, pur v'and&ograve; con l'altre insieme.
+  <a name="p05080036">
+   [036]
+  </a>
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  fece magnificamente apprestare da mangiare e fece le tavole mettere sotto i pini dintorno a quel luogo dove veduto aveva lo strazio della crudel donna; e fatti mettere gli uomini e le donne a tavola, s&iacute; ordin&ograve;, che appunto la giovane amata da lui fu posta a sedere di rimpetto al luogo dove doveva il fatto intervenire.
+ </p>
+ <p>
+  <a name="p05080037">
+   [037]
+  </a>
+  Essendo adunque gi&agrave; venuta l'ultima vivanda, e il romore disperato della cacciata giovane da tutti fu cominciato a udire. Di che maravigliandosi forte ciascuno e domandando che ci&ograve; fosse e niuno sappiendol dire, levatisi tutti diritti e riguardando che ci&ograve; potesse essere, videro la dolente giovane e 'l
+  <name persref="guidoanastagi" type="person">
+   cavaliere
+  </name>
+  e' cani; n&eacute; guari stette che essi tutti furon quivi tra loro.
+  <a name="p05080038">
+   [038]
+  </a>
+  Il romore fu fatto grande e a' cani e al cavaliere, e molti per aiutare la giovane si fecero innanzi; ma il
+  <name persref="guidoanastagi" type="person">
+   cavaliere
+  </name>
+  , parlando loro come a
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  aveva parlato, non solamente gli fece indietro tirare ma tutti gli spavent&ograve; e riempi&eacute; di maraviglia;
+  <a name="p05080039">
+   [039]
+  </a>
+  e faccendo quello che altra volta aveva fatto, quante donne v'aveva (ch&eacute; ve ne aveva assai che parenti erano state e della dolente giovane e del cavaliere e che si ricordavano dell'amore e della morte di lui) tutte cos&iacute; miseramente piagnevano come se a se medesime quello avesser veduto fare.
+  <a name="p05080040">
+   [040]
+  </a>
+  La qual cosa al suo termine fornita, e andata via la donna e 'l
+  <name persref="guidoanastagi" type="person">
+   cavaliere
+  </name>
+  , mise costoro che ci&ograve; veduto aveano in molti e varii ragionamenti. Ma tra gli altri che pi&uacute; di spavento ebbero, fu la crudel giovane da
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  amata, la quale ogni cosa distintamente veduta avea e udita e conosciuto che a s&eacute; pi&uacute; che a altra persona che vi fosse queste cose toccavano, ricordandosi della crudelt&agrave; sempre da lei usata verso
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  ; per che gi&agrave; le parea fuggire dinanzi da lui adirato e avere i mastini a' fianchi.
+ </p>
+ <p>
+  <a name="p05080041">
+   [041]
+  </a>
+  E tanta fu la paura che di questo le nacque, che, acci&ograve; che questo a lei non avvenisse, prima tempo non si vide, il quale quella medesima sera prestato le fu, che ella, avendo l'odio in amor tramutato, una sua fida cameriera segretamente a
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  mand&ograve;, la quale da parte di lei il preg&ograve; che gli dovesse piacer d'andare a lei, per ci&ograve; ch'ella era presta di far tutto ci&ograve; che fosse piacer di lui.
+  <a name="p05080042">
+   [042]
+  </a>
+  Alla qual
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  fece rispondere che questo gli era a grado molto, ma che, dove le piacesse, con onor di lei voleva il suo piacere, e questo era sposandola per moglie.
+  <a name="p05080043">
+   [043]
+  </a>
+  La giovane, la qual sapeva che da altrui che da lei rimaso non era che moglie di
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  stata non fosse, gli fece risponder che le piacea. Per che, essendo ella medesima la messaggera, al padre e alla madre disse che era contenta d'essere sposa di
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  , di che essi furon contenti molto.
+ </p>
+ <p>
+  <a name="p05080044">
+   [044]
+  </a>
+  E la domenica seguente
+  <name persref="nastagio" type="person">
+   Nastagio
+  </name>
+  sposatala e fatte le sue nozze, con lei pi&uacute; tempo lietamente visse. E non fu questa paura cagione solamente di questo bene, anzi s&iacute; tutte le ravignane donne paurose ne divennero, che sempre poi troppo pi&uacute; arrendevoli a' piaceri degli uomini furono che prima state non erano.
+ </p>
+</div>

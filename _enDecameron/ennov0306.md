@@ -3,51 +3,49 @@ title: "Novel VI"
 day: "ennov0306"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0306" type="novella" who="fiammetta">
-   <head>
-    Novel VI
-   </head>
-   <argument>
-    <p>
-     <milestone id="p03060001"/>
-     <!--(i)-->
-     Ricciardo Minutolo loves the wife of Filippello Fighinolfi,
+<div id="nov0306" type="novella" who="fiammetta">
+ <h1>
+  Novel VI
+ </h1>
+ <argument>
+  <p>
+   <a name="p03060001">
+    [001]
+   </a>
+   Ricciardo Minutolo loves the wife of Filippello Fighinolfi,
  and knowing her to be jealous, makes her believe that
  his own wife is to meet Filippello at a bagnio on the
  ensuing day; whereby she is induced to go thither,
  where, thinking to have been with her husband, she
  discovers that she has tarried with Ricciardo.
-     <!--(/i)-->
-    </p>
-   </argument>
-   <p>
-    <h3>
-     [Voice: fiammetta]
-    </h3>
-   </p>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p03060002"/>
-     <!--(sc)-->
-     When
-     <!--(/sc)-->
-     Elisa had quite done, the queen, after some commendation
+  </p>
+ </argument>
+ <p>
+  <h3>
+   [Voice: fiammetta]
+  </h3>
+ </p>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p03060002">
+    [002]
+   </a>
+   When
+   Elisa had quite done, the queen, after some commendation
 	of Zima's sagacity, bade Fiammetta follow with a story. Whereto
 	Fiammetta, all smiles, responded:
-     <q direct="unspecified">
-      Madam, with all my heart;
-     </q>
-     and thus began:
-    </p>
-   </div3>
-   <div3 type="commentary" who="fiammetta">
-    <p>
-     <milestone id="p03060003"/>
-     Richly though our city abounds, as in all things else, so also in
+   <q direct="unspecified">
+    Madam, with all my heart;
+   </q>
+   and thus began:
+  </p>
+ </div3>
+ <div3 type="commentary" who="fiammetta">
+  <p>
+   <a name="p03060003">
+    [003]
+   </a>
+   Richly though our city abounds, as in all things else, so also in
 	instances to suit every topic, yet I am minded to journey some
 	distance thence, and, like Elisa, to tell you something of what goes
 	on in other parts of the world: wherefore pass we to Naples, where
@@ -56,45 +54,54 @@ layout: "single"
 	fruit before she had known the flowers of love; whereby at one and
 	the same time you may derive from the past counsel of prudence for
 	the future, and present delectation.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p03060004"/>
-    In the very ancient city of Naples, which for loveliness has not
+  </p>
+ </div3>
+ <p>
+  <a name="p03060004">
+   [004]
+  </a>
+  In the very ancient city of Naples, which for loveliness has not
  its superior or perhaps its equal in Italy, there once lived a young
  man, renowned alike for noble blood and the splendour of his vast
  wealth, his name Ricciardo Minutolo. He was mated with a very
  fair and loving wife; but nevertheless he became enamoured of a
  lady who in the general opinion vastly surpassed in beauty every other
  lady in Naples. Catella--such was the lady's name--was married to
-    <pb n="210"/>
-    a young man, likewise of gentle blood, Filippello Fighinolfi by name,
+  a young man, likewise of gentle blood, Filippello Fighinolfi by name,
  whom she, most virtuous of ladies, loved and held dear above all else
  in the world.
-    <milestone id="p03060005"/>
-    Being thus enamoured of Catella, Ricciardo Minutolo
+  <a name="p03060005">
+   [005]
+  </a>
+  Being thus enamoured of Catella, Ricciardo Minutolo
  left none of those means untried whereby a lady's favour and love
  are wont to be gained, but for all that he made no way towards the
  attainment of his heart's desire: whereby he fell into a sort of despair,
  and witless and powerless to loose himself from his love, found life
  scarce tolerable, and yet knew not how to die.
-    <milestone id="p03060006"/>
-    While in this frame
+  <a name="p03060006">
+   [006]
+  </a>
+  While in this frame
  he languished, it befell one day that some ladies that were of kin to
  him counselled him earnestly to be quit of such a love, whereby he
  could but fret himself to no purpose, seeing that Catella cared for
  nought in the world save Filippello, and lived in such a state of
  jealousy on his account that never a bird flew but she feared lest it
  should snatch him from her.
-    <milestone id="p03060007"/>
-    So soon as Ricciardo heard of Catella's
+  <a name="p03060007">
+   [007]
+  </a>
+  So soon as Ricciardo heard of Catella's
  jealousy, he forthwith began to ponder how he might make it
  subserve his end. He feigned to have given up his love for Catella
  as hopeless, and to have transferred it to another lady, in whose
  honour he accordingly began to tilt and joust and do all that he
  had been wont to do in honour of Catella.
-    <milestone id="p03060008"/>
-    Nor was it long before
+  <a name="p03060008">
+   [008]
+  </a>
+  Nor was it long before
  well-nigh all the Neapolitans, including Catella herself, began to
  think that he had forgotten Catella, and was to the last degree
  enamoured of the other lady. In this course he persisted, until the
@@ -102,8 +109,10 @@ layout: "single"
  laid aside a certain reserve which she had used towards him while
  she deemed him her lover, and, coming and going, greeted him in
  friendly, neighbourly fashion, like the rest.
-    <milestone id="p03060009"/>
-    Now it so befell that
+  <a name="p03060009">
+   [009]
+  </a>
+  Now it so befell that
  during the hot season, when, according to the custom of the
  Neapolitans, many companies of ladies and gentlemen went down to
  the sea-coast to recreate themselves and breakfast and sup, Ricciardo,
@@ -111,61 +120,76 @@ layout: "single"
  likewise with his, but, making as if he were not minded to stay
  there, he received several invitations from the ladies of Catella's
  company before he accepted any.
-    <milestone id="p03060010"/>
-    When the ladies received him,
+  <a name="p03060010">
+   [010]
+  </a>
+  When the ladies received him,
  they all with one accord, including Catella, began to rally him on
  his new love, and he furnished them with more matter for talk
  by feigning a most ardent passion. At length most of the ladies
  being gone off, one hither, another thither, as they do in such places,
  leaving Catella and a few others with Ricciardo, he tossed at Catella
-    <pb n="211"/>
-    a light allusion to a certain love of her husband Filippello, which
+  a light allusion to a certain love of her husband Filippello, which
  threw her at once into such a fit of jealousy, that she inly burned
  with a vehement desire to know what Ricciardo meant.
-    <milestone id="p03060011"/>
-    For a
+  <a name="p03060011">
+   [011]
+  </a>
+  For a
  while she kept her own counsel; then, brooking no more suspense,
  she adjured Ricciardo, by the love he bore the lady whom most he
  loved, to expound to her what he had said touching Filippello.
-    <milestone id="p03060012"/>
-    He
+  <a name="p03060012">
+   [012]
+  </a>
+  He
  answered thus:
-    <q direct="unspecified">
-     You have adjured me by her to whom I dare
+  <q direct="unspecified">
+   You have adjured me by her to whom I dare
  not deny aught that you may ask of me; my riddle therefore I will
  presently read you, provided you promise me that neither to him nor
  to any one else will you impart aught of what I shall relate to you,
  until you shall have ocular evidence of its truth; which, so you desire
  it, I will teach you how you may obtain.
-    </q>
-    <milestone id="p03060013"/>
-    The lady accepted his
+  </q>
+  <a name="p03060013">
+   [013]
+  </a>
+  The lady accepted his
  terms, which rather confirmed her belief in his veracity, and swore
  that she would not tell a soul. They then drew a little apart, that
  they might not be overheard by the rest, and Ricciardo thus began:
-    <q direct="unspecified">
-     Madam, did I love you, as I once did, I should not dare to tell
+  <q direct="unspecified">
+   Madam, did I love you, as I once did, I should not dare to tell
  you aught that I thought might cause you pain; but, now that that
  love is past, I shall have the less hesitation in telling you the truth.
-     <milestone id="p03060014"/>
-     Whether Filippello ever resented the love which I bore you, or
+   <a name="p03060014">
+    [014]
+   </a>
+   Whether Filippello ever resented the love which I bore you, or
  deemed that it was returned by you, I know not: whether it were
  so or no, he certainly never shewed any such feeling to me;
-     <milestone id="p03060015"/>
-     but
+   <a name="p03060015">
+    [015]
+   </a>
+   but
  so it is that now, having waited, perhaps, until, as he supposes, I am
  less likely to be on my guard, he shews a disposition to serve me
  as I doubt he suspects that I served him; that is to say, he would
  fain have his pleasure of my wife, whom for some time past he has,
  as I discover, plied with messages through most secret channels. She
  has told me all, and has answered him according to my instructions:
-     <milestone id="p03060016"/>
-     but only this morning, just before I came hither, I found a woman
+   <a name="p03060016">
+    [016]
+   </a>
+   but only this morning, just before I came hither, I found a woman
  in close parley with her in the house, whose true character and
  purpose I forthwith divined; so I called my wife, and asked what the
  woman wanted.
-     <milestone id="p03060017"/>
-     Whereto she answered: ''Tis this persecution
+   <a name="p03060017">
+    [017]
+   </a>
+   Whereto she answered: ''Tis this persecution
  by Filippello which thou hast brought upon me by the encouraging
  answers that thou wouldst have me give him: he now tells me that
  he is most earnestly desirous to know my intentions, and that, should
@@ -173,24 +197,29 @@ layout: "single"
  to a bagnio in this city, and he is most urgent and instant that I
  should consent. And hadst thou not, wherefore I know not, bidden
  me keep the affair afoot, I would have dismissed him in such a
-     <pb n="212"/>
-     sort that my movements would have been exempt from his prying
+   sort that my movements would have been exempt from his prying
  observation for ever.
-     <milestone id="p03060018"/>
-     Upon this I saw that the affair was going
+   <a name="p03060018">
+    [018]
+   </a>
+   Upon this I saw that the affair was going
  too far; I determined to have no more of it, and to let you know
  it, that you may understand how he requites your whole-hearted
  faith, which brought me of late to the verge of death.
-     <milestone id="p03060019"/>
-     And that
+   <a name="p03060019">
+    [019]
+   </a>
+   And that
  you may not suppose that these are but empty words and idle tales,
  but may be able, should you so desire, to verify them by sight and
  touch, I caused my wife to tell the woman who still waited her
  answer, that she would be at the bagnio to-morrow about none,
  during the siesta: with which answer the woman went away well
  content.
-     <milestone id="p03060020"/>
-     Now you do not, I suppose, imagine that I would send
+   <a name="p03060020">
+    [020]
+   </a>
+   Now you do not, I suppose, imagine that I would send
  her thither; but if I were in your place, he should find me there
  instead of her whom he thinks to find there; and when I had been
  some little time with him, I would give him to understand with
@@ -198,11 +227,13 @@ layout: "single"
  deserved. Whereby, I doubt not, he would be put to such shame
  as would at one and the same time avenge both the wrong which
  he has done to you and that which he plots against me.
-    </q>
-   </p>
-   <p>
-    <milestone id="p03060021"/>
-    Catella, as is the wont of the jealous, hearkened to Ricciardo's words
+  </q>
+ </p>
+ <p>
+  <a name="p03060021">
+   [021]
+  </a>
+  Catella, as is the wont of the jealous, hearkened to Ricciardo's words
  without so much as giving a thought to the speaker or his wiles,
  inclined at once to credit his story, and began to twist certain antecedent
  matters into accord with it; then, suddenly kindling with
@@ -210,75 +241,96 @@ layout: "single"
  'twould cause her no great inconvenience, and if he should come, she
  would so shame him that he should never again set eyes on woman
  but his ears would tingle.
-    <milestone id="p03060022"/>
-    Satisfied by what he heard, that his
+  <a name="p03060022">
+   [022]
+  </a>
+  Satisfied by what he heard, that his
  stratagem was well conceived, and success sure, Ricciardo added much
  in corroboration of his story, and having thus confirmed her belief
  in it, besought her to keep it always close, whereto she pledged
  her faith.
-   </p>
-   <p>
-    <milestone id="p03060023"/>
-    Next morning Ricciardo hied him to the good woman that kept
+ </p>
+ <p>
+  <a name="p03060023">
+   [023]
+  </a>
+  Next morning Ricciardo hied him to the good woman that kept
  the bagnio to which he had directed Catella, told her the enterprise
  which he had in hand, and prayed her to aid him therein so far as
  she might be able. The good woman, who was much beholden to
  him, assured him that she would gladly do so, and concerted with
  him all that was to be said and done.
-    <milestone id="p03060024"/>
-    She had in the bagnio a room
+  <a name="p03060024">
+   [024]
+  </a>
+  She had in the bagnio a room
  which was very dark, being without any window to admit the light.
  This room, by Ricciardo's direction, she set in order, and made up a
-    <pb n="213"/>
-    bed there as well as she could, into which bed Ricciardo got, as soon
+  bed there as well as she could, into which bed Ricciardo got, as soon
  as he had breakfasted, and there awaited Catella's coming.
-   </p>
-   <p>
-    <milestone id="p03060025"/>
-    Now Catella, still giving more credence to Ricciardo's story than
+ </p>
+ <p>
+  <a name="p03060025">
+   [025]
+  </a>
+  Now Catella, still giving more credence to Ricciardo's story than
  it merited, had gone home in the evening in a most resentful mood,
  and Filippello, returning home the same evening with a mind greatly
  preoccupied, was scarce as familiar with her as he was wont to be.
-    <milestone id="p03060026"/>
-    Which she marking, grew yet more suspicious than before, and said
+  <a name="p03060026">
+   [026]
+  </a>
+  Which she marking, grew yet more suspicious than before, and said
  to herself:
-    <q direct="unspecified">
-     Doubtless he is thinking of the lady of whom he expects
+  <q direct="unspecified">
+   Doubtless he is thinking of the lady of whom he expects
  to take his pleasure to-morrow, as most assuredly he shall not;
-    </q>
-    and
+  </q>
+  and
  so, musing and meditating what she should say to him after their
  rencounter at the bagnio, she spent the best part of the night.
-    <milestone id="p03060027"/>
-    But--to
+  <a name="p03060027">
+   [027]
+  </a>
+  But--to
  shorten my story--upon the stroke of none Catella, taking with
  her a single attendant, but otherwise adhering to her original intention,
  hied her to the bagnio which Ricciardo had indicated; and finding
  the good woman there, asked her whether Filippello had been there
  that day.
-    <milestone id="p03060028"/>
-    Primed by Ricciardo, the good woman asked her, whether
+  <a name="p03060028">
+   [028]
+  </a>
+  Primed by Ricciardo, the good woman asked her, whether
  she were the lady that was to come to speak with him;
-    <milestone id="p03060029"/>
-    to which she
+  <a name="p03060029">
+   [029]
+  </a>
+  to which she
  answered in the affirmative.
-    <milestone id="p03060030"/>
-    <q direct="unspecified">
-     Go to him, then,
-    </q>
-    said the good
+  <a name="p03060030">
+   [030]
+  </a>
+  <q direct="unspecified">
+   Go to him, then,
+  </q>
+  said the good
  woman.
-    <milestone id="p03060031"/>
-    And so Catella, in quest of that which she would gladly
+  <a name="p03060031">
+   [031]
+  </a>
+  And so Catella, in quest of that which she would gladly
  not have found, was shewn to the chamber where Ricciardo was,
  and having entered without uncovering her head, closed the door
  behind her. Overjoyed to see her, Ricciardo sprang out of bed, took
  her in his arms, and said caressingly:
-    <q direct="unspecified">
-     Welcome, my soul.
-    </q>
-    <milestone id="p03060032"/>
-    Catella, dissembling, for she was minded at first to counterfeit another
+  <q direct="unspecified">
+   Welcome, my soul.
+  </q>
+  <a name="p03060032">
+   [032]
+  </a>
+  Catella, dissembling, for she was minded at first to counterfeit another
  woman, returned his embrace, kissed him, and lavished endearments
  upon him; saying, the while, not a word, lest her speech should
  betray her. The darkness of the room, which was profound, was
@@ -287,20 +339,23 @@ layout: "single"
  where, with no word said on either side in a voice that might be
  recognized, they lay a long while, much more to the solace and
  satisfaction of the one than of the other party.
-    <milestone id="p03060033"/>
-    Then, Catella,
+  <a name="p03060033">
+   [033]
+  </a>
+  Then, Catella,
  deeming it high time to vent her harboured resentment, burst forth
  in a blaze of wrath on this wise:
-    <q direct="unspecified">
-     Alas! how wretched is the lot
+  <q direct="unspecified">
+   Alas! how wretched is the lot
  of women, how misplaced of not a few the love they bear their
  husbands! Ah, woe is me! for eight years have I loved thee more
  dearly than my life; and now I find that thou, base miscreant that
  thou art, dost nought but burn and languish for love of another
-     <pb n="214"/>
-     woman!
-     <milestone id="p03060034"/>
-     Here thou hast been--with whom, thinkest thou? Even
+   woman!
+   <a name="p03060034">
+    [034]
+   </a>
+   Here thou hast been--with whom, thinkest thou? Even
  with her whom thou hast too long deluded with thy false blandishments,
  making pretence to love her while thou art enamoured of
  another. 'Tis I, Catella, not the wife of Ricciardo, false traitor
@@ -308,87 +363,106 @@ layout: "single"
  would we were but in the light!--it seems to me a thousand years
  till then--that I might shame thee as thou deservest, vile, pestilent
  dog that thou art!
-     <milestone id="p03060035"/>
-     Alas! woe is me! such love as I have borne so
+   <a name="p03060035">
+    [035]
+   </a>
+   Alas! woe is me! such love as I have borne so
  many years--to whom? To this faithless dog, that, thinking to have a
  strange woman in his embrace, has in the brief while that I have
  been with him here lavished upon me more caresses and endearments
  than during all the forepast time that I have been his!
-     <milestone id="p03060036"/>
-     A lively
+   <a name="p03060036">
+    [036]
+   </a>
+   A lively
  spark indeed art thou to-day, renegade dog, that shewest thyself
  so limp and enervate and impotent at home! But, God be praised,
  thou hast tilled thine own plot, and not another's, as thou didst believe.
-     <milestone id="p03060037"/>
-     No wonder that last night thou heldest aloof from me; thou wast
+   <a name="p03060037">
+    [037]
+   </a>
+   No wonder that last night thou heldest aloof from me; thou wast
  thinking of scattering thy seed elsewhere, and wast minded to shew
  thyself a lusty knight when thou shouldst join battle. But praise be
  to God and my sagacity, the water has nevertheless taken its proper
  course.
-     <milestone id="p03060038"/>
-     Where is thy answer, culprit? Hast thou nought to say?
+   <a name="p03060038">
+    [038]
+   </a>
+   Where is thy answer, culprit? Hast thou nought to say?
  Have my words struck thee dumb? God's faith! I know not why I
  forbear to pluck thine eyes out with my fingers! Thou thoughtest
  to perpetrate this treason with no small secrecy; but, by God, one is
  as knowing as another; thy plot has failed; I had better hounds on
  thy trail than thou didst think for.
-    </q>
-    <milestone id="p03060039"/>
-    Ricciardo, inly delighted by her
+  </q>
+  <a name="p03060039">
+   [039]
+  </a>
+  Ricciardo, inly delighted by her
  words, made no answer, but embraced and kissed her more than
  ever, and overwhelmed her with his endearments. So she continued
  her reproaches, saying:
-    <q direct="unspecified">
-     Ay, thou thinkest to cajole me with thy
+  <q direct="unspecified">
+   Ay, thou thinkest to cajole me with thy
  feigned caresses, wearisome dog that thou art, and so to pacify and
  mollify me; but thou art mistaken. I shall never be mollified, until
  I have covered thee with infamy in the presence of all our kinsfolk
  and friends and neighbours.
-     <milestone id="p03060040"/>
-     Am I not, miscreant, as fair as the wife
+   <a name="p03060040">
+    [040]
+   </a>
+   Am I not, miscreant, as fair as the wife
  of Ricciardo Minutolo? Am I not as good a lady as she? Why
  dost not answer, vile dog? Wherein has she the advantage of me?
  Away with thee! touch me not; thou hast done feats of arms more
  than enough for to-day.
-     <milestone id="p03060041"/>
-     Well I know that, now that thou knowest
+   <a name="p03060041">
+    [041]
+   </a>
+   Well I know that, now that thou knowest
  who I am, thou wilt wreak thy will on me by force: but by God's
  grace I will yet disappoint thee. I know not why I forbear to send
-     <pb n="215"/>
-     for Ricciardo, who loved me more than himself and yet was never
+   for Ricciardo, who loved me more than himself and yet was never
  able to boast that he had a single glance from me; nor know I why
  'twere wrong to do so. Thou thoughtest to have his wife here, and
  'tis no fault of thine that thou hadst her not: so, if I had him, thou
  couldst not justly blame me.
-    </q>
-   </p>
-   <p>
-    <milestone id="p03060042"/>
-    Enough had now been said: the lady's mortification was extreme;
+  </q>
+ </p>
+ <p>
+  <a name="p03060042">
+   [042]
+  </a>
+  Enough had now been said: the lady's mortification was extreme;
  and, as she ended, Ricciardo bethought him that, if he suffered her,
  thus deluded, to depart, much evil might ensue. He therefore
  resolved to make himself known, and disabuse her of her error. So,
  taking her in his arms, and clipping her so close that she could not
  get loose, he said:
-    <q direct="unspecified">
-     Sweet my soul, be not wroth: that which,
+  <q direct="unspecified">
+   Sweet my soul, be not wroth: that which,
  while artlessly I loved, I might not have, Love has taught me to
  compass by guile: know that I am thy Ricciardo.
-    </q>
-   </p>
-   <p>
-    <milestone id="p03060043"/>
-    At these words and the voice, which she recognized, Catella
+  </q>
+ </p>
+ <p>
+  <a name="p03060043">
+   [043]
+  </a>
+  At these words and the voice, which she recognized, Catella
  started, and would have sprung out of the bed; which being
  impossible, she essayed a cry; but Ricciardo laid a hand upon her
  mouth, and closed it, saying:
-    <q direct="unspecified">
-     Madam, that which is done can
+  <q direct="unspecified">
+   Madam, that which is done can
  never be undone, though you should cry out for the rest of your
  days, and should you in such or any other wise publish this matter to
  any, two consequences will ensue.
-     <milestone id="p03060044"/>
-     In the first place (and this is a
+   <a name="p03060044">
+    [044]
+   </a>
+   In the first place (and this is a
  point which touches you very nearly) your honour and fair fame will
  be blasted; for, however you may say that I lured you hither by
  guile, I shall deny it, and affirm, on the contrary, that I induced you
@@ -397,36 +471,43 @@ layout: "single"
  up to your expectations, that you make such a cry and clamour; and
  you know that folk are more prone to believe evil than good, and
  therefore I am no less likely to be believed than you.
-     <milestone id="p03060045"/>
-     The further
+   <a name="p03060045">
+    [045]
+   </a>
+   The further
  consequence will be mortal enmity between your husband and me, and
  the event were as like to be that I killed him as that he killed me:
  which if I did, you would never more know joy or peace. Wherefore,
  heart of my body, do not at one and the same time bring dishonour
  upon yourself and set your husband and me at strife and in jeopardy
  of our lives.
-     <milestone id="p03060046"/>
-     You are not the first, nor will you be the last to be
+   <a name="p03060046">
+    [046]
+   </a>
+   You are not the first, nor will you be the last to be
  beguiled; nor have I beguiled you to rob you of aught, but for excess
  of love that I bear, and shall ever bear, you, being your most lowly
  vassal. And though it is now a great while that I, and what I have
  and can and am worth, are yours, yet I am minded that so it shall be
-     <pb n="216"/>
-     henceforth more than ever before. Your discretion in other matters
+   henceforth more than ever before. Your discretion in other matters
  is not unknown to me, and I doubt not 'twill be equally manifest
  in this.
-    </q>
-   </p>
-   <p>
-    <milestone id="p03060047"/>
-    Ricciardo's admonitions were received by Catella with many a
+  </q>
+ </p>
+ <p>
+  <a name="p03060047">
+   [047]
+  </a>
+  Ricciardo's admonitions were received by Catella with many a
  bitter tear; but though she was very wroth and very sad at heart,
  yet Ricciardo's true words so far commanded the assent of her
  reason, that she acknowledged that 'twas possible they might be
  verified by the event. Wherefore she made answer:
-    <milestone id="p03060048"/>
-    <q direct="unspecified">
-     Ricciardo,
+  <a name="p03060048">
+   [048]
+  </a>
+  <q direct="unspecified">
+   Ricciardo,
  I know not how God will grant me patience to bear the villainy and
  knavery which thou hast practised upon me; and though in this
  place, to which simplicity and excess of jealousy guided my steps, I
@@ -435,22 +516,24 @@ layout: "single"
  me. Wherefore unhand me, let me go: thou hast had thy desire of
  me, and hast tormented me to thy heart's content: 'tis time to release
  me; let me go, I pray thee.
-    </q>
-    <milestone id="p03060049"/>
-    But Ricciardo, seeing that she was
+  </q>
+  <a name="p03060049">
+   [049]
+  </a>
+  But Ricciardo, seeing that she was
  still much ruffled in spirit, was resolved not to let her go, until he
  had made his peace with her. So he addressed himself to soothe
  her; and by dint of most dulcet phrases and entreaties and adjurations
  he did at last prevail with her to give him her pardon; nay, by
  joint consent, they tarried there a great while to the exceeding great
  delight of both.
-    <milestone id="p03060050"/>
-    Indeed the lady, finding her lover's kisses smack
+  <a name="p03060050">
+   [050]
+  </a>
+  Indeed the lady, finding her lover's kisses smack
  much better than those of her husband, converted her asperity into
  sweetness, and from that day forth cherished a most tender love for
  Ricciardo; whereof, using all circumspection, they many a time had
  solace. God grant us solace of ours.
-   </p>
-  </div>
- </body>
-</html>
+ </p>
+</div>

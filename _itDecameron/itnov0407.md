@@ -3,377 +3,419 @@ title: "Novella Settima"
 day: "itnov0407"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0407" type="novella" who="emilia">
-   <head>
-    Novella Settima
-   </head>
-   <p>
-    <h3>
-     [Voice: emilia]
-    </h3>
-   </p>
-   <argument>
-    <p>
-     <milestone id="p04070001"/>
-     La
-     <name persref="simona" type="person">
-      Simona
-     </name>
-     ama
-     <name persref="pasquino" type="person">
-      Pasquino
-     </name>
-     ; sono insieme in uno orto,
-     <name persref="pasquino" type="person">
-      Pasquino
-     </name>
-     si frega a' denti una foglia di salvia e muorsi: &egrave; presa la
-     <name persref="simona" type="person">
-      Simona
-     </name>
-     , la quale, volendo mostrare al giudice come morisse
-     <name persref="pasquino" type="person">
-      Pasquino
-     </name>
-     , fregatasi una di quelle foglie a' denti, similmente si muore.
-    </p>
-   </argument>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p04070002"/>
-     <name persref="panfilo" type="person">
-      Panfilo
-     </name>
-     era della sua novella diliberato, quando il re, nulla compassion mostrando all'
-     <name persref="andreuola" type="person">
-      Andreuola
-     </name>
-     , riguardando
-     <name persref="emilia" type="person">
-      Emilia
-     </name>
-     , sembianti le f&eacute; che a grado li fosse che essa a coloro che detto aveano dicendo si continuasse; la quale, senza alcuna dimora fare incominci&ograve;:
-    </p>
-   </div3>
-   <div3 type="commentary" who="emilia">
-    <p>
-     <milestone id="p04070003"/>
-     Care compagne, la novella detta da
-     <name persref="panfilo" type="person">
-      Panfilo
-     </name>
-     mi tira a doverne dire una in niuna cosa altra alla sua simile, se non che, come l'
-     <name persref="andreuola" type="person">
-      Andreuola
-     </name>
-     nel
-     <name placeref="giardino-0406" type="place">
-      giardino
-     </name>
-     perd&eacute; l'amante, e cos&iacute; colei di cui dir debbo; e similmente presa, come l'
-     <name persref="andreuola" type="person">
-      Andreuola
-     </name>
-     fu, non con forza n&eacute; con virt&uacute; ma con morte inoppinata si diliber&ograve; dalla corte.
-     <milestone id="p04070004"/>
-     E come altra volta tra noi &egrave; stato detto, quantunque Amor volentieri le case de' nobili uomini abiti, esso per ci&ograve; non rifiuta lo 'mperio di quelle de' poveri, anzi in quelle s&iacute; alcuna volta le sue forze dimostra, che come potentissimo signore da' pi&uacute; ricchi si fa temere.
-     <milestone id="p04070005"/>
-     Il che, ancora che non in tutto, in gran parte apparir&agrave; nella mia novella, con la qual mi piace nella nostra citt&agrave; rientrare, della quale questo d&iacute;, diverse cose diversamente parlando, per diverse parti del mondo avvolgendoci cotanto allontanati ci siamo.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p04070006"/>
-    Fu adunque, non &egrave; ancora gran tempo, in
-    <name placeref="firenze" type="place">
-     Firenze
-    </name>
-    una giovane assai bella e leggiadra secondo la sua condizione, e di povero padre figliuola, la quale ebbe nome
-    <name persref="simona" type="person">
-     Simona
-    </name>
-    : e quantunque le convenisse colle proprie braccia il pan che mangiar volea guadagnare e filando lana sua vita reggesse, non fu per ci&ograve; di s&iacute; povero animo che ella non ardisse a ricevere amore nella sua mente, il quale con gli atti e colle parole piacevoli d'un giovinetto di non maggior peso di lei, che dando andava per un suo maestro lanaiuolo lana a filare, buona pezza mostrato aveva di volervi entrare.
-    <milestone id="p04070007"/>
-    Ricevutolo adunque in s&eacute; col piacevole aspetto del giovane che l'amava, il cui nome era
-    <name persref="pasquino" type="person">
-     Pasquino
-    </name>
-    , forte disiderando e non attentando di far pi&uacute; avanti, filando a ogni passo di lana filata che al fuso avvolgeva mille sospiri pi&uacute; cocenti che fuoco gittava, di colui ricordandosi che a filar gliele aveva data.
-    <milestone id="p04070008"/>
-    Quegli dall'altra parte molto sollecito divenuto che ben si filasse la lana del suo maestro, quasi quella sola che la
-    <name persref="simona" type="person">
-     Simona
-    </name>
-    filava, e non alcuna altra, tutta la tela dovesse compiere, pi&uacute; spesso che l'altre era sollecitata.
-    <milestone id="p04070009"/>
-    Per che, l'un sollecitando e all'altra giovando d'esser sollecitata, avvenne che l'un pi&uacute; d'ardir prendendo che aver non solea, e l'altra molta della paura e della vergogna cacciando che d'avere era usata, insieme a' piacer comuni si congiunsono; li quali tanto all'una parte e all'altra aggradirono, che, non che l'uno dall'altro aspettasse d'essere invitato a ci&ograve;, anzi a dovervi essere si faceva incontro l'uno all'altro invitando.
-   </p>
-   <p>
-    <milestone id="p04070010"/>
-    E cos&iacute; questo lor piacer continuando d'un giorno in un altro e sempre pi&uacute; nel continuare accendendosi, avvenne che
-    <name persref="pasquino" type="person">
-     Pasquino
-    </name>
-    disse alla
-    <name persref="simona" type="person">
-     Simona
-    </name>
-    che del tutto egli voleva che ella trovasse modo di poter venire a un
-    <name placeref="giardino-0407" type="place">
-     giardino
-    </name>
-    , l&agrave; dove egli menar la voleva, acci&ograve; che quivi pi&uacute; a agio e con men sospetto potessero essere insieme.
-    <milestone id="p04070011"/>
-    La
-    <name persref="simona" type="person">
-     Simona
-    </name>
-    disse che le piaceva; e, dato a vedere al padre, una domenica dopo mangiare, che andar voleva alla perdonanza a
-    <name placeref="sangallo" type="place">
-     San Gallo
-    </name>
-    , con una sua compagna chiamata la
-    <name persref="lagina" type="person">
-     Lagina
-    </name>
-    al
-    <name placeref="giardino-0407" type="place">
-     giardino
-    </name>
-    statole da
-    <name persref="pasquino" type="person">
-     Pasquino
-    </name>
-    insegnato se n'and&ograve;, dove lui insieme con un suo compagno, che
-    <name persref="stramba" type="person">
-     Puccino
-    </name>
-    avea nome, ma era chiamato lo
-    <name persref="stramba" type="person">
-     Stramba
-    </name>
-    , trov&ograve;; e quivi fatto uno amorazzo nuovo tra lo
-    <name persref="stramba" type="person">
-     Stramba
-    </name>
-    e la
-    <name persref="lagina" type="person">
-     Lagina
-    </name>
-    , essi a far de' lor piaceri in una parte del giardin si raccolsero, e lo
-    <name persref="stramba" type="person">
-     Stramba
-    </name>
-    e la
-    <name persref="lagina" type="person">
-     Lagina
-    </name>
-    lasciarono in un'altra.
-   </p>
-   <p>
-    <milestone id="p04070012"/>
-    Era in quella parte del
-    <name placeref="giardino-0407" type="place">
-     giardino
-    </name>
-    , dove
-    <name persref="pasquino" type="person">
-     Pasquino
-    </name>
-    e la
-    <name persref="simona" type="person">
-     Simona
-    </name>
-    andati se ne erano, un grandissimo e bel cesto di salvia: a pi&egrave; della quale postisi a sedere e gran pezza sollazzatisi insieme e molto avendo ragionato d'una merenda che in quello orto a animo riposato intendevan di fare,
-    <name persref="pasquino" type="person">
-     Pasquino
-    </name>
-    , al gran cesto della salvia rivolto, di quella colse una foglia e con essa s'incominci&ograve; a stropicciare i denti e le gengie, dicendo che la salvia molto ben gli nettava d'ogni cosa che sopr'essi rimasa fosse dopo l'aver mangiato.
-    <milestone id="p04070013"/>
-    E poi che cos&iacute; alquanto fregati gli ebbe, ritorn&ograve; in sul ragionamento della merenda, della qual prima diceva: n&eacute; guari di spazio persegu&iacute; ragionando, che egli s'incominci&ograve; tutto nel viso a cambiare, e appresso il cambiamento non stette guari che egli perd&eacute; la vista e la parola e in brieve egli si mor&iacute;.
-    <milestone id="p04070014"/>
-    Le quali cose la
-    <name persref="simona" type="person">
-     Simona
-    </name>
-    veggendo, cominci&ograve; a piagnere e a gridare e a chiamar lo
-    <name persref="stramba" type="person">
-     Stramba
-    </name>
-    e la
-    <name persref="lagina" type="person">
-     Lagina
-    </name>
-    ; li quali prestamente l&agrave; corsi e veggendo
-    <name persref="pasquino" type="person">
-     Pasquino
-    </name>
-    non solamente morto ma gi&agrave; tutto enfiato e pieno d'oscure macchie per lo viso e per lo corpo divenuto, subitamente grid&ograve; lo
-    <name persref="stramba" type="person">
-     Stramba
-    </name>
-    :
-    <q direct="unspecified" who="stramba">
-     Ahi malvagia femina, tu l'hai avvelenato!
-    </q>
-    <milestone id="p04070015"/>
-    E fatto il romor grande, fu da molti che vicini al
-    <name placeref="giardino-0407" type="place">
-     giardino
-    </name>
-    abitavan sentito; li quali corsi al romore e trovando costui morto e enfiato e udendo lo
-    <name persref="stramba" type="person">
-     Stramba
-    </name>
-    dolersi e accusar la
-    <name persref="simona" type="person">
-     Simona
-    </name>
-    che con inganno avvelenato l'avesse, e ella, per lo dolore del subito accidente che il suo amante tolto avesse quasi di s&eacute; uscita, non sappiendosi scusare, fu reputato da tutti che cos&iacute; fosse come lo
-    <name persref="stramba" type="person">
-     Stramba
-    </name>
-    diceva.
-   </p>
-   <p>
-    <milestone id="p04070016"/>
-    Per la qual cosa presola, piagnendo ella sempre forte, al palagio del podest&agrave; ne fu menata. Quivi, prontando lo
-    <name persref="stramba" type="person">
-     Stramba
-    </name>
-    e l'
-    <name persref="atticiato" type="person">
-     Atticiato
-    </name>
-    e 'l
-    <name persref="malagevole" type="person">
-     Malagevole
-    </name>
-    , compagni di
-    <name persref="pasquino" type="person">
-     Pasquino
-    </name>
-    che sopravenuti erano, un
-    <name persref="giudice-0407" type="person">
-     giudice
-    </name>
-    , senza dare indugio alla cosa, si mise a essaminarla del fatto; e non potendo comprendere costei in questa cosa avere operata malizia n&eacute; esser colpevole, volle, lei presente, vedere il morto corpo e il luogo e 'l modo da lei raccontatogli, per ci&ograve; che per le parole di lei nol comprendeva assai bene.
-    <milestone id="p04070017"/>
-    Fattola adunque senza alcuno tumulto col&agrave; menare dove ancora il corpo di
-    <name persref="pasquino" type="person">
-     Pasquino
-    </name>
-    giaceva gonfiato come una botte, e egli appresso andatovi, maravigliatosi del morto, lei domand&ograve; come stato era. Costei, al cesto della salvia accostatasi e ogni precedente istoria avendo raccontata, per pienamente dargli a intendere il caso sopravenuto, cos&iacute; fece come
-    <name persref="pasquino" type="person">
-     Pasquino
-    </name>
-    avea fatto, una di quelle foglie di salvia fregatasi a' denti.
-    <milestone id="p04070018"/>
-    Le quali cose mentre che per lo
-    <name persref="stramba" type="person">
-     Stramba
-    </name>
-    e per lo
-    <name persref="atticiato" type="person">
-     Atticciato
-    </name>
-    e per gli altri amici e compagni di
-    <name persref="pasquino" type="person">
-     Pasquino
-    </name>
-    s&iacute; come frivole e vane in presenzia del giudice erano schernite, e con pi&uacute; instanzia la sua malvagit&agrave; accusata, niuna altra cosa per lor domandandosi se non che il fuoco fosse di cos&iacute; fatta malvagit&agrave; punitore, la cattivella, che dal dolore del perduto amante e dalla paura della dimandata pena dallo
-    <name persref="stramba" type="person">
-     Stramba
-    </name>
-    ristretta stava e per l'aversi la salvia fregata a' denti, in quel medesimo accidente cadde che prima caduto era
-    <name persref="pasquino" type="person">
-     Pasquino
-    </name>
-    , non senza gran maraviglia di quanti eran presenti.
-   </p>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p04070019"/>
-     O felici anime, alle quali in un medesimo d&iacute; addivenne il fervente amore e la mortal vita terminare! e pi&uacute; felici, se insieme a un medesimo luogo n'andaste! e felicissime, se nell'altra vita s'ama e voi v'amate come di qua faceste!
-     <milestone id="p04070020"/>
-     Ma molto pi&uacute; felice l'anima della
-     <name persref="simona" type="person">
-      Simona
-     </name>
-     innanzi tratto, quanto &egrave; al nostro giudicio che vivi dietro a lei rimasi siamo, la cui innocenzia non pat&iacute; la fortuna che sotto la testimonianza cadesse dello
-     <name persref="stramba" type="person">
-      Stramba
-     </name>
-     e dell'
-     <name persref="atticiato" type="person">
-      Atticiato
-     </name>
-     e del
-     <name persref="malagevole" type="person">
-      Malagevole
-     </name>
-     , forse scardassieri o pi&uacute; vili uomini, pi&uacute; onesta via trovandole con pari sorte di morte al suo amante a svilupparsi dalla loro infamia e a seguitar l'anima tanto da lei amata del suo
-     <name persref="pasquino" type="person">
-      Pasquino
-     </name>
-     .
-    </p>
-   </div3>
-   <p>
-    <milestone id="p04070021"/>
-    Il
-    <name persref="giudice-0407" type="person">
-     giudice
-    </name>
-    , quasi tutto stupefatto dell'accidente insieme con quanti ve n'erano, non sappiendo che dirsi, lungamente soprastette; poi, in miglior senno rivenuto, disse:
-    <q direct="unspecified" who="giudice-0407">
-     Mostra che questa salvia sia velenosa, il che della salvia non suole avvenire. Ma acci&ograve; che ella alcuno altro offender non possa in simil modo, taglisi infino alle radici e mettasi nel fuoco
-    </q>
-    .
-    <milestone id="p04070022"/>
-    La qual cosa colui che del
-    <name placeref="giardino-0407" type="place">
-     giardino
-    </name>
-    era guardiano in presenza del giudice faccendo, non prima abbattuto ebbe il gran cesto in terra, che la cagione della morte de' due miseri amanti apparve.
-    <milestone id="p04070023"/>
-    Era sotto il cesto di quella salvia una botta di maravigliosa grandezza, dal cui venenifero fiato avvisarono quella salvia esser velenosa divenuta. Alla qual botta non avendo alcuno ardire d'appressarsi, fattale d'intorno una stipa grandissima, quivi insieme colla salvia l'arsero: e fu finito il processo di messer lo giudice sopra la morte di
-    <name persref="pasquino" type="person">
-     Pasquin
-    </name>
-    cattivello.
-   </p>
-   <p>
-    <milestone id="p04070024"/>
-    Il quale insieme con la sua
-    <name persref="simona" type="person">
-     Simona
-    </name>
-    , cos&iacute; enfiati com'erano, dallo
-    <name persref="stramba" type="person">
-     Stramba
-    </name>
-    e dall'
-    <name persref="atticiato" type="person">
-     Atticciato
-    </name>
-    e da
-    <name persref="guccio" type="person">
-     Guccio Imbratta
-    </name>
-    e dal
-    <name persref="malagevole" type="person">
-     Malagevole
-    </name>
-    furono nella chiesa di
-    <name placeref="sanpaolo" type="place">
-     San Paolo
-    </name>
-    sepelliti, della quale per avventura eran popolani.
-   </p>
-  </div>
- </body>
-</html>
+<div id="nov0407" type="novella" who="emilia">
+ <h1>
+  Novella Settima
+ </h1>
+ <p>
+  <h3>
+   [Voice: emilia]
+  </h3>
+ </p>
+ <argument>
+  <p>
+   <a name="p04070001">
+    [001]
+   </a>
+   La
+   <name persref="simona" type="person">
+    Simona
+   </name>
+   ama
+   <name persref="pasquino" type="person">
+    Pasquino
+   </name>
+   ; sono insieme in uno orto,
+   <name persref="pasquino" type="person">
+    Pasquino
+   </name>
+   si frega a' denti una foglia di salvia e muorsi: &egrave; presa la
+   <name persref="simona" type="person">
+    Simona
+   </name>
+   , la quale, volendo mostrare al giudice come morisse
+   <name persref="pasquino" type="person">
+    Pasquino
+   </name>
+   , fregatasi una di quelle foglie a' denti, similmente si muore.
+  </p>
+ </argument>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p04070002">
+    [002]
+   </a>
+   <name persref="panfilo" type="person">
+    Panfilo
+   </name>
+   era della sua novella diliberato, quando il re, nulla compassion mostrando all'
+   <name persref="andreuola" type="person">
+    Andreuola
+   </name>
+   , riguardando
+   <name persref="emilia" type="person">
+    Emilia
+   </name>
+   , sembianti le f&eacute; che a grado li fosse che essa a coloro che detto aveano dicendo si continuasse; la quale, senza alcuna dimora fare incominci&ograve;:
+  </p>
+ </div3>
+ <div3 type="commentary" who="emilia">
+  <p>
+   <a name="p04070003">
+    [003]
+   </a>
+   Care compagne, la novella detta da
+   <name persref="panfilo" type="person">
+    Panfilo
+   </name>
+   mi tira a doverne dire una in niuna cosa altra alla sua simile, se non che, come l'
+   <name persref="andreuola" type="person">
+    Andreuola
+   </name>
+   nel
+   <name placeref="giardino-0406" type="place">
+    giardino
+   </name>
+   perd&eacute; l'amante, e cos&iacute; colei di cui dir debbo; e similmente presa, come l'
+   <name persref="andreuola" type="person">
+    Andreuola
+   </name>
+   fu, non con forza n&eacute; con virt&uacute; ma con morte inoppinata si diliber&ograve; dalla corte.
+   <a name="p04070004">
+    [004]
+   </a>
+   E come altra volta tra noi &egrave; stato detto, quantunque Amor volentieri le case de' nobili uomini abiti, esso per ci&ograve; non rifiuta lo 'mperio di quelle de' poveri, anzi in quelle s&iacute; alcuna volta le sue forze dimostra, che come potentissimo signore da' pi&uacute; ricchi si fa temere.
+   <a name="p04070005">
+    [005]
+   </a>
+   Il che, ancora che non in tutto, in gran parte apparir&agrave; nella mia novella, con la qual mi piace nella nostra citt&agrave; rientrare, della quale questo d&iacute;, diverse cose diversamente parlando, per diverse parti del mondo avvolgendoci cotanto allontanati ci siamo.
+  </p>
+ </div3>
+ <p>
+  <a name="p04070006">
+   [006]
+  </a>
+  Fu adunque, non &egrave; ancora gran tempo, in
+  <name placeref="firenze" type="place">
+   Firenze
+  </name>
+  una giovane assai bella e leggiadra secondo la sua condizione, e di povero padre figliuola, la quale ebbe nome
+  <name persref="simona" type="person">
+   Simona
+  </name>
+  : e quantunque le convenisse colle proprie braccia il pan che mangiar volea guadagnare e filando lana sua vita reggesse, non fu per ci&ograve; di s&iacute; povero animo che ella non ardisse a ricevere amore nella sua mente, il quale con gli atti e colle parole piacevoli d'un giovinetto di non maggior peso di lei, che dando andava per un suo maestro lanaiuolo lana a filare, buona pezza mostrato aveva di volervi entrare.
+  <a name="p04070007">
+   [007]
+  </a>
+  Ricevutolo adunque in s&eacute; col piacevole aspetto del giovane che l'amava, il cui nome era
+  <name persref="pasquino" type="person">
+   Pasquino
+  </name>
+  , forte disiderando e non attentando di far pi&uacute; avanti, filando a ogni passo di lana filata che al fuso avvolgeva mille sospiri pi&uacute; cocenti che fuoco gittava, di colui ricordandosi che a filar gliele aveva data.
+  <a name="p04070008">
+   [008]
+  </a>
+  Quegli dall'altra parte molto sollecito divenuto che ben si filasse la lana del suo maestro, quasi quella sola che la
+  <name persref="simona" type="person">
+   Simona
+  </name>
+  filava, e non alcuna altra, tutta la tela dovesse compiere, pi&uacute; spesso che l'altre era sollecitata.
+  <a name="p04070009">
+   [009]
+  </a>
+  Per che, l'un sollecitando e all'altra giovando d'esser sollecitata, avvenne che l'un pi&uacute; d'ardir prendendo che aver non solea, e l'altra molta della paura e della vergogna cacciando che d'avere era usata, insieme a' piacer comuni si congiunsono; li quali tanto all'una parte e all'altra aggradirono, che, non che l'uno dall'altro aspettasse d'essere invitato a ci&ograve;, anzi a dovervi essere si faceva incontro l'uno all'altro invitando.
+ </p>
+ <p>
+  <a name="p04070010">
+   [010]
+  </a>
+  E cos&iacute; questo lor piacer continuando d'un giorno in un altro e sempre pi&uacute; nel continuare accendendosi, avvenne che
+  <name persref="pasquino" type="person">
+   Pasquino
+  </name>
+  disse alla
+  <name persref="simona" type="person">
+   Simona
+  </name>
+  che del tutto egli voleva che ella trovasse modo di poter venire a un
+  <name placeref="giardino-0407" type="place">
+   giardino
+  </name>
+  , l&agrave; dove egli menar la voleva, acci&ograve; che quivi pi&uacute; a agio e con men sospetto potessero essere insieme.
+  <a name="p04070011">
+   [011]
+  </a>
+  La
+  <name persref="simona" type="person">
+   Simona
+  </name>
+  disse che le piaceva; e, dato a vedere al padre, una domenica dopo mangiare, che andar voleva alla perdonanza a
+  <name placeref="sangallo" type="place">
+   San Gallo
+  </name>
+  , con una sua compagna chiamata la
+  <name persref="lagina" type="person">
+   Lagina
+  </name>
+  al
+  <name placeref="giardino-0407" type="place">
+   giardino
+  </name>
+  statole da
+  <name persref="pasquino" type="person">
+   Pasquino
+  </name>
+  insegnato se n'and&ograve;, dove lui insieme con un suo compagno, che
+  <name persref="stramba" type="person">
+   Puccino
+  </name>
+  avea nome, ma era chiamato lo
+  <name persref="stramba" type="person">
+   Stramba
+  </name>
+  , trov&ograve;; e quivi fatto uno amorazzo nuovo tra lo
+  <name persref="stramba" type="person">
+   Stramba
+  </name>
+  e la
+  <name persref="lagina" type="person">
+   Lagina
+  </name>
+  , essi a far de' lor piaceri in una parte del giardin si raccolsero, e lo
+  <name persref="stramba" type="person">
+   Stramba
+  </name>
+  e la
+  <name persref="lagina" type="person">
+   Lagina
+  </name>
+  lasciarono in un'altra.
+ </p>
+ <p>
+  <a name="p04070012">
+   [012]
+  </a>
+  Era in quella parte del
+  <name placeref="giardino-0407" type="place">
+   giardino
+  </name>
+  , dove
+  <name persref="pasquino" type="person">
+   Pasquino
+  </name>
+  e la
+  <name persref="simona" type="person">
+   Simona
+  </name>
+  andati se ne erano, un grandissimo e bel cesto di salvia: a pi&egrave; della quale postisi a sedere e gran pezza sollazzatisi insieme e molto avendo ragionato d'una merenda che in quello orto a animo riposato intendevan di fare,
+  <name persref="pasquino" type="person">
+   Pasquino
+  </name>
+  , al gran cesto della salvia rivolto, di quella colse una foglia e con essa s'incominci&ograve; a stropicciare i denti e le gengie, dicendo che la salvia molto ben gli nettava d'ogni cosa che sopr'essi rimasa fosse dopo l'aver mangiato.
+  <a name="p04070013">
+   [013]
+  </a>
+  E poi che cos&iacute; alquanto fregati gli ebbe, ritorn&ograve; in sul ragionamento della merenda, della qual prima diceva: n&eacute; guari di spazio persegu&iacute; ragionando, che egli s'incominci&ograve; tutto nel viso a cambiare, e appresso il cambiamento non stette guari che egli perd&eacute; la vista e la parola e in brieve egli si mor&iacute;.
+  <a name="p04070014">
+   [014]
+  </a>
+  Le quali cose la
+  <name persref="simona" type="person">
+   Simona
+  </name>
+  veggendo, cominci&ograve; a piagnere e a gridare e a chiamar lo
+  <name persref="stramba" type="person">
+   Stramba
+  </name>
+  e la
+  <name persref="lagina" type="person">
+   Lagina
+  </name>
+  ; li quali prestamente l&agrave; corsi e veggendo
+  <name persref="pasquino" type="person">
+   Pasquino
+  </name>
+  non solamente morto ma gi&agrave; tutto enfiato e pieno d'oscure macchie per lo viso e per lo corpo divenuto, subitamente grid&ograve; lo
+  <name persref="stramba" type="person">
+   Stramba
+  </name>
+  :
+  <q direct="unspecified" who="stramba">
+   Ahi malvagia femina, tu l'hai avvelenato!
+  </q>
+  <a name="p04070015">
+   [015]
+  </a>
+  E fatto il romor grande, fu da molti che vicini al
+  <name placeref="giardino-0407" type="place">
+   giardino
+  </name>
+  abitavan sentito; li quali corsi al romore e trovando costui morto e enfiato e udendo lo
+  <name persref="stramba" type="person">
+   Stramba
+  </name>
+  dolersi e accusar la
+  <name persref="simona" type="person">
+   Simona
+  </name>
+  che con inganno avvelenato l'avesse, e ella, per lo dolore del subito accidente che il suo amante tolto avesse quasi di s&eacute; uscita, non sappiendosi scusare, fu reputato da tutti che cos&iacute; fosse come lo
+  <name persref="stramba" type="person">
+   Stramba
+  </name>
+  diceva.
+ </p>
+ <p>
+  <a name="p04070016">
+   [016]
+  </a>
+  Per la qual cosa presola, piagnendo ella sempre forte, al palagio del podest&agrave; ne fu menata. Quivi, prontando lo
+  <name persref="stramba" type="person">
+   Stramba
+  </name>
+  e l'
+  <name persref="atticiato" type="person">
+   Atticiato
+  </name>
+  e 'l
+  <name persref="malagevole" type="person">
+   Malagevole
+  </name>
+  , compagni di
+  <name persref="pasquino" type="person">
+   Pasquino
+  </name>
+  che sopravenuti erano, un
+  <name persref="giudice-0407" type="person">
+   giudice
+  </name>
+  , senza dare indugio alla cosa, si mise a essaminarla del fatto; e non potendo comprendere costei in questa cosa avere operata malizia n&eacute; esser colpevole, volle, lei presente, vedere il morto corpo e il luogo e 'l modo da lei raccontatogli, per ci&ograve; che per le parole di lei nol comprendeva assai bene.
+  <a name="p04070017">
+   [017]
+  </a>
+  Fattola adunque senza alcuno tumulto col&agrave; menare dove ancora il corpo di
+  <name persref="pasquino" type="person">
+   Pasquino
+  </name>
+  giaceva gonfiato come una botte, e egli appresso andatovi, maravigliatosi del morto, lei domand&ograve; come stato era. Costei, al cesto della salvia accostatasi e ogni precedente istoria avendo raccontata, per pienamente dargli a intendere il caso sopravenuto, cos&iacute; fece come
+  <name persref="pasquino" type="person">
+   Pasquino
+  </name>
+  avea fatto, una di quelle foglie di salvia fregatasi a' denti.
+  <a name="p04070018">
+   [018]
+  </a>
+  Le quali cose mentre che per lo
+  <name persref="stramba" type="person">
+   Stramba
+  </name>
+  e per lo
+  <name persref="atticiato" type="person">
+   Atticciato
+  </name>
+  e per gli altri amici e compagni di
+  <name persref="pasquino" type="person">
+   Pasquino
+  </name>
+  s&iacute; come frivole e vane in presenzia del giudice erano schernite, e con pi&uacute; instanzia la sua malvagit&agrave; accusata, niuna altra cosa per lor domandandosi se non che il fuoco fosse di cos&iacute; fatta malvagit&agrave; punitore, la cattivella, che dal dolore del perduto amante e dalla paura della dimandata pena dallo
+  <name persref="stramba" type="person">
+   Stramba
+  </name>
+  ristretta stava e per l'aversi la salvia fregata a' denti, in quel medesimo accidente cadde che prima caduto era
+  <name persref="pasquino" type="person">
+   Pasquino
+  </name>
+  , non senza gran maraviglia di quanti eran presenti.
+ </p>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p04070019">
+    [019]
+   </a>
+   O felici anime, alle quali in un medesimo d&iacute; addivenne il fervente amore e la mortal vita terminare! e pi&uacute; felici, se insieme a un medesimo luogo n'andaste! e felicissime, se nell'altra vita s'ama e voi v'amate come di qua faceste!
+   <a name="p04070020">
+    [020]
+   </a>
+   Ma molto pi&uacute; felice l'anima della
+   <name persref="simona" type="person">
+    Simona
+   </name>
+   innanzi tratto, quanto &egrave; al nostro giudicio che vivi dietro a lei rimasi siamo, la cui innocenzia non pat&iacute; la fortuna che sotto la testimonianza cadesse dello
+   <name persref="stramba" type="person">
+    Stramba
+   </name>
+   e dell'
+   <name persref="atticiato" type="person">
+    Atticiato
+   </name>
+   e del
+   <name persref="malagevole" type="person">
+    Malagevole
+   </name>
+   , forse scardassieri o pi&uacute; vili uomini, pi&uacute; onesta via trovandole con pari sorte di morte al suo amante a svilupparsi dalla loro infamia e a seguitar l'anima tanto da lei amata del suo
+   <name persref="pasquino" type="person">
+    Pasquino
+   </name>
+   .
+  </p>
+ </div3>
+ <p>
+  <a name="p04070021">
+   [021]
+  </a>
+  Il
+  <name persref="giudice-0407" type="person">
+   giudice
+  </name>
+  , quasi tutto stupefatto dell'accidente insieme con quanti ve n'erano, non sappiendo che dirsi, lungamente soprastette; poi, in miglior senno rivenuto, disse:
+  <q direct="unspecified" who="giudice-0407">
+   Mostra che questa salvia sia velenosa, il che della salvia non suole avvenire. Ma acci&ograve; che ella alcuno altro offender non possa in simil modo, taglisi infino alle radici e mettasi nel fuoco
+  </q>
+  .
+  <a name="p04070022">
+   [022]
+  </a>
+  La qual cosa colui che del
+  <name placeref="giardino-0407" type="place">
+   giardino
+  </name>
+  era guardiano in presenza del giudice faccendo, non prima abbattuto ebbe il gran cesto in terra, che la cagione della morte de' due miseri amanti apparve.
+  <a name="p04070023">
+   [023]
+  </a>
+  Era sotto il cesto di quella salvia una botta di maravigliosa grandezza, dal cui venenifero fiato avvisarono quella salvia esser velenosa divenuta. Alla qual botta non avendo alcuno ardire d'appressarsi, fattale d'intorno una stipa grandissima, quivi insieme colla salvia l'arsero: e fu finito il processo di messer lo giudice sopra la morte di
+  <name persref="pasquino" type="person">
+   Pasquin
+  </name>
+  cattivello.
+ </p>
+ <p>
+  <a name="p04070024">
+   [024]
+  </a>
+  Il quale insieme con la sua
+  <name persref="simona" type="person">
+   Simona
+  </name>
+  , cos&iacute; enfiati com'erano, dallo
+  <name persref="stramba" type="person">
+   Stramba
+  </name>
+  e dall'
+  <name persref="atticiato" type="person">
+   Atticciato
+  </name>
+  e da
+  <name persref="guccio" type="person">
+   Guccio Imbratta
+  </name>
+  e dal
+  <name persref="malagevole" type="person">
+   Malagevole
+  </name>
+  furono nella chiesa di
+  <name placeref="sanpaolo" type="place">
+   San Paolo
+  </name>
+  sepelliti, della quale per avventura eran popolani.
+ </p>
+</div>

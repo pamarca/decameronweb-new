@@ -3,84 +3,89 @@ title: "Novel X"
 day: "ennov0610"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0610" type="novella" who="dioneo">
-   <head>
-    Novel X
-   </head>
-   <argument>
-    <p>
-     <milestone id="p06100001"/>
-     <!--(i)-->
-     Fra Cipolla promises to shew certain country-folk a
+<div id="nov0610" type="novella" who="dioneo">
+ <h1>
+  Novel X
+ </h1>
+ <argument>
+  <p>
+   <a name="p06100001">
+    [001]
+   </a>
+   Fra Cipolla promises to shew certain country-folk a
 feather of the Angel Gabriel, in lieu of which he finds coals, which he avers to be of
 those with which St. Lawrence was roasted.
-     <!--(/i)-->
-    </p>
-   </argument>
-   <p>
-    <h3>
-     [Voice: dioneo]
-    </h3>
-   </p>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p06100002"/>
-     <!--(sc)-->
-     All
-     <!--(/sc)-->
-     the company save Dioneo being delivered of
+  </p>
+ </argument>
+ <p>
+  <h3>
+   [Voice: dioneo]
+  </h3>
+ </p>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p06100002">
+    [002]
+   </a>
+   All
+   the company save Dioneo being delivered of
 	their several stories, he wist that 'twas his turn to speak. Wherefore, without awaiting
 	any very express command, he enjoined silence on those that were commending Guido's pithy
 	quip, and thus began:
-    </p>
-   </div3>
-   <div3 type="commentary" who="dioneo">
-    <p>
-     <milestone id="p06100003"/>
-     Sweet my ladies, albeit 'tis my privilege to speak of what likes me
+  </p>
+ </div3>
+ <div3 type="commentary" who="dioneo">
+  <p>
+   <a name="p06100003">
+    [003]
+   </a>
+   Sweet my ladies, albeit 'tis my privilege to speak of what likes me
 	most, I purpose not to-day to deviate from that theme whereon you have all discoursed most
 	appositely; but, following in your footsteps, I am minded to shew you with what adroitness
 	and readiness of resource one of the Friars of St. Antony avoided a pickle that two young
 	men had in readiness for him.
-     <milestone id="p06100004"/>
-     Nor, if, in order to do the story
+   <a name="p06100004">
+    [004]
+   </a>
+   Nor, if, in order to do the story
 	full justice, I be somewhat prolix of speech, should it be burdensome to you, if you will
 	but glance at the sun, which is yet in mid-heaven.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p06100005"/>
-    Certaldo, as perchance you may have heard, is a town of
+  </p>
+ </div3>
+ <p>
+  <a name="p06100005">
+   [005]
+  </a>
+  Certaldo, as perchance you may have heard, is a town of
 Val
  d'Elsa within our country-side, which, small though it is, had in it
 aforetime people of rank and wealth.
-    <milestone id="p06100006"/>
-    Thither, for that there he
+  <a name="p06100006">
+   [006]
+  </a>
+  Thither, for that there he
  found good
 pasture, 'twas long the wont of one of the Friars of St.
  Antony to resort
 once every year, to collect the alms that fools gave
  them. Fra
 Cipolla
-    <note>
-     Onion.
-    </note>
-    --so hight the friar--met with a hearty
+  <note>
+   Onion.
+  </note>
+  --so hight the friar--met with a hearty
 welcome,
  no less, perchance, by reason of his name than for other cause,
 the
  onions produced in that district being famous throughout Tuscany.
-    <milestone id="p06100007"/>
-    He
+  <a name="p06100007">
+   [007]
+  </a>
+  He
 was little of person, red-haired, jolly-visaged, and the very best
  of good
 fellows; and therewithal, though learning he had none, he
-    <pb n="99"/>
-    was
+  was
 so excellent and ready a speaker that whoso knew him not would
  not only
 have esteemed him a great rhetorician, but would have
@@ -89,8 +94,10 @@ himself or, perchance, Quintilian; and in all
  the country-side there was
 scarce a soul to whom he was not either
  gossip or friend or lover.
-    <milestone id="p06100008"/>
-    Being
+  <a name="p06100008">
+   [008]
+  </a>
+  Being
 thus wont from time to time to
  visit Certaldo, the friar came there once
 upon a time in the month
@@ -99,9 +106,11 @@ folk of the
  neighbouring farms being come to mass in the parish church, he
 took
  occasion to come forward and say:
-    <milestone id="p06100009"/>
-    <q direct="unspecified">
-     Ladies and gentlemen, you
+  <a name="p06100009">
+   [009]
+  </a>
+  <q direct="unspecified">
+   Ladies and gentlemen, you
  wot
 'tis your custom to send year by year to the poor of Baron
  Master St.
@@ -110,8 +119,10 @@ Antony somewhat of your wheat and oats, more or less,
 ability and the devoutness of each, that blessed St.
  Antony may save your
 oxen and asses and pigs and sheep from harm;
-     <milestone id="p06100010"/>
-     and you are also accustomed,
+   <a name="p06100010">
+    [010]
+   </a>
+   and you are also accustomed,
 and especially those whose names are
  on the books of our confraternity, to
 pay your trifling annual dues.
@@ -124,8 +135,10 @@ church to
  the place where in the usual way I shall deliver you my sermon,
 and
  you will kiss the cross;
-     <milestone id="p06100011"/>
-     and therewithal, knowing, as I do, that you
+   <a name="p06100011">
+    [011]
+   </a>
+   and therewithal, knowing, as I do, that you
 are one and all most devoted to Baron Master St. Antony, I will by
  way of
 especial grace shew you a most holy and goodly relic, which
@@ -136,12 +149,16 @@ feathers of the Angel Gabriel, which he left behind
  him in the room of the
 Virgin Mary, when he came to make her
  the annunciation in Nazareth.
-    </q>
-    <milestone id="p06100012"/>
-    And having said thus much, he
+  </q>
+  <a name="p06100012">
+   [012]
+  </a>
+  And having said thus much, he
  ceased, and went on with the mass.
-    <milestone id="p06100013"/>
-    Now among
+  <a name="p06100013">
+   [013]
+  </a>
+  Now among
 the many that
  were in the church, while Fra Cipolla made this speech, were
 two
@@ -153,8 +170,10 @@ Cipolla and much in his company, had a sly laugh
  together over the relic,
 and resolved to make game of him and his
  feather.
-    <milestone id="p06100014"/>
-    So, having learned that
+  <a name="p06100014">
+   [014]
+  </a>
+  So, having learned that
 Fra Cipolla was to breakfast that
  morning in the town with one of his
 friends, as soon as they knew
@@ -166,49 +185,52 @@ that Biagio should
 search among
  the friar's goods and chattels for this feather, whatever it
 might be,
-    <pb n="100"/>
-    to carry it off, that they might see how the friar
+  to carry it off, that they might see how the friar
 would afterwards
  explain the matter to the people.
-    <milestone id="p06100015"/>
-    Now Fra Cipolla had for
+  <a name="p06100015">
+   [015]
+  </a>
+  Now Fra Cipolla had for
 servant
  one Guccio,
-    <note>
-     Diminutive of Arriguccio.
-    </note>
-    whom some called
+  <note>
+   Diminutive of Arriguccio.
+  </note>
+  whom some called
 by way of
  addition Balena,
-    <note>
-     Whale.
-    </note>
-    others
+  <note>
+   Whale.
+  </note>
+  others
 Imbratta,
-    <note>
-     Filth.
-    </note>
-    others again Porco,
-    <note>
-     Hog.
-    </note>
-    and who
+  <note>
+   Filth.
+  </note>
+  others again Porco,
+  <note>
+   Hog.
+  </note>
+  and who
 was
  such a rascallion that
  sure it is that Lippo Topo
-    <note>
-     The works of
+  <note>
+   The works of
 this painter seem to be
  lost.
-    </note>
-    himself never painted his like.
-    <milestone id="p06100016"/>
-    Concerning
+  </note>
+  himself never painted his like.
+  <a name="p06100016">
+   [016]
+  </a>
+  Concerning
  whom Fra Cipolla would ofttimes make merry with his
  familiars,
 saying:
-    <q direct="unspecified">
-     My servant has nine qualities, any one of
+  <q direct="unspecified">
+   My servant has nine qualities, any one of
  which in Solomon,
 Aristotle, or Seneca, would have been enough to
  spoil all their virtue,
@@ -217,14 +239,16 @@ wisdom and holiness. Consider, then, what
 has these nine qualities, and yet never
  a spark of either virtue or wisdom
 or holiness.
-    </q>
-    <milestone id="p06100017"/>
-    And being asked
+  </q>
+  <a name="p06100017">
+   [017]
+  </a>
+  And being asked
  upon divers occasions what these nine
 qualities might be, he strung
  them together in rhyme, and answered:
-    <q direct="unspecified">
-     I
+  <q direct="unspecified">
+   I
 will tell you. Lazy
  and uncleanly and a liar he is, Negligent, disobedient
 and foulmouthed,
@@ -232,8 +256,10 @@ and foulmouthed,
 therewithal
  he has some other petty vices, which 'twere best to pass
 over.
-     <milestone id="p06100018"/>
-     And the most amusing thing about him is, that, wherever he goes, he
+   <a name="p06100018">
+    [018]
+   </a>
+   And the most amusing thing about him is, that, wherever he goes, he
 is for taking a wife and renting a house, and on the strength of a big,
 black, greasy beard he deems himself so very handsome a fellow and
 seductive, that he takes all the women that see him to be in love
@@ -241,8 +267,10 @@ seductive, that he takes all the women that see him to be in love
 him, and, if he were left alone, he would slip his girdle and run
  after
 them all.
-     <milestone id="p06100019"/>
-     True it is that he is of great use to me, for that,
+   <a name="p06100019">
+    [019]
+   </a>
+   True it is that he is of great use to me, for that,
  be any
 minded to speak with me never so secretly, he must still have
  his share of
@@ -251,18 +279,22 @@ the audience; and, if perchance aught is demanded of
 lest I should be at a loss what answer to make,
  that he presently replies,
 ay or no, as he deems meet.
-    </q>
-   </p>
-   <p>
-    <milestone id="p06100020"/>
-    Now, when he left this knave at the
+  </q>
+ </p>
+ <p>
+  <a name="p06100020">
+   [020]
+  </a>
+  Now, when he left this knave at the
 inn, Fra Cipolla had strictly
  enjoined him on no account to suffer any one
 to touch aught of his,
  and least of all his wallet, because it contained
 the holy things.
-    <milestone id="p06100021"/>
-    But Guccio Imbratta, who was fonder of the kitchen than
+  <a name="p06100021">
+   [021]
+  </a>
+  But Guccio Imbratta, who was fonder of the kitchen than
 any
  nightingale of the green boughs, and most particularly if he espied
 there a maid, and in the host's kitchen had caught sight of a coarse
@@ -274,23 +306,24 @@ buckets of muck and a face that might have belonged to one
 all reeking with sweat and grease and smoke, left
  Fra Cipolla's room and
 all his things to take care of themselves, and
-    <pb n="101"/>
-    like a vulture
+  like a vulture
 swooping down upon the carrion, was in the kitchen
  in a trice.
-    <milestone id="p06100022"/>
-    Where,
+  <a name="p06100022">
+   [022]
+  </a>
+  Where,
 though 'twas August, he sat him down by the
  fire, and fell a gossiping
 with Nuta--such was the maid's name--and
  told her that he was a gentleman
 by procuration,
-    <note>
-     One of the humorous
+  <note>
+   One of the humorous
  ineptitudes of which Boccaccio is
 fond.
-    </note>
-    and had more
+  </note>
+  and had more
  florins than could be reckoned, besides those
 that he had to give
  away, which were rather more than less, and that he
@@ -298,17 +331,19 @@ could do and
  say such things as never were or might be seen or heard
 forever, good
  Lord! and a day.
-    <milestone id="p06100023"/>
-    And all heedless of his cowl, which had as
+  <a name="p06100023">
+   [023]
+  </a>
+  And all heedless of his cowl, which had as
 much
  grease upon it as would have furnished forth the caldron of
 Altopascio,
-    <note>
-     An
+  <note>
+   An
  abbey near Lucca famous for its doles of
 broth.
-    </note>
-    and of his rent and patched doublet, inlaid with filth about
+  </note>
+  and of his rent and patched doublet, inlaid with filth about
 the neck
  and under the armpits, and so stained that it shewed hues more
 various than ever did silk from Tartary or the Indies, and of his
@@ -324,24 +359,30 @@ abject condition, and place her where, though she would
 call her own, at any rate she would have hope of
  better things, with much
 more to the like effect;
-    <milestone id="p06100024"/>
-    which professions,
+  <a name="p06100024">
+   [024]
+  </a>
+  which professions,
  though made with every
 appearance of good will, proved, like most
  of his schemes, insubstantial
 as air, and came to nothing.
-   </p>
-   <p>
-    <milestone id="p06100025"/>
-    Finding Guccio Porco thus occupied with
+ </p>
+ <p>
+  <a name="p06100025">
+   [025]
+  </a>
+  Finding Guccio Porco thus occupied with
 Nuta, the two young
  men gleefully accounted their work half done, and,
 none gainsaying
  them, entered Fra Cipolla's room, which was open, and lit
 at once
  upon the wallet, in which was the feather.
-    <milestone id="p06100026"/>
-    The wallet opened,
+  <a name="p06100026">
+   [026]
+  </a>
+  The wallet opened,
 they
  found, wrapt up in many folds of taffeta, a little casket, on
 opening
@@ -349,16 +390,20 @@ opening
 they
  deemed must be that which the friar had promised to shew the good
 folk of Certaldo.
-    <milestone id="p06100027"/>
-    And in sooth he might well have so imposed upon
+  <a name="p06100027">
+   [027]
+  </a>
+  And in sooth he might well have so imposed upon
  them,
 for in those days the luxuries of Egypt had scarce been
  introduced into
 Tuscany, though they have since been brought over
  in prodigious abundance,
 to the grave hurt of all Italy.
-    <milestone id="p06100028"/>
-    And though
+  <a name="p06100028">
+   [028]
+  </a>
+  And though
  some conversance with them
 there was, yet in those parts folk knew
  next to nothing of them; but,
@@ -367,13 +412,14 @@ adhering to the honest, simple ways of
 nay for the most part had not so much
  as heard tell of, a
 parrot.
-   </p>
-   <p>
-    <milestone id="p06100029"/>
-    So the young men, having found the feather, took it out
+ </p>
+ <p>
+  <a name="p06100029">
+   [029]
+  </a>
+  So the young men, having found the feather, took it out
 with
-    <pb n="102"/>
-    great glee; and looking around for something to replace
+  great glee; and looking around for something to replace
 it, they
  espied in a corner of the room some pieces of coal, wherewith
 they
@@ -385,8 +431,10 @@ hied them merrily off with the feather, and posted themselves
 might hear what Fra Cipolla would say when he found
  the coals in its
 stead.
-    <milestone id="p06100030"/>
-    Mass said, the simple folk that were in the
+  <a name="p06100030">
+   [030]
+  </a>
+  Mass said, the simple folk that were in the
  church went home with
 the tidings that the feather of the Angel
  Gabriel was to be seen after
@@ -397,17 +445,21 @@ gossip, by the time every one had
 the multitude of men and
  women that flocked thither all agog to see this
 feather.
-   </p>
-   <p>
-    <milestone id="p06100031"/>
-    Fra Cipolla, having made a hearty breakfast and had a
+ </p>
+ <p>
+  <a name="p06100031">
+   [031]
+  </a>
+  Fra Cipolla, having made a hearty breakfast and had a
 little nap,
  got up shortly after none, and marking the great concourse of
 country-folk that were come to see the feather, sent word to Guccio
 Imbratta to go up there with the bells, and bring with him the
  wallet.
-    <milestone id="p06100032"/>
-    Guccio, though 'twas with difficulty that he tore himself
+  <a name="p06100032">
+   [032]
+  </a>
+  Guccio, though 'twas with difficulty that he tore himself
  away from the
 kitchen and Nuta, hied him up with the things
  required; and though, when
@@ -416,14 +468,18 @@ he got up, he was winded, for he was
 water, he did Fra Cipolla's
  bidding by going to the church door and
 ringing the bells amain.
-    <milestone id="p06100033"/>
-    When all the people were gathered about the door,
+  <a name="p06100033">
+   [033]
+  </a>
+  When all the people were gathered about the door,
 Fra Cipolla, all
  unwitting that aught of his was missing, began his
 sermon, and after
  much said in glorification of himself,
-    <milestone id="p06100034"/>
-    caused the
+  <a name="p06100034">
+   [034]
+  </a>
+  caused the
 confiteor to be recited
  with great solemnity, and two torches to be lit by
 way of preliminary
@@ -433,8 +489,10 @@ then bared
 casket,
  which, after a few prefatory words in praise and laudation of the
 Angel Gabriel and his relic, he opened.
-    <milestone id="p06100035"/>
-    When he saw that it contained
+  <a name="p06100035">
+   [035]
+  </a>
+  When he saw that it contained
 nought but coals, he did not suspect Guccio Balena of playing
  the trick,
 for he knew that he was not clever enough, nor did he
@@ -444,30 +502,33 @@ carelessness had allowed another to play it, but he
 himself, that he had committed his things to the
  keeping of one whom he
 knew to be
-    <q direct="unspecified">
-     negligent and disobedient,
+  <q direct="unspecified">
+   negligent and disobedient,
  reckless and witless.
-    </q>
-    <milestone id="p06100036"/>
-    Nevertheless, he changed not colour, but
+  </q>
+  <a name="p06100036">
+   [036]
+  </a>
+  Nevertheless, he changed not colour, but
  with face and hands upturned to
 heaven, he said in a voice that all
  might hear:
-    <q direct="unspecified">
-     O God, blessed be Thy
+  <q direct="unspecified">
+   O God, blessed be Thy
 might for ever and ever.
-    </q>
-    <milestone id="p06100037"/>
-    Then, closing the casket, and turning to the
+  </q>
+  <a name="p06100037">
+   [037]
+  </a>
+  Then, closing the casket, and turning to the
 people:
-    <q direct="unspecified">
-     Ladies and
-     <pb n="103"/>
-     gentlemen,
-    </q>
-    he said,
-    <q direct="unspecified">
-     you are to
+  <q direct="unspecified">
+   Ladies and
+   gentlemen,
+  </q>
+  he said,
+  <q direct="unspecified">
+   you are to
 know, that when I was yet a very
  young man, I was sent by my superior into
 those parts where the
@@ -476,106 +537,98 @@ until I should find
  the Privileges of Porcellana, which, though they cost
 nothing to seal,
  are of much more use to others than to us.
-     <milestone id="p06100038"/>
-     On which
+   <a name="p06100038">
+    [038]
+   </a>
+   On which
 errand I set
  forth, taking my departure from Venice, and traversing the
 Borgo
  de' Greci,
-     <note>
-      Perhaps part of the
-      <q direct="unspecified">
-       sesto
-      </q>
-      of Florence known
+   <note>
+    Perhaps part of the
+    <q direct="unspecified">
+     sesto
+    </q>
+    of Florence known
 as the
  Borgo, as the tradition of the commentators that the friar's
 itinerary is
  wholly
  Florentine is not to be lightly set aside.
-     </note>
-     and
+   </note>
+   and
 thence on horseback
  the
  realm of Algarve,
-     <note>
-      <!--(i)-->
-      Il
+   <note>
+    Il
 Garbo
-      <!--(/i)-->
-      , a quarter or street in Florence,
+    , a quarter or street in Florence,
  doubtless so called
 because the wares of Algarve were there sold.
-      <!--(i)-->
-      Rer.
+    Rer.
  Ital.
 Script.
-      <!--(/i)-->
-      (Muratori: Suppl. Tartini) ii. 119. Villani,
-      <!--(i)-->
-      Istorie
+    (Muratori: Suppl. Tartini) ii. 119. Villani,
+    Istorie
  Fiorentine
-      <!--(/i)-->
-      , iv. 12, xii. 18.
-     </note>
-     and so
+    , iv. 12, xii. 18.
+   </note>
+   and so
 by
  Baldacca
-     <note>
-      A famous tavern in Florence. Florio,
-      <!--(i)-->
-      Vocab.
+   <note>
+    A famous tavern in Florence. Florio,
+    Vocab.
 Ital. e
  Ingl.
-      <!--(/i)-->
-      , ed Torriano, 1659.
-     </note>
-     I came to
+    , ed Torriano, 1659.
+   </note>
+   I came to
 Parione,
-     <note>
-      A
-      <q direct="unspecified">
-       borgo
-      </q>
-      in
+   <note>
+    A
+    <q direct="unspecified">
+     borgo
+    </q>
+    in
  Florence. Villani,
-      <!--(i)-->
-      Istorie
+    Istorie
 Fiorentine
-      <!--(/i)-->
-      , iv. 7.
-     </note>
-     whence, somewhat
+    , iv. 7.
+   </note>
+   whence, somewhat
  athirst, I after a
 while got on to Sardinia.
-     <note>
-      A suburb of Florence on the Arno,
-      <!--(i)-->
-      ib.
-      <!--(/i)-->
-      ix. 256.
-     </note>
-     <milestone id="p06100039"/>
-     But wherefore go I about to
+   <note>
+    A suburb of Florence on the Arno,
+    ib.
+    ix. 256.
+   </note>
+   <a name="p06100039">
+    [039]
+   </a>
+   But wherefore go I about to
 enumerate
  all the lands in which I pursued my quest? Having passed the
 straits of San Giorgio, I arrived at Truffia
-     <note>
-      The land of
+   <note>
+    The land of
 Cajolery.
-     </note>
-     and Buffia,
-     <note>
-      The land of Drollery.
-     </note>
-     countries
+   </note>
+   and Buffia,
+   <note>
+    The land of Drollery.
+   </note>
+   countries
 thickly populated and with great nations, whence I pursued my
  journey to
 Menzogna,
-     <note>
-      The land of Lies.
-     </note>
-     where I met with many of
+   <note>
+    The land of Lies.
+   </note>
+   where I met with many of
  our own
 brethren,
  and of other religious not a few, intent one and all on
@@ -585,96 +638,93 @@ toil, so
  they might ensue their own advantage, and paying in nought but
 unminted
  coin
-     <note>
-      <!--(i)-->
-      I.e.
-      <!--(/i)-->
-      in false promises: suggested
+   <note>
+    I.e.
+    in false promises: suggested
 by Dante's Pagando di
  moneta senza conio.
-      <!--(i)-->
-      Parad.
-      <!--(/i)-->
-      xxix. 126.
-     </note>
-     throughout the length
+    Parad.
+    xxix. 126.
+   </note>
+   throughout the length
  and
  breadth of the country;
-     <milestone id="p06100040"/>
-     and
+   <a name="p06100040">
+    [040]
+   </a>
+   and
 so I came to the land of Abruzzi, where the men and women
  go in pattens on
 the mountains, and clothe the hogs with their own
  entrails;
-     <note>
-      A
+   <note>
+    A
 reference to sausage-making.
-     </note>
-     <milestone id="p06100041"/>
-     and a little further on
+   </note>
+   <a name="p06100041">
+    [041]
+   </a>
+   and a little further on
  I
  found folk
 that carried bread in
  staves and wine in
 sacks.
-     <note>
-      <!--(i)-->
-      I.e.
-      <!--(/i)-->
-      cakes fashioned in a hollow ring,
+   <note>
+    I.e.
+    cakes fashioned in a hollow ring,
 and wines in leathern bottles.
-     </note>
-     And leaving them, I arrived at the
-     <pb n="104"/>
-     mountains of the Bachi,
-     <note>
-      Grubs.
-     </note>
-     where all the waters
+   </note>
+   And leaving them, I arrived at the
+   mountains of the Bachi,
+   <note>
+    Grubs.
+   </note>
+   where all the waters
 run
  downwards.
-     <milestone id="p06100042"/>
-     In
+   <a name="p06100042">
+    [042]
+   </a>
+   In
  short I penetrated so far that I came at last to India
 Pastinaca,
-     <note>
-      In
+   <note>
+    In
  allusion to the shapeless fish, so called, which was
 proverbially taken as a
  type of the outlandish.
-     </note>
-     where
+   </note>
+   where
  I swear to
 you by the habit that I wear, that I saw pruning-hooks
-     <note>
-      A
-      <!--(i)-->
-      jeu de mots
-      <!--(/i)-->
-      ,
-      <q direct="unspecified">
-       pennati,
-      </q>
-      pruning-hooks, signifying
+   <note>
+    A
+    jeu de mots
+    ,
+    <q direct="unspecified">
+     pennati,
+    </q>
+    pruning-hooks, signifying
 also
-      <!--(i)-->
-      feathered
-      <!--(/i)-->
-      , though
-      <q direct="unspecified">
-       pennuti
-      </q>
-      is more common
+    feathered
+    , though
+    <q direct="unspecified">
+     pennuti
+    </q>
+    is more common
 in that sense.
-     </note>
-     fly: a thing that none would believe that had not
+   </note>
+   fly: a thing that none would believe that had not
 seen it. Whereof
  be my witness that I lie not Maso del Saggio, that great
 merchant,
  whom I found there cracking nuts, and selling the shells by
 retail!
-     <milestone id="p06100043"/>
-     However, not being able to find that whereof I was in quest,
+   <a name="p06100043">
+    [043]
+   </a>
+   However, not being able to find that whereof I was in quest,
 because
  from thence one must travel by water, I turned back, and so came
 at length to the Holy Land, where in summer cold bread costs four
@@ -683,14 +733,16 @@ and hot bread is to be had for nothing. And there I found
  the venerable
 father
  Nonmiblasmetesevoipiace,
-     <note>
-      Takemenottotaskanitlikeyou.
-     </note>
-     the most
+   <note>
+    Takemenottotaskanitlikeyou.
+   </note>
+   the most
  worshipful
  Patriarch of Jerusalem;
-     <milestone id="p06100044"/>
-     who out of respect for the
+   <a name="p06100044">
+    [044]
+   </a>
+   who out of respect for the
 habit that I have
  ever worn, to wit, that of Baron Master St. Antony, was
 pleased to
@@ -701,8 +753,10 @@ so
 of them in some miles. However, not to disappoint you, I will
  tell you a
 few of them.
-     <milestone id="p06100045"/>
-     In the first place, then, he shewed me the
+   <a name="p06100045">
+    [045]
+   </a>
+   In the first place, then, he shewed me the
  finger of the Holy
 Spirit, as whole and entire as it ever was, and the
  tuft of the Seraph
@@ -711,53 +765,48 @@ that appeared to St. Francis, and one of the nails
 one of the ribs of the Verbum Caro hie thee
  to the
 casement,
-     <note>
-      <!--(i)-->
-      fatti alle finestre
-      <!--(/i)-->
-      , a subterfuge for
-      <!--(i)-->
-      factum est.
-      <!--(/i)-->
-     </note>
-     and some of the vestments of the
+   <note>
+    fatti alle finestre
+    , a subterfuge for
+    factum est.
+   </note>
+   and some of the vestments of the
 Holy Catholic
  Faith, and some of the rays of the star that appeared to the
 Magi in
  the East, and a phial of the sweat of St. Michael a battling with
 the
  Devil and the jaws of death of St. Lazarus, and other relics.
-     <milestone id="p06100046"/>
-     And
+   <a name="p06100046">
+    [046]
+   </a>
+   And
  for
 that I gave him a liberal supply of the
 acclivities
-     <note>
-      <!--(i)-->
-      piagge
-      <!--(/i)-->
-      ,
+   <note>
+    piagge
+    ,
  jocularly for
-      <!--(i)-->
-      pagine:
-      <!--(/i)-->
-      doubtless some mighty tome of school divinity
+    pagine:
+    doubtless some mighty tome of school divinity
 is
  meant.
-     </note>
-     of Monte
+   </note>
+   of Monte
  Morello in the vulgar and some chapters of
 Caprezio, of which he
  had long been in quest, he was pleased to let me
 participate in his
  holy relics,
-     <milestone id="p06100047"/>
-     and gave me one of the teeth of the Holy
+   <a name="p06100047">
+    [047]
+   </a>
+   and gave me one of the teeth of the Holy
 Cross, and in
  a small phial a bit of the sound of the bells of Solomon's
 temple, and
-     <pb n="105"/>
-     this feather of the Angel Gabriel, whereof I have
+   this feather of the Angel Gabriel, whereof I have
 told you, and one
  of the pattens of San Gherardo da Villa Magna, which,
 not long ago,
@@ -767,8 +816,10 @@ prodigious
 most blessed martyr, St. Lawrence, was roasted. All which things
  I
 devoutly brought thence, and have them all safe.
-     <milestone id="p06100048"/>
-     True it is that
+   <a name="p06100048">
+    [048]
+   </a>
+   True it is that
  my
 superior has not hitherto permitted me to shew them, until he
  should be
@@ -780,8 +831,10 @@ the Patriarch, he has given me leave to shew
  them. But, fearing to trust
 them to another, I always carry them
  with me;
-     <milestone id="p06100049"/>
-     and to tell you the truth I
+   <a name="p06100049">
+    [049]
+   </a>
+   and to tell you the truth I
 carry the feather of the Angel
  Gabriel, lest it should get spoiled, in a
 casket, and the coals, with
@@ -794,15 +847,19 @@ whereas I
  thought to have brought with me the casket wherein is the
 feather,
  I have brought instead that which contains the coals.
-     <milestone id="p06100050"/>
-     Nor deem l
+   <a name="p06100050">
+    [050]
+   </a>
+   Nor deem l
 this a mischance; nay, methinks, 'tis by interposition of God, and
  that He
 Himself put the casket of coals in my hand, for I mind me
  that the feast
 of St. Lawrence falls but two days hence.
-     <milestone id="p06100051"/>
-     Wherefore
+   <a name="p06100051">
+    [051]
+   </a>
+   Wherefore
  God, being minded that
 by shewing you the coals, with which he
  was roasted, I should rekindle in
@@ -813,8 +870,10 @@ hand, not to the feather which
 that were extinguished by
  the humours that exuded from that most holy
 body.
-     <milestone id="p06100052"/>
-     And so,
+   <a name="p06100052">
+    [052]
+   </a>
+   And so,
  blessed children, bare your heads and devoutly draw nigh to
 see
  them. But first of all I would have you know, that whoso has the
@@ -824,11 +883,13 @@ of the cross made upon him with these coals, may live secure for
 of the ensuing year, that fire shall not touch him, that he
  feel it
 not.
-    </q>
-   </p>
-   <p>
-    <milestone id="p06100053"/>
-    Having so said, the friar, chanting a hymn in praise of
+  </q>
+ </p>
+ <p>
+  <a name="p06100053">
+   [053]
+  </a>
+  Having so said, the friar, chanting a hymn in praise of
 St.
  Lawrence, opened the casket, and shewed the coals. Whereon the
 
@@ -838,19 +899,22 @@ pressing forward in a mighty throng about Fra Cipolla with
  offerings
 beyond their wont, each and all praying him to touch them
  with the coals.
-    <milestone id="p06100054"/>
-    Wherefore Fra Cipolla took the coals in his hand,
+  <a name="p06100054">
+   [054]
+  </a>
+  Wherefore Fra Cipolla took the coals in his hand,
  and set about making on
 their white blouses, and on their doublets,
-    <pb n="106"/>
-    and on the veils
+  and on the veils
 of the women crosses as big as might be, averring
  the while that whatever
 the coals might thus lose would be made
  good to them again in the casket,
 as he had often proved.
-    <milestone id="p06100055"/>
-    On this
+  <a name="p06100055">
+   [055]
+  </a>
+  On this
  wise, to his exceeding great profit, he
 marked all the folk of Certaldo
  with the cross, and, thanks to his ready
@@ -863,15 +927,15 @@ his hearers,
 what
  a long story he made of it, laughed till they thought their jaws
 would break;
-    <milestone id="p06100056"/>
-    and, when the congregation was dispersed, they went
+  <a name="p06100056">
+   [056]
+  </a>
+  and, when the congregation was dispersed, they went
  up to
 him, and never so merrily told him what they had done, and
  returned him
 his feather; which next year proved no less lucrative
  to him than that day
 the coals had been.
-   </p>
-  </div>
- </body>
-</html>
+ </p>
+</div>

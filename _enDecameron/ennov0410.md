@@ -3,19 +3,16 @@ title: "Novel X"
 day: "ennov0410"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0410" type="novella" who="dioneo">
-   <head>
-    Novel X
-   </head>
-   <argument>
-    <p>
-     <milestone id="p04100001"/>
-     <!--(i)-->
-     The wife of a leech, deeming her lover, who has taken an
+<div id="nov0410" type="novella" who="dioneo">
+ <h1>
+  Novel X
+ </h1>
+ <argument>
+  <p>
+   <a name="p04100001">
+    [001]
+   </a>
+   The wife of a leech, deeming her lover, who has taken an
  opiate, to be dead, puts him in a chest, which, with
  him therein, two usurers carry off to their house.
  He comes to himself, and is taken for a thief; but,
@@ -23,30 +20,31 @@ layout: "single"
  she had put him in the chest which the usurers stole,
  he escapes the gallows, and the usurers are mulcted
  in moneys for the theft of the chest.
-     <!--(/i)-->
-    </p>
-   </argument>
-   <p>
-    <h3>
-     [Voice: dioneo]
-    </h3>
-   </p>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p04100002"/>
-     <!--(sc)-->
-     Now
-     <!--(/sc)-->
-     that the king had told his tale, it only
+  </p>
+ </argument>
+ <p>
+  <h3>
+   [Voice: dioneo]
+  </h3>
+ </p>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p04100002">
+    [002]
+   </a>
+   Now
+   that the king had told his tale, it only
 	remained for Dioneo
 	to do his part, which he witting, and being thereto bidden by the
 	king, thus began:
-    </p>
-   </div3>
-   <div3 type="commentary" who="dioneo">
-    <p>
-     <milestone id="p04100003"/>
-     Sore have I--to say nought of you, my ladies--been
+  </p>
+ </div3>
+ <div3 type="commentary" who="dioneo">
+  <p>
+   <a name="p04100003">
+    [003]
+   </a>
+   Sore have I--to say nought of you, my ladies--been
 	of eyne and heart to hear the woeful histories of ill-starred love,
 	insomuch that I have desired of all things that they might have an
 	end. Wherefore, now that, thank God, ended they are, unless indeed
@@ -55,33 +53,40 @@ layout: "single"
 	purpose to ensue, but to make a fresh start with somewhat of a
 	better and more cheerful sort, which perchance may serve to suggest
 	to-morrow's argument.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p04100004"/>
-    You are to know, then, fairest my damsels, that 'tis not long
+  </p>
+ </div3>
+ <p>
+  <a name="p04100004">
+   [004]
+  </a>
+  You are to know, then, fairest my damsels, that 'tis not long
  since there dwelt at Salerno a leech most eminent in surgery, his
  name, Master Mazzeo della Montagna, who in his extreme old age
  took to wife a fair damsel of the same city, whom he kept in nobler
  and richer array of dresses and jewels, and all other finery that the
  sex affects, than any other lady in Salerno. Howbeit, she was none
  too warm most of her time, being ill covered abed by the doctor;
-    <pb n="323"/>
-    <milestone id="p04100005"/>
-    who gave her to understand--even as Messer Ricciardo di Chinzica,
+  <a name="p04100005">
+   [005]
+  </a>
+  who gave her to understand--even as Messer Ricciardo di Chinzica,
  of whom we spoke a while since, taught his lady the feasts--that for
  once that a man lay with a woman he needed I know not how
  many days to recover, and the like nonsense: whereby she lived as
  ill content as might be;
-    <milestone id="p04100006"/>
-    and, lacking neither sense nor spirit, she
+  <a name="p04100006">
+   [006]
+  </a>
+  and, lacking neither sense nor spirit, she
  determined to economize at home, and taking to the street, to live
  at others' expense. So, having passed in review divers young men,
  she at last found one that was to her mind, on whom she set all her
  heart and hopes of happiness. Which the gallant perceiving was
  mightily flattered, and in like manner gave her all his love.
-    <milestone id="p04100007"/>
-    Ruggieri
+  <a name="p04100007">
+   [007]
+  </a>
+  Ruggieri
  da Jeroli--such was the gallant's name--was of noble birth, but of
  life and conversation so evil and reprehensible that kinsman or
  friend he had none left that wished him well, or cared to see him;
@@ -89,13 +94,17 @@ layout: "single"
  character. Whereof the lady took little heed, having a mind to him
  for another reason; and so with the help of her maid she arranged
  a meeting with him.
-    <milestone id="p04100008"/>
-    But after they had solaced themselves a while,
+  <a name="p04100008">
+   [008]
+  </a>
+  But after they had solaced themselves a while,
  the lady began to censure his past life, and to implore him for love
  of her to depart from such evil ways; and to afford him the means
  thereto, she from time to time furnished him with money.
-    <milestone id="p04100009"/>
-    While
+  <a name="p04100009">
+   [009]
+  </a>
+  While
  thus with all discretion they continued their intercourse, it chanced
  that a man halt of one of his legs was placed under the leech's care.
  The leech saw what was amiss with him, and told his kinsfolk, that,
@@ -104,8 +113,10 @@ layout: "single"
  removed he might recover; but that otherwise he would not answer
  for his life: whereupon the relatives assented that the bone should
  be removed, and left the patient in the hands of the leech;
-    <milestone id="p04100010"/>
-    who,
+  <a name="p04100010">
+   [010]
+  </a>
+  who,
  deeming that by reason of the pain 'twas not possible for him to
  endure the treatment without an opiate, caused to be distilled in the
  morning a certain water of his own concoction, whereby the patient,
@@ -113,22 +124,27 @@ layout: "single"
  the operation, which he meant to perform about vespers, would
  occupy. In the meantime he had the water brought into his house,
  and set it in the window of his room, telling no one what it was.
-    <milestone id="p04100011"/>
-    But when the vesper hour was come, and the leech was about to
+  <a name="p04100011">
+   [011]
+  </a>
+  But when the vesper hour was come, and the leech was about to
  visit his patient, a messenger arrived from some very great friends of
  his at Amalfi, bearing tidings of a great riot there had been there, in
-    <pb n="324"/>
-    which not a few had been wounded, and bidding him on no account
+  which not a few had been wounded, and bidding him on no account
  omit to hie him thither forthwith.
-    <milestone id="p04100012"/>
-    Wherefore the leech put off
+  <a name="p04100012">
+   [012]
+  </a>
+  Wherefore the leech put off
  the treatment of the leg to the morrow, and took boat to Amalfi;
  and the lady, knowing that he would not return home that night,
  did as she was wont in such a case, to wit, brought Ruggieri in
  privily, and locked him in her chamber until certain other folk that
  were in the house were gone to sleep.
-    <milestone id="p04100013"/>
-    Ruggieri, then, being thus in
+  <a name="p04100013">
+   [013]
+  </a>
+  Ruggieri, then, being thus in
  the chamber, awaiting the lady, and having--whether it were that
  he had had a fatiguing day, or eaten something salt, or, perchance,
  that 'twas his habit of body--a mighty thirst, glancing at the window,
@@ -136,28 +152,34 @@ layout: "single"
  prepared for the patient, and taking it to be drinking water, set it
  to his lips and drank it all, and in no long time fell into a deep
  sleep.
-   </p>
-   <p>
-    <milestone id="p04100014"/>
-    So soon as she was able the lady hied her to the room, and there
+ </p>
+ <p>
+  <a name="p04100014">
+   [014]
+  </a>
+  So soon as she was able the lady hied her to the room, and there
  finding Ruggieri asleep, touched him and softly told him to get up:
  to no purpose, however; he neither answered nor stirred a limb.
  Wherefore the lady, rather losing patience, applied somewhat more
  force, and gave him a push, saying:
-    <q direct="unspecified">
-     Get up, sleepy-head; if
+  <q direct="unspecified">
+   Get up, sleepy-head; if
  thou hadst a mind to sleep, thou shouldst have gone home, and not
  have come hither.
-    </q>
-    <milestone id="p04100015"/>
-    Thus pushed Ruggieri fell down from a box
+  </q>
+  <a name="p04100015">
+   [015]
+  </a>
+  Thus pushed Ruggieri fell down from a box
  on which he lay, and, falling, shewed no more sign of animation
  than if he had been a corpse. The lady, now somewhat alarmed,
  essayed to lift him, and shook him roughly, and took him by the nose,
  and pulled him by the beard; again to no purpose: he had tethered
  his ass to a stout pin.
-    <milestone id="p04100016"/>
-    So the lady began to fear he must be dead:
+  <a name="p04100016">
+   [016]
+  </a>
+  So the lady began to fear he must be dead:
  however, she went on to pinch him shrewdly, and singe him with the
  flame of a candle; but when these methods also failed she, being, for
  all she was a leech's wife, no leech herself, believed for sure that he
@@ -165,34 +187,39 @@ layout: "single"
  much, it boots not to ask if she was sore distressed; wherefore
  silently, for she dared not lament aloud, she began to weep over him
  and bewail such a misadventure.
-    <milestone id="p04100017"/>
-    But, after a while, fearing lest her
+  <a name="p04100017">
+   [017]
+  </a>
+  But, after a while, fearing lest her
  loss should not be without a sequel of shame, she bethought her that
  she must contrive without delay to get the body out of the house;
  and standing in need of another's advice, she quietly summoned her
  maid, shewed her the mishap that had befallen her, and craved her
  counsel. Whereat the maid marvelled not a little; and she too fell
-    <pb n="325"/>
-    to pulling Ruggieri this way and that, and pinching him, and, as she
+  to pulling Ruggieri this way and that, and pinching him, and, as she
  found no sign of life in him, concurred with her mistress that he was
  verily dead, and advised her to remove him from the house.
-    <milestone id="p04100018"/>
-    <q direct="unspecified">
-     And
+  <a name="p04100018">
+   [018]
+  </a>
+  <q direct="unspecified">
+   And
  where,
-    </q>
-    said the lady,
-    <q direct="unspecified">
-     shall we put him, that to-morrow, when he
+  </q>
+  said the lady,
+  <q direct="unspecified">
+   shall we put him, that to-morrow, when he
  is discovered, it be not suspected that 'twas hence he was carried?
-    </q>
-    <milestone id="p04100019"/>
-    <q direct="unspecified">
-     Madam,
-    </q>
-    answered the maid,
-    <q direct="unspecified">
-     late last evening I marked in front
+  </q>
+  <a name="p04100019">
+   [019]
+  </a>
+  <q direct="unspecified">
+   Madam,
+  </q>
+  answered the maid,
+  <q direct="unspecified">
+   late last evening I marked in front
  of our neighbour the carpenter's shop a chest, not too large, which,
  if he have not put it back in the house, will come in very handy
  for our purpose, for we will put him inside, and give him two or
@@ -201,9 +228,11 @@ layout: "single"
  than from any other that he was put there; nay, as he was an evilliver,
  'twill more likely be supposed, that, as he hied him on some
  evil errand, some enemy slew him, and then put him in the chest.
-    </q>
-    <milestone id="p04100020"/>
-    The lady said there was nought in the world she might so ill brook
+  </q>
+  <a name="p04100020">
+   [020]
+  </a>
+  The lady said there was nought in the world she might so ill brook
  as that Ruggieri should receive any wound; but with that exception
  she approved her maid's proposal, and sent her to see if the chest
  were still where she had seen it. The maid, returning, reported
@@ -212,49 +241,58 @@ layout: "single"
  to espy if any folk came that way, and the maid following, they
  came to the chest, and having laid Ruggieri therein, closed it and
  left him there.
-   </p>
-   <p>
-    <milestone id="p04100021"/>
-    Now a few days before, two young men, that were usurers, had
+ </p>
+ <p>
+  <a name="p04100021">
+   [021]
+  </a>
+  Now a few days before, two young men, that were usurers, had
  taken up their quarters in a house a little further on: they had seen
  the chest during the day, and being short of furniture, and having
  a mind to make great gain with little expenditure, they had resolved
  that, if it were still there at night, they would take it home with
  them.
-    <milestone id="p04100022"/>
-    So at midnight forth they hied them, and finding the chest,
+  <a name="p04100022">
+   [022]
+  </a>
+  So at midnight forth they hied them, and finding the chest,
  were at no pains to examine it closely, but forthwith, though it
  seemed somewhat heavy, bore it off to their house, and set it down
  beside a room in which their women slept; and without being at
  pains to adjust it too securely they left it there for the time, and
  went to bed.
-   </p>
-   <p>
-    <milestone id="p04100023"/>
-    Towards matins Ruggieri, having had a long sleep and digested
+ </p>
+ <p>
+  <a name="p04100023">
+   [023]
+  </a>
+  Towards matins Ruggieri, having had a long sleep and digested
  the draught and exhausted its efficacy, awoke, but albeit his slumber
  was broken, and his senses had recovered their powers, yet his brain
  remained in a sort of torpor which kept him bemused for some days;
-    <pb n="326"/>
-    and when he opened his eyes and saw nothing, and stretched his
+  and when he opened his eyes and saw nothing, and stretched his
  hands hither and thither and found himself in the chest, it was with
  difficulty that he collected his thoughts.
-    <milestone id="p04100024"/>
-    <q direct="unspecified">
-     How is this?
-    </q>
-    he said to
+  <a name="p04100024">
+   [024]
+  </a>
+  <q direct="unspecified">
+   How is this?
+  </q>
+  he said to
  himself.
-    <q direct="unspecified">
-     Where am I? Do I sleep or wake? I remember
+  <q direct="unspecified">
+   Where am I? Do I sleep or wake? I remember
  coming this evening to my lady's chamber; and now it seems I am
  in a chest. What means it? Can the leech have returned, or
  somewhat else have happened that caused the lady, while I slept, to
  hide me here? That was it, I suppose. Without a doubt it must
  have been so.
-    </q>
-    <milestone id="p04100025"/>
-    And having come to this conclusion, he composed
+  </q>
+  <a name="p04100025">
+   [025]
+  </a>
+  And having come to this conclusion, he composed
  himself to listen, if haply he might hear something, and being somewhat
  ill at ease in the chest, which was none too large, and the side
  on which he lay paining him, he must needs turn over to the other,
@@ -263,48 +301,57 @@ layout: "single"
  floor, he caused it to tilt and then fall; and such was the noise that
  it made as it fell that the women that slept there awoke, albeit for
  fear they kept silence.
-    <milestone id="p04100026"/>
-    Ruggieri was not a little disconcerted by the
+  <a name="p04100026">
+   [026]
+  </a>
+  Ruggieri was not a little disconcerted by the
  fall, but, finding that thereby the chest was come open, he judged
  that, happen what might, he would be better out of it than in it;
  and not knowing where he was, and being otherwise at his wits' end,
  he began to grope about the house, if haply he might find a stair or
  door whereby he might take himself off.
-    <milestone id="p04100027"/>
-    Hearing him thus groping
+  <a name="p04100027">
+   [027]
+  </a>
+  Hearing him thus groping
  his way, the alarmed women gave tongue with:
-    <q direct="unspecified">
-     Who is there?
-    </q>
-    Ruggieri, not knowing the voice, made no answer: wherefore the
+  <q direct="unspecified">
+   Who is there?
+  </q>
+  Ruggieri, not knowing the voice, made no answer: wherefore the
  women fell to calling the two young men, who, having had a long
  day, were fast asleep, and heard nought of what went on.
-    <milestone id="p04100028"/>
-    Which
+  <a name="p04100028">
+   [028]
+  </a>
+  Which
  served to increase the fright of the women, who rose and got them
  to divers windows, and raised the cry:
-    <q direct="unspecified">
-     Take thief, take thief!
-    </q>
-    At which summons there came running from divers quarters not a
+  <q direct="unspecified">
+   Take thief, take thief!
+  </q>
+  At which summons there came running from divers quarters not a
  few of the neighbours, who got into the house by the roof or otherwise
  as each best might: likewise the young men, aroused by the
  din, got up;
-    <milestone id="p04100029"/>
-    and, Ruggieri being now all but beside himself for sheer
+  <a name="p04100029">
+   [029]
+  </a>
+  and, Ruggieri being now all but beside himself for sheer
  amazement, and knowing not whither to turn him to escape them,
  they took him and delivered him to the officers of the Governor of
  the city, who, hearing the uproar, had hasted to the spot. And so
  he was brought before the Governor, who, knowing him to be held
  of all a most arrant evil-doer, put him forthwith to the torture, and,
  upon his confessing that he had entered the house of the usurers with
-    <pb n="327"/>
-    intent to rob, was minded to make short work of it, and have him
+  intent to rob, was minded to make short work of it, and have him
  hanged by the neck.
-   </p>
-   <p>
-    <milestone id="p04100030"/>
-    In the morning 'twas bruited throughout all Salerno that
+ </p>
+ <p>
+  <a name="p04100030">
+   [030]
+  </a>
+  In the morning 'twas bruited throughout all Salerno that
  Ruggieri had been taken a thieving in the house of the usurers.
  Whereat the lady and her maid were all amazement and bewilderment,
  insomuch that they were within an ace of persuading themselves
@@ -312,56 +359,68 @@ layout: "single"
  but had only dreamed it; besides which, the peril in which Ruggieri
  stood caused the lady such anxiety as brought her to the verge
  of madness.
-    <milestone id="p04100031"/>
-    Shortly after half tierce the leech, being returned
+  <a name="p04100031">
+   [031]
+  </a>
+  Shortly after half tierce the leech, being returned
  from Amalfi, and minded now to treat his patient, called for his
  water, and finding the bottle empty made a great commotion, protesting
  that nought in his house could be let alone.
-    <milestone id="p04100032"/>
-    The lady,
+  <a name="p04100032">
+   [032]
+  </a>
+  The lady,
  having other cause of annoy, lost temper, and said:
-    <q direct="unspecified">
-     What would
+  <q direct="unspecified">
+   What would
  you say, Master, of an important matter, when you raise such a din
  because a bottle of water has been upset? Is there never another to
  be found in the world?
-    </q>
-    <milestone id="p04100033"/>
-    <q direct="unspecified">
-     Madam,
-    </q>
-    replied the leech,
-    <q direct="unspecified">
-     thou takest
+  </q>
+  <a name="p04100033">
+   [033]
+  </a>
+  <q direct="unspecified">
+   Madam,
+  </q>
+  replied the leech,
+  <q direct="unspecified">
+   thou takest
  this to have been mere water: 'twas no such thing, but an artificial
  water of a soporiferous virtue;
-    </q>
-    and he told her for what purpose he
+  </q>
+  and he told her for what purpose he
  had made it.
-    <milestone id="p04100034"/>
-    Which the lady no sooner heard, than, guessing that
+  <a name="p04100034">
+   [034]
+  </a>
+  Which the lady no sooner heard, than, guessing that
  Ruggieri had drunk it, and so had seemed to them to be dead, she
  said:
-    <q direct="unspecified">
-     Master, we knew it not; wherefore make you another.
-    </q>
-    And so the leech, seeing that there was no help for it, had another
+  <q direct="unspecified">
+   Master, we knew it not; wherefore make you another.
+  </q>
+  And so the leech, seeing that there was no help for it, had another
  made.
-    <milestone id="p04100035"/>
-    Not long after, the maid, who by the lady's command had
+  <a name="p04100035">
+   [035]
+  </a>
+  Not long after, the maid, who by the lady's command had
  gone to find out what folk said of Ruggieri, returned, saying:
-    <q direct="unspecified">
-     Madam, of Ruggieri they say nought but evil, nor, by what I have
+  <q direct="unspecified">
+   Madam, of Ruggieri they say nought but evil, nor, by what I have
  been able to discover, has he friend or kinsman that has or will come
  to his aid; and 'tis held for certain that to-morrow the Stadic
-     <note>
-      The
+   <note>
+    The
  Neapolitan term for the chief of police.
-     </note>
-     will
+   </note>
+   will
  have him hanged.
-     <milestone id="p04100036"/>
-     Besides which, I have that to tell you which will
+   <a name="p04100036">
+    [036]
+   </a>
+   Besides which, I have that to tell you which will
  surprise you; for, methinks, I have found out how he came into the
  usurers' house. List, then, how it was: you know the carpenter in
  front of whose shop stood the chest we put Ruggieri into: he had
@@ -369,58 +428,73 @@ layout: "single"
  it would seem the chest belongs, by whom he was required to make
  good the value of the chest, to which he made answer that he had
  not sold it, but that it had been stolen from him in the night.
-     <milestone id="p04100037"/>
-     'Not
-     <pb n="328"/>
-     so,' said the other; 'thou soldst it to the two young usurers, as they
+   <a name="p04100037">
+    [037]
+   </a>
+   'Not
+   so,' said the other; 'thou soldst it to the two young usurers, as they
  themselves told me last night, when I saw it in their house at the
  time Ruggieri was taken.' 'They lie,' replied the carpenter. 'I
  never sold it them, but they must have stolen it from me last night;
  go we to them.'
-     <milestone id="p04100038"/>
-     So with one accord off they went to the usurers'
+   <a name="p04100038">
+    [038]
+   </a>
+   So with one accord off they went to the usurers'
  house, and I came back here. And so, you see, I make out that
  'twas on such wise that Ruggieri was brought where he was found;
  but how he came to life again, I am at a loss to conjecture.
-    </q>
-    <milestone id="p04100039"/>
-    The lady
+  </q>
+  <a name="p04100039">
+   [039]
+  </a>
+  The lady
  now understood exactly how things were, and accordingly told the
  maid what she had learned from the leech, and besought her to aid
  her to get Ruggieri off, for so she might, if she would, and at the
  same time preserve her honour.
-    <milestone id="p04100040"/>
-    <q direct="unspecified">
-     Madam,
-    </q>
-    said the maid,
-    <q direct="unspecified">
-     do but
+  <a name="p04100040">
+   [040]
+  </a>
+  <q direct="unspecified">
+   Madam,
+  </q>
+  said the maid,
+  <q direct="unspecified">
+   do but
  shew me how; and glad shall I be to do just as you wish.
-    </q>
-    <milestone id="p04100041"/>
-    Whereupon
+  </q>
+  <a name="p04100041">
+   [041]
+  </a>
+  Whereupon
  the lady, to whom necessity taught invention, formed her plan
  on the spur of the moment, and expounded it in detail to the maid;
-    <milestone id="p04100042"/>
-    who (as the first step) hied her to the leech, and, weeping, thus
+  <a name="p04100042">
+   [042]
+  </a>
+  who (as the first step) hied her to the leech, and, weeping, thus
  addressed him:
-    <q direct="unspecified">
-     Sir, it behoves me to ask your pardon of a great
+  <q direct="unspecified">
+   Sir, it behoves me to ask your pardon of a great
  wrong that I have done you.
-    </q>
-    <milestone id="p04100043"/>
-    <q direct="unspecified">
-     And what may that be?
-    </q>
-    inquired the leech.
-    <milestone id="p04100044"/>
-    <q direct="unspecified">
-     Sir,
-    </q>
-    said the maid, who ceased not to weep,
-    <q direct="unspecified">
-     you
+  </q>
+  <a name="p04100043">
+   [043]
+  </a>
+  <q direct="unspecified">
+   And what may that be?
+  </q>
+  inquired the leech.
+  <a name="p04100044">
+   [044]
+  </a>
+  <q direct="unspecified">
+   Sir,
+  </q>
+  said the maid, who ceased not to weep,
+  <q direct="unspecified">
+   you
  know what manner of man is Ruggieri da Jeroli. Now he took a
  fancy to me, and partly for fear, partly for love, I this year agreed to
  be his mistress; and knowing yestereve that you were from home,
@@ -432,67 +506,80 @@ layout: "single"
  to drink, and then put the bottle back in the place whence I had
  taken it; touching which I find that you have made a great stir in
  the house.
-     <milestone id="p04100045"/>
-     Verily I confess that I did wrong; but who is there
+   <a name="p04100045">
+    [045]
+   </a>
+   Verily I confess that I did wrong; but who is there
  that does not wrong sometimes? Sorry indeed am I to have so done,
  but 'tis not for such a cause and that which ensued thereon that
  Ruggieri should lose his life. Wherefore, I do most earnestly
  beseech you, pardon me, and suffer me to go help him as best I may
  be able.
-    </q>
-    <milestone id="p04100046"/>
-    Wroth though he was at what he heard, the leech replied
+  </q>
+  <a name="p04100046">
+   [046]
+  </a>
+  Wroth though he was at what he heard, the leech replied
  in a bantering tone:
-    <q direct="unspecified">
-     Thy pardon thou hast by thine own deed;
+  <q direct="unspecified">
+   Thy pardon thou hast by thine own deed;
  for, whereas thou didst last night think to have with thee a gallant
  that would thoroughly dust thy pelisse for thee, he was but a
  sleepy
-     <pb n="329"/>
-     head;
+   head;
  wherefore get thee gone, and do what thou mayst for the
  deliverance of thy lover, and for the future look thou bring him not
  into the house; else I will pay thee for that turn and this to boot.
-    </q>
-    <milestone id="p04100047"/>
-    The maid, deeming that she had come off well in the first brush,
+  </q>
+  <a name="p04100047">
+   [047]
+  </a>
+  The maid, deeming that she had come off well in the first brush,
  hied her with all speed to the prison where Ruggieri lay, and by her
  cajoleries prevailed upon the warders to let her speak with him; and
  having told him how he must answer the Stadic if he would get off,
  she succeeded in obtaining preaudience of the Stadic;
-    <milestone id="p04100048"/>
-    who, seeing
+  <a name="p04100048">
+   [048]
+  </a>
+  who, seeing
  that the baggage was lusty and mettlesome, was minded before he
  heard her to grapple her with the hook, to which she was by no
  means averse, knowing that such a preliminary would secure her a
  better hearing. When she had undergone the operation and was
  risen:
-    <q direct="unspecified">
-     Sir,
-    </q>
-    said she,
-    <q direct="unspecified">
-     you have here Ruggieri da Jeroli,
+  <q direct="unspecified">
+   Sir,
+  </q>
+  said she,
+  <q direct="unspecified">
+   you have here Ruggieri da Jeroli,
  apprehended
  on a charge of theft; which charge is false.
-    </q>
-    <milestone id="p04100049"/>
-    Whereupon she
+  </q>
+  <a name="p04100049">
+   [049]
+  </a>
+  Whereupon she
  told him the whole story from beginning to end, how she, being
  Ruggieri's mistress, had brought him into the leech's house and had
  given him the opiate, not knowing it for such, and taking him to be
  dead, had put him in the chest; and then recounting what she had
  heard pass between the carpenter and the owner of the chest, she
  shewed him how Ruggieri came into the house of the usurers.
-    <milestone id="p04100050"/>
-    Seeing that 'twas easy enough to find out whether the story were
+  <a name="p04100050">
+   [050]
+  </a>
+  Seeing that 'twas easy enough to find out whether the story were
  true, the Stadic began by questioning the leech as to the water, and
  found that 'twas as she had said: he then summoned the carpenter,
  the owner of the chest and the usurers, and after much further
  parley ascertained that the usurers had stolen the chest during the
  night, and brought it into their house:
-    <milestone id="p04100051"/>
-    finally he sent for Ruggieri,
+  <a name="p04100051">
+   [051]
+  </a>
+  finally he sent for Ruggieri,
  and asked him where he had lodged that night, to which Ruggieri
  answered that where he had lodged he knew not, but he well
  remembered going to pass the night with Master Mazzeo's maid, in
@@ -500,22 +587,23 @@ layout: "single"
  that he had; but what happened to him afterwards, except that, when
  he awoke, he found himself in a chest in the house of the usurers, he
  knew not.
-    <milestone id="p04100052"/>
-    All which matters the Stadic heard with great interest,
+  <a name="p04100052">
+   [052]
+  </a>
+  All which matters the Stadic heard with great interest,
  and caused the maid and Ruggieri and the carpenter and the
  usurers to rehearse them several times.
-    <milestone id="p04100053"/>
-    In the end, seeing that
+  <a name="p04100053">
+   [053]
+  </a>
+  In the end, seeing that
  Ruggieri was innocent, he released him, and mulcted the usurers in
  fifteen ounces for the theft of the chest. How glad Ruggieri was
  thus to escape, it boots not to ask; and glad beyond measure was his
-    <pb n="330"/>
-    lady. And so, many a time did they laugh and make merry
+  lady. And so, many a time did they laugh and make merry
  together over the affair, she and he and the dear maid that had
  proposed to give him a taste of the knife; and remaining constant in
  their love, they had ever better and better solace thereof. The like
  whereof befall me, sans the being put in the chest.
-   </p>
-  </div>
- </body>
-</html>
+ </p>
+</div>

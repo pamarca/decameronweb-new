@@ -3,89 +3,92 @@ title: "Novel IX"
 day: "ennov0109"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0109" type="novella" who="elissa">
-   <head>
-    Novel IX
-   </head>
-   <argument>
-    <p>
-     <milestone id="p01090001"/>
-     The censure of a Gascon lady converts the King of
+<div id="nov0109" type="novella" who="elissa">
+ <h1>
+  Novel IX
+ </h1>
+ <argument>
+  <p>
+   <a name="p01090001">
+    [001]
+   </a>
+   The censure of a Gascon lady converts the King of
 	Cyprus from a churlish to an honourable temper.
-    </p>
-   </argument>
-   <p>
-    <h3>
-     [Voice: elissa]
-    </h3>
-   </p>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p01090002"/>
-     <!--(sc)-->
-     Except
-     <!--(/sc)-->
-     Elisa none now remained to answer the call of the
+  </p>
+ </argument>
+ <p>
+  <h3>
+   [Voice: elissa]
+  </h3>
+ </p>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p01090002">
+    [002]
+   </a>
+   Except
+   Elisa none now remained to answer the call of the
       queen, and she without waiting for it, with gladsome alacrity thus
       began:
-    </p>
-   </div3>
-   <div3 type="commentary" who="elissa">
-    <p>
-     <milestone id="p01090003"/>
-     Bethink you, damsels, how often it has happened that men who
+  </p>
+ </div3>
+ <div3 type="commentary" who="elissa">
+  <p>
+   <a name="p01090003">
+    [003]
+   </a>
+   Bethink you, damsels, how often it has happened that men who
       have been obdurate to censures and chastisements have been reclaimed
       by some unpremeditated casual word. This is plainly manifest
       by the story told by Lauretta; and by mine, which will be of the
       briefest, I mean further to illustrate it; seeing that, good stories,
       being always pleasurable, are worth listening to with attention, no
       matter by whom they may be told.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p01090004"/>
-    'Twas, then, in the time of the first king of Cyprus, after the
+  </p>
+ </div3>
+ <p>
+  <a name="p01090004">
+   [004]
+  </a>
+  'Twas, then, in the time of the first king of Cyprus, after the
       conquest made of the Holy Land by Godfrey de Bouillon, that a
       lady of Gascony made a pilgrimage to the Holy Sepulchre, and on
       her way home, having landed at Cyprus, met with brutal outrage
       at the hands of certain ruffians.
-    <milestone id="p01090005"/>
-    Broken-hearted and disconsolate
+  <a name="p01090005">
+   [005]
+  </a>
+  Broken-hearted and disconsolate
       she determined to make her complaint to the king; but she was told
       that it would be all in vain, because so spiritless and
-    <!--(i)-->
-    fain&egrave;ant
-    <!--(/i)-->
-    was he that he not only neglected to avenge affronts put upon others, but
+  fain&egrave;ant
+  was he that he not only neglected to avenge affronts put upon others, but
       endured with a reprehensible tameness those which were offered
       to himself, insomuch that whoso had any ill-humour to vent, took
       occasion to vex or mortify him.
-    <milestone id="p01090006"/>
-    The lady, hearing this report,
+  <a name="p01090006">
+   [006]
+  </a>
+  The lady, hearing this report,
       despaired of redress, and by way of alleviation of her grief determined
       to make the king sensible of his baseness. So in tears she presented
       herself before him and said:
-    <q direct="unspecified">
-     Sire, it is not to seek redress of the
+  <q direct="unspecified">
+   Sire, it is not to seek redress of the
 	wrong done me that I come here before you: but only that, so please
 	you, I may learn of you how it is that you suffer patiently the wrongs
-     <pb n="60"/>
-     which, as I understand, are done you; that thus schooled by you in
+   which, as I understand, are done you; that thus schooled by you in
 	patience I may endure my own, which, God knows, I would gladly,
 	were it possible, transfer to you, seeing that you are so well fitted to
 	bear them.
-    </q>
-    <milestone id="p01090007"/>
-    These words aroused the hitherto sluggish and apathetic
+  </q>
+  <a name="p01090007">
+   [007]
+  </a>
+  These words aroused the hitherto sluggish and apathetic
       king as it were from sleep. He redressed the lady's wrong, and having
       thus made a beginning, thenceforth meted out the most rigorous
       justice to all that in any wise offended against the majesty of his
       crown.
-   </p>
-  </div>
- </body>
-</html>
+ </p>
+</div>

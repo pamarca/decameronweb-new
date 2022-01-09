@@ -3,19 +3,16 @@ title: "Novel VIII"
 day: "ennov1008"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov1008" type="novella" who="filomena">
-   <head>
-    Novel VIII
-   </head>
-   <argument>
-    <p>
-     <milestone id="p00080001"/>
-     <!--(i)-->
-     Sophronia, albeit she deems herself wife to Gisippus, is
+<div id="nov1008" type="novella" who="filomena">
+ <h1>
+  Novel VIII
+ </h1>
+ <argument>
+  <p>
+   <a name="p00080001">
+    [001]
+   </a>
+   Sophronia, albeit she deems herself wife to Gisippus, is
  wife to Titus Zuintius Fulvus, and goes with him to
  Rome, where Gisippus arrives in indigence, and deeming
  himself scorned by Titus, to compass his own death,
@@ -26,88 +23,104 @@ layout: "single"
  it comes to pass that they are all three liberated by
  Octavianus; and Titus gives Gisippus his sister to
  wife, and shares with him all his substance.
-     <!--(/i)-->
-    </p>
-   </argument>
-   <p>
-    <h3>
-     [Voice: filomena]
-    </h3>
-   </p>
-   <div3 type="commentary" who="filomena">
-    <p>
-     <milestone id="p00080002"/>
-     <!--(sc)-->
-     So
-     <!--(/sc)-->
-     ceased Pampinea; and when all the ladies, and most of all
+  </p>
+ </argument>
+ <p>
+  <h3>
+   [Voice: filomena]
+  </h3>
+ </p>
+ <div3 type="commentary" who="filomena">
+  <p>
+   <a name="p00080002">
+    [002]
+   </a>
+   So
+   ceased Pampinea; and when all the ladies, and most of all
  the Ghibelline, had commended King Pedro, Filomena by command
  of the king thus began:
-    </p>
-   </div3>
-   <p>
-    <milestone id="p00080003"/>
-    Magnificent my ladies, who wots not
+  </p>
+ </div3>
+ <p>
+  <a name="p00080003">
+   [003]
+  </a>
+  Magnificent my ladies, who wots not
  that there is nought so great but kings, when they have a mind, may
  accomplish it? As also that 'tis of them that magnificence is most
  especially demanded? Now whoso, being powerful, does that which
  it appertains to him to do, does well; but therein is no such matter of
  marvel, or occasion of extolling him to the skies, as in his deed, of
  whom, for that his power is slight, less is demanded.
-    <milestone id="p00080004"/>
-    Wherefore, as
+  <a name="p00080004">
+   [004]
+  </a>
+  Wherefore, as
  you are so profuse of your words in exaltation of the fine deeds, as
  you deem them, of monarchs, I make no manner of doubt, but that the
  doings of our peers must seem to you yet more delectable and commendable,
  when they equal or surpass those of kings. Accordingly
  'tis a transaction, laudable and magnificent, that passed between two
-    <pb n="354"/>
-    citizens, who were friends, that I purpose to recount to you in my
+  citizens, who were friends, that I purpose to recount to you in my
  story.
-   </p>
-   <p>
-    <milestone id="p00080005"/>
-    I say, then, that what time Octavianus Caesar, not as yet hight
+ </p>
+ <p>
+  <a name="p00080005">
+   [005]
+  </a>
+  I say, then, that what time Octavianus Caesar, not as yet hight
  Augustus, but being in the office called Triumvirate, swayed the
  empire of Rome, there dwelt at Rome a gentleman, Publius Quintius
  Fulvus by name, who, having a son, Titus Quintius Fulvus, that
  was a very prodigy of wit, sent him to Athens to study philosophy,
  and to the best of his power commended him to a nobleman of that
  city, Chremes by name, who was his very old friend.
-    <milestone id="p00080006"/>
-    Chremes
+  <a name="p00080006">
+   [006]
+  </a>
+  Chremes
  lodged Titus in his own house with his son Gisippus, and placed
  both Titus and Gisippus under a philosopher named Aristippus, to
  learn of him his doctrine.
-    <milestone id="p00080007"/>
-    And the two youths, thus keeping
+  <a name="p00080007">
+   [007]
+  </a>
+  And the two youths, thus keeping
  together, found each the other's conversation so congruous with his
  own, that there grew up between them a friendship so close and
  brotherly that 'twas never broken by aught but death; nor knew
  either rest or solace save when he was with the other.
-    <milestone id="p00080008"/>
-    So, gifted
+  <a name="p00080008">
+   [008]
+  </a>
+  So, gifted
  alike with pre-eminent subtlety of wit, they entered on their studies,
  and with even pace and prodigious applause scaled together the
  glorious heights of philosophy. In which way of life, to the exceeding
  great delight of Chremes, who entreated Titus as no less his son
  than Gisippus, they continued for full three years.
-    <milestone id="p00080009"/>
-    At the end
+  <a name="p00080009">
+   [009]
+  </a>
+  At the end
  whereof, it befell (after the common course of things mundane) that
  Chremes (being now aged) departed this life. Whom with equal
  grief they mourned as a common father; and the friends and kinsfolk
  of Chremes were alike at a loss to determine whether of the twain
  stood in need of the more consolation upon the bereavement.
-   </p>
-   <p>
-    <milestone id="p00080010"/>
-    Some months afterward the friends and kinsfolk of Gisippus came
+ </p>
+ <p>
+  <a name="p00080010">
+   [010]
+  </a>
+  Some months afterward the friends and kinsfolk of Gisippus came
  to him and exhorted him, as did also Titus, to take a wife, and found
  him a maiden, wondrous fair, of one of the most noble houses of
  Athens, her name Sophronia, and her age about fifteen years.
-    <milestone id="p00080011"/>
-    So a
+  <a name="p00080011">
+   [011]
+  </a>
+  So a
  time was appointed for their nuptials, and one day, when 'twas near
  at hand, Gisippus bade Titus come see the maiden, whom as yet he
  had not seen; and they being come into her house, and she sitting
@@ -116,17 +129,20 @@ layout: "single"
  closest attention, and being delighted beyond measure with all that
  he saw, grew, as inly he extolled her charms to the skies, enamoured
  of her with a love as ardent, albeit he gave no sign of it, as ever lover
-    <pb n="355"/>
-    bore to lady. However, after they had tarried a while with her,
+  bore to lady. However, after they had tarried a while with her,
  they took their leave, and went home,
-    <milestone id="p00080012"/>
-    where Titus repaired to his
+  <a name="p00080012">
+   [012]
+  </a>
+  where Titus repaired to his
  chamber, and there gave himself over to solitary musing on the
  damsel's charms, and the longer he brooded, the more he burned for
  her. Whereon as he reflected, having heaved many a fervent sigh,
  thus he began to commune with himself:
-    <milestone id="p00080013"/>
-    Ah! woe worth thy
+  <a name="p00080013">
+   [013]
+  </a>
+  Ah! woe worth thy
  life, Titus! Whom makest thou the mistress of thy soul, thy
  love, thy hope? Knowest thou not that by reason as well of thy
  honourable entreatment by Chremes and his kin as of the whole-hearted
@@ -134,24 +150,30 @@ layout: "single"
  to have his betrothed in even such pious regard as if she were thy
  sister? Whither art thou suffering beguiling love, delusive hope, to
  hurry thee?
-    <milestone id="p00080014"/>
-    Open the eyes of thine understanding, and see thyself,
+  <a name="p00080014">
+   [014]
+  </a>
+  Open the eyes of thine understanding, and see thyself,
  wretched man, as thou art; obey the dictates of thy reason, refrain thy
  carnal appetite, control thine inordinate desires, and give thy thoughts
  another bent; join battle with thy lust at the outset, and conquer
  thyself while there is yet time.
-    <milestone id="p00080015"/>
-    This which thou wouldst have is
+  <a name="p00080015">
+   [015]
+  </a>
+  This which thou wouldst have is
  not meet, is not seemly: this which thou art minded to ensue, thou
  wouldst rather, though thou wert, as thou art not, sure of its attainment,
  eschew, hadst thou but the respect thou shouldst have, for the
  claims of true friendship. So, then, Titus, what wilt thou do?
  What but abandon this unseemly love, if thou wouldst do as it
  behoves thee?
-   </p>
-   <p>
-    <milestone id="p00080016"/>
-    But then, as he remembered Sophronia, his thoughts took the
+ </p>
+ <p>
+  <a name="p00080016">
+   [016]
+  </a>
+  But then, as he remembered Sophronia, his thoughts took the
  contrary direction, and he recanted all he had said, musing on this
  wise: The laws of Love are of force above all others; they abrogate
  not only the law of human friendship, but the law Divine
@@ -159,34 +181,43 @@ layout: "single"
  sister, step-mother step-son? aberrations far more notable than that a
  friend should love his friend's wife, which has happened a thousand
  times.
-    <milestone id="p00080017"/>
-    Besides which, I am young, and youth is altogether subject
+  <a name="p00080017">
+   [017]
+  </a>
+  Besides which, I am young, and youth is altogether subject
  to the laws of Love. Love's pleasure, then, should be mine. The
  seemly is for folk of riper years. 'Tis not in my power to will aught
  save that which Love wills.
-    <milestone id="p00080018"/>
-    So beauteous is this damsel that there
+  <a name="p00080018">
+   [018]
+  </a>
+  So beauteous is this damsel that there
  is none but should love her; and if I love her, who am young, who
  can justly censure me? I love her not because she is the affianced
  of Gisippus; no matter whose she was, I should love her all the
  same.
-    <milestone id="p00080019"/>
-    Herein is Fortune to blame, that gave her to my friend,
-    <pb n="356"/>
-    Gisippus, rather than to another. And if she is worthy of love, as
+  <a name="p00080019">
+   [019]
+  </a>
+  Herein is Fortune to blame, that gave her to my friend,
+  Gisippus, rather than to another. And if she is worthy of love, as
  for beauty she is, Gisippus, if he should come to know that I love
  her, ought to be less jealous than another.
-   </p>
-   <p>
-    <milestone id="p00080020"/>
-    Then, scorning himself that he should indulge such thoughts, he
+ </p>
+ <p>
+  <a name="p00080020">
+   [020]
+  </a>
+  Then, scorning himself that he should indulge such thoughts, he
  relapsed into the opposing mood, albeit not to abide there, but ever
  veering to and fro, he spent not only the whole of that day and the
  ensuing night, but many others; insomuch that, being able neither
  to eat nor to sleep, he grew so weak that he was fain to take to his
  bed.
-    <milestone id="p00080021"/>
-    Gisippus, who had marked his moodiness for some days, and
+  <a name="p00080021">
+   [021]
+  </a>
+  Gisippus, who had marked his moodiness for some days, and
  now saw that he was fairly sick, was much distressed; and with
  sedulous care, never quitting his side, he tended, and strove as best
  he might to comfort, him, not seldom and most earnestly demanding
@@ -194,9 +225,11 @@ layout: "single"
  were the subterfuges to which Titus resorted; but, as Gisippus was
  not to be put off with his fables, finding himself hard pressed by him,
  with sighs and sobs he made answer on this wise:
-    <milestone id="p00080022"/>
-    <q direct="unspecified">
-     Gisippus, had
+  <a name="p00080022">
+   [022]
+  </a>
+  <q direct="unspecified">
+   Gisippus, had
  such been the will of the Gods, I were fain rather to die than to
  live, seeing that Fortune has brought me to a strait in which needs
  must my virtue be put to the ordeal, and, to my most grievous
@@ -205,53 +238,64 @@ layout: "single"
  live, haunted ever by the memory of my baseness, which, as there is
  nought that from thee I either should or can conceal, I, not without
  burning shame, will discover to thee.
-    </q>
-    <milestone id="p00080023"/>
-    And so he recounted the
+  </q>
+  <a name="p00080023">
+   [023]
+  </a>
+  And so he recounted the
  whole story from first to last, the occasion of his melancholy, its
  several moods, their conflict, and with which of them the victory
  rested, averring that he was dying of love for Sophronia, and that,
  knowing how ill such love beseemed him, he had, for penance, elected
  to die, and deemed the end was now not far off.
-    <milestone id="p00080024"/>
-    Gisippus, hearing
+  <a name="p00080024">
+   [024]
+  </a>
+  Gisippus, hearing
  his words and seeing his tears, for a while knew not what to say,
  being himself smitten with the damsel's charms, albeit in a less degree
  than Titus; but ere long he made up his mind that Sophronia must
  be less dear to him than his friend's life.
-   </p>
-   <p>
-    And so, moved to tears by his friend's tears:
-    <milestone id="p00080025"/>
-    <q direct="unspecified">
-     Titus,
-    </q>
-    quoth
+ </p>
+ <p>
+  And so, moved to tears by his friend's tears:
+  <a name="p00080025">
+   [025]
+  </a>
+  <q direct="unspecified">
+   Titus,
+  </q>
+  quoth
  he between his sobs,
-    <q direct="unspecified">
-     but that thou art in need of comfort, I should
+  <q direct="unspecified">
+   but that thou art in need of comfort, I should
  reproach thee, that thou hast offended against our friendship in that
  thou hast so long kept close from me this most distressful passion;
  and albeit thou didst deem it unseemly, yet unseemly things should
-     <pb n="357"/>
-     no more than things seemly be withheld from a friend, for that, as a
+   no more than things seemly be withheld from a friend, for that, as a
  friend rejoices with his friend in things seemly, so he does his endeavour
  to wean his friend from things unseemly: but enough of this
  for the nonce: I pass to that which, I wot, is of greater moment.
-     <milestone id="p00080026"/>
-     If
+   <a name="p00080026">
+    [026]
+   </a>
+   If
  thou ardently lovest Sophronia, my affianced, so far from marvelling
  thereat, I should greatly marvel were it not so, knowing how fair
  she is, and how noble is thy soul, and thus the apter to be swayed by
  passion, the more excelling is she by whom thou art charmed.
-     <milestone id="p00080027"/>
-     And
+   <a name="p00080027">
+    [027]
+   </a>
+   And
  the juster the cause thou hast to love Sophronia, the greater is the
  injustice with which thou complainest of Fortune (albeit thou dost it
  not in so many words) for giving her to me, as if thy love of her had
  been seemly, had she belonged to any other but me;
-     <milestone id="p00080028"/>
-     whereas, if thou
+   <a name="p00080028">
+    [028]
+   </a>
+   whereas, if thou
  art still the wise man thou wast wont to be, thou must know that to
  none could Fortune have assigned her, with such good cause for thee
  to thank her, as to me. Had any other had her, albeit thy love had
@@ -259,190 +303,233 @@ layout: "single"
  which, if thou deem me even such a friend to thee as I am, thou wilt
  not apprehend from me, seeing that I mind me not that, since we
  were friends, I had ever aught that was not as much thine as mine.
-     <milestone id="p00080029"/>
-     And so should I entreat thee herein as in all other matters, were the
+   <a name="p00080029">
+    [029]
+   </a>
+   And so should I entreat thee herein as in all other matters, were the
  affair gone so far that nought else were possible; but as it is, I can
  make thee sole possessor of her; and so I mean to do; for I know
  not what cause thou shouldst have to prize my friendship, if, where
  in seemly sort it might be done, I knew not how to surrender my
  will to thine.
-     <milestone id="p00080030"/>
-     'Tis true that Sophronia is my betrothed, and that I
+   <a name="p00080030">
+    [030]
+   </a>
+   'Tis true that Sophronia is my betrothed, and that I
  loved her much, and had great cheer in expectation of the nuptials:
  but as thou, being much more discerning than I, dost more fervently
  affect this rare prize, rest assured that she will enter my chamber not
  mine but thine.
-     <milestone id="p00080031"/>
-     Wherefore, away with thy moodiness, banish thy
+   <a name="p00080031">
+    [031]
+   </a>
+   Wherefore, away with thy moodiness, banish thy
  melancholy, recover thy lost health, thy heartiness and jollity, and
  gladsomely, even from this very hour, anticipate the guerdon of thy
  love, a love worthier far than mine.
-    </q>
-   </p>
-   <p>
-    <milestone id="p00080032"/>
-    Delightful as was the prospect with which hope flattered Titus,
+  </q>
+ </p>
+ <p>
+  <a name="p00080032">
+   [032]
+  </a>
+  Delightful as was the prospect with which hope flattered Titus,
  as he heard Gisippus thus speak, no less was the shame with which
  right reason affected him, admonishing him that the greater was the
  liberality of Gisippus, the less it would become him to profit thereby.
  Wherefore, still weeping, he thus constrained himself to make
  answer:
-    <milestone id="p00080033"/>
-    <q direct="unspecified">
-     Gisippus, thy generous and true friendship leaves me in
-     <pb n="358"/>
-     no doubt as to the manner in which it becomes me to act. God forefend
+  <a name="p00080033">
+   [033]
+  </a>
+  <q direct="unspecified">
+   Gisippus, thy generous and true friendship leaves me in
+   no doubt as to the manner in which it becomes me to act. God forefend
  that her, whom, as to the more worthy, He has given to thee, I
  should ever accept of thee for mine. Had He seen fit that she should
  be mine, far be it from thee or any other to suppose that He would
  ever have awarded her to thee.
-     <milestone id="p00080034"/>
-     Renounce not, then, that which thy
+   <a name="p00080034">
+    [034]
+   </a>
+   Renounce not, then, that which thy
  choice and wise counsel and His gift have made thine, and leave me,
  to whom, as unworthy, He has appointed no such happiness, to
  waste my life in tears; for either I shall conquer my grief, which
  will be grateful to thee, or it will conquer me, and so I shall be quit
  of my pain.
-    </q>
-    <milestone id="p00080035"/>
-    Quoth then Gisippus:
-    <q direct="unspecified">
-     If our friendship, Titus, is
+  </q>
+  <a name="p00080035">
+   [035]
+  </a>
+  Quoth then Gisippus:
+  <q direct="unspecified">
+   If our friendship, Titus, is
  of such a sort as may entitle me to enforce thee to ensue behests of
  mine, or as may induce thee of thine own free will to ensue the
  same, such is the use to which, most of all, I am minded to put it;
  and if thou lend not considerate ear unto my prayers, I shall by
  force, that force which is lawful in the interest of a friend, make
  Sophronia thine.
-     <milestone id="p00080036"/>
-     I know the might of Love, how redoubtable it is,
+   <a name="p00080036">
+    [036]
+   </a>
+   I know the might of Love, how redoubtable it is,
  and how, not once only, but oftentimes, it has brought ill-starred lovers
  to a miserable death; and thee I see so hard bested that turn back
  thou mightst not, nor get the better of thy grief, but holding on thy
  course, must succumb, and perish; and without doubt I should
  speedily follow thee.
-     <milestone id="p00080037"/>
-     And so, had I no other cause to love thee, thy
+   <a name="p00080037">
+    [037]
+   </a>
+   And so, had I no other cause to love thee, thy
  life is precious to me in that my own is bound up with it. Sophronia,
  then, shall be thine; for thou wouldst not lightly find another so
  much to thy mind, and I shall readily find another to love, and so
  shall content both thee and me.
-     <milestone id="p00080038"/>
-     In which matter, peradventure, I
+   <a name="p00080038">
+    [038]
+   </a>
+   In which matter, peradventure, I
  might not be so liberal, were wives so scarce or hard to find as are
  friends; wherefore, as 'tis so easy a matter for me to find another
  wife, I had liefer--I say not lose her, for in giving her to thee lose
  her I shall not, but only transfer her to one that is my
-     <!--(i)-->
-     alter ego
-     <!--(/i)-->
-     ,
+   alter ego
+   ,
  and
  that to her advantage--I had liefer, I say, transfer her to thee than
  lose thee.
-     <milestone id="p00080039"/>
-     And so, if aught my prayers avail with thee, I entreat thee
+   <a name="p00080039">
+    [039]
+   </a>
+   And so, if aught my prayers avail with thee, I entreat thee
  extricate thyself from this thy woeful plight, and comfort at once
  thyself and me, and in good hope, address thyself to pluck that boon
  which thy fervent love craves of her for whom thou yearnest.
-    </q>
-   </p>
-   <p>
-    <milestone id="p00080040"/>
-    Still scrupling, for shame, to consent that Sophronia should become
+  </q>
+ </p>
+ <p>
+  <a name="p00080040">
+   [040]
+  </a>
+  Still scrupling, for shame, to consent that Sophronia should become
  his wife, Titus remained yet a while inexorable; but, yielding at
  last to the solicitations of Love, reinforced by the exhortations of
  Gisippus, thus he made answer:
-    <q direct="unspecified">
-     Lo now, Gisippus, I know not
-     <pb n="359"/>
-     how to call it, whether 'tis more thy pleasure than mine, this which
+  <q direct="unspecified">
+   Lo now, Gisippus, I know not
+   how to call it, whether 'tis more thy pleasure than mine, this which
  I do, seeing that 'tis as thy pleasure that thou so earnestly entreatest
  me to do it; but, as thy liberality is such that my shame, though
  becoming, may not withstand it, I will even do it.
-     <milestone id="p00080041"/>
-     But of this rest
+   <a name="p00080041">
+    [041]
+   </a>
+   But of this rest
  assured, that I do so, witting well that I receive from thee, not only
  the lady I love, but with her my very life. And, Fate permitting,
  may the Gods grant me to make thee such honourable and goodly
  requital as may shew thee how sensible I am of the boon, which
  thou, more compassionate of me than I am of myself, conferrest on
  me.
-    </q>
-    <milestone id="p00080042"/>
-    Quoth then Gisippus:
-    <q direct="unspecified">
-     Now, for the giving effect to our
+  </q>
+  <a name="p00080042">
+   [042]
+  </a>
+  Quoth then Gisippus:
+  <q direct="unspecified">
+   Now, for the giving effect to our
  purpose, methinks, Titus, we should proceed on this wise. Thou
  knowest that Sophronia, by treaty at length concluded between my
  family and hers, is become my betrothed: were I now to say that
  she should not be my wife, great indeed were the scandal that would
  come thereof, and I should affront both her family and mine own;
-     <milestone id="p00080043"/>
-     whereof, indeed, I should make no account, so it gave me to see her
+   <a name="p00080043">
+    [043]
+   </a>
+   whereof, indeed, I should make no account, so it gave me to see her
  become thine; but I fear that, were I to give her up at this juncture,
  her family would forthwith bestow her upon another, perchance,
  than thee, and so we should both be losers.
-     <milestone id="p00080044"/>
-     Wherefore
+   <a name="p00080044">
+    [044]
+   </a>
+   Wherefore
  methinks that, so thou approve, I were best to complete what I have
  begun, bring her home as my wife, and celebrate the nuptials, and
  thereafter we can arrange that thou lie with her, privily, as thy wife.
-     <milestone id="p00080045"/>
-     Then, time and occasion serving, we will disclose the whole affair,
+   <a name="p00080045">
+    [045]
+   </a>
+   Then, time and occasion serving, we will disclose the whole affair,
  and if they are satisfied, well and good; if not, 'twill be done all the
  same, and as it cannot be undone, they must perforce make the best
  of it.
-    </q>
-   </p>
-   <p>
-    <milestone id="p00080046"/>
-    Which counsel being approved by Titus, Gisippus brought the
+  </q>
+ </p>
+ <p>
+  <a name="p00080046">
+   [046]
+  </a>
+  Which counsel being approved by Titus, Gisippus brought the
  lady home as his wife, Titus being now recovered, and quite himself
  again; and when they had made great cheer, and night was come,
  the ladies, having bedded the bride, took their departure.
-    <milestone id="p00080047"/>
-    Now the
+  <a name="p00080047">
+   [047]
+  </a>
+  Now the
  chambers of Titus and Gisippus were contiguous, and one might
  pass from one into the other: Gisippus, therefore, being come into
  his room, extinguished every ray of light, and stole into that of
  Titus, and bade him go get him to bed with his lady.
-    <milestone id="p00080048"/>
-    Whereat Titus
+  <a name="p00080048">
+   [048]
+  </a>
+  Whereat Titus
  gave way to shame, and would have changed his mind, and refused
  to go in; but Gisippus, no less zealous at heart than in words to
  serve his friend, after no small contention prevailed on him to go
  thither. Now no sooner was Titus abed with the lady, than, taking
-    <pb n="360"/>
-    her in his arms, he, as if jestingly, asked in a low tone whether she
+  her in his arms, he, as if jestingly, asked in a low tone whether she
  were minded to be his wife.
-    <milestone id="p00080049"/>
-    She, taking him to be Gisippus,
+  <a name="p00080049">
+   [049]
+  </a>
+  She, taking him to be Gisippus,
  answered, yes; whereupon he set a fair and costly ring on her
  finger, saying:
-    <q direct="unspecified">
-     And I am minded to be thy husband.
-    </q>
-    And
+  <q direct="unspecified">
+   And I am minded to be thy husband.
+  </q>
+  And
  having presently consummated the marriage, he long and amorously
  disported him with her, neither she, nor any other, being ever aware
  that another than Gisippus lay with her.
-   </p>
-   <p>
-    <milestone id="p00080050"/>
-    Now Titus and Sophronia being after this sort wedded, Publius,
+ </p>
+ <p>
+  <a name="p00080050">
+   [050]
+  </a>
+  Now Titus and Sophronia being after this sort wedded, Publius,
  the father of Titus, departed this life. For which cause Titus was
  bidden by letter to return forthwith to Rome to see to his affairs;
  wherefore he took counsel with Gisippus how he might take
  Sophronia thither with him; which might not well be done without
  giving her to know how matters stood.
-    <milestone id="p00080051"/>
-    Whereof, accordingly, one
+  <a name="p00080051">
+   [051]
+  </a>
+  Whereof, accordingly, one
  day, having called her into the chamber, they fully apprised her,
  Titus for her better assurance bringing to her recollection not a little
  of what had passed between them.
-    <milestone id="p00080052"/>
-    Whereat she, after glancing from
+  <a name="p00080052">
+   [052]
+  </a>
+  Whereat she, after glancing from
  one to the other somewhat disdainfully, burst into a flood of tears,
  and reproached Gisippus that he had so deluded her; and forthwith,
  saying nought of the matter to any there, she hied her forth of
@@ -450,8 +537,10 @@ layout: "single"
  she recounted the deceit which Gisippus had practised upon them as
  upon her, averring that she was the wife not of Gisippus, as they
  supposed, but of Titus.
-    <milestone id="p00080053"/>
-    Whereby her father was aggrieved exceedingly,
+  <a name="p00080053">
+   [053]
+  </a>
+  Whereby her father was aggrieved exceedingly,
  and prolonged and grave complaint was made thereof by him
  and his own and Gisippus' families, and there was not a little parleying,
  and a world of pother. Gisippus earned the hatred of both his own and
@@ -459,32 +548,39 @@ layout: "single"
  severe punishment. He, however, averred that he had done a thing
  seemly, and that Sophronia's kinsfolk owed him thanks for giving her
  in marriage to one better than himself.
-   </p>
-   <p>
-    <milestone id="p00080054"/>
-    All which Titus witnessed with great suffering, and witting that
+ </p>
+ <p>
+  <a name="p00080054">
+   [054]
+  </a>
+  All which Titus witnessed with great suffering, and witting that
  'twas the way of the Greeks to launch forth in high words and
  menaces, and refrain not until they should meet with one that
  answered them, whereupon they were wont to grow not only
  humble but even abject, was at length minded that their clavers
  should no longer pass unanswered;
-    <milestone id="p00080055"/>
-    and, as with his Roman temper he
+  <a name="p00080055">
+   [055]
+  </a>
+  and, as with his Roman temper he
  united Athenian subtlety, he cleverly contrived to bring the kinsfolk,
  as well of Gisippus as of Sophronia, together in a temple,
-    <pb n="361"/>
-    where, being entered, attended only by Gisippus, thus (they being
+  where, being entered, attended only by Gisippus, thus (they being
  intent to hear) he harangued them:
-    <milestone id="p00080056"/>
-    <q direct="unspecified">
-     'Tis the opinion of not a
+  <a name="p00080056">
+   [056]
+  </a>
+  <q direct="unspecified">
+   'Tis the opinion of not a
  few philosophers that whatsoever mortals do is ordained by the providence
  of the immortal Gods; for which cause some would have it
  that nought either is, or ever shall be, done, save of necessity, albeit
  others there are that restrict this necessity to that which is already
  done.
-     <milestone id="p00080057"/>
-     Regard we but these opinions with some little attention, and
+   <a name="p00080057">
+    [057]
+   </a>
+   Regard we but these opinions with some little attention, and
  we shall very plainly perceive that to censure that which cannot be
  undone is nought else but to be minded to shew oneself wiser than
  the Gods; by whom we must suppose that we and our affairs are
@@ -493,29 +589,37 @@ layout: "single"
  it is to pass judgment on their doings, and what manner and might
  of chains they need who suffer themselves to be transported to such
  excess of daring.
-     <milestone id="p00080058"/>
-     Among whom, in my judgment, you must one
+   <a name="p00080058">
+    [058]
+   </a>
+   Among whom, in my judgment, you must one
  and all be numbered, if 'tis true, what I hear, to wit, that you have
  complained and do continue to complain that Sophronia, albeit you
  gave her to Gisippus, is, nevertheless, become my wife; not considering
  that 'twas ordained from all eternity that she should become, not
  the wife of Gisippus, but mine, as the fact does now declare.
-    </q>
-   </p>
-   <p>
-    <milestone id="p00080059"/>
-    <q direct="unspecified">
-     But, for that discourse of the secret providence and purposes of
+  </q>
+ </p>
+ <p>
+  <a name="p00080059">
+   [059]
+  </a>
+  <q direct="unspecified">
+   But, for that discourse of the secret providence and purposes of
  the Gods seems to many a matter hard and scarce to be understood,
  I am willing to assume that they meddle in no wise with our concerns,
  and to descend to the region of human counsels; in speaking
  whereof I must needs do two things quite at variance with my wont,
  to wit, in some degree praise myself and censure or vilify another.
-     <milestone id="p00080060"/>
-     But, as in either case I mean not to deviate from the truth, and 'tis
+   <a name="p00080060">
+    [060]
+   </a>
+   But, as in either case I mean not to deviate from the truth, and 'tis
  what the occasion demands, I shall not fail so to do.
-     <milestone id="p00080061"/>
-     With bitter
+   <a name="p00080061">
+    [061]
+   </a>
+   With bitter
  upbraidings, animated rather by rage than by reason, you cease not
  to murmur, nay, to cry out, against Gisippus, and to harass him with
  your abuse, and hold him condemned, for that her, whom you saw
@@ -523,29 +627,36 @@ layout: "single"
  him worthy of the highest commendation, and that for two reasons,
  first, because he has done the office of a friend, and secondly, because
  he has done more wisely than you did.
-     <milestone id="p00080062"/>
-     After what sort the sacred
+   <a name="p00080062">
+    [062]
+   </a>
+   After what sort the sacred
  laws of friendship prescribe that friend shall entreat friend, 'tis not to
  my present purpose to declare; 'twill suffice to remind you that the
  tie of friendship should be more binding than that of blood, or
-     <pb n="362"/>
-     kinship; seeing that our friends are of our own choosing, whereas our
+   kinship; seeing that our friends are of our own choosing, whereas our
  kinsfolk are appointed us by Fortune;
-     <milestone id="p00080063"/>
-     wherefore, if my life was more
+   <a name="p00080063">
+    [063]
+   </a>
+   wherefore, if my life was more
  to Gisippus than your goodwill, since I am, as I hold myself, his
  friend, can any wonder thereat?
-    </q>
-   </p>
-   <p>
-    <milestone id="p00080064"/>
-    <q direct="unspecified">
-     But pass we to my second reason; in the exposition whereof I
+  </q>
+ </p>
+ <p>
+  <a name="p00080064">
+   [064]
+  </a>
+  <q direct="unspecified">
+   But pass we to my second reason; in the exposition whereof I
  must needs with yet more cogency prove to you that he has been
  wiser than you, seeing that, methinks, you wot nought of the providence
  of the Gods, and still less of the consequences of friendship.
-     <milestone id="p00080065"/>
-     I
+   <a name="p00080065">
+    [065]
+   </a>
+   I
  say then, that, as 'twas your premeditated and deliberate choice that
  gave Sophronia to this young philosopher Gisippus, so 'twas his that
  gave her to another young philosopher. 'Twas your counsel that
@@ -557,70 +668,85 @@ layout: "single"
  but he scarce knew her, whereas 'twas to one that loved her beyond
  all other blessings, nay, more dearly than his own life, that his
  counsel gave her.
-     <milestone id="p00080066"/>
-     And to the end that it may appear more plainly
+   <a name="p00080066">
+    [066]
+   </a>
+   And to the end that it may appear more plainly
  that 'tis even as I say, and Gisippus' counsel more to be commended
  than yours, let us examine it point by point. That I, like Gisippus,
  am young and a philosopher, my countenance and my pursuits may,
  without making more words about the matter, sufficiently attest.
  We are also of the same age, and have ever kept pace together in
  our studies.
-     <milestone id="p00080067"/>
-     Now true it is that he is an Athenian, and I am a
+   <a name="p00080067">
+    [067]
+   </a>
+   Now true it is that he is an Athenian, and I am a
  Roman. But, as touching the comparative glory of the cities,
  should the matter be mooted, I say that I am of a free city, and he
  of a city tributary; that I am of a city that is mistress of all the
  world, and he of one that is subject to mine; that I am of a city
  that flourishes mightily in arms, in empire, and in arts; whereas he
  cannot boast his city as famous save in arts.
-    </q>
-   </p>
-   <p>
-    <milestone id="p00080068"/>
-    <q direct="unspecified">
-     Moreover, albeit you see me here in the guise of a most humble
+  </q>
+ </p>
+ <p>
+  <a name="p00080068">
+   [068]
+  </a>
+  <q direct="unspecified">
+   Moreover, albeit you see me here in the guise of a most humble
  scholar, I am not born of the dregs of the populace of Rome. My
  halls and the public places of Rome are full of the antique effigies of
  my forefathers, and the annals of Rome abound with the records of
  triumphs led by the Quintii to the Roman Capitol; and so far from
  age having withered it, to-day, yet more abundantly than ever of
  yore, flourishes the glory of our name.
-     <milestone id="p00080069"/>
-     Of my wealth I forbear, for
-     <pb n="363"/>
-     shame, to speak, being mindful that honest poverty is the time-honoured
+   <a name="p00080069">
+    [069]
+   </a>
+   Of my wealth I forbear, for
+   shame, to speak, being mindful that honest poverty is the time-honoured
  and richest inheritance of the noble citizens of Rome;
  but, allowing for the nonce the opinion of the vulgar, which holds
  poverty in disrepute, and highly appraises wealth, I, albeit I never
  sought it, yet, as the favoured of Fortune, have abundant store
  thereof.
-     <milestone id="p00080070"/>
-     Now well I wot that, Gisippus being of your own city,
+   <a name="p00080070">
+    [070]
+   </a>
+   Now well I wot that, Gisippus being of your own city,
  you justly prized and prize an alliance with him; but not a whit
  less should you prize an alliance with me at Rome, considering that
  there you will have in me an excellent host, and a patron apt, zealous
  and potent to serve you as well in matters of public interest as in
  your private concerns.
-     <milestone id="p00080071"/>
-     Who, then, dismissing all bias from his
+   <a name="p00080071">
+    [071]
+   </a>
+   Who, then, dismissing all bias from his
  mind, and judging with impartial reason, would deem your counsel
  more commendable than that of Gisippus? Assuredly none.
  Sophronia, then, being married to Titus Quintius Fulvus, a citizen
  of Rome, of an ancient and illustrious house, and wealthy, and a
  friend of Gisippus, whoso takes umbrage or offence thereat, does
  that which it behoves him not to do, and knows not what he does.
-    </q>
-   </p>
-   <p>
-    <milestone id="p00080072"/>
-    <q direct="unspecified">
-     Perchance some will say that their complaint is not that
+  </q>
+ </p>
+ <p>
+  <a name="p00080072">
+   [072]
+  </a>
+  <q direct="unspecified">
+   Perchance some will say that their complaint is not that
  Sophronia is the wife of Titus, but that she became his wife after
  such a sort, to wit, privily, by theft, neither friend nor any of her
  kin witting aught thereof; but herein is no matter of marvel, no
  prodigy as yet unheard-of.
-     <milestone id="p00080073"/>
-     I need not instance those who before
+   <a name="p00080073">
+    [073]
+   </a>
+   I need not instance those who before
  now have taken to them husbands in defiance of their fathers' will,
  or have eloped with their lovers and been their mistresses before they
  were their wives, or of whose marriages no word has been spoken,
@@ -628,38 +754,47 @@ layout: "single"
  and necessity sanctioned the fact: nought of this has happened in
  the case of Sophronia; on the contrary, 'twas in proper form, and in
  meet and seemly sort, that Gisippus gave her to Titus.
-     <milestone id="p00080074"/>
-     And others,
+   <a name="p00080074">
+    [074]
+   </a>
+   And others,
  peradventure, will say that 'twas by one to whom such office belonged
  not that she was bestowed in marriage. Nay, but this is but
  vain and womanish querulousness, and comes of scant consideration.
  Know we not, then, that Fortune varies according to circumstances
  her methods and her means of disposing events to their predetermined
  ends?
-     <milestone id="p00080075"/>
-     What matters it to me, if it be a cobbler, rather than
+   <a name="p00080075">
+    [075]
+   </a>
+   What matters it to me, if it be a cobbler, rather than
  a philosopher, that Fortune has ordained to compass something for
  me, whether privily or overtly, so only the result is as it should be?
  I ought, indeed, to take order, if the cobbler be indiscreet, that he
-     <pb n="364"/>
-     meddle no more in affairs of mine, but, at the same time, I ought to
+   meddle no more in affairs of mine, but, at the same time, I ought to
  thank him for what he has done.
-     <milestone id="p00080076"/>
-     If Gisippus has duly bestowed
+   <a name="p00080076">
+    [076]
+   </a>
+   If Gisippus has duly bestowed
  Sophronia in marriage, it is gratuitous folly to find fault with the
  manner and the person. If you mistrust his judgment, have a care
  that it be not in his power to do the like again, but thank him
  for this turn.
-    </q>
-   </p>
-   <p>
-    <milestone id="p00080077"/>
-    <q direct="unspecified">
-     Natheless, you are to know that I used no cunning practice or
+  </q>
+ </p>
+ <p>
+  <a name="p00080077">
+   [077]
+  </a>
+  <q direct="unspecified">
+   Natheless, you are to know that I used no cunning practice or
  deceit to sully in any degree the fair fame of your house in the
  person of Sophronia;
-     <milestone id="p00080078"/>
-     and, albeit I took her privily to wife, I came
+   <a name="p00080078">
+    [078]
+   </a>
+   and, albeit I took her privily to wife, I came
  not as a ravisher to despoil her of her virginity, nor in any hostile
  sort was I minded to make her mine on dishonourable terms, and
  spurn your alliance; but, being fervently enamoured of her bewitching
@@ -668,44 +803,55 @@ layout: "single"
  say were due, then, for the great love you bear her, and for fear lest I
  should take her away with me to Rome, I might not hope to have
  her.
-     <milestone id="p00080079"/>
-     Accordingly I made use of the secret practice which is now
+   <a name="p00080079">
+    [079]
+   </a>
+   Accordingly I made use of the secret practice which is now
  manifest to you, and brought Gisippus to consent in my interest to
  that whereto he was averse;
-     <milestone id="p00080080"/>
-     and thereafter, ardently though I loved
+   <a name="p00080080">
+    [080]
+   </a>
+   and thereafter, ardently though I loved
  her, I sought not to commingle with her as a lover, but as a husband,
  nor closed with her, until, as she herself by her true witness
  may assure you, I had with apt words and with the ring made her
  my lawful wife, asking her if she would have me to husband, whereto
  she answered, yes. Wherein if she seem to have been tricked, 'tis
  not I that am to blame, but she, for that she asked me not who I was.
-    </q>
-   </p>
-   <p>
-    <milestone id="p00080081"/>
-    <q direct="unspecified">
-     This, then, is the great wrong, sin, crime, whereof for love and
+  </q>
+ </p>
+ <p>
+  <a name="p00080081">
+   [081]
+  </a>
+  <q direct="unspecified">
+   This, then, is the great wrong, sin, crime, whereof for love and
  friendship's sake Gisippus and I are guilty, that Sophronia is privily
  become the wife of Titus Quintius: 'tis for this that you harass him
  with your menaces and hostile machinations.
-     <milestone id="p00080082"/>
-     What more would
+   <a name="p00080082">
+    [082]
+   </a>
+   What more would
  you do, had he given her to a villein, to a caitiff, to a slave? Where
  would you find fetters, dungeons, crosses adequate to your vengeance?
-     <milestone id="p00080083"/>
-     But enough of this at present: an event, which I did not
+   <a name="p00080083">
+    [083]
+   </a>
+   But enough of this at present: an event, which I did not
  expect, has now happened; my father is dead; and I must needs
  return to Rome; wherefore, being fain to take Sophronia with me,
  I have discovered to you that which otherwise I had, perchance, still
  kept close. Whereto, if you are wise, you will gladly reconcile
  yourselves; for that, if I had been minded to play you false, or put
  an affront upon you, I might have scornfully abandoned her to you;
-     <pb n="365"/>
-     but God forefend that such baseness be ever harboured in a Roman
+   but God forefend that such baseness be ever harboured in a Roman
  breast.
-     <milestone id="p00080084"/>
-     Sophronia, then, by the will of the Gods, by force of law,
+   <a name="p00080084">
+    [084]
+   </a>
+   Sophronia, then, by the will of the Gods, by force of law,
  and by my own love-taught astuteness, is mine. The which it would
  seem that you, deeming yourselves, peradventure, wiser than the
  Gods, or the rest of mankind, do foolishly set at nought, and that in
@@ -713,36 +859,46 @@ layout: "single"
  from me Sophronia, in whom right, as against me, you have
  none, and also entreat as your enemy Gisippus, to whom you are
  rightfully bounden.
-     <milestone id="p00080085"/>
-     The folly whereof I purpose not at present
+   <a name="p00080085">
+    [085]
+   </a>
+   The folly whereof I purpose not at present
  fully to expound to you, but in friendly sort to counsel you to abate
  your wrath and abandon all your schemes of vengeance, and restore
  Sophronia to me, that I may part from you on terms of amity and
  alliance, and so abide:
-     <milestone id="p00080086"/>
-     but of this rest assured, that whether this,
+   <a name="p00080086">
+    [086]
+   </a>
+   but of this rest assured, that whether this,
  which is done, like you or not, if you are minded to contravene it, I
  shall take Gisippus hence with me, and once arrived in Rome, shall
  in your despite find means to recover her who is lawfully mine, and
  pursuing you with unremitting enmity, will apprise you by experience
  of the full measure and effect of a Roman's wrath.
-    </q>
-   </p>
-   <p>
-    <milestone id="p00080087"/>
-    Having so said, Titus started to his feet, his countenance distorted
+  </q>
+ </p>
+ <p>
+  <a name="p00080087">
+   [087]
+  </a>
+  Having so said, Titus started to his feet, his countenance distorted
  by anger, and took Gisippus by the hand, and with manifest
  contempt for all the rest, shaking his head at them and threatening
  them, led him out of the temple.
-    <milestone id="p00080088"/>
-    They that remained in the
+  <a name="p00080088">
+   [088]
+  </a>
+  They that remained in the
  temple, being partly persuaded by his arguments to accept his
  alliance and friendship, partly terrified by his last words, resolved by
  common consent that 'twas better to have the alliance of Titus, as
  they had lost that of Gisippus, than to add to that loss the enmity of
  Titus.
-    <milestone id="p00080089"/>
-    Wherefore they followed Titus, and having come up with
+  <a name="p00080089">
+   [089]
+  </a>
+  Wherefore they followed Titus, and having come up with
  him, told him that they were well pleased that Sophronia should be
  his, and that they should prize his alliance and the friendship of dear
  Gisippus; and having ratified this treaty of amity and alliance with
@@ -750,56 +906,71 @@ layout: "single"
  discreetly making a virtue of necessity, transferred forthwith to Titus
  the love she had borne Gisippus, and being come with Titus to Rome,
  was there received with no small honour.
-    <milestone id="p00080090"/>
-    Gisippus tarried in Athens,
+  <a name="p00080090">
+   [090]
+  </a>
+  Gisippus tarried in Athens,
  held in little account by well-nigh all the citizens, and being involved
  in certain of their broils, was, not long afterwards, with all his
  household,
  banished the city, poor, nay, destitute, and condemned to perpetual
  exile.
-    <milestone id="p00080091"/>
-    Thus hard bested, and at length reduced to mendicancy,
-    <pb n="366"/>
-    he made his way, so as least discomfortably he might, to Rome,
+  <a name="p00080091">
+   [091]
+  </a>
+  Thus hard bested, and at length reduced to mendicancy,
+  he made his way, so as least discomfortably he might, to Rome,
  being minded to see whether Titus would remember him: and
  there, learning that Titus lived, and was much affected by all the
  Romans, and having found out his house, he took his stand in front
  of it, and watched until Titus came by;
-    <milestone id="p00080092"/>
-    to whom, for shame of the
+  <a name="p00080092">
+   [092]
+  </a>
+  to whom, for shame of the
  sorry trim that he was in, he ventured no word, but did his endeavour
  that he might be seen of him, hoping that Titus might recognize
  him, and call him by his name: but Titus passing on, Gisippus
  deeming that he had seen and avoided him, and calling to mind that
  which aforetime he had done for him, went away wroth and
  desperate.
-    <milestone id="p00080093"/>
-    And fasting and penniless, and--for 'twas now night--knowing
+  <a name="p00080093">
+   [093]
+  </a>
+  And fasting and penniless, and--for 'twas now night--knowing
  not whither he went, and yearning above all for death, he
  wandered by chance to a spot, which, albeit 'twas within the city,
  had much of the aspect of a wilderness, and espying a spacious
  grotto, he took shelter there for the night; and worn out at last with
  grief, on the bare ground, wretchedly clad as he was, he fell asleep.
-   </p>
-   <p>
-    <milestone id="p00080094"/>
-    Now two men that had that night gone out a thieving, having
+ </p>
+ <p>
+  <a name="p00080094">
+   [094]
+  </a>
+  Now two men that had that night gone out a thieving, having
  committed the theft, came towards morning to the grotto, and there
  quarrelled, and the stronger slew the other, and took himself off.
-    <milestone id="p00080095"/>
-    Aroused by the noise, Gisippus witnessed the murder, and deeming
+  <a name="p00080095">
+   [095]
+  </a>
+  Aroused by the noise, Gisippus witnessed the murder, and deeming
  that he had now the means of compassing, without suicide, the death
  for which he so much longed, budged not a jot, but stayed there,
  until the serjeants of the court, which had already got wind of the
  affair, came on the scene, and laid violent hands upon him, and led
  him away.
-    <milestone id="p00080096"/>
-    Being examined, he confessed that he had slain the man,
+  <a name="p00080096">
+   [096]
+  </a>
+  Being examined, he confessed that he had slain the man,
  and had then been unable to make his escape from the grotto.
  Wherefore the praetor, Marcus Varro by name, sentenced him to
  death by crucifixion, as was then the custom.
-    <milestone id="p00080097"/>
-    But Titus, who
+  <a name="p00080097">
+   [097]
+  </a>
+  But Titus, who
  happened at that moment to come into the praetorium, being told
  the crime for which he was condemned, and scanning the poor
  wretch's face, presently recognized him for Gisippus, and marvelled
@@ -807,173 +978,212 @@ layout: "single"
  most ardently desiring to succour him, nor seeing other way to save
  his life except to exonerate him by accusing himself, he straightway
  stepped forward, and said with a loud voice:
-    <milestone id="p00080098"/>
-    <q direct="unspecified">
-     Marcus Varro, call
+  <a name="p00080098">
+   [098]
+  </a>
+  <q direct="unspecified">
+   Marcus Varro, call
  back the poor man on whom thou hast passed sentence, for he is
  innocent. 'Tis enough that I have incurred the wrath of the Gods
  by one deed of violence, to wit, the murder of him whom your
-     <pb n="367"/>
-     serjeants found dead this morning, without aggravating my offence
+   serjeants found dead this morning, without aggravating my offence
  by the death of another innocent man.
-    </q>
-    <milestone id="p00080099"/>
-    Perplexed, and vexed that he
+  </q>
+  <a name="p00080099">
+   [099]
+  </a>
+  Perplexed, and vexed that he
  should have been heard by all in the praetorium, but unable honourably
  to avoid compliance with that which the laws enjoined, Varro
  had Gisippus brought back, and in presence of Titus said to him:
-    <milestone id="p00080100"/>
-    <q direct="unspecified">
-     How camest thou to be so mad as, though no constraint was put
+  <a name="p00080100">
+   [100]
+  </a>
+  <q direct="unspecified">
+   How camest thou to be so mad as, though no constraint was put
  upon thee, to confess a deed thou never didst, thy life being at stake?
  Thou saidst that 'twas thou by whom the man was slain last night,
  and now comes this other, and says that 'twas not thou but he that
  slew him.
-    </q>
-    <milestone id="p00080101"/>
-    Gisippus looked, and seeing Titus, wist well that, being
+  </q>
+  <a name="p00080101">
+   [101]
+  </a>
+  Gisippus looked, and seeing Titus, wist well that, being
  grateful for the service rendered by him in the past, Titus was now
  minded to save his life at the cost of his own: wherefore, affected to
  tears, he said:
-    <q direct="unspecified">
-     Nay but, Varro, in very sooth I slew him, and 'tis
+  <q direct="unspecified">
+   Nay but, Varro, in very sooth I slew him, and 'tis
  now too late, this tender solicitude of Titus for my deliverance.
-    </q>
-    <milestone id="p00080102"/>
-    But on his part:
-    <q direct="unspecified">
-     Praetor,
-    </q>
-    quoth Titus,
-    <q direct="unspecified">
-     thou seest this man is
+  </q>
+  <a name="p00080102">
+   [102]
+  </a>
+  But on his part:
+  <q direct="unspecified">
+   Praetor,
+  </q>
+  quoth Titus,
+  <q direct="unspecified">
+   thou seest this man is
  a stranger, and was found unarmed beside the murdered man; thou
  canst not doubt that he was fain of death for very wretchedness:
  wherefore discharge him, and let punishment light on me who have
  merited it.
-    </q>
-   </p>
-   <p>
-    <milestone id="p00080103"/>
-    Marvelling at the importunity of both, Varro readily surmised
+  </q>
+ </p>
+ <p>
+  <a name="p00080103">
+   [103]
+  </a>
+  Marvelling at the importunity of both, Varro readily surmised
  that neither was guilty. And while he was casting about how he
  might acquit them, lo, in came a young man, one Publius Ambustus,
  a desperate character, and known to all the Romans for an arrant
  thief. He it was that had verily committed the murder,
-    <milestone id="p00080104"/>
-    and witting
+  <a name="p00080104">
+   [104]
+  </a>
+  and witting
  both the men to be innocent of that of which each accused himself, so
  sore at heart was he by reason of their innocence, that, overborne by
  an exceeding great compassion, he presented himself before Varro,
  and:
-    <milestone id="p00080105"/>
-    <q direct="unspecified">
-     Praetor,
-    </q>
-    quoth he,
-    <q direct="unspecified">
-     'tis destiny draws me hither to loose
+  <a name="p00080105">
+   [105]
+  </a>
+  <q direct="unspecified">
+   Praetor,
+  </q>
+  quoth he,
+  <q direct="unspecified">
+   'tis destiny draws me hither to loose
  the knot of these men's contention; and some God within me leaves
  me no peace of his whips and stings, until I discover my offence:
  wherefore know that neither of these men is guilty of that of which
  each accuses himself.
-     <milestone id="p00080106"/>
-     'Tis verily I that slew the man this morning
+   <a name="p00080106">
+    [106]
+   </a>
+   'Tis verily I that slew the man this morning
  about daybreak; and before I slew him, while I was sharing our
  plunder with him, I espied this poor fellow asleep there. Nought
  need I say to clear Titus: the general bruit of his illustrious renown
  attests that he is not a man of such a sort. Discharge him, therefore,
  and exact from me the penalty prescribed by the laws.
-    </q>
-   </p>
-   <p>
-    <milestone id="p00080107"/>
-    The affair had by this time come to the ears of Octavianus, who
-    <pb n="368"/>
-    caused all three to be brought before him, and demanded to know
+  </q>
+ </p>
+ <p>
+  <a name="p00080107">
+   [107]
+  </a>
+  The affair had by this time come to the ears of Octavianus, who
+  caused all three to be brought before him, and demanded to know
  the causes by which they had been severally moved to accuse themselves;
  and, each having told his story, Octavianus released the two
  by reason of their innocence, and the third for love of them.
-    <milestone id="p00080108"/>
-    Titus
+  <a name="p00080108">
+   [108]
+  </a>
+  Titus
  took Gisippus home, having first chidden him not a little for his
  faint-heartedness and diffidence, and there, Sophronia receiving him as
  a brother, did him marvellous cheer;
-    <milestone id="p00080109"/>
-    and having comforted him a
+  <a name="p00080109">
+   [109]
+  </a>
+  and having comforted him a
  while, and arrayed him in apparel befitting his worth and birth, he
  first shared with him all his substance, and then gave him his sister,
  a young damsel named Fulvia, to wife, and said to him:
-    <q direct="unspecified">
-     Choose
+  <q direct="unspecified">
+   Choose
  now, Gisippus, whether thou wilt tarry here with me, or go back
  to Achaia with all that I have given thee.
-    </q>
-   </p>
-   <p>
-    <milestone id="p00080110"/>
-    Partly perforce of his banishment from his city, partly for that
+  </q>
+ </p>
+ <p>
+  <a name="p00080110">
+   [110]
+  </a>
+  Partly perforce of his banishment from his city, partly for that
  the sweet friendship of Titus was justly dear to him, Gisippus
  consented to become a Roman. And so, long and happily they
  lived together at Rome, Gisippus with his Fulvia, and Titus with
  his Sophronia, in the same house, growing, if possible, greater friends
  day by day.
-   </p>
-   <p>
-    <milestone id="p00080111"/>
-    Exceeding sacred then, is friendship, and worthy not only to be
+ </p>
+ <p>
+  <a name="p00080111">
+   [111]
+  </a>
+  Exceeding sacred then, is friendship, and worthy not only to be
  had in veneration, but to be extolled with never-ending praise, as the
  most dutiful mother of magnificence and seemliness, sister of gratitude
  and charity, and foe to enmity and avarice; ever, without waiting
  to be asked, ready to do as generously by another as she would be
  done by herself.
-    <milestone id="p00080112"/>
-    Rarely indeed is it to-day that twain are found, in
+  <a name="p00080112">
+   [112]
+  </a>
+  Rarely indeed is it to-day that twain are found, in
  whom her most holy fruits are manifest; for which is most shamefully
  answerable the covetousness of mankind, which, regarding only
  private interest, has banished friendship beyond earth's farthest bourne,
  there to abide in perpetual exile.
-    <milestone id="p00080113"/>
-    How should love, or wealth, or
+  <a name="p00080113">
+   [113]
+  </a>
+  How should love, or wealth, or
  kinship, how should aught but friendship have so quickened the soul
  of Gisippus that the tears and sighs of Titus should incline his heart
  to cede to him the fair and gracious lady that was his betrothed and
  his beloved?
-    <milestone id="p00080114"/>
-    Laws, menaces, terror! How should these, how should
+  <a name="p00080114">
+   [114]
+  </a>
+  Laws, menaces, terror! How should these, how should
  aught but friendship, have withheld Gisippus, in lonely places, in
  hidden retreats, in his own bed, from enfolding (not perchance unsolicited
  by her) the fair damsel within his youthful embrace?
-    <milestone id="p00080115"/>
-    Honours, rewards, gains! Would Gisippus for these, would he for
+  <a name="p00080115">
+   [115]
+  </a>
+  Honours, rewards, gains! Would Gisippus for these, would he for
  aught but friendship, have made nothing of the loss of kindred--his
  own and Sophronia's--have made nothing of the injurious murmurs
-    <pb n="369"/>
-    of the populace, have made nothing of mocks and scorns, so only
+  of the populace, have made nothing of mocks and scorns, so only
  he might content his friend?
-    <milestone id="p00080116"/>
-    And on the other hand, for what
+  <a name="p00080116">
+   [116]
+  </a>
+  And on the other hand, for what
  other cause than friendship had Titus, when he might decently have
  feigned not to see, have striven with the utmost zeal to compass his
  own death, and set himself upon the cross in Gisippus' stead?  
 [*** missing sentence: please see Italian
-    <milestone id="p00080117"/>
-    ***]
-    <milestone id="p00080118"/>
-    And
+  <a name="p00080117">
+   [117]
+  </a>
+  ***]
+  <a name="p00080118">
+   [118]
+  </a>
+  And
  what but friendship had left no place for suspicion in the soul of
  Titus, and filled it with a most fervent desire to give his sister to
  Gisippus, albeit he saw him to be reduced to extreme penury
  and destitution?
-    <milestone id="p00080119"/>
-    But so it is that men covet hosts of acquaintance,
+  <a name="p00080119">
+   [119]
+  </a>
+  But so it is that men covet hosts of acquaintance,
  troops of kinsfolk, offspring in plenty; and the number of their
  dependants increases with their wealth; and they reflect not that
  there is none of these, be he who he may, but will be more apprehensive
  of the least peril threatening himself than cumbered to avert
  a great peril from his lord or kinsman, whereas between friends we
  know 'tis quite contrariwise.
-   </p>
-  </div>
- </body>
-</html>
+ </p>
+</div>

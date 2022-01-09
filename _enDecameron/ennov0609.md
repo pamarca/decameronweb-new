@@ -3,58 +3,60 @@ title: "Novel IX"
 day: "ennov0609"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0609" type="novella" who="elissa">
-   <head>
-    Novel IX
-   </head>
-   <argument>
-    <p>
-     <milestone id="p06090001"/>
-     <!--(i)-->
-     Guido Cavalcanti by a quip meetly rebukes certain
+<div id="nov0609" type="novella" who="elissa">
+ <h1>
+  Novel IX
+ </h1>
+ <argument>
+  <p>
+   <a name="p06090001">
+    [001]
+   </a>
+   Guido Cavalcanti by a quip meetly rebukes certain
 	Florentine gentlemen who had taken him at a disadvantage.
-     <!--(/i)-->
-    </p>
-   </argument>
-   <p>
-    <h3>
-     [Voice: elissa]
-    </h3>
-   </p>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p06090002"/>
-     <!--(sc)-->
-     The
-     <!--(/sc)-->
-     queen, perceiving that Emilia had finished
+  </p>
+ </argument>
+ <p>
+  <h3>
+   [Voice: elissa]
+  </h3>
+ </p>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p06090002">
+    [002]
+   </a>
+   The
+   queen, perceiving that Emilia had finished
 	her story, and that none but she, and he who had the privilege of speaking last, now
 	remained to tell, began on this wise:
-    </p>
-   </div3>
-   <div3 type="commentary" who="elissa">
-    <p>
-     <milestone id="p06090003"/>
-     Albeit, debonair my ladies, you have forestalled me to-day of
+  </p>
+ </div3>
+ <div3 type="commentary" who="elissa">
+  <p>
+   <a name="p06090003">
+    [003]
+   </a>
+   Albeit, debonair my ladies, you have forestalled me to-day of
       more than two of the stories, of which I had thought to tell one, yet one is still left me
       to recount, which carries at the close of it a quip of such a sort, that perhaps we have
       as yet heard nought so pregnant.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p06090004"/>
-    You are to know, then, that in former times there obtained
+  </p>
+ </div3>
+ <p>
+  <a name="p06090004">
+   [004]
+  </a>
+  You are to know, then, that in former times there obtained
 in
  our city customs excellent and commendable not a few, whereof today
 not one is left to us, thanks to the greed which, growing with
  the wealth
 of our folk, has banished them all from among us.
-    <milestone id="p06090005"/>
-    One
+  <a name="p06090005">
+   [005]
+  </a>
+  One
  of which customs was
 that in divers quarters of Florence the gentlemen
  that there resided would
@@ -69,8 +71,10 @@ the company;
 distant
  parts when they visited the city, and also to their
 fellow-citizens;
-    <milestone id="p06090006"/>
-    and in like manner they would meet together at least once
+  <a name="p06090006">
+   [006]
+  </a>
+  and in like manner they would meet together at least once
 a year all
  in the same trim, and on the most notable days would ride
 together
@@ -78,18 +82,21 @@ together
 more
  especially on the greater feasts, or when the city was rejoiced by
 tidings of victory or some other glad event.
-    <milestone id="p06090007"/>
-    Among which companies
+  <a name="p06090007">
+   [007]
+  </a>
+  Among which companies
  was one
 of which Messer Betto Brunelleschi was the leading
  spirit, into which
 Messer Betto and his comrades had striven hard
-    <pb n="96"/>
-    to bring Guido,
+  to bring Guido,
 son of Cavalcante de' Cavalcanti, and not without
  reason,
-    <milestone id="p06090008"/>
-    inasmuch as,
+  <a name="p06090008">
+   [008]
+  </a>
+  inasmuch as,
 besides being one of the best logicians in the
  world, and an excellent
 natural philosopher (qualities of which the
@@ -103,8 +110,10 @@ and that belonged to a gentleman;
 when he deemed
  any worthy of honour, knew how to bestow it to the
 uttermost.
-    <milestone id="p06090009"/>
-    But, as Messer Betto had never been able to gain him over, he
+  <a name="p06090009">
+   [009]
+  </a>
+  But, as Messer Betto had never been able to gain him over, he
 and his comrades supposed that 'twas because Guido, being addicted
  to
 speculation, was thereby estranged from men. And, for that he
@@ -114,8 +123,10 @@ inclined to the opinion of the Epicureans, the vulgar
 speculations of his had no other scope than to
  prove that God did not
 exist.
-    <milestone id="p06090010"/>
-    Now one day it so befell that, Guido
+  <a name="p06090010">
+   [010]
+  </a>
+  Now one day it so befell that, Guido
  being come, as was not seldom
 his wont, from Or San Michele by
  the Corso degli Adimari as far as San
@@ -130,38 +141,44 @@ San
  riding
 on to the piazza of Santa Reparata, and seeing him among the
  tombs, said:
-    <milestone id="p06090011"/>
-    <q direct="unspecified">
-     Go we and flout him.
-    </q>
-    So they set spurs to their
+  <a name="p06090011">
+   [011]
+  </a>
+  <q direct="unspecified">
+   Go we and flout him.
+  </q>
+  So they set spurs to their
  horses, and making
 a mock onset, were upon him almost before he
  saw them. Whereupon:
-    <q direct="unspecified">
-     Guido,
-    </q>
-    they began,
-    <q direct="unspecified">
-     thou wilt be
+  <q direct="unspecified">
+   Guido,
+  </q>
+  they began,
+  <q direct="unspecified">
+   thou wilt be
  none of our company; but, lo
 now, when thou hast proved that
  God does not exist, what wilt thou have
 achieved?
-    </q>
-    <milestone id="p06090012"/>
-    Guido, seeing
+  </q>
+  <a name="p06090012">
+   [012]
+  </a>
+  Guido, seeing
  that he was surrounded, presently answered:
-    <q direct="unspecified">
-     Gentlemen, you
+  <q direct="unspecified">
+   Gentlemen, you
  may say to me what you please in your own house.
-    </q>
-    Thereupon he
+  </q>
+  Thereupon he
  laid his hand on one of the great tombs, and being very
 nimble,
  vaulted over it, and so evaded them, and went his way,
-    <milestone id="p06090013"/>
-    while they
+  <a name="p06090013">
+   [013]
+  </a>
+  while they
 remained gazing in one another's faces, and some said that he had
  taken
 leave of his wits, and that his answer was but nought, seeing
@@ -169,23 +186,24 @@ leave of his wits, and that his answer was but nought, seeing
 ground on which they stood was common to them with the
  rest of the
 citizens, and among them Guido himself.
-    <milestone id="p06090014"/>
-    But Messer
+  <a name="p06090014">
+   [014]
+  </a>
+  But Messer
  Betto, turning to them:
-    <q direct="unspecified">
-     Nay but,
-    </q>
-    quoth he,
-    <q direct="unspecified">
-     'tis ye that have
+  <q direct="unspecified">
+   Nay but,
+  </q>
+  quoth he,
+  <q direct="unspecified">
+   'tis ye that have
  taken leave of your wits,
 if ye have not understood him; for meetly
  and in few words he has given us
 never so shrewd a reprimand;
  seeing that, if you consider it well, these
 tombs are the houses of the
-     <pb n="97"/>
-     dead, that are laid and tarry
+   dead, that are laid and tarry
 therein; which he calls our house, to
  shew us that we, and all other
 simple, unlettered men, are, in comparison
@@ -193,15 +211,15 @@ simple, unlettered men, are, in comparison
 learned, in sorrier case than dead
  men, and so being here, we are in our
 own house.
-    </q>
-    <milestone id="p06090015"/>
-    Then none was
+  </q>
+  <a name="p06090015">
+   [015]
+  </a>
+  Then none was
  there but understood Guido's meaning and was
 abashed, insomuch
  that they flouted him no more, and thenceforth reputed
 Messer Betto
  a gentleman of a subtle and discerning wit.
-   </p>
-  </div>
- </body>
-</html>
+ </p>
+</div>

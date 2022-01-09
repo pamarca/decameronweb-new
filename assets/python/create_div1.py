@@ -1,6 +1,6 @@
 import logging, os, pprint
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
 import bs4  # for assertions
 import helpers
 
@@ -10,13 +10,38 @@ italian_xml_path = os.path.abspath( '../xml/itDecameron.xml' )
 english_soup = helpers.load_xml(english_xml_path)
 italian_soup = helpers.load_xml(italian_xml_path)
 
-
 #remove div2+children and pb from div1
 def clean_div1(soup):
+    #remove div2 + children
     for no_div2 in soup.find_all('div2'):
         no_div2.decompose()
+
+    #remove pb
     for pb_tag in soup.find_all('pb'):
         pb_tag.decompose()
+
+    #remove comments
+    comments = soup.find_all(text=lambda text:isinstance(text, Comment))
+    for comment in comments:
+        comment.extract()
+
+    #changing milestones
+    milestones = soup.select('milestone')
+    for milestone in milestones:
+        try:
+            mstone_id = milestone['id']
+        except:
+            mstone_id = 'None'
+
+        milestone.name = "a"
+        milestone['name'] = mstone_id
+        milestone.string = '[' + mstone_id[-3:] + ']'
+        del milestone['id']
+
+    #change div1 into div
+    for div_tag in soup.find_all('div1'):
+        div_tag.name = 'div'
+
 
 # add speaker line
 def add_speaker_line(div1_variable, soup):
@@ -25,7 +50,7 @@ def add_speaker_line(div1_variable, soup):
         add_speaker.string = '[Voice: author]'
         #d1t.insert(2, add_speaker)
         d1t.p.insert_before(add_speaker)
-        add_speaker.string.wrap(soup.new_tag('h3'))
+        add_speaker.string.wrap(soup.new_tag('h2'))
     return
 
 # create dict of div1
@@ -51,6 +76,7 @@ def add_dict_to_div1(div1_variable):
 def create_md_files(div1_results, div1_data_info, outpath, lang):
     for cc, result in enumerate(div1_results):
         filename_md = os.path.abspath('../../{}/'.format(outpath) + lang + div1_data_info[cc]['id'] + '.md')
+
         with open(filename_md, "w", encoding='utf-8') as file2:
             #md tags
             file2.write('---\n')
@@ -60,17 +86,25 @@ def create_md_files(div1_results, div1_data_info, outpath, lang):
             file2.write('---\n')
 
             #html structure
-            html_soup = BeautifulSoup('<html><head></head><body></body></html>', 'html.parser')
-            html_soup.body.append(result)
+            html_soup = BeautifulSoup('', 'html.parser')
+            html_soup.append(result)
+
+            # change head tag
+            div_head = html_soup.find_all('head')
+            for head_tag in div_head:
+                head_tag.name = "h1"
+
             html_output = html_soup.prettify(formatter='html')
             file2.write(html_output)
+
+
     return
 
 div1_results_eng = english_soup.select('div1')
 div1_results_it = italian_soup.select('div1')
 
 clean_div1_eng = clean_div1(english_soup)
-clean_div1__it = clean_div1(italian_soup)
+clean_div1_it = clean_div1(italian_soup)
 
 div1_speaker_eng = add_speaker_line(div1_results_eng, english_soup)
 div1_speaker_it = add_speaker_line(div1_results_it, italian_soup)

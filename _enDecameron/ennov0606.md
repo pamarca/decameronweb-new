@@ -3,52 +3,52 @@ title: "Novel VI"
 day: "ennov0606"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0606" type="novella" who="fiammetta">
-   <head>
-    Novel VI
-   </head>
-   <argument>
-    <p>
-     <milestone id="p06060001"/>
-     <!--(i)-->
-     Michele Scalza proves to certain young men that the
+<div id="nov0606" type="novella" who="fiammetta">
+ <h1>
+  Novel VI
+ </h1>
+ <argument>
+  <p>
+   <a name="p06060001">
+    [001]
+   </a>
+   Michele Scalza proves to certain young men that the
 Baronci are the best gentlemen in the world and the Maremma, and wins a
 supper.
-     <!--(/i)-->
-    </p>
-   </argument>
-   <p>
-    <h3>
-     [Voice: fiammetta]
-    </h3>
-   </p>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p06060002"/>
-     <!--(sc)-->
-     The
-     <!--(/sc)-->
-     ladies were still laughing over Giotto's
+  </p>
+ </argument>
+ <p>
+  <h3>
+   [Voice: fiammetta]
+  </h3>
+ </p>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p06060002">
+    [002]
+   </a>
+   The
+   ladies were still laughing over Giotto's
 	ready retort, when the queen charged Fiammetta to follow suit; wherefore thus Fiammetta
 	began:
-    </p>
-   </div3>
-   <div3 type="commentary" who="fiammetta">
-    <p>
-     <milestone id="p06060003"/>
-     Pamfilo's mention of the
+  </p>
+ </div3>
+ <div3 type="commentary" who="fiammetta">
+  <p>
+   <a name="p06060003">
+    [003]
+   </a>
+   Pamfilo's mention of the
 	Baronci, who to you, Damsels, are perchance not so well known as to him, has brought to my
 	mind a story in which 'tis shewn how great is their nobility; and, for that it involves no
 	deviation from our rule of discourse, I am minded to tell it you.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p06060004"/>
-    'Tis no long time
+  </p>
+ </div3>
+ <p>
+  <a name="p06060004">
+   [004]
+  </a>
+  'Tis no long time
 since there dwelt in our city a young man,
  Michele Scalza by name, the
 pleasantest and merriest fellow in the
@@ -57,8 +57,10 @@ quaint stories: for which reason
  the Florentine youth set great store on
 having him with them when
  they forgathered in company.
-    <milestone id="p06060005"/>
-    Now it so befell
+  <a name="p06060005">
+   [005]
+  </a>
+  Now it so befell
 that one day, he
  being with a party of them at Mont' Ughi, they fell a
 disputing
@@ -67,10 +69,12 @@ of
  the longest descent in Florence. One said, the Uberti, another, the
 Lamberti, or some other family, according to the predilection of the
 speaker.
-    <milestone id="p06060006"/>
-    Whereat Scalza began to smile, and said:
-    <q direct="unspecified">
-     Now out
+  <a name="p06060006">
+   [006]
+  </a>
+  Whereat Scalza began to smile, and said:
+  <q direct="unspecified">
+   Now out
  upon you, out
 upon you, blockheads that ye are: ye know not what
  ye say. The best
@@ -79,51 +83,48 @@ gentlemen and of longest descent in all the world
 alone Florence) are the Baronci by the
  common consent of all
 phisopholers,
-     <note>
-      In the Italian
-      <!--(i)-->
-      fisofoli:
-      <!--(/i)-->
-      an
+   <note>
+    In the Italian
+    fisofoli:
+    an
 evidently intentional distortion.
-     </note>
-     and all that know them as I
+   </note>
+   and all that know them as I
  do;
 and lest you should otherwise conceive me, I say that 'tis of
  your
 neighbours the Baronci
-     <note>
-      Villani,
-      <!--(i)-->
-      Istorie
+   <note>
+    Villani,
+    Istorie
 Fiorentine
-      <!--(/i)-->
-      , iv.
+    , iv.
  cap.
  ix., and Dante,
-      <!--(i)-->
-      Paradiso,
-      <!--(/i)-->
-      xvi. 104,
+    Paradiso,
+    xvi. 104,
  spell the name Barucci.
-     </note>
-     of
+   </note>
+   of
 Santa Maria Maggiore that I speak.
-    </q>
-    <pb n="88"/>
-    <milestone id="p06060007"/>
-    Whereupon the young men,
+  </q>
+  <a name="p06060007">
+   [007]
+  </a>
+  Whereupon the young men,
 who had looked for somewhat else from
  him, said derisively:
-    <q direct="unspecified">
-     Thou dost
+  <q direct="unspecified">
+   Thou dost
 but jest with us; as if we did not
  know the Baronci as well as thou!
-    </q>
-    <milestone id="p06060008"/>
-    Quoth Scalza:
-    <q direct="unspecified">
-     By the Gospels
+  </q>
+  <a name="p06060008">
+   [008]
+  </a>
+  Quoth Scalza:
+  <q direct="unspecified">
+   By the Gospels
  I jest not, but speak sooth; and if there
 is any of you will wager a
  supper to be given to the winner and six good
@@ -132,49 +133,57 @@ fellows whom he
 more--I will
  abide by the decision of such one of you as you may
 choose.
-    </q>
-    <milestone id="p06060009"/>
-    Then
+  </q>
+  <a name="p06060009">
+   [009]
+  </a>
+  Then
  said one of them whose name was Neri Mannini:
-    <q direct="unspecified">
-     I am
+  <q direct="unspecified">
+   I am
 ready to
  adventure this supper;
-    </q>
-    and so they agreed together that Piero
+  </q>
+  and so they agreed together that Piero
 di
  Fiorentino, in whose house they were, should be judge, and hied them
 to him followed by all the rest, eager to see Scalza lose, and triumph
  in
 his discomfiture, and told Piero all that had been said.
-    <milestone id="p06060010"/>
-    Piero, who
+  <a name="p06060010">
+   [010]
+  </a>
+  Piero, who
  was a
 young man of sound sense, heard what Neri had to say; and
  then turning to
 Scalza:
-    <q direct="unspecified">
-     And how,
-    </q>
-    quoth he,
-    <q direct="unspecified">
-     mayst thou make
+  <q direct="unspecified">
+   And how,
+  </q>
+  quoth he,
+  <q direct="unspecified">
+   mayst thou make
  good what thou
 averrest?
-    </q>
-    <milestone id="p06060011"/>
-    <q direct="unspecified">
-     I will demonstrate it,
-    </q>
-    returned
+  </q>
+  <a name="p06060011">
+   [011]
+  </a>
+  <q direct="unspecified">
+   I will demonstrate it,
+  </q>
+  returned
  Scalza,
-    <q direct="unspecified">
-     by
+  <q direct="unspecified">
+   by
 reasoning so cogent that not only you, but he that denies
  it shall
 acknowledge that I say sooth.
-     <milestone id="p06060012"/>
-     You know, and so they were
+   <a name="p06060012">
+    [012]
+   </a>
+   You know, and so they were
  saying but now,
 that the longer men's descent, the better is their
  gentility, and I say
@@ -185,14 +194,18 @@ other men. If, then, I prove to you that
 any other men, without a doubt the
  victory in this dispute will rest with
 me.
-     <milestone id="p06060013"/>
-     Now you must know that
+   <a name="p06060013">
+    [013]
+   </a>
+   Now you must know that
  when God made the Baronci, He was but a novice
 in His art, of
  which, when He made the rest of mankind, He was already
 master.
-     <milestone id="p06060014"/>
-     And to assure yourself that herein I say sooth, you have but to
+   <a name="p06060014">
+    [014]
+   </a>
+   And to assure yourself that herein I say sooth, you have but to
 consider
  the Baronci, how they differ from the rest of mankind, who all
 have faces well composed and duly proportioned, whereas of the
@@ -208,21 +221,24 @@ again there will be one that has one eye
 a lower plane; so that their faces
  resemble those that children make when
 they begin to learn to draw.
-     <milestone id="p06060015"/>
-     Whereby, as I said, 'tis plainly manifest
+   <a name="p06060015">
+    [015]
+   </a>
+   Whereby, as I said, 'tis plainly manifest
 that, when God made them,
  He was but novice in His art; and so they are of
 longer descent
  than the rest of mankind, and by consequence better
 gentlemen.
-    </q>
-    <milestone id="p06060016"/>
-    By which entertaining argument Piero, the judge, and Neri
+  </q>
+  <a name="p06060016">
+   [016]
+  </a>
+  By which entertaining argument Piero, the judge, and Neri
 who had
  wagered the supper, and all the rest, calling to mind the
 Baronci's
-    <pb n="89"/>
-    ugliness, were so tickled, that they fell a laughing,
+  ugliness, were so tickled, that they fell a laughing,
 and averred that
  Scalza was in the right, and that he had won the wager,
 and that
@@ -230,13 +246,13 @@ and that
 longest descent, not merely in Florence, but in the world and the
  Maremma
 to boot.
-    <milestone id="p06060017"/>
-    Wherefore 'twas not without reason that
+  <a name="p06060017">
+   [017]
+  </a>
+  Wherefore 'twas not without reason that
  Pamfilo, being minded to
 declare Messer Forese's ill-favouredness,
  said that he would have been
 hideous beside a Baroncio.
-   </p>
-  </div>
- </body>
-</html>
+ </p>
+</div>

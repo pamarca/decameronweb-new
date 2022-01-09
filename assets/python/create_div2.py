@@ -1,6 +1,6 @@
 import os, pprint
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
 import bs4  # for assertions
 import helpers
 
@@ -10,13 +10,33 @@ italian_xml_path = os.path.abspath( '../xml/itDecameron.xml' )
 english_soup = helpers.load_xml(english_xml_path)
 italian_soup = helpers.load_xml(italian_xml_path)
 
-#changing div2 into 'div'
-divs_eng = english_soup.find_all('div2')
-for div_eng in divs_eng:
-    div_eng.name = 'div'
-divs_it = italian_soup.find_all('div2')
-for div_it in divs_it:
-    div_it.name = 'div'
+#remove div2+children and pb from div1
+def clean_div2(soup):
+    #remove pb
+    for pb_tag in soup.find_all('pb'):
+        pb_tag.decompose()
+
+    #remove comments
+    comments = soup.find_all(text=lambda text:isinstance(text, Comment))
+    for comment in comments:
+        comment.extract()
+
+    #changing milestones
+    milestones = soup.find_all('milestone')
+    for milestone in milestones:
+        try:
+            mstone_id = milestone['id']
+        except:
+            mstone_id = 'None'
+
+        milestone.name = "a"
+        milestone['name'] = mstone_id
+        milestone.string = '[' + mstone_id[-3:] + ']'
+        del milestone['id']
+
+    #change div1 into div
+    for div_tag in soup.find_all('div2'):
+        div_tag.name = 'div'
 
 # adding speaker line
 def add_speaker_line(div2_variable, soup):
@@ -56,19 +76,32 @@ def create_md_files(div2_results, div2_data_info, outpath, lang):
     for cc, result in enumerate(div2_results):
         filename_md = os.path.abspath('../../{}/'.format(outpath) + lang + div2_data_info[cc]['id'] + '.md')
         with open(filename_md, "w", encoding='utf-8') as file2:
+            #md tags
             file2.write('---\n')
             file2.write('title: "' + div2_data_info[cc]['head_text'] +'"\n')
             file2.write('day: "' + lang + div2_data_info[cc]['id'] + '"\n')
             file2.write('layout: "single"\n')
             file2.write('---\n')
-            html_soup = BeautifulSoup('<html><head></head><body></body></html>', 'html.parser')
-            html_soup.body.append(result)
+
+            #html structure
+            html_soup = BeautifulSoup('', 'html.parser')
+            html_soup.append(result)
+
+            # change head tag to h1
+            div_head = html_soup.find_all('head')
+            for head_tag in div_head:
+                head_tag.name = "h1"
+
+            #outputting html
             html_output = html_soup.prettify(formatter='html')
             file2.write(html_output)
     return
 
-div2_results_eng = english_soup.select('div')
-div2_results_it = italian_soup.select('div')
+div2_results_eng = english_soup.select('div2')
+div2_results_it = italian_soup.select('div2')
+
+clean_div2_eng = clean_div2(english_soup)
+clean_div2_it = clean_div2(italian_soup)
 
 div2_speaker_eng = add_speaker_line(div2_results_eng, english_soup)
 div2_speaker_it = add_speaker_line(div2_results_it, italian_soup)

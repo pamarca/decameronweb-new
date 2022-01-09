@@ -3,40 +3,36 @@ title: "Novel I"
 day: "ennov0501"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0501" type="novella" who="panfilo">
-   <head>
-    Novel I
-   </head>
-   <argument>
-    <p>
-     <milestone id="p05010001"/>
-     <!--(i)-->
-     Cimon, by loving, waxes wise, wins his wife Iphigenia by
+<div id="nov0501" type="novella" who="panfilo">
+ <h1>
+  Novel I
+ </h1>
+ <argument>
+  <p>
+   <a name="p05010001">
+    [001]
+   </a>
+   Cimon, by loving, waxes wise, wins his wife Iphigenia by
  capture on the high seas, and is imprisoned at Rhodes.
  He is delivered by Lysimachus; and the twain capture
  Cassandra and recapture Iphigenia in the hour of their
  marriage. They flee with their ladies to Crete, and
  having there married them, are brought back to their
  homes.
-     <!--(/i)-->
-    </p>
-   </argument>
-   <p>
-    <h3>
-     [Voice: panfilo]
-    </h3>
-   </p>
-   <div3 type="commentary" who="panfilo">
-    <p>
-     <milestone id="p05010002"/>
-     <!--(sc)-->
-     Many
-     <!--(/sc)-->
-     stories, sweet my ladies, occur to me as meet for me to
+  </p>
+ </argument>
+ <p>
+  <h3>
+   [Voice: panfilo]
+  </h3>
+ </p>
+ <div3 type="commentary" who="panfilo">
+  <p>
+   <a name="p05010002">
+    [002]
+   </a>
+   Many
+   stories, sweet my ladies, occur to me as meet for me to
  tell by way of ushering in a day so joyous as this will be: of which
  one does most commend itself to my mind, because not only has it
  one of those happy endings of which to-day we are in quest, but
@@ -45,52 +41,61 @@ layout: "single"
  they say, do most unjustly reprobate and revile: which, if I err not,
  should to you, for that I take you to be enamoured, be indeed
  welcome.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p05010003"/>
-    Once upon a time, then, as we have read in the ancient histories
+  </p>
+ </div3>
+ <p>
+  <a name="p05010003">
+   [003]
+  </a>
+  Once upon a time, then, as we have read in the ancient histories
  of the Cypriotes, there was in the island of Cyprus a very great
  noble named Aristippus, a man rich in all worldly goods beyond all
  other of his countrymen, and who might have deemed himself
  incomparably blessed, but for a single sore affliction that Fortune had
  allotted him.
-    <milestone id="p05010004"/>
-    Which was that among his sons he had one, the best
+  <a name="p05010004">
+   [004]
+  </a>
+  Which was that among his sons he had one, the best
  grown and handsomest of them all, that was well-nigh a hopeless
  imbecile. His true name was Galesus; but, as neither his tutor's
  pains, nor his father's coaxing or chastisement, nor any other method
  had availed to imbue him with any tincture of letters or manners,
-    <pb n="3"/>
-    but
+  but
  he still remained gruff and savage of voice, and in his bearing
  liker to a beast than to a man, all, as in derision, were wont to call
  him Cimon, which in their language signifies the same as
-    <q direct="unspecified">
-     bestione
-    </q>
-    (brute)
-    <note>
-     One of the augmentative forms of bestia.
-    </note>
-    in ours.
-    <milestone id="p05010005"/>
-    The father, grieved beyond measure to see his
+  <q direct="unspecified">
+   bestione
+  </q>
+  (brute)
+  <note>
+   One of the augmentative forms of bestia.
+  </note>
+  in ours.
+  <a name="p05010005">
+   [005]
+  </a>
+  The father, grieved beyond measure to see his
  son's life thus blighted, and having abandoned all hope of his recovery,
  nor caring to have the cause of his mortification ever before his
  eyes, bade him betake him to the farm, and there keep with his
  husbandmen. To Cimon the change was very welcome, because
  the manners and habits of the uncouth hinds were more to his taste
  than those of the citizens.
-    <milestone id="p05010006"/>
-    So to the farm Cimon hied him, and
+  <a name="p05010006">
+   [006]
+  </a>
+  So to the farm Cimon hied him, and
  addressed himself to the work thereof; and being thus employed, he
  chanced one afternoon as he passed, staff on shoulder, from one
  domain to another, to enter a plantation, the like of which for beauty
  there was not in those parts, and which was then--for 'twas the
  month of May--a mass of greenery;
-    <milestone id="p05010007"/>
-    and, as he traversed it, he
+  <a name="p05010007">
+   [007]
+  </a>
+  and, as he traversed it, he
  came, as Fortune was pleased to guide him, to a meadow girt in with
  trees exceeding tall, and having in one of its corners a fountain most
  fair and cool, beside which he espied a most beautiful girl lying
@@ -98,8 +103,10 @@ layout: "single"
  scarce in any measure veiled the whiteness of her flesh, and below the
  waist nought but an apron most white and fine of texture; and
  likewise at her feet there slept two women and a man, her slaves.
-    <milestone id="p05010008"/>
-    No sooner did Cimon catch sight of her, than, as if he had never
+  <a name="p05010008">
+   [008]
+  </a>
+  No sooner did Cimon catch sight of her, than, as if he had never
  before seen form of woman, he stopped short, and leaning on his
  cudgel, regarded her intently, saying never a word, and lost in admiration.
  And in his rude soul, which, despite a thousand lessons, had
@@ -107,19 +114,22 @@ layout: "single"
  life, he felt the awakening of an idea, that bade his gross and coarse
  mind acknowledge, that this girl was the fairest creature that had ever
  been seen by mortal eye.
-    <milestone id="p05010009"/>
-    And thereupon he began to distinguish
+  <a name="p05010009">
+   [009]
+  </a>
+  And thereupon he began to distinguish
  her several parts, praising her hair, which shewed to him as gold, her
  brow, her nose and mouth, her throat and arms, and above all her
  bosom, which was as yet but in bud, and as he gazed, he changed
  of a sudden from a husbandman into a judge of beauty, and desired
  of all things to see her eyes, which the weight of her deep slumber
  kept close shut, and many a time he would fain have awakened
-    <pb n="4"/>
-    her,
+  her,
  that he might see them.
-    <milestone id="p05010010"/>
-    But so much fairer seemed she to
+  <a name="p05010010">
+   [010]
+  </a>
+  But so much fairer seemed she to
  him than any other woman that he had seen, that he doubted
  she must be a goddess; and as he was not so devoid of sense but
  that he deemed things divine more worthy of reverence than things
@@ -127,133 +137,167 @@ layout: "single"
  own accord; and though he found the delay overlong, yet,
  enthralled by so unwonted a delight, he knew not how to be
  going.
-    <milestone id="p05010011"/>
-    However, after he had tarried a long while, it so befell
+  <a name="p05010011">
+   [011]
+  </a>
+  However, after he had tarried a long while, it so befell
  that Iphigenia--such was the girl's name--her slaves still sleeping,
  awoke, and raised her head, and opened her eyes, and seeing
  Cimon standing before her, leaning on his staff, was not a little
  surprised, and said:
-    <q direct="unspecified">
-     Cimon, what seekest thou in this wood at
+  <q direct="unspecified">
+   Cimon, what seekest thou in this wood at
  this hour?
-    </q>
-    <milestone id="p05010012"/>
-    For Cimon she knew well, as indeed did almost all the
+  </q>
+  <a name="p05010012">
+   [012]
+  </a>
+  For Cimon she knew well, as indeed did almost all the
  country-side, by reason alike of his uncouth appearance as of the rank
  and wealth of his father. To Iphigenia's question he answered never
  a word; but as soon as her eyes were open, nought could he do but
  intently regard them, for it seemed to him that a soft influence
  emanated from them, which filled his soul with a delight that he had
  never before known.
-    <milestone id="p05010013"/>
-    Which the girl marking began to misdoubt
+  <a name="p05010013">
+   [013]
+  </a>
+  Which the girl marking began to misdoubt
  that by so fixed a scrutiny his boorish temper might be prompted to
  some act that should cause her dishonour: wherefore she roused her
  women, and got up, saying:
-    <q direct="unspecified">
-     Keep thy distance, Cimon, in God's
+  <q direct="unspecified">
+   Keep thy distance, Cimon, in God's
  name.
-    </q>
-    <milestone id="p05010014"/>
-    Whereto Cimon made answer:
-    <q direct="unspecified">
-     I will come with thee.
-    </q>
-    <milestone id="p05010015"/>
-    And, albeit the girl refused his escort, being still in fear of him, she
+  </q>
+  <a name="p05010014">
+   [014]
+  </a>
+  Whereto Cimon made answer:
+  <q direct="unspecified">
+   I will come with thee.
+  </q>
+  <a name="p05010015">
+   [015]
+  </a>
+  And, albeit the girl refused his escort, being still in fear of him, she
  could not get quit of him; but he attended her home; after which
  he hied him straight to his father's house, and announced that he was
  minded on no account to go back to the farm: which intelligence was
  far from welcome to his father and kinsmen; but nevertheless they
  suffered him to stay, and waited to see what might be the reason or
  his change of mind.
-    <milestone id="p05010016"/>
-    So Cimon, whose heart, closed to all teaching,
+  <a name="p05010016">
+   [016]
+  </a>
+  So Cimon, whose heart, closed to all teaching,
  love's shaft, sped by the beauty of Iphigenia, had penetrated, did now
  graduate in wisdom with such celerity as to astonish his father and
  kinsmen, and all that knew him.
-    <milestone id="p05010017"/>
-    He began by requesting his father
+  <a name="p05010017">
+   [017]
+  </a>
+  He began by requesting his father
  to let him go clad in the like apparel, and with, in all respects, the
  like personal equipment as his brothers: which his father very gladly
  did.
-    <milestone id="p05010018"/>
-    Mixing thus with the gallants, and becoming familiar with the
+  <a name="p05010018">
+   [018]
+  </a>
+  Mixing thus with the gallants, and becoming familiar with the
  manners proper to gentlemen, and especially to lovers, he very soon,
  to the exceeding great wonder of all, not only acquired the rudiments
-    <pb n="5"/>
-    of
+  of
  letters, but waxed most eminent among the philosophic wits.
-    <milestone id="p05010019"/>
-    After which (for no other cause than the love he bore to Iphigenia)
+  <a name="p05010019">
+   [019]
+  </a>
+  After which (for no other cause than the love he bore to Iphigenia)
  he not only modulated his gruff and boorish voice to a degree of
  smoothness suitable to urbane life, but made himself accomplished in
  singing and music; in riding also and in all matters belonging to
  war, as well by sea as by land, he waxed most expert and hardy.
-    <milestone id="p05010020"/>
-    And
+  <a name="p05010020">
+   [020]
+  </a>
+  And
  in sum (that I go not about to enumerate each of his virtues in
  detail) he had not completed the fourth year from the day of his
  first becoming enamoured before he was grown the most gallant, and
  courteous, ay, and the most perfect in particular accomplishments, of
  the young cavaliers that were in the island of Cyprus.
-    <milestone id="p05010021"/>
-    What then,
+  <a name="p05010021">
+   [021]
+  </a>
+  What then,
  gracious ladies, are we to say of Cimon? Verily nought else but
  that the high faculties, with which Heaven had endowed his noble
  soul, invidious Fortune had bound with the strongest of cords, and
  circumscribed within a very narrow region of his heart; all which
  cords Love, more potent than Fortune, burst and brake in pieces;
-    <milestone id="p05010022"/>
-    and then with the might, wherewith he awakens dormant powers, he
+  <a name="p05010022">
+   [022]
+  </a>
+  and then with the might, wherewith he awakens dormant powers, he
  brought them forth of the cruel obfuscation, in which they lay, into
  clear light, plainly shewing thereby, whence he may draw, and
  whither he may guide, by his beams the souls that are subject to
  his sway.
-   </p>
-   <p>
-    <milestone id="p05010023"/>
-    Now, albeit by his love for Iphigenia Cimon was betrayed, as
+ </p>
+ <p>
+  <a name="p05010023">
+   [023]
+  </a>
+  Now, albeit by his love for Iphigenia Cimon was betrayed, as
  young lovers very frequently are, into some peccadillos, yet Aristippus,
  reflecting that it had turned him from a booby into a man, not
  only bore patiently with him, but exhorted him with all his heart to
  continue steadfast in his love
-    <milestone id="p05010024"/>
-    And Cimon, who still refused to be
+  <a name="p05010024">
+   [024]
+  </a>
+  And Cimon, who still refused to be
  called Galesus, because 'twas as Cimon that Iphigenia had first
  addressed him, being desirous to accomplish his desire by honourable
  means, did many a time urge his suit upon her father, Cipseus, that
  he would give her him to wife: whereto Cipseus always made the
  same answer, to wit, that he had promised her to Pasimondas, a
  young Rhodian noble, and was not minded to break faith with him.
-    <milestone id="p05010025"/>
-    However, the time appointed for Iphigenia's wedding being come,
+  <a name="p05010025">
+   [025]
+  </a>
+  However, the time appointed for Iphigenia's wedding being come,
  and the bridegroom having sent for her, Cimon said to himself:
  'Tis now for me to shew thee, O Iphigenia, how great is my love
  for thee: 'tis by thee that I am grown a man, nor doubt I, if I
  shall have thee, that I shall wax more glorious than a god, and verily
  thee will I have, or die.
-    <milestone id="p05010026"/>
-    Having so said, he privily enlisted in his
-    <pb n="6"/>
-    cause
+  <a name="p05010026">
+   [026]
+  </a>
+  Having so said, he privily enlisted in his
+  cause
  certain young nobles that were his friends, and secretly fitted
  out a ship with all equipment meet for combat, and put to sea on the
  look-out for the ship that was to bear Iphigenia to Rhodes and her
  husband. And at length, when her father had done lavishing
  honours upon her husband's friends, Iphigenia embarked, and, the
  mariners shaping their course for Rhodes, put to sea.
-    <milestone id="p05010027"/>
-    Cimon was on
+  <a name="p05010027">
+   [027]
+  </a>
+  Cimon was on
  the alert, and overhauled them the very next day, and standing on
  his ship's prow shouted amain to those that were aboard Iphigenia's
  ship:
-    <q direct="unspecified">
-     Bring to; strike sails, or look to be conquered and sunk in
+  <q direct="unspecified">
+   Bring to; strike sails, or look to be conquered and sunk in
  the sea.
-    </q>
-    <milestone id="p05010028"/>
-    Then, seeing that the enemy had gotten their arms above
+  </q>
+  <a name="p05010028">
+   [028]
+  </a>
+  Then, seeing that the enemy had gotten their arms above
  deck, and were making ready to make a fight of it, he followed up his
  words by casting a grapnel upon the poop of the Rhodians, who were
  making great way; and having thus made their poop fast to his prow,
@@ -262,52 +306,65 @@ layout: "single"
  and animated by love, hurled himself, sword in hand, with prodigious
  force among the enemy, and cutting and thrusting right and left,
       slaughtered them like sheep;
-    <milestone id="p05010029"/>
-    insomuch that the Rhodians, marking
+  <a name="p05010029">
+   [029]
+  </a>
+  insomuch that the Rhodians, marking
  the fury of his onset, threw down their arms, and as with one voice
  did all acknowledge themselves his prisoners.
-    <milestone id="p05010030"/>
-    To whom Cimon:
-    <q direct="unspecified">
-     Gallants,
-    </q>
-    quoth he,
-    <q direct="unspecified">
-     'twas neither lust of booty nor enmity to
+  <a name="p05010030">
+   [030]
+  </a>
+  To whom Cimon:
+  <q direct="unspecified">
+   Gallants,
+  </q>
+  quoth he,
+  <q direct="unspecified">
+   'twas neither lust of booty nor enmity to
  you that caused me to put out from Cyprus to attack you here with
  force of arms on the high seas.
-     <milestone id="p05010031"/>
-     Moved was I thereto by that which
+   <a name="p05010031">
+    [031]
+   </a>
+   Moved was I thereto by that which
  to gain is to me a matter great indeed, which peaceably to yield me
  is to you but a slight matter; for 'tis even Iphigenia, whom more
  than aught else I love; whom, as I might not have her of her father
  in peaceable and friendly sort, Love has constrained me to take from
  you in this high-handed fashion and by force of arms;
-     <milestone id="p05010032"/>
-     to whom I
+   <a name="p05010032">
+    [032]
+   </a>
+   to whom I
  mean to be even such as would have been your Pasimondas: wherefore
  give her to me, and go your way, and God's grace go with
  you.
-    </q>
-   </p>
-   <p>
-    <milestone id="p05010033"/>
-    Yielding rather to force than prompted by generosity, the Rhodians
+  </q>
+ </p>
+ <p>
+  <a name="p05010033">
+   [033]
+  </a>
+  Yielding rather to force than prompted by generosity, the Rhodians
  surrendered Iphigenia, all tears, to Cimon; who, marking her tears,
  said to her:
-    <q direct="unspecified">
-     Grieve not, noble lady; thy Cimon am I, who, by my
+  <q direct="unspecified">
+   Grieve not, noble lady; thy Cimon am I, who, by my
  long love, have established a far better right to thee than Pasimondas
  by the faith that was plighted to him.
-    </q>
-    <milestone id="p05010034"/>
-    So saying, he sent her aboard
+  </q>
+  <a name="p05010034">
+   [034]
+  </a>
+  So saying, he sent her aboard
  his ship, whither he followed her, touching nought that belonged to
  the Rhodians, and suffering them to go their way.
-    <milestone id="p05010035"/>
-    To have gotten
-    <pb n="7"/>
-    so
+  <a name="p05010035">
+   [035]
+  </a>
+  To have gotten
+  so
  dear a prize made him the happiest man in the world, but for a
  time 'twas all he could do to assuage her grief: then, after taking
  counsel with his comrades, he deemed it best not to return to Cyprus
@@ -315,13 +372,17 @@ layout: "single"
  for Crete, where most of them, and especially Cimon, had alliances
  of old or recent date, and friends not a few, whereby they deemed
  that there they might tarry with Iphigenia in security.
-    <milestone id="p05010036"/>
-    But Fortune,
+  <a name="p05010036">
+   [036]
+  </a>
+  But Fortune,
  that had accorded Cimon so gladsome a capture of the lady, suddenly
  proved fickle, and converted the boundless joy of the enamoured
  gallant into woeful and bitter lamentation.
-    <milestone id="p05010037"/>
-    'Twas not yet full four
+  <a name="p05010037">
+   [037]
+  </a>
+  'Twas not yet full four
  hours since Cimon had parted from the Rhodians, when with the
  approach of night, that night from which Cimon hoped such joyance
  as he had never known, came weather most turbulent and tempestuous,
@@ -329,13 +390,17 @@ layout: "single"
  blasts; whereby 'twas not possible for any to see how the ship was
  to be worked or steered, or to steady himself so as to do any duty upon
  her deck.
-    <milestone id="p05010038"/>
-    Whereat what grief was Cimon's, it boots not to ask.
+  <a name="p05010038">
+   [038]
+  </a>
+  Whereat what grief was Cimon's, it boots not to ask.
  Indeed it seemed to him that the gods had granted his heart's desire
  only that it might be harder for him to die, which had else been to
  him but a light matter.
-    <milestone id="p05010039"/>
-    Not less downcast were his comrades; but
+  <a name="p05010039">
+   [039]
+  </a>
+  Not less downcast were his comrades; but
  most of all Iphigenia, who, weeping bitterly and shuddering at every
  wave that struck the ship, did cruelly curse Cimon's love and censure
  his rashness, averring that this tempest was come upon them for no
@@ -343,44 +408,55 @@ layout: "single"
  of their will that he purposed to espouse her, he should be frustrate of
  his presumptuous intent, and having lived to see her expire, should
  then himself meet a woeful death.
-   </p>
-   <p>
-    <milestone id="p05010040"/>
-    While thus and yet more bitterly they bewailed them, and the
+ </p>
+ <p>
+  <a name="p05010040">
+   [040]
+  </a>
+  While thus and yet more bitterly they bewailed them, and the
  mariners were at their wits' end, as the gale grew hourly more violent,
  nor knew they, nor might conjecture, whither they went, they drew
  nigh the island of Rhodes, albeit that Rhodes it was they wist not,
  and set themselves, as best and most skilfully they might, to run the
  ship aground.
-    <milestone id="p05010041"/>
-    In which enterprise Fortune favoured them, bringing
+  <a name="p05010041">
+   [041]
+  </a>
+  In which enterprise Fortune favoured them, bringing
  them into a little bay, where, shortly before them, was arrived the
  Rhodian ship that Cimon had let go. Nor were they sooner ware
  that 'twas Rhodes they had made, than day broke, and, the sky thus
  brightening a little, they saw that they were about a bow-shot from
  the ship that they had released on the preceding day.
-    <milestone id="p05010042"/>
-    Whereupon
-    <pb n="8"/>
-    Cimon,
+  <a name="p05010042">
+   [042]
+  </a>
+  Whereupon
+  Cimon,
  vexed beyond measure, being apprehensive of that which in
  fact befell them, bade make every effort to win out of the bay, and
  let Fortune carry them whither she would, for nowhere might they be
  in worse plight than there.
-    <milestone id="p05010043"/>
-    So might and main they strove to bring
+  <a name="p05010043">
+   [043]
+  </a>
+  So might and main they strove to bring
  the ship out, but all in vain: the violence of the gale thwarted them
  to such purpose as not only to preclude their passage out of the bay but
  to drive them, willing nilling, ashore.
-    <milestone id="p05010044"/>
-    Whither no sooner were they
+  <a name="p05010044">
+   [044]
+  </a>
+  Whither no sooner were they
  come, than they were recognized by the Rhodian mariners, who were
  already landed. Of whom one ran with all speed to a farm hard by,
  whither the Rhodian gallants were gone, and told them that Fortune
  had brought Cimon and Iphigenia aboard their ship into the same
  bay to which she had guided them.
-    <milestone id="p05010045"/>
-    Whereat the gallants were overjoyed,
+  <a name="p05010045">
+   [045]
+  </a>
+  Whereat the gallants were overjoyed,
  and taking with them not a few of the farm-servants, hied
  them in hot haste to the shore, where, Cimon and his men being
  already landed with intent to take refuge in a neighbouring wood,
@@ -391,39 +467,48 @@ layout: "single"
  magistrate of the Rhodians for that year, who came down from the
  city for the purpose with an exceeding great company of men at
  arms.
-    <milestone id="p05010046"/>
-    On such wise did our hapless and enamoured Cimon lose his
+  <a name="p05010046">
+   [046]
+  </a>
+  On such wise did our hapless and enamoured Cimon lose his
  so lately won Iphigenia before he had had of her more than a kiss
  or two.
-    <milestone id="p05010047"/>
-    Iphigenia was entertained and comforted of the annoy,
+  <a name="p05010047">
+   [047]
+  </a>
+  Iphigenia was entertained and comforted of the annoy,
  occasioned as well by her recent capture as by the fury of the sea, by
  not a few noble ladies of Rhodes, with whom she tarried until the
  day appointed for her marriage.
-    <milestone id="p05010048"/>
-    In recompense of the release of the
+  <a name="p05010048">
+   [048]
+  </a>
+  In recompense of the release of the
  Rhodian gallants on the preceding day the lives of Cimon and his
  men were spared, notwithstanding that Pasimondas pressed might
  and main for their execution; and instead they were condemned to
  perpetual imprisonment: wherein, as may be supposed, they abode in
  dolorous plight, and despaired of ever again knowing happiness.
-   </p>
-   <p>
-    However, it so befell that, Pasimondas accelerating his nuptials to
+ </p>
+ <p>
+  However, it so befell that, Pasimondas accelerating his nuptials to
  the best of his power,
-    <milestone id="p05010049"/>
-    Fortune, as if repenting her that in her haste
+  <a name="p05010049">
+   [049]
+  </a>
+  Fortune, as if repenting her that in her haste
  she had done Cimon so evil a turn, did now by a fresh disposition of
  events compass his deliverance. Pasimondas had a brother, by name
  Hormisdas, his equal in all respects save in years, who had long
  been contract to marry Cassandra, a fair and noble damsel of
-    <pb n="9"/>
-    Rhodes,
+  Rhodes,
  of whom Lysimachus was in the last degree enamoured;
  but owing to divers accidents the marriage had been from time to
  time put off.
-    <milestone id="p05010050"/>
-    Now Pasimondas, being about to celebrate his nuptials
+  <a name="p05010050">
+   [050]
+  </a>
+  Now Pasimondas, being about to celebrate his nuptials
  with exceeding great pomp, bethought him that he could not do
  better than, to avoid a repetition of the pomp and expense, arrange, if
  so he might, that his brother should be wedded on the same day
@@ -431,40 +516,52 @@ layout: "single"
  and come to an understanding with them, he and his brother and
  they conferred together, and agreed that on the same day that
  Pasimondas married Iphigenia, Hormisdas should marry Cassandra.
-    <milestone id="p05010051"/>
-    Lysimachus, getting wind of this arrangement, was mortified beyond
+  <a name="p05010051">
+   [051]
+  </a>
+  Lysimachus, getting wind of this arrangement, was mortified beyond
  measure, seeing himself thereby deprived of the hope which he cherished
  of marrying Cassandra himself, if Hormisdas should not forestall
  him.
-    <milestone id="p05010052"/>
-    But like a wise man he concealed his chagrin, and cast about
+  <a name="p05010052">
+   [052]
+  </a>
+  But like a wise man he concealed his chagrin, and cast about
  how he might frustrate the arrangement: to which end he saw no
  other possible means but to carry Cassandra off.
-    <milestone id="p05010053"/>
-    It did not escape
+  <a name="p05010053">
+   [053]
+  </a>
+  It did not escape
  him that the office which he held would render this easily feasible,
  but he deemed it all the more dishonourable than if he had not held
  the office; but, in short, after much pondering, honour yielded place
  to love, and he made up his mind that, come what might, he would
  carry Cassandra off.
-    <milestone id="p05010054"/>
-    Then, as he took thought what company he
+  <a name="p05010054">
+   [054]
+  </a>
+  Then, as he took thought what company he
  should take with him, and how he should go about the affair, he
  remembered Cimon, whom he had in prison with his men, and it
  occurred to him that he could not possibly have a better or more trusty
  associate in such an enterprise than Cimon.
-    <milestone id="p05010055"/>
-    Wherefore the same night
+  <a name="p05010055">
+   [055]
+  </a>
+  Wherefore the same night
  he caused Cimon to be brought privily to him in his own room, and
  thus addressed him:
-    <q direct="unspecified">
-     Cimon, as the gods are most generous and
+  <q direct="unspecified">
+   Cimon, as the gods are most generous and
  liberal to bestow their gifts on men, so are they also most sagacious
  to try their virtue; and those whom they find to be firm and steadfast
  in all circumstances they honour, as the most worthy, with the
  highest rewards.
-     <milestone id="p05010056"/>
-     They have been minded to be certified of thy
+   <a name="p05010056">
+    [056]
+   </a>
+   They have been minded to be certified of thy
  worth by better proofs than thou couldst afford them, as long as thy
  life was bounded by thy father's house amid the superabundant wealth
  which I know him to possess: wherefore in the first place they so
@@ -472,18 +569,21 @@ layout: "single"
  insensate brute, as I have heard, thou grewest to be a man; since
  when, it has been and is their intent to try whether evil fortune and
  harsh imprisonment may avail to change thee from the temper that
-     <pb n="10"/>
-     was
+   was
  thine when for a short while thou hadst joyance of the prize
  thou hadst won.
-     <milestone id="p05010057"/>
-     And so thou prove the same that thou wast then,
+   <a name="p05010057">
+    [057]
+   </a>
+   And so thou prove the same that thou wast then,
  they have in store for thee a boon incomparably greater than aught
  that they vouchsafed thee before: what that boon is, to the end thou
  mayst recover heart and thy wonted energies, I will now explain to
  thee.
-     <milestone id="p05010058"/>
-     Pasimondas, exultant in thy misfortune and eager to compass thy
+   <a name="p05010058">
+    [058]
+   </a>
+   Pasimondas, exultant in thy misfortune and eager to compass thy
  death, hastens to the best of his power his nuptials with thy Iphigenia;
  that so he may enjoy the prize that Fortune, erstwhile smiling, gave
  thee, and forthwith, frowning, reft from thee. Whereat how sore
@@ -491,8 +591,10 @@ layout: "single"
  case, seeing that his brother Hormisdas addresses himself to do me on
  the same day a like wrong in regard of Cassandra, whom I love more
  than aught else in the world.
-     <milestone id="p05010059"/>
-     Nor see I that Fortune has left us
+   <a name="p05010059">
+    [059]
+   </a>
+   Nor see I that Fortune has left us
  any way of escape from this her unjust and cruel spite, save what we
  may make for ourselves by a resolved spirit and the might of our
  right hands: take we then the sword, and therewith make we, each,
@@ -500,86 +602,107 @@ layout: "single"
  value the recovery, I say not of thy liberty, for without thy lady I doubt
  thou wouldst hold it cheap, but of thy lady, the gods have placed it in
  thine own hands, if thou art but minded to join me in my enterprise.
-    </q>
-   </p>
-   <p>
-    <milestone id="p05010060"/>
-    These words restored to Cimon all that he had lost of heart and
+  </q>
+ </p>
+ <p>
+  <a name="p05010060">
+   [060]
+  </a>
+  These words restored to Cimon all that he had lost of heart and
  hope, nor pondered he long, before he replied:
-    <q direct="unspecified">
-     Lysimachus, comrade
+  <q direct="unspecified">
+   Lysimachus, comrade
  stouter or more staunch than I thou mightst not have in such
  an enterprise, if such indeed it be as thou sayst: wherefore lay upon
  me such behest as thou shalt deem meet, and thou shalt marvel to
  witness the vigour of my performance.
-    </q>
-    <milestone id="p05010061"/>
-    Whereupon Lysimachus:
-    <q direct="unspecified">
-     On the third day from now,
-    </q>
-    quoth he,
-    <q direct="unspecified">
-     their husbands' houses
+  </q>
+  <a name="p05010061">
+   [061]
+  </a>
+  Whereupon Lysimachus:
+  <q direct="unspecified">
+   On the third day from now,
+  </q>
+  quoth he,
+  <q direct="unspecified">
+   their husbands' houses
  will be newly entered by the brides, and on the same day at even we
  too will enter them in arms, thou with thy men, and I with some of
  mine, in whom I place great trust, and forcing our way among the
  guests and slaughtering all that dare to oppose us, will bear the ladies
  off to a ship which I have had privily got ready.
-    </q>
-    <milestone id="p05010062"/>
-    Cimon approved
+  </q>
+  <a name="p05010062">
+   [062]
+  </a>
+  Cimon approved
  the plan, and kept quiet in prison until the appointed time;
-    <milestone id="p05010063"/>
-    which being come, the nuptials were celebrated with great pomp and
+  <a name="p05010063">
+   [063]
+  </a>
+  which being come, the nuptials were celebrated with great pomp and
  magnificence, that filled the houses of the two brothers with festal
  cheer.
-    <milestone id="p05010064"/>
-    Then Lysimachus having made ready all things meet, and fired
+  <a name="p05010064">
+   [064]
+  </a>
+  Then Lysimachus having made ready all things meet, and fired
  Cimon and his men and his own friends for the enterprise by a long
  harangue, disposed them in due time, all bearing arms under their
-    <pb n="11"/>
-    cloaks,
+  cloaks,
  in three companies; and having privily despatched one company
  to the port, that, when the time should come to embark, he might
  meet with no let, he marched with the other two companies to the
  house of Pasimondas, posted the one company at the gate, that, being
  entered, they might not be shut in or debarred their egress, and, with
  the other company and Cimon, ascended the stairs,
-    <milestone id="p05010065"/>
-    and gained the
+  <a name="p05010065">
+   [065]
+  </a>
+  and gained the
  saloon, where the brides and not a few other ladies were set at several
  tables to sup in meet order: whereupon in they rushed, and overthrew
  the tables and seized each his own lady, and placed them in
  charge of their men, whom they bade bear them off forthwith to the
  ship that lay ready to receive them.
-    <milestone id="p05010066"/>
-    Whereupon the brides and the
+  <a name="p05010066">
+   [066]
+  </a>
+  Whereupon the brides and the
  other ladies and the servants with one accord fell a sobbing and
  shrieking, insomuch that a confused din and lamentation filled the
  whole place.
-    <milestone id="p05010067"/>
-    Cimon, Lysimachus and their band, none withstanding,
+  <a name="p05010067">
+   [067]
+  </a>
+  Cimon, Lysimachus and their band, none withstanding,
  but all giving way before them, gained the stairs, which they were
  already descending when they encountered Pasimondas, who, carrying
  a great staff in his hand, was making in the direction of the noise;
  but one doughty stroke of Cimon's sword sufficed to cleave his skull
  in twain, and lay him dead at Cimon's feet,
-    <milestone id="p05010068"/>
-    and another stroke
+  <a name="p05010068">
+   [068]
+  </a>
+  and another stroke
  disposed of hapless Hormisdas, as he came running to his brother's
  aid. Some others who ventured to approach them were wounded
  and beaten off by the retinue.
-    <milestone id="p05010069"/>
-    So forth of the house, that reeked
+  <a name="p05010069">
+   [069]
+  </a>
+  So forth of the house, that reeked
  with blood and resounded with tumult and lamentation and woe,
  sped Simon and Lysimachus with all their company, and without any
  let, in close order, with their fair booty in their midst, made good
  their retreat to the ship; whereon with the ladies they one and all
  embarked, for the shore was now full of armed men come to rescue
  the ladies, and, the oarsmen giving way, put to sea elate.
-    <milestone id="p05010070"/>
-    Arrived at
+  <a name="p05010070">
+   [070]
+  </a>
+  Arrived at
  Crete, they met with a hearty welcome on the part of their many
  friends and kinsfolk; and, having married their ladies, they made
  greatly merry, and had gladsome joyance of their fair booty. Their
@@ -590,7 +713,5 @@ layout: "single"
  Iphigenia to Cyprus, and in like manner Lysimachus returned with
  Cassandra to Rhodes; and long and blithely thereafter lived they,
  each well contented with his own wife in his own land.
-   </p>
-  </div>
- </body>
-</html>
+ </p>
+</div>

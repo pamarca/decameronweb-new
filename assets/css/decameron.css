@@ -7,14 +7,6 @@ div {
   font-family: Garamond;
 }
 
-div1 {
-  display: block;
-}
-
-div2 {
-  display: block;
-  font-family: Garamond;
-}
 
 div3 {
   display: block;
@@ -36,17 +28,22 @@ argument {
   font-size: 90%;
 }
 
-milestone::before {
-  content: "[" attr(id) "] ";
+header {
+  display: none;
+}
+
+a {
+  font-size: 90%;
   font-style: normal;
-  font-size: 70%;
   color: green;
 }
 
-name[type='person'] {
-  color: blue;
+h1 {
+  font-size: 130%;
 }
 
-header {
-  display: none;
+h2 {
+  font-size: 90%;
+  font-weight: bold;
+  text-transform: uppercase;
 }

@@ -3,648 +3,742 @@ title: "Novella Ottava"
 day: "itnov0708"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0708" type="novella" who="neifile">
-   <head>
-    Novella Ottava
-   </head>
-   <p>
-    <h3>
-     [Voice: neifile]
-    </h3>
-   </p>
-   <argument>
-    <p>
-     <milestone id="p07080001"/>
-     Un diviene geloso della moglie, e ella, legandosi uno spago al dito la notte, sente il suo amante venire a lei; il marito se n'accorge, e mentre seguita l'amante la donna mette in luogo di s&eacute; nel letto un'altra femina, la quale il marito batte e tagliale le trecce, e poi va per li fratelli di lei; li quali, trovando ci&ograve; non esser vero, gli dicono villania.
-    </p>
-   </argument>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p07080002"/>
-     Stranamente pareva a tutti
-     <name persref="beatricegalluzzi" type="person">
-      madonna Beatrice
-     </name>
-     essere stata maliziosa in beffare il suo
-     <name persref="eganogalluzzi" type="person">
-      marito
-     </name>
-     , e ciascuno affermava dovere essere stata la paura d'
-     <name persref="lodovico" type="person">
-      Anichino
-     </name>
-     grandissima quando tenuto forte dalla donna l'ud&iacute; dire che egli d'amore l'aveva richesta. Ma poi che
-     <name persref="dioneo" type="person">
-      il re
-     </name>
-     vide
-     <name persref="filomena" type="person">
-      Filomena
-     </name>
-     tacersi, verso
-     <name persref="neifile" type="person">
-      Neifile
-     </name>
-     voltosi disse:
-     <q direct="unspecified" who="dioneo">
-      Dite voi
-     </q>
-     ; la qual, sorridendo prima un poco, cominci&ograve;:
-    </p>
-   </div3>
-   <div3 type="commentary" who="neifile">
-    <p>
-     <milestone id="p07080003"/>
-     Belle donne, gran peso mi resta se io vorr&ograve; con una bella novella contentarvi, come quelle che davanti hanno detto contentate v'hanno; del quale con l'aiuto di Dio io spero assai bene scaricarmi.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p07080004"/>
-    Dovete dunque sapere che nella
-    <name placeref="firenze" type="place">
-     nostra citt&agrave;
-    </name>
-    fu gi&agrave; un ricchissimo mercatante chiamato
-    <name persref="arriguccio" type="person">
-     Arriguccio Berlinghieri
-    </name>
-    , il quale scioccamente, s&iacute; come ancora oggi fanno tutto 'l d&iacute; i mercatanti, pens&ograve; di volere ingentilire per moglie; e prese una giovane gentil donna male a lui convenientesi, il cui nome fu
-    <name persref="sismonda" type="person">
-     monna Sismonda
-    </name>
-    .
-    <milestone id="p07080005"/>
-    La quale, per ci&ograve; che egli, s&iacute; come i mercatanti fanno, andava molto da torno e poco con lei dimorava, s'innamor&ograve; d'un giovane chiamato
-    <name persref="ruberto" type="person">
-     Ruberto
-    </name>
-    , il quale lungamente vagheggiata l'avea.
-    <milestone id="p07080006"/>
-    E avendo presa sua dimestichezza e quella forse men discretamente usando, per ci&ograve; che sommamente le dilettava, avvenne, o che
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    alcuna cosa ne sentisse o come che s'andasse, egli ne divent&ograve; il pi&uacute; geloso uomo del mondo e lascionne stare l'andar da torno e ogn'altro suo fatto e quasi tutta la suo sollicitudine aveva posta in guardar ben costei, n&eacute; mai adormentato si sarebbe se lei primieramente non avesse sentita entrar nel letto: per la qual cosa
-    <name persref="sismonda" type="person">
-     la donna
-    </name>
-    sentiva gravissimo dolore, per ci&ograve; che in guisa niuna col suo
-    <name persref="ruberto" type="person">
-     Ruberto
-    </name>
-    esser poteva.
-   </p>
-   <p>
-    <milestone id="p07080007"/>
-    Or pure, avendo molti pensieri avuti a dover trovare alcun modo d'esser con essolui e molto ancora da lui essendone sollicitata, le venne pensato di tener questa maniera: che, con ci&ograve; fosse cosa che la sua camera fosse lungo la via e ella si fosse molte volte accorta che
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    assai a adormentarsi penasse ma poi dormiva saldissimo, avvis&ograve; di dover far venire
-    <name persref="ruberto" type="person">
-     Ruberto
-    </name>
-    in su la mezzanotte all'uscio della casa e d'andargli a aprire e a starsi alquanto con essolui mentre il marito dormiva forte.
-    <milestone id="p07080008"/>
-    E a fare che
-    <name persref="sismonda" type="person">
-     ella
-    </name>
-    il sentisse quando venuto fosse, in guisa che persona non se ne accorgesse, divis&ograve; di mandare uno spaghetto fuori della finestra della camera, il quale con l'un de' capi vicino alla terra aggiugnesse, e l'altro capo mandatol basso infin sopra 'l palco e conducendolo al letto suo, quello sotto i panni mettere, e quando essa nel letto fosse, legallosi al dito grosso del piede;
-    <milestone id="p07080009"/>
-    e appresso mandato questo a dire a
-    <name persref="ruberto" type="person">
-     Ruberto
-    </name>
-    , gl'impose che, quando venisse, dovesse lo spago tirare, e ella, se il marito dormisse, il lascerebbe andare e andrebbegli ad aprire; e se egli non dormisse, ella il terrebbe fermo e tirerebbelo a s&eacute;, acci&ograve; che egli non aspettasse.
-    <milestone id="p07080010"/>
-    La qual cosa piacque a
-    <name persref="ruberto" type="person">
-     Ruberto
-    </name>
-    : e assai volte andatovi, alcuna gli venne fatto d'esser con lei e alcuna no.
-   </p>
-   <p>
-    <milestone id="p07080011"/>
-    Ultimamente, continuando costoro questo artificio cos&iacute; fatto, avvenne una notte che, dormendo
-    <name persref="sismonda" type="person">
-     la donna
-    </name>
-    e
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    stendendo il pi&egrave; per lo letto, gli venne questo spago trovato; per che, postavi la mano e trovatolo al dito della
-    <name persref="sismonda" type="person">
-     donna
-    </name>
-    legato, disse seco stesso:
-    <q direct="unspecified" who="arriguccio">
-     Questo dee essere qualche inganno
-    </q>
-    .
-    <milestone id="p07080012"/>
-    E avvedutosi poi che lo spago usciva fuori per la finestra, l'ebbe per fermo: per che, pianamente tagliatolo dal dito della
-    <name persref="sismonda" type="person">
-     donna
-    </name>
-    , al suo il leg&ograve; e stette attento per vedere quel che questo volesse dire.
-    <milestone id="p07080013"/>
-    N&eacute; stette guari che
-    <name persref="ruberto" type="person">
-     Ruberto
-    </name>
-    venne e tirato lo spago, come usato era,
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    si sent&iacute;; e non avendoselo ben saputo legare, e
-    <name persref="ruberto" type="person">
-     Ruberto
-    </name>
-    , avendo tirato forte e essendogli lo spago in man venuto, intese di doversi aspettare; e cos&iacute; fece.
-   </p>
-   <p>
-    <milestone id="p07080014"/>
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    , levatosi prestamente e prese sue armi, corse all'uscio per dover vedere chi fosse costui e per fargli male. Ora era
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    , con tutto che fosse mercatante, un fiero uomo e un forte; e giunto all'uscio e non aprendolo soavemente come soleva far
-    <name persref="sismonda" type="person">
-     la donna
-    </name>
-    , e
-    <name persref="ruberto" type="person">
-     Ruberto
-    </name>
-    che aspettava, sentendolo, s'avvis&ograve; esser ci&ograve; che era, cio&egrave; che colui che l'uscio apriva fosse
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    : per che prestamente cominci&ograve; a fuggire, e
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    a seguitarlo.
-    <milestone id="p07080015"/>
-    Ultimamente, avendo
-    <name persref="ruberto" type="person">
-     Ruberto
-    </name>
-    un gran pezzo fuggito e
-    <name persref="arriguccio" type="person">
-     colui
-    </name>
-    non cessando di seguitarlo, essendo altress&iacute;
-    <name persref="ruberto" type="person">
-     Ruberto
-    </name>
-    armato, tir&ograve; fuori la spada e rivolsesi, e incominciarono l'uno a volere offendere e l'altro a difendersi.
-   </p>
-   <p>
-    <milestone id="p07080016"/>
-    <name persref="sismonda" type="person">
-     La donna
-    </name>
-    , come
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    apr&iacute; la camera svegliatasi e trovatosi tagliato lo spago dal dito, incontanente s'accorse che il suo inganno era scoperto: e sentendo
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    esser corso dietro a
-    <name persref="ruberto" type="person">
-     Ruberto
-    </name>
-    , prestamente levatasi, avvisandosi ci&ograve; che doveva potere avvenire, chiam&ograve;
-    <name persref="fante-0708" type="person">
-     la fante
-    </name>
-    sua, la quale ogni cosa sapeva, e tanto la predic&ograve;, che ella in persona di s&eacute; nel suo letto la mise, pregandola che senza farsi conoscere quelle busse pazientemente ricevesse che
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    le desse, per ci&ograve; che ella ne le renderebbe s&iacute; fatto merito, che ella non avrebbe cagione donde dolersi.
-    <milestone id="p07080017"/>
-    E spento il lume che nella camera ardeva, di quella s'usc&iacute; e nascosa in una parte della casa cominci&ograve; a aspettare quello che dovesse avvenire.
-   </p>
-   <p>
-    <milestone id="p07080018"/>
-    Essendo tra
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    e
-    <name persref="ruberto" type="person">
-     Ruberto
-    </name>
-    la zuffa, i vicini della contrada sentendola e levatisi cominciarono loro a dir male, e
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    , per tema di non esser conosciuto, senza aver potuto sapere chi il giovane si fosse o d'alcuna cosa offenderlo, adirato e di mal talento, lasciatolo stare, se ne torn&ograve; verso la casa sua; e pervenuto nella camera adiratamente cominci&ograve; a dire:
-    <q direct="unspecified" who="arriguccio">
-     Ove se' tu, rea
-     <name persref="sismonda" type="person">
-      femina
-     </name>
-     ? Tu hai spento il lume perch&eacute; io non ti truovi, ma tu l'hai fallita!
-    </q>
-    <milestone id="p07080019"/>
-    E andatosene al letto, credendosi
-    <name persref="sismonda" type="person">
-     la moglie
-    </name>
-    pigliare, prese
-    <name persref="fante-0708" type="person">
-     la fante
-    </name>
-    , e quanto egli pot&eacute; menare le mani e' piedi tante pugna e tanti calci le diede, tanto che tutto il viso l'ammacc&ograve;; e ultimamente le tagli&ograve; i capegli, sempre dicendole la maggior villania che mai a cattiva femina si dicesse.
-   </p>
-   <p>
-    <milestone id="p07080020"/>
-    <name persref="fante-0708" type="person">
-     La fante
-    </name>
-    piagneva forte, come colei che aveva di che; e ancora che ella alcuna volta dicesse
-    <q direct="unspecified" who="fante-0708">
-     Oim&egrave;! merc&eacute; per Dio!
-    </q>
-    , o
-    <q direct="unspecified" who="fante-0708">
-     Non pi&uacute;!
-    </q>
-    , era s&iacute; la voce dal pianto rotta e
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    impedito dal suo furore, che discerner non poteva pi&uacute; quella esser d'un'altra femina che della
-    <name persref="sismonda" type="person">
-     moglie
-    </name>
-    .
-    <milestone id="p07080021"/>
-    Battutala adunque di santa ragione e tagliatile i capelli, come dicemmo, disse:
-    <q direct="unspecified" who="arriguccio">
-     Malvagia
-     <name persref="sismonda" type="person">
-      femina
-     </name>
-     , io non intendo di toccarti altramenti, ma io andr&ograve; per li tuoi fratelli e dir&ograve; loro le tue buone opere, e appresso che essi vengan per te e faccianne quello che essi credono che loro onor fia e menintene: ch&eacute; per certo in questa casa non starai tu mai pi&uacute;
-    </q>
-    . E cos&iacute; detto, uscito della camera, la serr&ograve; di fuori e and&ograve; tutto sol via.
-   </p>
-   <p>
-    <milestone id="p07080022"/>
-    Come
-    <name persref="sismonda" type="person">
-     monna Sismonda
-    </name>
-    , che ogni cosa udita aveva, sent&iacute; il marito essere andato via, cos&iacute;, aperta la camera e racceso il lume, trov&ograve;
-    <name persref="fante-0708" type="person">
-     la fante
-    </name>
-    sua tutta pesta che piangeva forte; la quale come pot&eacute; il meglio racconsol&ograve; e nella camera di lei la rimise, dove poi chetamente fattala servire e governare, s&iacute; di quello d'
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    medesimo la sovvenne, che ella si chiam&ograve; per contenta.
-    <milestone id="p07080023"/>
-    E come la fante nella sua camera rimessa ebbe, cos&iacute; prestamente il letto della sua rifece e quella tutta racconci&ograve; e rimise in ordine, come se quella notte niuna persona giaciuta vi fosse, e raccese la lampana e s&eacute; rivest&iacute; e racconci&ograve;, come se ancora a letto non si fosse andata; e accesa una lucerna e presi suoi panni, in capo della scala si pose a sedere, e cominci&ograve; a cucire e a aspettare quello a che il fatto dovesse riuscire.
-   </p>
-   <p>
-    <milestone id="p07080024"/>
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    , uscito di casa sua, quanto pi&uacute; tosto pot&eacute; n'and&ograve; alla casa de' fratelli della moglie, e quivi tanto picchi&ograve;, che fu sentito e fugli aperto.
-    <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
-     Li fratelli
-    </name>
-    della
-    <name persref="sismonda" type="person">
-     donna
-    </name>
-    , che eran tre, e
-    <name persref="madre-0708" type="person">
-     la madre
-    </name>
-    di lei, sentendo che
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    era, tutti si levarono e fatto accendere de' lumi vennero a lui e domandaronlo quello che egli a quella ora e cos&iacute; solo andasse cercando.
-    <milestone id="p07080025"/>
-    A' quali
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    , cominciandosi dallo spago che trovato aveva legato al dito del pi&egrave; di
-    <name persref="sismonda" type="person">
-     monna Sismonda
-    </name>
-    , infino all'ultimo di ci&ograve; che trovato e fatto avea narr&ograve; loro; e per fare loro intera testimonianza di ci&ograve; che fatto avesse, i capelli che alla moglie tagliati aver credeva lor pose in mano, aggiugnendo che per lei venissero e quel ne facessero che essi credessero che al loro onore appartenesse, per ci&ograve; che egli non intendeva di mai pi&uacute; in casa tenerla.
-    <milestone id="p07080026"/>
-    I fratelli della
-    <name persref="sismonda" type="person">
-     donna
-    </name>
-    , crucciati forte di ci&ograve; che udito avevano e per fermo tenendolo, contro a lei innanimati, fatti accender de' torchi, con intenzione di farle un mal giuoco con
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    si misero in via e andaronne a casa sua.
-    <milestone id="p07080027"/>
-    Il che veggendo la madre di loro, piagnendo gl'incominci&ograve; a seguitare or l'uno e or l'altro pregando che non dovessero queste cose cos&iacute; subitamente credere senza vederne altro o saperne, per ci&ograve; che il marito poteva per altra cagione esser crucciato con lei e averle fatto male e ora apporle questo per iscusa di s&eacute;; dicendo ancora che ella si maravigliava forte come ci&ograve; potesse essere avvenuto, per ci&ograve; che ella conosceva ben la sua figliuola, s&iacute; come cole' che infino da piccolina l'aveva allevata, e molte altre parole simiglianti.
-   </p>
-   <p>
-    <milestone id="p07080028"/>
-    Pervenuti adunque a casa d'
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    e entrati dentro, cominciarono a salir le scale; li quali
-    <name persref="sismonda" type="person">
-     monna Sismonda
-    </name>
-    sentendo venir disse:
-    <q direct="unspecified" who="sismonda">
-     Chi &egrave; l&agrave;?
-    </q>
-   </p>
-   <p>
-    <milestone id="p07080029"/>
-    Alla quale l'un de'
-    <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
-     fratelli
-    </name>
-    rispose:
-    <q direct="unspecified" who="fratello1-0708">
-     Tu il saprai bene, rea
-     <name persref="sismonda" type="person">
-      femina
-     </name>
-     , chi &egrave;
-    </q>
-    .
-   </p>
-   <p>
-    <milestone id="p07080030"/>
-    Disse allora
-    <name persref="sismonda" type="person">
-     monna Sismonda
-    </name>
-    :
-    <q direct="unspecified" who="sismonda">
-     Ora che vorr&agrave; dir questo? Domine, aiutaci!
-    </q>
-    e levatasi in pi&egrave; disse:
-    <q direct="unspecified">
-     <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
-      Fratelli
-     </name>
-     miei, voi siate i ben venuti; che andate voi cercando a questa ora quincentro tutti e tre?
-    </q>
-   </p>
-   <p>
-    <milestone id="p07080031"/>
-    Costoro, avendola veduta sedere e cuscire e senza alcuna vista nel viso d'essere stata battuta, dove
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    aveva detto che tutta l'aveva pesta, alquanto nella prima giunta si maravigliarono e rifrenarono l'impeto della loro ira e domandarolla come stato fosse quello di che
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    di
-    <name persref="sismonda" type="person">
-     lei
-    </name>
-    si doleva, minacciandola forte se ogni cosa non dicesse loro.
-   </p>
-   <p>
-    <milestone id="p07080032"/>
-    <name persref="sismonda" type="person">
-     La donna
-    </name>
-    disse:
-    <q direct="unspecified" who="sismonda">
-     Io non so ci&ograve; che io mi vi debba dire, n&eacute; di che
-     <name persref="arriguccio" type="person">
-      Arriguccio
-     </name>
-     di me vi si debba esser doluto
-    </q>
-    .
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    , vedendola, la guatava come smemorato, ricordandosi che egli l'aveva dati forse mille punzoni per lo viso e graffiatogliele e fattole tutti i mali del mondo, e ora la vedeva come se di ci&ograve; niente fosse stato.
-    <milestone id="p07080033"/>
-    In brieve
-    <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
-     i fratelli
-    </name>
-    le dissero ci&ograve; che
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    loro aveva detto e dello spago e delle battiture e di tutto.
-   </p>
-   <p>
-    <milestone id="p07080034"/>
-    <name persref="sismonda" type="person">
-     La donna
-    </name>
-    , rivolta a
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    , disse:
-    <q direct="unspecified" who="sismonda">
-     Ohim&egrave;,
-     <name persref="arriguccio" type="person">
-      marito
-     </name>
-     mio, che &egrave; quel ch'i'odo? Perch&eacute; fai tu tener me rea femina con tua gran vergogna, dove io non sono, e te malvagio uomo e crudele di quello che tu non se'? E quando fost&uacute; questa notte pi&uacute; in questa casa, non che con meco? o quando mi battesti? Io per me non me ne ricordo.
-    </q>
-   </p>
-   <p>
-    <milestone id="p07080035"/>
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    cominci&ograve; a dire:
-    <q direct="unspecified" who="arriguccio">
-     Come, rea
-     <name persref="sismonda" type="person">
-      femina
-     </name>
-     , non ci andammo noi a letto insieme? non ci tornai io, avendo corso dietro all'amante tuo? non ti diedi io dimolte busse e taglia'ti i capelli?
-    </q>
-   </p>
-   <p>
-    <milestone id="p07080036"/>
-    <name persref="sismonda" type="person">
-     La donna
-    </name>
-    rispose:
-    <q direct="unspecified" who="sismonda">
-     In questa casa non ti coricasti
-     <name persref="arriguccio" type="person">
-      tu
-     </name>
-     iersera. Ma lasciamo stare di questo, ch&eacute; non neposso altra testimonianza fare che le mie vere parole, e vegniamo a quello che tu di', che mi battesti e tagliasti i capelli.
-     <milestone id="p07080037"/>
-     Me non battest&uacute; mai, e quanti n'ha qui e tu altress&iacute; mi ponete mente se io ho segno alcuno per tutta la persona di battitura: n&eacute; ti consiglierei che tu fossi tanto ardito, che tu mano addosso mi ponessi, ch&eacute;, alla croce di Dio, io ti sviserei.
-     <milestone id="p07080038"/>
-     N&eacute; i capelli altress&iacute; mi tagliasti, che io sentissi o vedessi; ma forse il facesti che io non me ne avvidi: lasciami vedere se io gli ho tagliati o no
-    </q>
-    . E levatisi suoi veli di testa mostr&ograve; che tagliati non gli avea ma interi.
-   </p>
-   <p>
-    <milestone id="p07080039"/>
-    Le quali cose e vedendo e udendo
-    <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
-     i fratelli
-    </name>
-    e
-    <name persref="madre-0708" type="person">
-     la madre
-    </name>
-    cominciarono verso d'
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    a dire:
-    <q direct="unspecified" who="fratello1-0708 fratello2-0708 fratello3-0708 madre-0708">
-     Che vuoi tu dire,
-     <name persref="arriguccio" type="person">
-      Arriguccio
-     </name>
-     ? Questo non &egrave; gi&agrave; quello che tu ne venisti a dire che avevi fatto: e non sappiam noi come tu ti proverrai il rimanente
-    </q>
-    .
-   </p>
-   <p>
-    <milestone id="p07080040"/>
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    stava come trasognato e voleva pur dire: ma veggendo che quello che egli credeva poter mostrare non era cos&iacute;, non s'attentava di dir nulla.
-   </p>
-   <p>
-    <milestone id="p07080041"/>
-    <name persref="sismonda" type="person">
-     La donna
-    </name>
-    rivolta verso
-    <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
-     i fratelli
-    </name>
-    disse:
-    <q direct="unspecified" who="sismonda">
-     Fratei miei, io veggio che
-     <name persref="arriguccio" type="person">
-      egli
-     </name>
-     &egrave; andato cercando che io faccia quello che io non volli mai fare, cio&egrave; che io vi racconti le miserie e le cattivit&agrave; sue: e io il far&ograve;. Io credo fermamente che ci&ograve; che egli v'ha detto gli sia intervenuto e abbial fatto, e udite come.
-     <milestone id="p07080042"/>
-     Questo valente uomo, al qual voi nella mia mala ora per moglie mi deste, che si chiama mercatante e che vuole esser creduto e che dovrebbe esser pi&uacute; temperato che uno religioso e pi&uacute; onesto che una donzella, son poche sere che egli non si vada inebbriando per le taverne e or con questa cattiva femina e or con quella rimescolando; e a me si fa infino a mezzanotte e talora infino a matutino aspettare nella maniera che mi trovaste.
-     <milestone id="p07080043"/>
-     Son certa che, essendo bene ebbro, si mise a giacere con alcuna sua trista e a lei, destandosi, trov&ograve; lo spago al piede e poi fece tutte quelle sue gagliardie che egli dice, e ultimamente torn&ograve; a lei e battella e tagliolle i capelli; e non essendo ancora ben tornato in s&eacute;, si credette, e son certa che egli crede ancora, queste cose aver fatte a me: e se voi il porrete ben mente nel viso, egli &egrave; ancora mezzo ebbro.
-     <milestone id="p07080044"/>
-     Ma tuttavia, che che egli s'abbia di me detto, io non voglio che voi il vi rechiate se non come da uno ubriaco; e poscia che io gli perdono io, gli perdonate voi altress&iacute;
-    </q>
-    .
-   </p>
-   <p>
-    <milestone id="p07080045"/>
-    <name persref="madre-0708" type="person">
-     La madre
-    </name>
-    di lei, udendo queste parole, cominci&ograve; a fare romore e a dire:
-    <q direct="unspecified" who="madre-0708">
-     Alla croce di Dio,
-     <name persref="sismonda" type="person">
-      figliuola
-     </name>
-     mia, cotesto non si vorrebbe fare, anzi si vorrebbe uccidere questo
-     <name persref="arriguccio" type="person">
-      can
-     </name>
-     fastidioso e sconoscente, ch&eacute; egli non ne fu degno d'avere una figliuola fatta come se' tu. Frate, bene sta! basterebbe se egli t'avesse ricolta del fango!
-     <milestone id="p07080046"/>
-     Col malanno possa egli essere oggimai, se tu dei stare al fracidume delle parole di un mercatantuzzo di feccia d'asino, che venutici di contado e usciti delle troiate vestiti di romagnuolo, con le calze a campanile e colla penna in culo, come egli hanno tre soldi, vogliono lefigliuole de' gentili uomini e delle buone donne per moglie, e fanno arme e dico no:
-     <milestone id="p07080047"/>
-     <q direct="unspecified" type="othervoice">
-      I' son de' cotali
-     </q>
-     e
-     <q direct="unspecified" type="othervoice">
-      quei di casa mia fecer cos&iacute;
-     </q>
-     . Ben vorrei che' miei figliuoli n'avesser seguito il mio consiglio, che ti potevano cos&iacute; orrevolmente acconciare in casa i conti Guidi con un pezzo di pane, e essi vollon pur darti a questa bella gioia, che, dove tu se' la miglior figliuola di
-     <name placeref="firenze" type="place">
-      Firenze
-     </name>
-     e la pi&uacute; onesta, egli non s'&egrave; vergognato di mezzanotte di dir che tu sii puttana, quasi noi non ti conoscessimo. Ma alla fe' di Dio, se me ne fosse creduto, e' se ne gli darebbe s&iacute; fatta gastigatoia che gli putirebbe
-    </q>
-    .
-    <milestone id="p07080048"/>
-    E rivolta a'
-    <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
-     figliuoli
-    </name>
-    disse:
-    <q direct="unspecified" who="madre-0708">
-     Figliuoli miei, io il vi dicea bene che questo non doveva potere essere. Avete voi udito come il buono vostro
-     <name persref="arriguccio" type="person">
-      cognato
-     </name>
-     tratta la
-     <name persref="sismonda" type="person">
-      sirocchia
-     </name>
-     vostra, mercatantuolo di quattro denari che egli &egrave;? Ch&eacute;, se io fossi come voi, avendo detto quello che egli ha di lei e faccendo quello che egli fa, io non mi terrei mai n&eacute; contenta n&eacute; appagata se io nol levassi di terra; e se io fossi uomo come io son femina, io non vorrei che altri ch'io se ne 'mpacciasse. Domine, fallo tristo, ubriaco doloroso che non si vergogna!
-    </q>
-   </p>
-   <p>
-    <milestone id="p07080049"/>
-    <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
-     I giovani
-    </name>
-    , vedute e udite queste cose, rivoltisi a
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    gli dissero la maggior villania che mai a niun cattivo uom si dicesse; e ultimamente dissero:
-    <q direct="unspecified" who="fratello1-0708 fratello2-0708 fratello3-0708">
-     Noi ti perdoniam questa s&iacute; come a ebbro, ma guarda che per la vita tua da quinci innanzi simili novelle noi non sentiamo pi&uacute;, ch&eacute; per certo, se pi&uacute; nulla ce ne viene agli orecchi, noi ti pagheremo di questa e di quella
-    </q>
-    ; e cos&iacute; detto se n'andarono.
-   </p>
-   <p>
-    <milestone id="p07080050"/>
-    <name persref="arriguccio" type="person">
-     Arriguccio
-    </name>
-    , rimaso come uno smemorato, seco stesso non sappiendo se quello che fatto avea era stato vero o se egli aveva sognato, senza pi&uacute; farne parola lasci&ograve; la moglie in pace; la qual non solamente con la sua sagacit&agrave; fugg&iacute; il pericolo soprastante ma s'aperse la via a poter fare nel tempo avvenire ogni suo piacere, senza paura alcuna pi&uacute; aver del
-    <name persref="arriguccio" type="person">
-     marito
-    </name>
-    .
-   </p>
-  </div>
- </body>
-</html>
+<div id="nov0708" type="novella" who="neifile">
+ <h1>
+  Novella Ottava
+ </h1>
+ <p>
+  <h3>
+   [Voice: neifile]
+  </h3>
+ </p>
+ <argument>
+  <p>
+   <a name="p07080001">
+    [001]
+   </a>
+   Un diviene geloso della moglie, e ella, legandosi uno spago al dito la notte, sente il suo amante venire a lei; il marito se n'accorge, e mentre seguita l'amante la donna mette in luogo di s&eacute; nel letto un'altra femina, la quale il marito batte e tagliale le trecce, e poi va per li fratelli di lei; li quali, trovando ci&ograve; non esser vero, gli dicono villania.
+  </p>
+ </argument>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p07080002">
+    [002]
+   </a>
+   Stranamente pareva a tutti
+   <name persref="beatricegalluzzi" type="person">
+    madonna Beatrice
+   </name>
+   essere stata maliziosa in beffare il suo
+   <name persref="eganogalluzzi" type="person">
+    marito
+   </name>
+   , e ciascuno affermava dovere essere stata la paura d'
+   <name persref="lodovico" type="person">
+    Anichino
+   </name>
+   grandissima quando tenuto forte dalla donna l'ud&iacute; dire che egli d'amore l'aveva richesta. Ma poi che
+   <name persref="dioneo" type="person">
+    il re
+   </name>
+   vide
+   <name persref="filomena" type="person">
+    Filomena
+   </name>
+   tacersi, verso
+   <name persref="neifile" type="person">
+    Neifile
+   </name>
+   voltosi disse:
+   <q direct="unspecified" who="dioneo">
+    Dite voi
+   </q>
+   ; la qual, sorridendo prima un poco, cominci&ograve;:
+  </p>
+ </div3>
+ <div3 type="commentary" who="neifile">
+  <p>
+   <a name="p07080003">
+    [003]
+   </a>
+   Belle donne, gran peso mi resta se io vorr&ograve; con una bella novella contentarvi, come quelle che davanti hanno detto contentate v'hanno; del quale con l'aiuto di Dio io spero assai bene scaricarmi.
+  </p>
+ </div3>
+ <p>
+  <a name="p07080004">
+   [004]
+  </a>
+  Dovete dunque sapere che nella
+  <name placeref="firenze" type="place">
+   nostra citt&agrave;
+  </name>
+  fu gi&agrave; un ricchissimo mercatante chiamato
+  <name persref="arriguccio" type="person">
+   Arriguccio Berlinghieri
+  </name>
+  , il quale scioccamente, s&iacute; come ancora oggi fanno tutto 'l d&iacute; i mercatanti, pens&ograve; di volere ingentilire per moglie; e prese una giovane gentil donna male a lui convenientesi, il cui nome fu
+  <name persref="sismonda" type="person">
+   monna Sismonda
+  </name>
+  .
+  <a name="p07080005">
+   [005]
+  </a>
+  La quale, per ci&ograve; che egli, s&iacute; come i mercatanti fanno, andava molto da torno e poco con lei dimorava, s'innamor&ograve; d'un giovane chiamato
+  <name persref="ruberto" type="person">
+   Ruberto
+  </name>
+  , il quale lungamente vagheggiata l'avea.
+  <a name="p07080006">
+   [006]
+  </a>
+  E avendo presa sua dimestichezza e quella forse men discretamente usando, per ci&ograve; che sommamente le dilettava, avvenne, o che
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  alcuna cosa ne sentisse o come che s'andasse, egli ne divent&ograve; il pi&uacute; geloso uomo del mondo e lascionne stare l'andar da torno e ogn'altro suo fatto e quasi tutta la suo sollicitudine aveva posta in guardar ben costei, n&eacute; mai adormentato si sarebbe se lei primieramente non avesse sentita entrar nel letto: per la qual cosa
+  <name persref="sismonda" type="person">
+   la donna
+  </name>
+  sentiva gravissimo dolore, per ci&ograve; che in guisa niuna col suo
+  <name persref="ruberto" type="person">
+   Ruberto
+  </name>
+  esser poteva.
+ </p>
+ <p>
+  <a name="p07080007">
+   [007]
+  </a>
+  Or pure, avendo molti pensieri avuti a dover trovare alcun modo d'esser con essolui e molto ancora da lui essendone sollicitata, le venne pensato di tener questa maniera: che, con ci&ograve; fosse cosa che la sua camera fosse lungo la via e ella si fosse molte volte accorta che
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  assai a adormentarsi penasse ma poi dormiva saldissimo, avvis&ograve; di dover far venire
+  <name persref="ruberto" type="person">
+   Ruberto
+  </name>
+  in su la mezzanotte all'uscio della casa e d'andargli a aprire e a starsi alquanto con essolui mentre il marito dormiva forte.
+  <a name="p07080008">
+   [008]
+  </a>
+  E a fare che
+  <name persref="sismonda" type="person">
+   ella
+  </name>
+  il sentisse quando venuto fosse, in guisa che persona non se ne accorgesse, divis&ograve; di mandare uno spaghetto fuori della finestra della camera, il quale con l'un de' capi vicino alla terra aggiugnesse, e l'altro capo mandatol basso infin sopra 'l palco e conducendolo al letto suo, quello sotto i panni mettere, e quando essa nel letto fosse, legallosi al dito grosso del piede;
+  <a name="p07080009">
+   [009]
+  </a>
+  e appresso mandato questo a dire a
+  <name persref="ruberto" type="person">
+   Ruberto
+  </name>
+  , gl'impose che, quando venisse, dovesse lo spago tirare, e ella, se il marito dormisse, il lascerebbe andare e andrebbegli ad aprire; e se egli non dormisse, ella il terrebbe fermo e tirerebbelo a s&eacute;, acci&ograve; che egli non aspettasse.
+  <a name="p07080010">
+   [010]
+  </a>
+  La qual cosa piacque a
+  <name persref="ruberto" type="person">
+   Ruberto
+  </name>
+  : e assai volte andatovi, alcuna gli venne fatto d'esser con lei e alcuna no.
+ </p>
+ <p>
+  <a name="p07080011">
+   [011]
+  </a>
+  Ultimamente, continuando costoro questo artificio cos&iacute; fatto, avvenne una notte che, dormendo
+  <name persref="sismonda" type="person">
+   la donna
+  </name>
+  e
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  stendendo il pi&egrave; per lo letto, gli venne questo spago trovato; per che, postavi la mano e trovatolo al dito della
+  <name persref="sismonda" type="person">
+   donna
+  </name>
+  legato, disse seco stesso:
+  <q direct="unspecified" who="arriguccio">
+   Questo dee essere qualche inganno
+  </q>
+  .
+  <a name="p07080012">
+   [012]
+  </a>
+  E avvedutosi poi che lo spago usciva fuori per la finestra, l'ebbe per fermo: per che, pianamente tagliatolo dal dito della
+  <name persref="sismonda" type="person">
+   donna
+  </name>
+  , al suo il leg&ograve; e stette attento per vedere quel che questo volesse dire.
+  <a name="p07080013">
+   [013]
+  </a>
+  N&eacute; stette guari che
+  <name persref="ruberto" type="person">
+   Ruberto
+  </name>
+  venne e tirato lo spago, come usato era,
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  si sent&iacute;; e non avendoselo ben saputo legare, e
+  <name persref="ruberto" type="person">
+   Ruberto
+  </name>
+  , avendo tirato forte e essendogli lo spago in man venuto, intese di doversi aspettare; e cos&iacute; fece.
+ </p>
+ <p>
+  <a name="p07080014">
+   [014]
+  </a>
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  , levatosi prestamente e prese sue armi, corse all'uscio per dover vedere chi fosse costui e per fargli male. Ora era
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  , con tutto che fosse mercatante, un fiero uomo e un forte; e giunto all'uscio e non aprendolo soavemente come soleva far
+  <name persref="sismonda" type="person">
+   la donna
+  </name>
+  , e
+  <name persref="ruberto" type="person">
+   Ruberto
+  </name>
+  che aspettava, sentendolo, s'avvis&ograve; esser ci&ograve; che era, cio&egrave; che colui che l'uscio apriva fosse
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  : per che prestamente cominci&ograve; a fuggire, e
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  a seguitarlo.
+  <a name="p07080015">
+   [015]
+  </a>
+  Ultimamente, avendo
+  <name persref="ruberto" type="person">
+   Ruberto
+  </name>
+  un gran pezzo fuggito e
+  <name persref="arriguccio" type="person">
+   colui
+  </name>
+  non cessando di seguitarlo, essendo altress&iacute;
+  <name persref="ruberto" type="person">
+   Ruberto
+  </name>
+  armato, tir&ograve; fuori la spada e rivolsesi, e incominciarono l'uno a volere offendere e l'altro a difendersi.
+ </p>
+ <p>
+  <a name="p07080016">
+   [016]
+  </a>
+  <name persref="sismonda" type="person">
+   La donna
+  </name>
+  , come
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  apr&iacute; la camera svegliatasi e trovatosi tagliato lo spago dal dito, incontanente s'accorse che il suo inganno era scoperto: e sentendo
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  esser corso dietro a
+  <name persref="ruberto" type="person">
+   Ruberto
+  </name>
+  , prestamente levatasi, avvisandosi ci&ograve; che doveva potere avvenire, chiam&ograve;
+  <name persref="fante-0708" type="person">
+   la fante
+  </name>
+  sua, la quale ogni cosa sapeva, e tanto la predic&ograve;, che ella in persona di s&eacute; nel suo letto la mise, pregandola che senza farsi conoscere quelle busse pazientemente ricevesse che
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  le desse, per ci&ograve; che ella ne le renderebbe s&iacute; fatto merito, che ella non avrebbe cagione donde dolersi.
+  <a name="p07080017">
+   [017]
+  </a>
+  E spento il lume che nella camera ardeva, di quella s'usc&iacute; e nascosa in una parte della casa cominci&ograve; a aspettare quello che dovesse avvenire.
+ </p>
+ <p>
+  <a name="p07080018">
+   [018]
+  </a>
+  Essendo tra
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  e
+  <name persref="ruberto" type="person">
+   Ruberto
+  </name>
+  la zuffa, i vicini della contrada sentendola e levatisi cominciarono loro a dir male, e
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  , per tema di non esser conosciuto, senza aver potuto sapere chi il giovane si fosse o d'alcuna cosa offenderlo, adirato e di mal talento, lasciatolo stare, se ne torn&ograve; verso la casa sua; e pervenuto nella camera adiratamente cominci&ograve; a dire:
+  <q direct="unspecified" who="arriguccio">
+   Ove se' tu, rea
+   <name persref="sismonda" type="person">
+    femina
+   </name>
+   ? Tu hai spento il lume perch&eacute; io non ti truovi, ma tu l'hai fallita!
+  </q>
+  <a name="p07080019">
+   [019]
+  </a>
+  E andatosene al letto, credendosi
+  <name persref="sismonda" type="person">
+   la moglie
+  </name>
+  pigliare, prese
+  <name persref="fante-0708" type="person">
+   la fante
+  </name>
+  , e quanto egli pot&eacute; menare le mani e' piedi tante pugna e tanti calci le diede, tanto che tutto il viso l'ammacc&ograve;; e ultimamente le tagli&ograve; i capegli, sempre dicendole la maggior villania che mai a cattiva femina si dicesse.
+ </p>
+ <p>
+  <a name="p07080020">
+   [020]
+  </a>
+  <name persref="fante-0708" type="person">
+   La fante
+  </name>
+  piagneva forte, come colei che aveva di che; e ancora che ella alcuna volta dicesse
+  <q direct="unspecified" who="fante-0708">
+   Oim&egrave;! merc&eacute; per Dio!
+  </q>
+  , o
+  <q direct="unspecified" who="fante-0708">
+   Non pi&uacute;!
+  </q>
+  , era s&iacute; la voce dal pianto rotta e
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  impedito dal suo furore, che discerner non poteva pi&uacute; quella esser d'un'altra femina che della
+  <name persref="sismonda" type="person">
+   moglie
+  </name>
+  .
+  <a name="p07080021">
+   [021]
+  </a>
+  Battutala adunque di santa ragione e tagliatile i capelli, come dicemmo, disse:
+  <q direct="unspecified" who="arriguccio">
+   Malvagia
+   <name persref="sismonda" type="person">
+    femina
+   </name>
+   , io non intendo di toccarti altramenti, ma io andr&ograve; per li tuoi fratelli e dir&ograve; loro le tue buone opere, e appresso che essi vengan per te e faccianne quello che essi credono che loro onor fia e menintene: ch&eacute; per certo in questa casa non starai tu mai pi&uacute;
+  </q>
+  . E cos&iacute; detto, uscito della camera, la serr&ograve; di fuori e and&ograve; tutto sol via.
+ </p>
+ <p>
+  <a name="p07080022">
+   [022]
+  </a>
+  Come
+  <name persref="sismonda" type="person">
+   monna Sismonda
+  </name>
+  , che ogni cosa udita aveva, sent&iacute; il marito essere andato via, cos&iacute;, aperta la camera e racceso il lume, trov&ograve;
+  <name persref="fante-0708" type="person">
+   la fante
+  </name>
+  sua tutta pesta che piangeva forte; la quale come pot&eacute; il meglio racconsol&ograve; e nella camera di lei la rimise, dove poi chetamente fattala servire e governare, s&iacute; di quello d'
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  medesimo la sovvenne, che ella si chiam&ograve; per contenta.
+  <a name="p07080023">
+   [023]
+  </a>
+  E come la fante nella sua camera rimessa ebbe, cos&iacute; prestamente il letto della sua rifece e quella tutta racconci&ograve; e rimise in ordine, come se quella notte niuna persona giaciuta vi fosse, e raccese la lampana e s&eacute; rivest&iacute; e racconci&ograve;, come se ancora a letto non si fosse andata; e accesa una lucerna e presi suoi panni, in capo della scala si pose a sedere, e cominci&ograve; a cucire e a aspettare quello a che il fatto dovesse riuscire.
+ </p>
+ <p>
+  <a name="p07080024">
+   [024]
+  </a>
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  , uscito di casa sua, quanto pi&uacute; tosto pot&eacute; n'and&ograve; alla casa de' fratelli della moglie, e quivi tanto picchi&ograve;, che fu sentito e fugli aperto.
+  <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
+   Li fratelli
+  </name>
+  della
+  <name persref="sismonda" type="person">
+   donna
+  </name>
+  , che eran tre, e
+  <name persref="madre-0708" type="person">
+   la madre
+  </name>
+  di lei, sentendo che
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  era, tutti si levarono e fatto accendere de' lumi vennero a lui e domandaronlo quello che egli a quella ora e cos&iacute; solo andasse cercando.
+  <a name="p07080025">
+   [025]
+  </a>
+  A' quali
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  , cominciandosi dallo spago che trovato aveva legato al dito del pi&egrave; di
+  <name persref="sismonda" type="person">
+   monna Sismonda
+  </name>
+  , infino all'ultimo di ci&ograve; che trovato e fatto avea narr&ograve; loro; e per fare loro intera testimonianza di ci&ograve; che fatto avesse, i capelli che alla moglie tagliati aver credeva lor pose in mano, aggiugnendo che per lei venissero e quel ne facessero che essi credessero che al loro onore appartenesse, per ci&ograve; che egli non intendeva di mai pi&uacute; in casa tenerla.
+  <a name="p07080026">
+   [026]
+  </a>
+  I fratelli della
+  <name persref="sismonda" type="person">
+   donna
+  </name>
+  , crucciati forte di ci&ograve; che udito avevano e per fermo tenendolo, contro a lei innanimati, fatti accender de' torchi, con intenzione di farle un mal giuoco con
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  si misero in via e andaronne a casa sua.
+  <a name="p07080027">
+   [027]
+  </a>
+  Il che veggendo la madre di loro, piagnendo gl'incominci&ograve; a seguitare or l'uno e or l'altro pregando che non dovessero queste cose cos&iacute; subitamente credere senza vederne altro o saperne, per ci&ograve; che il marito poteva per altra cagione esser crucciato con lei e averle fatto male e ora apporle questo per iscusa di s&eacute;; dicendo ancora che ella si maravigliava forte come ci&ograve; potesse essere avvenuto, per ci&ograve; che ella conosceva ben la sua figliuola, s&iacute; come cole' che infino da piccolina l'aveva allevata, e molte altre parole simiglianti.
+ </p>
+ <p>
+  <a name="p07080028">
+   [028]
+  </a>
+  Pervenuti adunque a casa d'
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  e entrati dentro, cominciarono a salir le scale; li quali
+  <name persref="sismonda" type="person">
+   monna Sismonda
+  </name>
+  sentendo venir disse:
+  <q direct="unspecified" who="sismonda">
+   Chi &egrave; l&agrave;?
+  </q>
+ </p>
+ <p>
+  <a name="p07080029">
+   [029]
+  </a>
+  Alla quale l'un de'
+  <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
+   fratelli
+  </name>
+  rispose:
+  <q direct="unspecified" who="fratello1-0708">
+   Tu il saprai bene, rea
+   <name persref="sismonda" type="person">
+    femina
+   </name>
+   , chi &egrave;
+  </q>
+  .
+ </p>
+ <p>
+  <a name="p07080030">
+   [030]
+  </a>
+  Disse allora
+  <name persref="sismonda" type="person">
+   monna Sismonda
+  </name>
+  :
+  <q direct="unspecified" who="sismonda">
+   Ora che vorr&agrave; dir questo? Domine, aiutaci!
+  </q>
+  e levatasi in pi&egrave; disse:
+  <q direct="unspecified">
+   <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
+    Fratelli
+   </name>
+   miei, voi siate i ben venuti; che andate voi cercando a questa ora quincentro tutti e tre?
+  </q>
+ </p>
+ <p>
+  <a name="p07080031">
+   [031]
+  </a>
+  Costoro, avendola veduta sedere e cuscire e senza alcuna vista nel viso d'essere stata battuta, dove
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  aveva detto che tutta l'aveva pesta, alquanto nella prima giunta si maravigliarono e rifrenarono l'impeto della loro ira e domandarolla come stato fosse quello di che
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  di
+  <name persref="sismonda" type="person">
+   lei
+  </name>
+  si doleva, minacciandola forte se ogni cosa non dicesse loro.
+ </p>
+ <p>
+  <a name="p07080032">
+   [032]
+  </a>
+  <name persref="sismonda" type="person">
+   La donna
+  </name>
+  disse:
+  <q direct="unspecified" who="sismonda">
+   Io non so ci&ograve; che io mi vi debba dire, n&eacute; di che
+   <name persref="arriguccio" type="person">
+    Arriguccio
+   </name>
+   di me vi si debba esser doluto
+  </q>
+  .
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  , vedendola, la guatava come smemorato, ricordandosi che egli l'aveva dati forse mille punzoni per lo viso e graffiatogliele e fattole tutti i mali del mondo, e ora la vedeva come se di ci&ograve; niente fosse stato.
+  <a name="p07080033">
+   [033]
+  </a>
+  In brieve
+  <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
+   i fratelli
+  </name>
+  le dissero ci&ograve; che
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  loro aveva detto e dello spago e delle battiture e di tutto.
+ </p>
+ <p>
+  <a name="p07080034">
+   [034]
+  </a>
+  <name persref="sismonda" type="person">
+   La donna
+  </name>
+  , rivolta a
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  , disse:
+  <q direct="unspecified" who="sismonda">
+   Ohim&egrave;,
+   <name persref="arriguccio" type="person">
+    marito
+   </name>
+   mio, che &egrave; quel ch'i'odo? Perch&eacute; fai tu tener me rea femina con tua gran vergogna, dove io non sono, e te malvagio uomo e crudele di quello che tu non se'? E quando fost&uacute; questa notte pi&uacute; in questa casa, non che con meco? o quando mi battesti? Io per me non me ne ricordo.
+  </q>
+ </p>
+ <p>
+  <a name="p07080035">
+   [035]
+  </a>
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  cominci&ograve; a dire:
+  <q direct="unspecified" who="arriguccio">
+   Come, rea
+   <name persref="sismonda" type="person">
+    femina
+   </name>
+   , non ci andammo noi a letto insieme? non ci tornai io, avendo corso dietro all'amante tuo? non ti diedi io dimolte busse e taglia'ti i capelli?
+  </q>
+ </p>
+ <p>
+  <a name="p07080036">
+   [036]
+  </a>
+  <name persref="sismonda" type="person">
+   La donna
+  </name>
+  rispose:
+  <q direct="unspecified" who="sismonda">
+   In questa casa non ti coricasti
+   <name persref="arriguccio" type="person">
+    tu
+   </name>
+   iersera. Ma lasciamo stare di questo, ch&eacute; non neposso altra testimonianza fare che le mie vere parole, e vegniamo a quello che tu di', che mi battesti e tagliasti i capelli.
+   <a name="p07080037">
+    [037]
+   </a>
+   Me non battest&uacute; mai, e quanti n'ha qui e tu altress&iacute; mi ponete mente se io ho segno alcuno per tutta la persona di battitura: n&eacute; ti consiglierei che tu fossi tanto ardito, che tu mano addosso mi ponessi, ch&eacute;, alla croce di Dio, io ti sviserei.
+   <a name="p07080038">
+    [038]
+   </a>
+   N&eacute; i capelli altress&iacute; mi tagliasti, che io sentissi o vedessi; ma forse il facesti che io non me ne avvidi: lasciami vedere se io gli ho tagliati o no
+  </q>
+  . E levatisi suoi veli di testa mostr&ograve; che tagliati non gli avea ma interi.
+ </p>
+ <p>
+  <a name="p07080039">
+   [039]
+  </a>
+  Le quali cose e vedendo e udendo
+  <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
+   i fratelli
+  </name>
+  e
+  <name persref="madre-0708" type="person">
+   la madre
+  </name>
+  cominciarono verso d'
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  a dire:
+  <q direct="unspecified" who="fratello1-0708 fratello2-0708 fratello3-0708 madre-0708">
+   Che vuoi tu dire,
+   <name persref="arriguccio" type="person">
+    Arriguccio
+   </name>
+   ? Questo non &egrave; gi&agrave; quello che tu ne venisti a dire che avevi fatto: e non sappiam noi come tu ti proverrai il rimanente
+  </q>
+  .
+ </p>
+ <p>
+  <a name="p07080040">
+   [040]
+  </a>
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  stava come trasognato e voleva pur dire: ma veggendo che quello che egli credeva poter mostrare non era cos&iacute;, non s'attentava di dir nulla.
+ </p>
+ <p>
+  <a name="p07080041">
+   [041]
+  </a>
+  <name persref="sismonda" type="person">
+   La donna
+  </name>
+  rivolta verso
+  <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
+   i fratelli
+  </name>
+  disse:
+  <q direct="unspecified" who="sismonda">
+   Fratei miei, io veggio che
+   <name persref="arriguccio" type="person">
+    egli
+   </name>
+   &egrave; andato cercando che io faccia quello che io non volli mai fare, cio&egrave; che io vi racconti le miserie e le cattivit&agrave; sue: e io il far&ograve;. Io credo fermamente che ci&ograve; che egli v'ha detto gli sia intervenuto e abbial fatto, e udite come.
+   <a name="p07080042">
+    [042]
+   </a>
+   Questo valente uomo, al qual voi nella mia mala ora per moglie mi deste, che si chiama mercatante e che vuole esser creduto e che dovrebbe esser pi&uacute; temperato che uno religioso e pi&uacute; onesto che una donzella, son poche sere che egli non si vada inebbriando per le taverne e or con questa cattiva femina e or con quella rimescolando; e a me si fa infino a mezzanotte e talora infino a matutino aspettare nella maniera che mi trovaste.
+   <a name="p07080043">
+    [043]
+   </a>
+   Son certa che, essendo bene ebbro, si mise a giacere con alcuna sua trista e a lei, destandosi, trov&ograve; lo spago al piede e poi fece tutte quelle sue gagliardie che egli dice, e ultimamente torn&ograve; a lei e battella e tagliolle i capelli; e non essendo ancora ben tornato in s&eacute;, si credette, e son certa che egli crede ancora, queste cose aver fatte a me: e se voi il porrete ben mente nel viso, egli &egrave; ancora mezzo ebbro.
+   <a name="p07080044">
+    [044]
+   </a>
+   Ma tuttavia, che che egli s'abbia di me detto, io non voglio che voi il vi rechiate se non come da uno ubriaco; e poscia che io gli perdono io, gli perdonate voi altress&iacute;
+  </q>
+  .
+ </p>
+ <p>
+  <a name="p07080045">
+   [045]
+  </a>
+  <name persref="madre-0708" type="person">
+   La madre
+  </name>
+  di lei, udendo queste parole, cominci&ograve; a fare romore e a dire:
+  <q direct="unspecified" who="madre-0708">
+   Alla croce di Dio,
+   <name persref="sismonda" type="person">
+    figliuola
+   </name>
+   mia, cotesto non si vorrebbe fare, anzi si vorrebbe uccidere questo
+   <name persref="arriguccio" type="person">
+    can
+   </name>
+   fastidioso e sconoscente, ch&eacute; egli non ne fu degno d'avere una figliuola fatta come se' tu. Frate, bene sta! basterebbe se egli t'avesse ricolta del fango!
+   <a name="p07080046">
+    [046]
+   </a>
+   Col malanno possa egli essere oggimai, se tu dei stare al fracidume delle parole di un mercatantuzzo di feccia d'asino, che venutici di contado e usciti delle troiate vestiti di romagnuolo, con le calze a campanile e colla penna in culo, come egli hanno tre soldi, vogliono lefigliuole de' gentili uomini e delle buone donne per moglie, e fanno arme e dico no:
+   <a name="p07080047">
+    [047]
+   </a>
+   <q direct="unspecified" type="othervoice">
+    I' son de' cotali
+   </q>
+   e
+   <q direct="unspecified" type="othervoice">
+    quei di casa mia fecer cos&iacute;
+   </q>
+   . Ben vorrei che' miei figliuoli n'avesser seguito il mio consiglio, che ti potevano cos&iacute; orrevolmente acconciare in casa i conti Guidi con un pezzo di pane, e essi vollon pur darti a questa bella gioia, che, dove tu se' la miglior figliuola di
+   <name placeref="firenze" type="place">
+    Firenze
+   </name>
+   e la pi&uacute; onesta, egli non s'&egrave; vergognato di mezzanotte di dir che tu sii puttana, quasi noi non ti conoscessimo. Ma alla fe' di Dio, se me ne fosse creduto, e' se ne gli darebbe s&iacute; fatta gastigatoia che gli putirebbe
+  </q>
+  .
+  <a name="p07080048">
+   [048]
+  </a>
+  E rivolta a'
+  <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
+   figliuoli
+  </name>
+  disse:
+  <q direct="unspecified" who="madre-0708">
+   Figliuoli miei, io il vi dicea bene che questo non doveva potere essere. Avete voi udito come il buono vostro
+   <name persref="arriguccio" type="person">
+    cognato
+   </name>
+   tratta la
+   <name persref="sismonda" type="person">
+    sirocchia
+   </name>
+   vostra, mercatantuolo di quattro denari che egli &egrave;? Ch&eacute;, se io fossi come voi, avendo detto quello che egli ha di lei e faccendo quello che egli fa, io non mi terrei mai n&eacute; contenta n&eacute; appagata se io nol levassi di terra; e se io fossi uomo come io son femina, io non vorrei che altri ch'io se ne 'mpacciasse. Domine, fallo tristo, ubriaco doloroso che non si vergogna!
+  </q>
+ </p>
+ <p>
+  <a name="p07080049">
+   [049]
+  </a>
+  <name persref="fratello1-0708 fratello2-0708 fratello3-0708" type="person">
+   I giovani
+  </name>
+  , vedute e udite queste cose, rivoltisi a
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  gli dissero la maggior villania che mai a niun cattivo uom si dicesse; e ultimamente dissero:
+  <q direct="unspecified" who="fratello1-0708 fratello2-0708 fratello3-0708">
+   Noi ti perdoniam questa s&iacute; come a ebbro, ma guarda che per la vita tua da quinci innanzi simili novelle noi non sentiamo pi&uacute;, ch&eacute; per certo, se pi&uacute; nulla ce ne viene agli orecchi, noi ti pagheremo di questa e di quella
+  </q>
+  ; e cos&iacute; detto se n'andarono.
+ </p>
+ <p>
+  <a name="p07080050">
+   [050]
+  </a>
+  <name persref="arriguccio" type="person">
+   Arriguccio
+  </name>
+  , rimaso come uno smemorato, seco stesso non sappiendo se quello che fatto avea era stato vero o se egli aveva sognato, senza pi&uacute; farne parola lasci&ograve; la moglie in pace; la qual non solamente con la sua sagacit&agrave; fugg&iacute; il pericolo soprastante ma s'aperse la via a poter fare nel tempo avvenire ogni suo piacere, senza paura alcuna pi&uacute; aver del
+  <name persref="arriguccio" type="person">
+   marito
+  </name>
+  .
+ </p>
+</div>

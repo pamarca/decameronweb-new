@@ -3,80 +3,85 @@ title: "Novel III"
 day: "ennov0203"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0203" type="novella" who="pampinea">
-   <head>
-    Novel III
-   </head>
-   <argument>
-    <p>
-     <milestone id="p02030001"/>
-     <!--(i)-->
-     Three young men squander their substance and are
+<div id="nov0203" type="novella" who="pampinea">
+ <h1>
+  Novel III
+ </h1>
+ <argument>
+  <p>
+   <a name="p02030001">
+    [001]
+   </a>
+   Three young men squander their substance and are
  reduced to poverty. Their nephew, returning home
  a desperate man, falls in with an abbot, in whom he
  discovers the daughter of the King of England. She
  marries him, and he retrieves the losses and reestablishes
  the fortune of his uncles.
-     <!--(/i)-->
-    </p>
-   </argument>
-   <p>
-    <h3>
-     [Voice: pampinea]
-    </h3>
-   </p>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p02030002"/>
-     <!--(sc)-->
-     The
-     <!--(/sc)-->
-     ladies marvelled to hear the adventures of Rinaldo d'Asti,
+  </p>
+ </argument>
+ <p>
+  <h3>
+   [Voice: pampinea]
+  </h3>
+ </p>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p02030002">
+    [002]
+   </a>
+   The
+   ladies marvelled to hear the adventures of Rinaldo d'Asti,
 	praised his devotion, and gave thanks to God and St. Julian for the
 	succour lent him in his extreme need. Nor, though the verdict was
 	hardly outspoken, was the lady deemed unwise to take the boon
 	which God had sent her.
-     <milestone id="p02030003"/>
-     So they tittered and talked of her night
+   <a name="p02030003">
+    [003]
+   </a>
+   So they tittered and talked of her night
 	of delight, while Pampinea, being seated by Filostrato, and surmising
 	that her turn would, as it did, come next, was lost in meditation on
 	what she was to say. Roused from her reverie by the word of the
 	queen, she put on a cheerful courage, and thus began:
-    </p>
-   </div3>
-   <div3 type="commentary" who="pampinea">
-    <p>
-     <milestone id="p02030004"/>
-     Noble ladies, discourse as we may of Fortune's handiwork, much
+  </p>
+ </div3>
+ <div3 type="commentary" who="pampinea">
+  <p>
+   <a name="p02030004">
+    [004]
+   </a>
+   Noble ladies, discourse as we may of Fortune's handiwork, much
 	still remains to be said if we but scan events aright, nor need we
 	marvel thereat, if we but duly consider that all matters, which we
 	foolishly call our own, are in her hands, and therefore subject, at her
 	inscrutable will, to every variety of chance and change without any
 	order therein by us discernible.
-     <milestone id="p02030005"/>
-     Which is indeed signally manifest
+   <a name="p02030005">
+    [005]
+   </a>
+   Which is indeed signally manifest
 	everywhere and all day long; yet, as 'tis our queen's will that we
 	speak thereof, perhaps 'twill not be unprofitable to you, if,
 	notwithstanding
 	it has been the theme of some of the foregoing stories, I add
 	to them another, which, I believe, should give you pleasure.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p02030006"/>
-    There was formerly in our city a knight, by name Messer
+  </p>
+ </div3>
+ <p>
+  <a name="p02030006">
+   [006]
+  </a>
+  There was formerly in our city a knight, by name Messer
  Tedaldo, of the Lamberti, according to some, or, as others say, of the
-    <pb n="80"/>
-    Agolanti
+  Agolanti
  family, perhaps for no better reason than that the occupation
  of his sons was similar to that which always was and is the
       occupation of the Agolanti.
-    <milestone id="p02030007"/>
-    However, without professing to
+  <a name="p02030007">
+   [007]
+  </a>
+  However, without professing to
  determine which of the two houses he belonged to, I say, that he
  was in his day a very wealthy knight, and had three sons, the eldest
  being by name Lamberto, the second Tedaldo, and the third
@@ -84,8 +89,10 @@ layout: "single"
  eldest was not yet eighteen years old when their father, Messer
  Tedaldo, died very rich, leaving to them as his lawful heirs the
  whole of his property both movable and immovable.
-    <milestone id="p02030008"/>
-    Finding
+  <a name="p02030008">
+   [008]
+  </a>
+  Finding
  themselves thus possessed of great wealth, both in money and in
  lands and chattels, they fell to spending without stint or restraint,
  indulging their every desire, maintaining a great establishment, and
@@ -93,72 +100,89 @@ layout: "single"
  open house, scattering largesses, jousting, and, not content with these
  and the like pastimes proper to their condition, indulging every
  appetite natural to their youth.
-    <milestone id="p02030009"/>
-    They had not long followed this
+  <a name="p02030009">
+   [009]
+  </a>
+  They had not long followed this
  course of life before the cash left them by their father was exhausted;
  and, their rents not sufficing to defray their expenditure, they began
  to sell and pledge their property, and disposing of it by degrees, one
  item to-day and another to-morrow, they hardly perceived that they
  were approaching the verge of ruin, until poverty opened the eyes
  which wealth had fast sealed.
-    <milestone id="p02030010"/>
-    So one day Lamberto called his
+  <a name="p02030010">
+   [010]
+  </a>
+  So one day Lamberto called his
  brothers to him, reminded them of the position of wealth and
  dignity which had been theirs and their father's before them, and
  shewed them the poverty to which their extravagance had reduced
  them, and adjured them most earnestly that, before their destitution
  was yet further manifest, they should all three sell what little
  remained to them and depart thence; which accordingly they did.
-    <milestone id="p02030011"/>
-    Without leave-taking, or any ceremony, they quitted Florence; nor
+  <a name="p02030011">
+   [011]
+  </a>
+  Without leave-taking, or any ceremony, they quitted Florence; nor
  did they rest until they had arrived in England and established
  themselves in a small house in London, where, by living with extreme
  parsimony and lending at exorbitant usances, they prospered so well
  that in the course of a few years they amassed a fortune;
-    <milestone id="p02030012"/>
-    and so,
+  <a name="p02030012">
+   [012]
+  </a>
+  and so,
  one by one, they returned to Florence, purchased not a few of their
  former estates besides many others, and married. The management
  of their affairs in England where they continued their business of
  usurers, they left to a young nephew, Alessandro by name, while,
-    <pb n="81"/>
-    heedless
+  heedless
  alike of the teaching of experience and of marital and
  parental duty, they all three launched out at Florence into more
  extravagant expenditure than before, and contracted debts on all
  hands and to large amounts.
-    <milestone id="p02030013"/>
-    This expenditure they were enabled
+  <a name="p02030013">
+   [013]
+  </a>
+  This expenditure they were enabled
  for some years to support by the remittances made by Alessandro,
  who, to his great profit, had lent money to the barons on the
  security of their castles and rents.
-   </p>
-   <p>
-    <milestone id="p02030014"/>
-    While the three brothers thus continued to spend freely, and,
+ </p>
+ <p>
+  <a name="p02030014">
+   [014]
+  </a>
+  While the three brothers thus continued to spend freely, and,
  when short of money, to borrow it, never doubting of help from
  England, it so happened that, to the surprise of everybody, there
  broke out in England a war between the King and his son, by which
  the whole island was divided into two camps; whereby Alessandro
  lost all his mortgages of the baronial castles and every other source of
  income whatsoever.
-    <milestone id="p02030015"/>
-    However, in the daily expectation that peace
+  <a name="p02030015">
+   [015]
+  </a>
+  However, in the daily expectation that peace
  would be concluded between the King and his son, Alessandro,
  hoping that in that event all would be restored to him, principal and
  interest, tarried in the island; and the three brothers at Florence in
  no degree retrenched their extravagant expenditure, but went on
  borrowing from day to day.
-    <milestone id="p02030016"/>
-    Several years thus passed; and, their
+  <a name="p02030016">
+   [016]
+  </a>
+  Several years thus passed; and, their
  hopes being frustrated, the three brothers not only lost credit, but,
  being pressed for payment by their creditors, were suddenly arrested,
  and, their property proving deficient, were kept in prison for the
  balance, while their wives and little children went into the country
  parts, or elsewhere, wretchedly equipped, and with no other prospect
  than to pass the rest of their days in destitution.
-    <milestone id="p02030017"/>
-    Alessandro, meanwhile,
+  <a name="p02030017">
+   [017]
+  </a>
+  Alessandro, meanwhile,
  seeing that the peace, which he had for several years awaited
  in England, did not come, and deeming that he would hazard his
  life to no purpose by tarrying longer in the country, made up his
@@ -169,27 +193,32 @@ layout: "single"
  knights, kinsmen of the King, in whom Alessandro recognised
  acquaintances, and, making himself known to them, was readily
  received into their company.
-    <milestone id="p02030018"/>
-    As thus they journeyed together,
+  <a name="p02030018">
+   [018]
+  </a>
+  As thus they journeyed together,
  Alessandro softly asked them who the monks were that rode in front
  with so great a train, and whither they were bound.
-    <milestone id="p02030019"/>
-    <q direct="unspecified">
-     The foremost
+  <a name="p02030019">
+   [019]
+  </a>
+  <q direct="unspecified">
+   The foremost
  rider,
-    </q>
-    replied one of the knights,
-    <q direct="unspecified">
-     is a young kinsman of ours, the
-     <pb n="82"/>
-     newly-elected
+  </q>
+  replied one of the knights,
+  <q direct="unspecified">
+   is a young kinsman of ours, the
+   newly-elected
  abbot of one of the greatest abbeys of England; and
  as he is not of legal age for such a dignity, we are going with him to
  Rome to obtain the Holy Father's dispensation and his confirmation
  in the office; but this is not a matter for common talk.
-    </q>
-    <milestone id="p02030020"/>
-    Now the
+  </q>
+  <a name="p02030020">
+   [020]
+  </a>
+  Now the
  new abbot, as lords are wont to do when they travel, was sometimes
  in front, sometimes in rear of his train; and thus it happened that,
  as he passed, he set eyes on Alessandro, who was still quite young,
@@ -198,13 +227,17 @@ layout: "single"
  him at first sight, having never seen aught that pleased him so much,
  called him to his side, addressed him graciously, and asked him who
  he was, whence he came, and whither he was bound.
-    <milestone id="p02030021"/>
-    Alessandro
+  <a name="p02030021">
+   [021]
+  </a>
+  Alessandro
  frankly told all about himself, and having thus answered the abbot's
  questions, placed himself at his service as far as his small ability
  might extend.
-    <milestone id="p02030022"/>
-    The abbot was struck by his easy flow of apt speech,
+  <a name="p02030022">
+   [022]
+  </a>
+  The abbot was struck by his easy flow of apt speech,
  and observing his bearing more closely, he made up his mind that,
  albeit his occupation was base, he was nevertheless of gentle blood,
  which added no little to his interest in him; and being moved to
@@ -213,13 +246,17 @@ layout: "single"
  would yet set him in a place no less or even more exalted than that
  whence Fortune had cast him down, and prayed him to be of his
  company as far as Tuscany, as both were going the same way.
-    <milestone id="p02030023"/>
-    Alessandro thanked him for his words of comfort, and professed
+  <a name="p02030023">
+   [023]
+  </a>
+  Alessandro thanked him for his words of comfort, and professed
  himself ready to obey his every command.
-   </p>
-   <p>
-    <milestone id="p02030024"/>
-    So fared on the abbot, his mind full of new ideas begotten by the
+ </p>
+ <p>
+  <a name="p02030024">
+   [024]
+  </a>
+  So fared on the abbot, his mind full of new ideas begotten by the
  sight of Alessandro, until some days later they came to a town which
  was none too well provided with inns; and, as the abbot must needs
  put up there, Alessandro, who was well acquainted with one of the
@@ -230,122 +267,146 @@ layout: "single"
  divers parts of the town. So the abbot supped, and, the night being
  far spent, all went to bed except Alessandro, who then asked the host
  where he might find quarters for the night.
-    <milestone id="p02030025"/>
-    <q direct="unspecified">
-     In good sooth, I
+  <a name="p02030025">
+   [025]
+  </a>
+  <q direct="unspecified">
+   In good sooth, I
  know not,
-    </q>
-    replied the host;
-    <q direct="unspecified">
-     thou seest that every place is occupied,
+  </q>
+  replied the host;
+  <q direct="unspecified">
+   thou seest that every place is occupied,
  and that I and my household must lie on the benches. How
-     <pb n="83"/>
-     ever,
+   ever,
  in the abbot's chamber there are some corn-sacks. I can shew
  thee the way thither, and lay a bit of a bed upon them, and there, an
  it like thee, thou mayst pass the night very well.
-    </q>
-    <q direct="unspecified">
-     How sayst
+  </q>
+  <q direct="unspecified">
+   How sayst
  thou?
-    </q>
-    <milestone id="p02030026"/>
-    said Alessandro;
-    <q direct="unspecified">
-     in the abbot's chamber, which thou
+  </q>
+  <a name="p02030026">
+   [026]
+  </a>
+  said Alessandro;
+  <q direct="unspecified">
+   in the abbot's chamber, which thou
  knowest is small, so that there was not room for any of the monks
  to sleep there? Had I understood this when the curtains were
  drawn, I would have quartered his monks on the corn-sacks, and
  slept myself where the monks sleep.
-    </q>
-    <milestone id="p02030027"/>
-    <q direct="unspecified">
-     'Tis even so, however,
-    </q>
-    replied the host,
-    <q direct="unspecified">
-     and thou canst, if thou wilt, find excellent quarters
+  </q>
+  <a name="p02030027">
+   [027]
+  </a>
+  <q direct="unspecified">
+   'Tis even so, however,
+  </q>
+  replied the host,
+  <q direct="unspecified">
+   and thou canst, if thou wilt, find excellent quarters
  there: the abbot sleeps, the curtains are close drawn; I will go
  in softly and lay a small bed there, on which thou canst sleep.
-    </q>
-    <milestone id="p02030028"/>
-    Alessandro, satisfied that it might be managed without disturbing the
+  </q>
+  <a name="p02030028">
+   [028]
+  </a>
+  Alessandro, satisfied that it might be managed without disturbing the
  abbot, accepted the offer, and made his arrangements for passing the
  night as quietly as he could.
-   </p>
-   <p>
-    The abbot was not asleep; his mind being far too overwrought
+ </p>
+ <p>
+  The abbot was not asleep; his mind being far too overwrought
  by certain newly-awakened desires. He had heard what had passed
  between Alessandro and the host, he had marked the place where
  Alessandro had lain down, and in the great gladness of his heart had
  begun thus to commune with himself:
-    <q direct="unspecified">
-     God has sent me the
+  <q direct="unspecified">
+   God has sent me the
  opportunity of gratifying my desire; if I let it pass, perchance it
  will be long before another such opportunity occurs.
-    </q>
-    <milestone id="p02030029"/>
-    So, being
+  </q>
+  <a name="p02030029">
+   [029]
+  </a>
+  So, being
  minded by no means to let it slip, when all was quiet in the inn, he
  softly called Alessandro, and bade him lie down by his side. Alessandro
  made many excuses, but ended by undressing and obeying;
-    <milestone id="p02030030"/>
-    whereupon the abbot laid a hand on Alessandro's breast, and began to
+  <a name="p02030030">
+   [030]
+  </a>
+  whereupon the abbot laid a hand on Alessandro's breast, and began to
  caress him just as amorous girls do their lovers; whereat Alessandro
  marvelled greatly, doubting the abbot was prompted to such caresses
  by a shameful love.
-    <milestone id="p02030031"/>
-    Which the abbot speedily divined, or else surmised
+  <a name="p02030031">
+   [031]
+  </a>
+  Which the abbot speedily divined, or else surmised
  from some movement on Alessandro's part, and, laughing,
  threw off a chemise which she had upon her, and taking Alessandro's
  hand, laid it on her bosom, saying:
-    <q direct="unspecified">
-     Alessandro, dismiss thy foolish
+  <q direct="unspecified">
+   Alessandro, dismiss thy foolish
  thought, feel here, and learn what I conceal.
-    </q>
-    <milestone id="p02030032"/>
-    Alessandro obeyed,
+  </q>
+  <a name="p02030032">
+   [032]
+  </a>
+  Alessandro obeyed,
  laying a hand upon the abbot's bosom, where he encountered two
  little teats, round, firm and delicate, as they had been of ivory;
  whereby he at once knew that 'twas a woman, and without awaiting
  further encouragement forthwith embraced her, and would have
  kissed her, when she said:
-    <milestone id="p02030033"/>
-    <q direct="unspecified">
-     Before thou art more familiar with me
+  <a name="p02030033">
+   [033]
+  </a>
+  <q direct="unspecified">
+   Before thou art more familiar with me
  hearken to what I have to say to thee. As thou mayst perceive, I
-     <pb n="84"/>
-     am no man, but a woman. Virgin I left my home, and was going
+   am no man, but a woman. Virgin I left my home, and was going
  to the Pope to obtain his sanction for my marriage, when, as Fortune
  willed, whether for thy gain or my loss, no sooner had I seen thee
  the other day, than I burned for thee with such a flame of love as
  never yet had lady for any man. Wherefore I am minded to have
  thee for my husband rather than any other; so, if thou wilt not
  have me to wife, depart at once, and return to thine own place.
-    </q>
-    <milestone id="p02030034"/>
-    Albeit he knew not who she was, Alessandro by the retinue which
+  </q>
+  <a name="p02030034">
+   [034]
+  </a>
+  Albeit he knew not who she was, Alessandro by the retinue which
  attended her conjectured that she must be noble and wealthy, and he
  saw that she was very fair; so it was not long before he answered
  that, if such were her pleasure, it was very much to his liking.
-    <milestone id="p02030035"/>
-    Whereupon she sate up, set a ring on his finger, and espoused him
+  <a name="p02030035">
+   [035]
+  </a>
+  Whereupon she sate up, set a ring on his finger, and espoused him
  before a tiny picture of our Lord; after which they embraced, and
  to their no small mutual satisfaction solaced themselves for the rest
  of the night.
-    <milestone id="p02030036"/>
-    At daybreak Alessandro rose, and by preconcert with
+  <a name="p02030036">
+   [036]
+  </a>
+  At daybreak Alessandro rose, and by preconcert with
  the lady, left the chamber as he had entered it, so that none knew
  where he had passed the night: then, blithe at heart beyond measure,
  he rejoined the abbot and his train, and so, resuming their journey,
  they after many days arrived at Rome.
-    <milestone id="p02030037"/>
-    They had not been there
+  <a name="p02030037">
+   [037]
+  </a>
+  They had not been there
  more than a few days, when the abbot, attended by the two knights
  and Alessandro, waited on the Pope, whom, after making the due
  obeisance, he thus addressed:
-    <q direct="unspecified">
-     Holy Father, as you must know
+  <q direct="unspecified">
+   Holy Father, as you must know
  better than any other, whoso intends to lead a true and honourable
  life ought, as far as may be, to shun all occasion of error; for which
  cause I, having a mind to live honourably, did, the better to accomplish
@@ -355,26 +416,31 @@ layout: "single"
  King of Scotland; and, carrying with me not a little of his treasure,
  set my face hitherward that your Holiness might bestow me in
  marriage.
-     <milestone id="p02030038"/>
-     Nor was it the age of the King of Scotland that moved
+   <a name="p02030038">
+    [038]
+   </a>
+   Nor was it the age of the King of Scotland that moved
  me to flee so much as fear lest the frailty of my youth should, were I
  married to him, betray me to commit some breach of divine law, and
  sully the honour of my father's royal blood.
-     <milestone id="p02030039"/>
-     And as in this frame of
+   <a name="p02030039">
+    [039]
+   </a>
+   And as in this frame of
  mind I journeyed, God, who knows best what is meet for every
  one, did, as I believe, of His mercy shew me him whom He is pleased
  to appoint me for my husband, even this young man
-    </q>
-    (pointing to
+  </q>
+  (pointing to
  Alessandro)
-    <q direct="unspecified">
-     whom you see by my side, who for nobility of nature
-     <pb n="85"/>
-     and bearing is a match for any great lady, though the strain of his
+  <q direct="unspecified">
+   whom you see by my side, who for nobility of nature
+   and bearing is a match for any great lady, though the strain of his
  blood, perhaps, be not of royal purity.
-     <milestone id="p02030040"/>
-     Him, therefore, have I
+   <a name="p02030040">
+    [040]
+   </a>
+   Him, therefore, have I
  chosen, him will I have, and no other, no matter what my father or
  any one else may think. And albeit the main purpose with which I
  started is fulfilled, yet I have thought good to continue my journey,
@@ -382,34 +448,42 @@ layout: "single"
  city, and your Holiness, and that so in your presence, and by consequence
  in the presence of others, I may renew my marriage-vow with
  Alessandro, whereof God alone was witness.
-     <milestone id="p02030041"/>
-     Wherefore I humbly
+   <a name="p02030041">
+    [041]
+   </a>
+   Wherefore I humbly
  pray you that God's will and mine may be also yours, and that you
  pronounce your benison thereon, that therewith, having the more
  firm assurance of the favour of Him, whose vicar you are, we may
  both live together, and, when the time comes, die to God's glory
  and yours.
-    </q>
-   </p>
-   <p>
-    <milestone id="p02030042"/>
-    Alessandro was filled with wonder and secret delight, when he
+  </q>
+ </p>
+ <p>
+  <a name="p02030042">
+   [042]
+  </a>
+  Alessandro was filled with wonder and secret delight, when he
  heard that his wife was the daughter of the King of England; but
  greater still was the wonder of the two knights, and such their
  wrath that, had they been anywhere else than in the Pope's presence,
  they would not have spared to affront Alessandro, and perhaps the
  lady too.
-    <milestone id="p02030043"/>
-    The Pope, on his part, found matter enough for wonder
+  <a name="p02030043">
+   [043]
+  </a>
+  The Pope, on his part, found matter enough for wonder
  as well in the lady's habit as in her choice; but, knowing that he
  could not refuse, he consented to grant her request.
-   </p>
-   <p>
-    He therefore began by smoothing the ruffled tempers of the
+ </p>
+ <p>
+  He therefore began by smoothing the ruffled tempers of the
  knights, and having reconciled them with the lady and Alessandro,
  proceeded to put matters in train for the marriage.
-    <milestone id="p02030044"/>
-    When the day
+  <a name="p02030044">
+   [044]
+  </a>
+  When the day
  appointed was come, he gave a great reception, at which were
  assembled all the cardinals and many other great lords; to whom he
  presented the lady royally robed, and looking so fair and so gracious
@@ -420,35 +494,40 @@ layout: "single"
  marriage-vows were solemnly renewed; and afterwards the marriage,
  which was accompanied by every circumstance that could add grace
  and splendour to the ceremony, received the sanction of his benediction.
-    <milestone id="p02030045"/>
-    Alessandro and the lady on leaving Rome saw fit to visit
+  <a name="p02030045">
+   [045]
+  </a>
+  Alessandro and the lady on leaving Rome saw fit to visit
  Florence, whither fame had already wafted the news, so that they
  were received by the citizens with every token of honour. The
-    <pb n="86"/>
-    lady set the three brothers at liberty, paying all their creditors, and
+  lady set the three brothers at liberty, paying all their creditors, and
  reinstated them and their wives in their several properties. So, leaving
  gracious memories behind them, Alessandro and his lady, accompanied
  by Agolante, quitted Florence, and arriving at Paris were
  honourably received by the King.
-    <milestone id="p02030046"/>
-    The two knights went before
+  <a name="p02030046">
+   [046]
+  </a>
+  The two knights went before
  them to England, and by their influence induced the King to restore
  the lady to his favour, and receive her and his son-in-law with every
  circumstance of joy and honour. Alessandro he soon afterwards
  knighted with unwonted ceremony, and bestowed on him the earldom
  of Cornwall.
-    <milestone id="p02030047"/>
-    And such was the Earl's consequence and influence
+  <a name="p02030047">
+   [047]
+  </a>
+  And such was the Earl's consequence and influence
  at court that he restored peace between father and son, thereby
  conferring a great boon on the island and gaining the love and esteem
  of all the people. Agolante, whom he knighted, recovered all the
  outstanding debts in full, and returned to Florence immensely rich.
-    <milestone id="p02030048"/>
-    The Earl passed the rest of his days with his lady in great renown.
+  <a name="p02030048">
+   [048]
+  </a>
+  The Earl passed the rest of his days with his lady in great renown.
  Indeed there are those who say, that with the help of his father-in-law
  he effected by his policy and valour the conquest of Scotland,
  and was crowned king of that country.
-   </p>
-  </div>
- </body>
-</html>
+ </p>
+</div>

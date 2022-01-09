@@ -3,152 +3,170 @@ title: "Novella Terza"
 day: "itnov0603"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0603" type="novella" who="lauretta">
-   <head>
-    Novella Terza
-   </head>
-   <p>
-    <h3>
-     [Voice: lauretta]
-    </h3>
-   </p>
-   <argument>
-    <p>
-     <milestone id="p06030001"/>
-     <name persref="nonnapulci" type="person">
-      Monna Nonna de' Pulci
-     </name>
-     con una presta risposta al meno che onesto motteggiare del
-     <name persref="antonioorso" type="person">
-      vescovo
-     </name>
-     di
-     <name placeref="firenze" type="place">
-      Firenze
-     </name>
-     silenzio impone.
-    </p>
-   </argument>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p06030002"/>
-     Quando
-     <name persref="pampinea" type="person">
-      Pampinea
-     </name>
-     la sua novella ebbe finita, poi che da tutti e la risposta e la liberalit&agrave; di
-     <name persref="cisti" type="person">
-      Cisti
-     </name>
-     molto fu commendata, piacque alla
-     <name persref="elissa" type="person">
-      reina
-     </name>
-     che
-     <name persref="lauretta" type="person">
-      Lauretta
-     </name>
-     dicesse appresso; la quale lietamente cos&iacute; a dir cominci&ograve;:
-    </p>
-   </div3>
-   <div3 type="commentary" who="lauretta">
-    <p>
-     <milestone id="p06030003"/>
-     Piacevoli donne, prima
-     <name persref="pampinea" type="person">
-      Pampinea
-     </name>
-     e ora
-     <name persref="filomena" type="person">
-      Filomena
-     </name>
-     assai del vero toccarono della nostra poca vert&uacute; e della bellezza de' motti; alla qual per ci&ograve; che tornar non bisogna, oltre a quello che de' motti &egrave; stato detto, vi voglio ricordare essere la natura de' motti cotale, che essi, come la pecora morde, deono cos&iacute; mordere l'uditore e non come 'l cane: per ci&ograve; che, se come il cane mordesse il motto, non sarebbe motto ma villania.
-     <milestone id="p06030004"/>
-     La qual cosa ottimamente fecero e le parole di madonna
-     <name persref="oretta" type="person">
-      Oretta
-     </name>
-     e la risposta di
-     <name persref="cisti" type="person">
-      Cisti
-     </name>
-     . &Egrave; il vero che, se per risposta si dice e il risponditore morda come cane, essendo come da cane prima stato morso, non par da riprender come, se ci&ograve; avvenuto non fosse, sarebbe: e per ci&ograve; &egrave; da guardare e come e quando e con cui e similmente dove si motteggia.
-     <milestone id="p06030005"/>
-     Alle quali cose poco guardando gi&agrave; un nostro prelato, non minor morso ricevette che 'l desse: il che io in una piccola novella vi voglio mostrare.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p06030006"/>
-    Essendo vescovo di
-    <name placeref="firenze" type="place">
-     Firenze
-    </name>
-    messere
-    <name persref="antonioorso" type="person">
-     Antonio d'Orso
-    </name>
-    , valoroso e savio prelato, venne in
-    <name placeref="firenze" type="place">
-     Firenze
-    </name>
-    un gentile uom catalano, chiamato messer
-    <name persref="degoratta" type="person">
-     Dego della Ratta
-    </name>
-    , maliscalco per lo re
-    <name persref="robertoangio" type="person">
-     Ruberto
-    </name>
-    ; il quale essendo del corpo bellissimo e vie pi&uacute; che grande vagheggiatore, avvenne che fra l'altre donne fiorentine una ne gli piacque, la quale era assai bella donna e era nepote d'un fratello del detto vescovo.
-    <milestone id="p06030007"/>
-    E avendo sentito che il marito di lei, quantunque di buona famiglia fosse, era avarissimo e cattivo, con lui compose di dovergli dare cinquecento fiorin d'oro, e egli una notte con la moglie il lasciasse giacere; per che, fatti dorare popolini d'ariento, che allora si spendevano, giaciuto con la moglie, come che contro al piacer di lei fosse, gliele diede. Il che poi sappiendosi per tutto, rimasero al cattivo uomo il danno e le beffe; e il vescovo, come savio, s'infinse di queste cose niente sentire.
-   </p>
-   <p>
-    <milestone id="p06030008"/>
-    Per che, usando molto insieme il vescovo e 'l maliscalco, avvenne che il d&iacute; di San Giovanni, cavalcando l'uno allato all'altro veggendo le donne per la via onde il palio si corre, il vescovo vide una giovane la quale questa pistolenzia presente ci ha tolta donna, il cui nome fu monna
-    <name persref="nonnapulci" type="person">
-     Nonna de' Pulci
-    </name>
-    , cugina di messere
-    <name persref="alessorinucci" type="person">
-     Alesso Rinucci
-    </name>
-    e cui voi tutte doveste conoscere:
-    <milestone id="p06030009"/>
-    la quale essendo allora una fresca e bella giovane e parlante e di gran cuore, di poco tempo avanti in
-    <name placeref="portapiero" type="place">
-     Porta San Piero
-    </name>
-    a marito venutane, la mostr&ograve; al maliscalco; e poi, essendole presso, posta la mano sopra la spalla del maliscalco, disse:
-    <q direct="unspecified">
-     <name persref="nonnapulci" type="person">
-      Nonna
-     </name>
-     , che ti par di costui? crederestil vincere?
-    </q>
-   </p>
-   <p>
-    <milestone id="p06030010"/>
-    Alla
-    <name persref="nonnapulci" type="person">
-     Nonna
-    </name>
-    parve che quelle parole alquanto mordessero la sua onest&agrave; o la dovesser contaminare negli animi di coloro, che molti v'erano, che l'udirono; per che, non intendendo a purgar questa contaminazione ma a render colpo per colpo, prestamente rispose:
-    <q direct="unspecified" who="nonnapulci">
-     Messere, e forse non vincerebbe me; ma vorrei buona moneta
-    </q>
-    .
-   </p>
-   <p>
-    <milestone id="p06030011"/>
-    La qual parola udita il maliscalco e 'l vescovo, sentendosi parimente trafitti, l'uno s&iacute; come facitore della disonesta cosa nella nepote del fratel del vescovo e l'altro s&iacute; come ricevitore nella nepote del proprio fratello, senza guardar l'un l'altro vergognosi e taciti se n'andarono, senza pi&uacute; quel giorno dirle alcuna cosa.
-    <milestone id="p06030012"/>
-    Cos&iacute; adunque, essendo la giovane stata morsa, non le si disdisse il mordere altrui motteggiando.
-   </p>
-  </div>
- </body>
-</html>
+<div id="nov0603" type="novella" who="lauretta">
+ <h1>
+  Novella Terza
+ </h1>
+ <p>
+  <h3>
+   [Voice: lauretta]
+  </h3>
+ </p>
+ <argument>
+  <p>
+   <a name="p06030001">
+    [001]
+   </a>
+   <name persref="nonnapulci" type="person">
+    Monna Nonna de' Pulci
+   </name>
+   con una presta risposta al meno che onesto motteggiare del
+   <name persref="antonioorso" type="person">
+    vescovo
+   </name>
+   di
+   <name placeref="firenze" type="place">
+    Firenze
+   </name>
+   silenzio impone.
+  </p>
+ </argument>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p06030002">
+    [002]
+   </a>
+   Quando
+   <name persref="pampinea" type="person">
+    Pampinea
+   </name>
+   la sua novella ebbe finita, poi che da tutti e la risposta e la liberalit&agrave; di
+   <name persref="cisti" type="person">
+    Cisti
+   </name>
+   molto fu commendata, piacque alla
+   <name persref="elissa" type="person">
+    reina
+   </name>
+   che
+   <name persref="lauretta" type="person">
+    Lauretta
+   </name>
+   dicesse appresso; la quale lietamente cos&iacute; a dir cominci&ograve;:
+  </p>
+ </div3>
+ <div3 type="commentary" who="lauretta">
+  <p>
+   <a name="p06030003">
+    [003]
+   </a>
+   Piacevoli donne, prima
+   <name persref="pampinea" type="person">
+    Pampinea
+   </name>
+   e ora
+   <name persref="filomena" type="person">
+    Filomena
+   </name>
+   assai del vero toccarono della nostra poca vert&uacute; e della bellezza de' motti; alla qual per ci&ograve; che tornar non bisogna, oltre a quello che de' motti &egrave; stato detto, vi voglio ricordare essere la natura de' motti cotale, che essi, come la pecora morde, deono cos&iacute; mordere l'uditore e non come 'l cane: per ci&ograve; che, se come il cane mordesse il motto, non sarebbe motto ma villania.
+   <a name="p06030004">
+    [004]
+   </a>
+   La qual cosa ottimamente fecero e le parole di madonna
+   <name persref="oretta" type="person">
+    Oretta
+   </name>
+   e la risposta di
+   <name persref="cisti" type="person">
+    Cisti
+   </name>
+   . &Egrave; il vero che, se per risposta si dice e il risponditore morda come cane, essendo come da cane prima stato morso, non par da riprender come, se ci&ograve; avvenuto non fosse, sarebbe: e per ci&ograve; &egrave; da guardare e come e quando e con cui e similmente dove si motteggia.
+   <a name="p06030005">
+    [005]
+   </a>
+   Alle quali cose poco guardando gi&agrave; un nostro prelato, non minor morso ricevette che 'l desse: il che io in una piccola novella vi voglio mostrare.
+  </p>
+ </div3>
+ <p>
+  <a name="p06030006">
+   [006]
+  </a>
+  Essendo vescovo di
+  <name placeref="firenze" type="place">
+   Firenze
+  </name>
+  messere
+  <name persref="antonioorso" type="person">
+   Antonio d'Orso
+  </name>
+  , valoroso e savio prelato, venne in
+  <name placeref="firenze" type="place">
+   Firenze
+  </name>
+  un gentile uom catalano, chiamato messer
+  <name persref="degoratta" type="person">
+   Dego della Ratta
+  </name>
+  , maliscalco per lo re
+  <name persref="robertoangio" type="person">
+   Ruberto
+  </name>
+  ; il quale essendo del corpo bellissimo e vie pi&uacute; che grande vagheggiatore, avvenne che fra l'altre donne fiorentine una ne gli piacque, la quale era assai bella donna e era nepote d'un fratello del detto vescovo.
+  <a name="p06030007">
+   [007]
+  </a>
+  E avendo sentito che il marito di lei, quantunque di buona famiglia fosse, era avarissimo e cattivo, con lui compose di dovergli dare cinquecento fiorin d'oro, e egli una notte con la moglie il lasciasse giacere; per che, fatti dorare popolini d'ariento, che allora si spendevano, giaciuto con la moglie, come che contro al piacer di lei fosse, gliele diede. Il che poi sappiendosi per tutto, rimasero al cattivo uomo il danno e le beffe; e il vescovo, come savio, s'infinse di queste cose niente sentire.
+ </p>
+ <p>
+  <a name="p06030008">
+   [008]
+  </a>
+  Per che, usando molto insieme il vescovo e 'l maliscalco, avvenne che il d&iacute; di San Giovanni, cavalcando l'uno allato all'altro veggendo le donne per la via onde il palio si corre, il vescovo vide una giovane la quale questa pistolenzia presente ci ha tolta donna, il cui nome fu monna
+  <name persref="nonnapulci" type="person">
+   Nonna de' Pulci
+  </name>
+  , cugina di messere
+  <name persref="alessorinucci" type="person">
+   Alesso Rinucci
+  </name>
+  e cui voi tutte doveste conoscere:
+  <a name="p06030009">
+   [009]
+  </a>
+  la quale essendo allora una fresca e bella giovane e parlante e di gran cuore, di poco tempo avanti in
+  <name placeref="portapiero" type="place">
+   Porta San Piero
+  </name>
+  a marito venutane, la mostr&ograve; al maliscalco; e poi, essendole presso, posta la mano sopra la spalla del maliscalco, disse:
+  <q direct="unspecified">
+   <name persref="nonnapulci" type="person">
+    Nonna
+   </name>
+   , che ti par di costui? crederestil vincere?
+  </q>
+ </p>
+ <p>
+  <a name="p06030010">
+   [010]
+  </a>
+  Alla
+  <name persref="nonnapulci" type="person">
+   Nonna
+  </name>
+  parve che quelle parole alquanto mordessero la sua onest&agrave; o la dovesser contaminare negli animi di coloro, che molti v'erano, che l'udirono; per che, non intendendo a purgar questa contaminazione ma a render colpo per colpo, prestamente rispose:
+  <q direct="unspecified" who="nonnapulci">
+   Messere, e forse non vincerebbe me; ma vorrei buona moneta
+  </q>
+  .
+ </p>
+ <p>
+  <a name="p06030011">
+   [011]
+  </a>
+  La qual parola udita il maliscalco e 'l vescovo, sentendosi parimente trafitti, l'uno s&iacute; come facitore della disonesta cosa nella nepote del fratel del vescovo e l'altro s&iacute; come ricevitore nella nepote del proprio fratello, senza guardar l'un l'altro vergognosi e taciti se n'andarono, senza pi&uacute; quel giorno dirle alcuna cosa.
+  <a name="p06030012">
+   [012]
+  </a>
+  Cos&iacute; adunque, essendo la giovane stata morsa, non le si disdisse il mordere altrui motteggiando.
+ </p>
+</div>

@@ -3,43 +3,25 @@ title: "Third Day"
 day: "day03"
 layout: "single-xml"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div1 id="day03" ruler="neifile" type="Day">
-   <head>
-    Third Day
-   </head>
-   <argument>
-    <p>
-     <h3>
-      [Voice: author]
-     </h3>
-    </p>
-    <p>
-     <milestone id="p03990001"/>
-     <!--(i)-->
-     Endeth here the second day of the Decameron, beginneth
+<div id="day03" ruler="neifile" type="Day">
+ <h1>
+  Third Day
+ </h1>
+ <argument>
+  <p>
+   <h2>
+    [Voice: author]
+   </h2>
+  </p>
+  <p>
+   <a name="p03990001">
+    [001]
+   </a>
+   Endeth here the second day of the Decameron, beginneth
       the third, in which, under the rule of Neifile, discourse
       is had of the fortune of such as have painfully acquired
       some much-coveted thing, or, having lost, have recovered
       it.
-     <!--(/i)-->
-    </p>
-   </argument>
-   <!--***********************************Introduction*********************************-->
-   <!--***********************************Novella 1*********************************-->
-   <!--***********************************Novella 2*********************************-->
-   <!--***********************************Novella 3*********************************-->
-   <!--***********************************Novella 4*********************************-->
-   <!--***********************************Novella 5*********************************-->
-   <!--***********************************Novella 6*********************************-->
-   <!--***********************************Novella 7*********************************-->
-   <!--***********************************Novella 8*********************************-->
-   <!--***********************************Novella 9*********************************-->
-   <!--***********************************Novella 10*********************************-->
-   <!--***********************************Conclusion*********************************-->
-  </div1>
- </body>
-</html>
+  </p>
+ </argument>
+</div>

@@ -3,330 +3,372 @@ title: "Novella Decima"
 day: "itnov0910"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0910" type="novella" who="dioneo">
-   <head>
-    Novella Decima
-   </head>
-   <p>
-    <h3>
-     [Voice: dioneo]
-    </h3>
-   </p>
-   <argument>
-    <p>
-     <milestone id="p09100001"/>
-     Donno
-     <name persref="giovannidibarolo" type="person">
-      Gianni
-     </name>
-     ad istanzia di compar
-     <name persref="pietrodatresanti" type="person">
-      Pietro
-     </name>
-     fa lo 'ncantesimoper far diventar la moglie una cavalla; e quando viene ad appiccar la coda, compar
-     <name persref="pietrodatresanti" type="person">
-      Pietro
-     </name>
-     dicendo che non vi voleva coda, guasta tutto lo 'ncantamento.
-    </p>
-   </argument>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p09100002"/>
-     Questa novella dalla
-     <name persref="emilia" type="person">
-      reina
-     </name>
-     detta diede un poco da mormorare alle donne e da ridere a' giovani; ma poi che ristate furono,
-     <name persref="dioneo" type="person">
-      Dioneo
-     </name>
-     cos&iacute; cominci&ograve; a parlare:
-    </p>
-   </div3>
-   <div3 type="commentary" who="dioneo">
-    <p>
-     <milestone id="p09100003"/>
-     Leggiadre donne, infra molte bianche colombe agiugne pi&uacute; di bellezza uno nero corvo, che non farebbe un candido cigno; e cos&iacute; tra molti savi alcuna volta un men savio &egrave; non solamente un accrescere splendore e bellezza alla lor maturit&agrave;, ma ancora diletto e sollazzo.
-     <milestone id="p09100004"/>
-     Per la qual cosa, essendo voi tutte discretissime e moderate, io, il qual sento anzi dello scemo che no, faccendo la vostra virt&uacute; pi&uacute; lucente col mio difetto pi&uacute; vi debbo esser caro che se con pi&uacute; valore quella facessi divenir pi&uacute; oscura; e per conseguente pi&uacute; largo arbitrio debbo avere in dimostrarmi tal qual io sono, e pi&uacute; pazientemente dee da voi esser sostenuto che non dovrebbe se io pi&uacute; savio fossi, quel dicendo che io dir&ograve;.
-     <milestone id="p09100005"/>
-     Dirovvi adunque una novella non troppo lunga, nella quale comprenderete quanto diligentemente si convengano osservare le cose imposte da coloro che alcuna cosa per forza d'incantamento fanno, e quanto piccol fallo in quelle commesso ogni cosa guasti dallo 'ncantator fatta.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p09100006"/>
-    L'altr'anno fu a
-    <name placeref="barletta" type="place">
-     Barletta
-    </name>
-    un prete, chiamato donno
-    <name persref="giovannidibarolo" type="person">
-     Gianni di Barolo
-    </name>
-    , il qual, per ci&ograve; che povera chiesa avea, per sostentar la vita sua, con una cavalla cominci&ograve; a portar mercatantia in qua e in l&agrave; per le fiere di
-    <name placeref="puglia" type="place">
-     Puglia
-    </name>
-    e a comperare e a vendere.
-    <milestone id="p09100007"/>
-    E cos&iacute; andando, prese stretta dimestichezza con uno che si chiamava
-    <name persref="pietrodatresanti" type="person">
-     Pietro da Tresanti
-    </name>
-    , che quello medesimo mestiere con uno suo asino faceva e in segno d'amorevolezza e d'amist&agrave;, alla guisa pugliese, nol chiamava se non compar
-    <name persref="pietrodatresanti" type="person">
-     Pietro
-    </name>
-    ; e quante volte in
-    <name placeref="barletta" type="place">
-     Barletta
-    </name>
-    arrivava, sempre alla chiesa sua nel menava e quivi il teneva seco a albergo e come poteva l'onorava.
-   </p>
-   <p>
-    <milestone id="p09100008"/>
-    Compar
-    <name persref="pietrodatresanti" type="person">
-     Pietro
-    </name>
-    d'altra parte, essendo poverissimo e avendo una piccola casetta in
-    <name placeref="tresanti" type="place">
-     Tresanti
-    </name>
-    appena bastevole a lui e ad una sua giovane e bella moglie e all'asino suo, quante volte donno
-    <name persref="giovannidibarolo" type="person">
-     Gianni
-    </name>
-    in
-    <name placeref="tresanti" type="place">
-     Tresanti
-    </name>
-    capitava tante sel menava a casa, e come poteva, in riconoscimento dell'onor che da lui in
-    <name placeref="barletta" type="place">
-     Barletta
-    </name>
-    riceveva, l'onorava.
-    <milestone id="p09100009"/>
-    Ma pure al fatto dello albergo, non avendo compar
-    <name persref="pietrodatresanti" type="person">
-     Pietro
-    </name>
-    se non un piccol letticello, nel quale con la sua bella moglie dormiva, onorar nol poteva come voleva, ma conveniva che, essendo in una sua stalletta allato all'asino suo allogata la cavalla di donno
-    <name persref="giovannidibarolo" type="person">
-     Gianni
-    </name>
-    , che egli allato a lei sopra alquanto di paglia si giacesse.
-    <milestone id="p09100010"/>
-    La donna, sappiendo l'onor che il prete al marito faceva a
-    <name placeref="barletta" type="place">
-     Barletta
-    </name>
-    , era pi&uacute; volte, quando il prete vi veniva, volutasene andare a dormire con una sua vicina, che avea nome
-    <name persref="zitacarapresa" type="person">
-     Zita Carapresa di Giudice Leo
-    </name>
-    , acci&ograve; che il prete col marito dormisse nel letto, e avevalo molte volte al prete detto, ma egli non aveva mai voluto.
-   </p>
-   <p>
-    <milestone id="p09100011"/>
-    E tra l'altre volte, una le disse:
-    <q direct="unspecified" who="giovannidibarolo">
-     Comar
-     <name persref="gemmata" type="person">
-      Gemmata
-     </name>
-     , non ti tribolar di me, ch&eacute; io sto, bene, per ci&ograve; che quando mi piace io fo questa mia cavalla diventare una bella zitella e stommi con essa, e poi quando voglio la fo diventar cavalla; e perci&ograve; non mi partirei da lei.
-    </q>
-   </p>
-   <p>
-    <milestone id="p09100012"/>
-    La giovane si maravigli&ograve; e credettelo e al marito il disse, agiugnendo:
-    <q direct="unspecified" who="gemmata">
-     Se egli &egrave; cos&iacute; tuo come tu di', ch&eacute; non ti fai tu insegnare quello incantesimo, ch&eacute; tu possa far cavalla di me e fare i fatti tuoi con l'asino e con la cavalla, e guadagneremo due cotanti? E quando a casa fossimo tornati, mi potresti rifar femina come io sono.
-    </q>
-   </p>
-   <p>
-    <milestone id="p09100013"/>
-    Compar
-    <name persref="pietrodatresanti" type="person">
-     Pietro
-    </name>
-    , che era anzi grossetto uom che no, credette questo fatto e accordossi al consiglio e, come meglio seppe, cominci&ograve; a sollicitar donno
-    <name persref="giovannidibarolo" type="person">
-     Gianni
-    </name>
-    che questa cosa gli dovesse insegnare; donno
-    <name persref="giovannidibarolo" type="person">
-     Gianni
-    </name>
-    s'ingegn&ograve; assai di trarre costui di questa sciocchezza, ma pur non potendo disse:
-    <q direct="unspecified" who="giovannidibarolo">
-     Ecco, poi che voi pur volete, domattina ci leveremo, come noi sogliamo, anzi d&iacute; e io vi mosterr&ograve; come si fa. &Egrave; il vero che quello che pi&uacute; &egrave; malagevole in questa cosa si &egrave; l'appiccar la coda, come tu vedrai.
-    </q>
-   </p>
-   <p>
-    <milestone id="p09100014"/>
-    Compar
-    <name persref="pietrodatresanti" type="person">
-     Pietro
-    </name>
-    e comar
-    <name persref="gemmata" type="person">
-     Gemmata
-    </name>
-    , a pena avendo la notte dormito con tanto desidero questo fatto aspettavano, come vicino a d&iacute; fu, si levarono e chiamarono donno
-    <name persref="giovannidibarolo" type="person">
-     Gianni
-    </name>
-    , il quale, in camiscia levatosi, venne nella cameretta di compar
-    <name persref="pietrodatresanti" type="person">
-     Pietro
-    </name>
-    e disse:
-    <q direct="unspecified" who="giovannidibarolo">
-     Io non so al mondo persona a cui io questo facessi se non a voi, e per ci&ograve;, poi che vi pur piace, io il far&ograve;: vero &egrave; che far vi conviene quello che io vi dir&ograve;, se voi volete che venga fatto.
-    </q>
-   </p>
-   <p>
-    <milestone id="p09100015"/>
-    Costoro dissero di far ci&ograve; che egli dicesse: per che donno
-    <name persref="giovannidibarolo" type="person">
-     Gianni
-    </name>
-    , preso un lume, il pose in mano a compar
-    <name persref="pietrodatresanti" type="person">
-     Pietro
-    </name>
-    e dissegli:
-    <q direct="unspecified" who="giovannidibarolo">
-     Guata ben come io far&ograve;, e che tu tenghi bene a men te come io dir&ograve;; e guardati, quanto tu hai caro di non guastare ogni cosa, che, per cosa che tu oda o veggia, tu non dica una parola sola; e priega Iddio che la coda s'appicchi bene.
-    </q>
-   </p>
-   <p>
-    <milestone id="p09100016"/>
-    Compar
-    <name persref="pietrodatresanti" type="person">
-     Pietro
-    </name>
-    , preso il lume, disse che ben lo farebbe.
-   </p>
-   <p>
-    <milestone id="p09100017"/>
-    Appresso donno
-    <name persref="giovannidibarolo" type="person">
-     Gianni
-    </name>
-    fece spogliare ignudanata comar
-    <name persref="gemmata" type="person">
-     Gemmata
-    </name>
-    , e fecela stare con le mani e co' piedi in terra a guisa che stanno le cavalle, ammaestrandola similmente che di cosa che avvenisse motto non facesse; e con le mani cominciandole a toccare il viso e la testa, cominci&ograve; a dire:
-    <q direct="unspecified" who="giovannidibarolo">
-     Questa sia bella testa di cavalla
-    </q>
-    ; e toccandole i capelli, disse:
-    <q direct="unspecified" who="giovannidibarolo">
-     Questi sieno belli crini di cavalla
-    </q>
-    ;
-    <milestone id="p09100018"/>
-    e poi toccandole le braccia, disse:
-    <q direct="unspecified" who="giovannidibarolo">
-     E queste sieno belle gambe e belli piedi di cavalla
-    </q>
-    ; poi toccandole il petto e trovandolo sodo e tondo, risvegliandosi tale che non era chiamato e su levandosi, disse:
-    <q direct="unspecified" who="giovannidibarolo">
-     E questo sia bel petto di cavalla
-    </q>
-    ; e cos&iacute; fece alla schiena e al ventre e alle groppe e alle coscie e alle gambe; e ultimamente, niuna cosa restandogli a fare se non la coda, levata la camiscia e preso il piuolo col quale egli piantava gli uomini e prestamente nel solco per ci&ograve; fatto messolo, disse:
-    <q direct="unspecified" who="giovannidibarolo">
-     E questa sia bella coda di cavalla.
-    </q>
-   </p>
-   <p>
-    <milestone id="p09100019"/>
-    Compar
-    <name persref="pietrodatresanti" type="person">
-     Pietro
-    </name>
-    , che attentamente infino allora aveva ogni cosa guardata, veggendo questa ultima e non parendonegli bene disse:
-    <q direct="unspecified" who="pietrodatresanti">
-     O donno
-     <name persref="giovannidibarolo" type="person">
-      Gianni
-     </name>
-     , io non vi voglio coda, io non vi voglio coda.
-    </q>
-   </p>
-   <p>
-    <milestone id="p09100020"/>
-    Era gi&agrave; l'umido radicale per lo quale tutte le piante s'appiccano venuto, quando donno
-    <name persref="giovannidibarolo" type="person">
-     Gianni
-    </name>
-    tiratolo indietro, disse:
-    <q direct="unspecified" who="giovannidibarolo">
-     Ohim&egrave;, compar
-     <name persref="pietrodatresanti" type="person">
-      Pietro
-     </name>
-     , che hai tu fatto? non ti diss'io, che tu non facessi motto di cosa che tu vedessi? La cavalla era per esser fatta, ma tu favellando hai guasto ogni cosa, n&eacute; pi&uacute; ci ha modo di poterla rifare oggimai.
-    </q>
-   </p>
-   <p>
-    <milestone id="p09100021"/>
-    Compar
-    <name persref="pietrodatresanti" type="person">
-     Pietro
-    </name>
-    disse:
-    <q direct="unspecified" who="pietrodatresanti">
-     Bene sta, io non vi voleva quella coda io: perch&eacute; non diciavate voi a me `Falla tu'? E anche l'appiccavate troppo bassa.
-    </q>
-   </p>
-   <p>
-    <milestone id="p09100022"/>
-    Disse donno
-    <name persref="giovannidibarolo" type="person">
-     Gianni
-    </name>
-    :
-    <q direct="unspecified" who="giovannidibarolo">
-     Perch&eacute; tu non l'avresti per la prima volta saputa appiccar s&iacute; com'io.
-    </q>
-   </p>
-   <p>
-    <milestone id="p09100023"/>
-    La giovane, queste parole udendo, levatasi in pi&egrave; di buona f&eacute; disse al marito:
-    <q direct="unspecified" who="gemmata">
-     Deh, bestia che tu se', perch&eacute; hai tu guasti li tuoi fatti e' miei? qual cavalla vedest&uacute; mai senza coda? Se m'aiuti Iddio, tu se' povero, ma egli sarebbe ragione che tu fossi molto pi&uacute;.
-    </q>
-   </p>
-   <p>
-    <milestone id="p09100024"/>
-    Non avendo adunque pi&uacute; modo a dover fare della giovane cavalla, per le parole che dette avea compar
-    <name persref="pietrodatresanti" type="person">
-     Pietro
-    </name>
-    , ella dolente e malinconosa si rivest&iacute;, e compar
-    <name persref="pietrodatresanti" type="person">
-     Pietro
-    </name>
-    con uno asino, come usato era, attese a fare il suo mestiere antico, e con donno
-    <name persref="giovannidibarolo" type="person">
-     Gianni
-    </name>
-    insieme n'and&ograve; alla fiera di
-    <name placeref="bitonto" type="place">
-     Bitonto
-    </name>
-    n&eacute; mai pi&uacute; di tal servigio il richiese.
-   </p>
-  </div>
- </body>
-</html>
+<div id="nov0910" type="novella" who="dioneo">
+ <h1>
+  Novella Decima
+ </h1>
+ <p>
+  <h3>
+   [Voice: dioneo]
+  </h3>
+ </p>
+ <argument>
+  <p>
+   <a name="p09100001">
+    [001]
+   </a>
+   Donno
+   <name persref="giovannidibarolo" type="person">
+    Gianni
+   </name>
+   ad istanzia di compar
+   <name persref="pietrodatresanti" type="person">
+    Pietro
+   </name>
+   fa lo 'ncantesimoper far diventar la moglie una cavalla; e quando viene ad appiccar la coda, compar
+   <name persref="pietrodatresanti" type="person">
+    Pietro
+   </name>
+   dicendo che non vi voleva coda, guasta tutto lo 'ncantamento.
+  </p>
+ </argument>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p09100002">
+    [002]
+   </a>
+   Questa novella dalla
+   <name persref="emilia" type="person">
+    reina
+   </name>
+   detta diede un poco da mormorare alle donne e da ridere a' giovani; ma poi che ristate furono,
+   <name persref="dioneo" type="person">
+    Dioneo
+   </name>
+   cos&iacute; cominci&ograve; a parlare:
+  </p>
+ </div3>
+ <div3 type="commentary" who="dioneo">
+  <p>
+   <a name="p09100003">
+    [003]
+   </a>
+   Leggiadre donne, infra molte bianche colombe agiugne pi&uacute; di bellezza uno nero corvo, che non farebbe un candido cigno; e cos&iacute; tra molti savi alcuna volta un men savio &egrave; non solamente un accrescere splendore e bellezza alla lor maturit&agrave;, ma ancora diletto e sollazzo.
+   <a name="p09100004">
+    [004]
+   </a>
+   Per la qual cosa, essendo voi tutte discretissime e moderate, io, il qual sento anzi dello scemo che no, faccendo la vostra virt&uacute; pi&uacute; lucente col mio difetto pi&uacute; vi debbo esser caro che se con pi&uacute; valore quella facessi divenir pi&uacute; oscura; e per conseguente pi&uacute; largo arbitrio debbo avere in dimostrarmi tal qual io sono, e pi&uacute; pazientemente dee da voi esser sostenuto che non dovrebbe se io pi&uacute; savio fossi, quel dicendo che io dir&ograve;.
+   <a name="p09100005">
+    [005]
+   </a>
+   Dirovvi adunque una novella non troppo lunga, nella quale comprenderete quanto diligentemente si convengano osservare le cose imposte da coloro che alcuna cosa per forza d'incantamento fanno, e quanto piccol fallo in quelle commesso ogni cosa guasti dallo 'ncantator fatta.
+  </p>
+ </div3>
+ <p>
+  <a name="p09100006">
+   [006]
+  </a>
+  L'altr'anno fu a
+  <name placeref="barletta" type="place">
+   Barletta
+  </name>
+  un prete, chiamato donno
+  <name persref="giovannidibarolo" type="person">
+   Gianni di Barolo
+  </name>
+  , il qual, per ci&ograve; che povera chiesa avea, per sostentar la vita sua, con una cavalla cominci&ograve; a portar mercatantia in qua e in l&agrave; per le fiere di
+  <name placeref="puglia" type="place">
+   Puglia
+  </name>
+  e a comperare e a vendere.
+  <a name="p09100007">
+   [007]
+  </a>
+  E cos&iacute; andando, prese stretta dimestichezza con uno che si chiamava
+  <name persref="pietrodatresanti" type="person">
+   Pietro da Tresanti
+  </name>
+  , che quello medesimo mestiere con uno suo asino faceva e in segno d'amorevolezza e d'amist&agrave;, alla guisa pugliese, nol chiamava se non compar
+  <name persref="pietrodatresanti" type="person">
+   Pietro
+  </name>
+  ; e quante volte in
+  <name placeref="barletta" type="place">
+   Barletta
+  </name>
+  arrivava, sempre alla chiesa sua nel menava e quivi il teneva seco a albergo e come poteva l'onorava.
+ </p>
+ <p>
+  <a name="p09100008">
+   [008]
+  </a>
+  Compar
+  <name persref="pietrodatresanti" type="person">
+   Pietro
+  </name>
+  d'altra parte, essendo poverissimo e avendo una piccola casetta in
+  <name placeref="tresanti" type="place">
+   Tresanti
+  </name>
+  appena bastevole a lui e ad una sua giovane e bella moglie e all'asino suo, quante volte donno
+  <name persref="giovannidibarolo" type="person">
+   Gianni
+  </name>
+  in
+  <name placeref="tresanti" type="place">
+   Tresanti
+  </name>
+  capitava tante sel menava a casa, e come poteva, in riconoscimento dell'onor che da lui in
+  <name placeref="barletta" type="place">
+   Barletta
+  </name>
+  riceveva, l'onorava.
+  <a name="p09100009">
+   [009]
+  </a>
+  Ma pure al fatto dello albergo, non avendo compar
+  <name persref="pietrodatresanti" type="person">
+   Pietro
+  </name>
+  se non un piccol letticello, nel quale con la sua bella moglie dormiva, onorar nol poteva come voleva, ma conveniva che, essendo in una sua stalletta allato all'asino suo allogata la cavalla di donno
+  <name persref="giovannidibarolo" type="person">
+   Gianni
+  </name>
+  , che egli allato a lei sopra alquanto di paglia si giacesse.
+  <a name="p09100010">
+   [010]
+  </a>
+  La donna, sappiendo l'onor che il prete al marito faceva a
+  <name placeref="barletta" type="place">
+   Barletta
+  </name>
+  , era pi&uacute; volte, quando il prete vi veniva, volutasene andare a dormire con una sua vicina, che avea nome
+  <name persref="zitacarapresa" type="person">
+   Zita Carapresa di Giudice Leo
+  </name>
+  , acci&ograve; che il prete col marito dormisse nel letto, e avevalo molte volte al prete detto, ma egli non aveva mai voluto.
+ </p>
+ <p>
+  <a name="p09100011">
+   [011]
+  </a>
+  E tra l'altre volte, una le disse:
+  <q direct="unspecified" who="giovannidibarolo">
+   Comar
+   <name persref="gemmata" type="person">
+    Gemmata
+   </name>
+   , non ti tribolar di me, ch&eacute; io sto, bene, per ci&ograve; che quando mi piace io fo questa mia cavalla diventare una bella zitella e stommi con essa, e poi quando voglio la fo diventar cavalla; e perci&ograve; non mi partirei da lei.
+  </q>
+ </p>
+ <p>
+  <a name="p09100012">
+   [012]
+  </a>
+  La giovane si maravigli&ograve; e credettelo e al marito il disse, agiugnendo:
+  <q direct="unspecified" who="gemmata">
+   Se egli &egrave; cos&iacute; tuo come tu di', ch&eacute; non ti fai tu insegnare quello incantesimo, ch&eacute; tu possa far cavalla di me e fare i fatti tuoi con l'asino e con la cavalla, e guadagneremo due cotanti? E quando a casa fossimo tornati, mi potresti rifar femina come io sono.
+  </q>
+ </p>
+ <p>
+  <a name="p09100013">
+   [013]
+  </a>
+  Compar
+  <name persref="pietrodatresanti" type="person">
+   Pietro
+  </name>
+  , che era anzi grossetto uom che no, credette questo fatto e accordossi al consiglio e, come meglio seppe, cominci&ograve; a sollicitar donno
+  <name persref="giovannidibarolo" type="person">
+   Gianni
+  </name>
+  che questa cosa gli dovesse insegnare; donno
+  <name persref="giovannidibarolo" type="person">
+   Gianni
+  </name>
+  s'ingegn&ograve; assai di trarre costui di questa sciocchezza, ma pur non potendo disse:
+  <q direct="unspecified" who="giovannidibarolo">
+   Ecco, poi che voi pur volete, domattina ci leveremo, come noi sogliamo, anzi d&iacute; e io vi mosterr&ograve; come si fa. &Egrave; il vero che quello che pi&uacute; &egrave; malagevole in questa cosa si &egrave; l'appiccar la coda, come tu vedrai.
+  </q>
+ </p>
+ <p>
+  <a name="p09100014">
+   [014]
+  </a>
+  Compar
+  <name persref="pietrodatresanti" type="person">
+   Pietro
+  </name>
+  e comar
+  <name persref="gemmata" type="person">
+   Gemmata
+  </name>
+  , a pena avendo la notte dormito con tanto desidero questo fatto aspettavano, come vicino a d&iacute; fu, si levarono e chiamarono donno
+  <name persref="giovannidibarolo" type="person">
+   Gianni
+  </name>
+  , il quale, in camiscia levatosi, venne nella cameretta di compar
+  <name persref="pietrodatresanti" type="person">
+   Pietro
+  </name>
+  e disse:
+  <q direct="unspecified" who="giovannidibarolo">
+   Io non so al mondo persona a cui io questo facessi se non a voi, e per ci&ograve;, poi che vi pur piace, io il far&ograve;: vero &egrave; che far vi conviene quello che io vi dir&ograve;, se voi volete che venga fatto.
+  </q>
+ </p>
+ <p>
+  <a name="p09100015">
+   [015]
+  </a>
+  Costoro dissero di far ci&ograve; che egli dicesse: per che donno
+  <name persref="giovannidibarolo" type="person">
+   Gianni
+  </name>
+  , preso un lume, il pose in mano a compar
+  <name persref="pietrodatresanti" type="person">
+   Pietro
+  </name>
+  e dissegli:
+  <q direct="unspecified" who="giovannidibarolo">
+   Guata ben come io far&ograve;, e che tu tenghi bene a men te come io dir&ograve;; e guardati, quanto tu hai caro di non guastare ogni cosa, che, per cosa che tu oda o veggia, tu non dica una parola sola; e priega Iddio che la coda s'appicchi bene.
+  </q>
+ </p>
+ <p>
+  <a name="p09100016">
+   [016]
+  </a>
+  Compar
+  <name persref="pietrodatresanti" type="person">
+   Pietro
+  </name>
+  , preso il lume, disse che ben lo farebbe.
+ </p>
+ <p>
+  <a name="p09100017">
+   [017]
+  </a>
+  Appresso donno
+  <name persref="giovannidibarolo" type="person">
+   Gianni
+  </name>
+  fece spogliare ignudanata comar
+  <name persref="gemmata" type="person">
+   Gemmata
+  </name>
+  , e fecela stare con le mani e co' piedi in terra a guisa che stanno le cavalle, ammaestrandola similmente che di cosa che avvenisse motto non facesse; e con le mani cominciandole a toccare il viso e la testa, cominci&ograve; a dire:
+  <q direct="unspecified" who="giovannidibarolo">
+   Questa sia bella testa di cavalla
+  </q>
+  ; e toccandole i capelli, disse:
+  <q direct="unspecified" who="giovannidibarolo">
+   Questi sieno belli crini di cavalla
+  </q>
+  ;
+  <a name="p09100018">
+   [018]
+  </a>
+  e poi toccandole le braccia, disse:
+  <q direct="unspecified" who="giovannidibarolo">
+   E queste sieno belle gambe e belli piedi di cavalla
+  </q>
+  ; poi toccandole il petto e trovandolo sodo e tondo, risvegliandosi tale che non era chiamato e su levandosi, disse:
+  <q direct="unspecified" who="giovannidibarolo">
+   E questo sia bel petto di cavalla
+  </q>
+  ; e cos&iacute; fece alla schiena e al ventre e alle groppe e alle coscie e alle gambe; e ultimamente, niuna cosa restandogli a fare se non la coda, levata la camiscia e preso il piuolo col quale egli piantava gli uomini e prestamente nel solco per ci&ograve; fatto messolo, disse:
+  <q direct="unspecified" who="giovannidibarolo">
+   E questa sia bella coda di cavalla.
+  </q>
+ </p>
+ <p>
+  <a name="p09100019">
+   [019]
+  </a>
+  Compar
+  <name persref="pietrodatresanti" type="person">
+   Pietro
+  </name>
+  , che attentamente infino allora aveva ogni cosa guardata, veggendo questa ultima e non parendonegli bene disse:
+  <q direct="unspecified" who="pietrodatresanti">
+   O donno
+   <name persref="giovannidibarolo" type="person">
+    Gianni
+   </name>
+   , io non vi voglio coda, io non vi voglio coda.
+  </q>
+ </p>
+ <p>
+  <a name="p09100020">
+   [020]
+  </a>
+  Era gi&agrave; l'umido radicale per lo quale tutte le piante s'appiccano venuto, quando donno
+  <name persref="giovannidibarolo" type="person">
+   Gianni
+  </name>
+  tiratolo indietro, disse:
+  <q direct="unspecified" who="giovannidibarolo">
+   Ohim&egrave;, compar
+   <name persref="pietrodatresanti" type="person">
+    Pietro
+   </name>
+   , che hai tu fatto? non ti diss'io, che tu non facessi motto di cosa che tu vedessi? La cavalla era per esser fatta, ma tu favellando hai guasto ogni cosa, n&eacute; pi&uacute; ci ha modo di poterla rifare oggimai.
+  </q>
+ </p>
+ <p>
+  <a name="p09100021">
+   [021]
+  </a>
+  Compar
+  <name persref="pietrodatresanti" type="person">
+   Pietro
+  </name>
+  disse:
+  <q direct="unspecified" who="pietrodatresanti">
+   Bene sta, io non vi voleva quella coda io: perch&eacute; non diciavate voi a me `Falla tu'? E anche l'appiccavate troppo bassa.
+  </q>
+ </p>
+ <p>
+  <a name="p09100022">
+   [022]
+  </a>
+  Disse donno
+  <name persref="giovannidibarolo" type="person">
+   Gianni
+  </name>
+  :
+  <q direct="unspecified" who="giovannidibarolo">
+   Perch&eacute; tu non l'avresti per la prima volta saputa appiccar s&iacute; com'io.
+  </q>
+ </p>
+ <p>
+  <a name="p09100023">
+   [023]
+  </a>
+  La giovane, queste parole udendo, levatasi in pi&egrave; di buona f&eacute; disse al marito:
+  <q direct="unspecified" who="gemmata">
+   Deh, bestia che tu se', perch&eacute; hai tu guasti li tuoi fatti e' miei? qual cavalla vedest&uacute; mai senza coda? Se m'aiuti Iddio, tu se' povero, ma egli sarebbe ragione che tu fossi molto pi&uacute;.
+  </q>
+ </p>
+ <p>
+  <a name="p09100024">
+   [024]
+  </a>
+  Non avendo adunque pi&uacute; modo a dover fare della giovane cavalla, per le parole che dette avea compar
+  <name persref="pietrodatresanti" type="person">
+   Pietro
+  </name>
+  , ella dolente e malinconosa si rivest&iacute;, e compar
+  <name persref="pietrodatresanti" type="person">
+   Pietro
+  </name>
+  con uno asino, come usato era, attese a fare il suo mestiere antico, e con donno
+  <name persref="giovannidibarolo" type="person">
+   Gianni
+  </name>
+  insieme n'and&ograve; alla fiera di
+  <name placeref="bitonto" type="place">
+   Bitonto
+  </name>
+  n&eacute; mai pi&uacute; di tal servigio il richiese.
+ </p>
+</div>

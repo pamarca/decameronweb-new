@@ -3,106 +3,117 @@ title: "Novel V"
 day: "ennov0505"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0505" type="novella" who="neifile">
-   <head>
-    Novel V
-   </head>
-   <argument>
-    <p>
-     <milestone id="p05050001"/>
-     <!--(i)-->
-     Guidotto da Cremona dies leaving a girl to Giacomino da
+<div id="nov0505" type="novella" who="neifile">
+ <h1>
+  Novel V
+ </h1>
+ <argument>
+  <p>
+   <a name="p05050001">
+    [001]
+   </a>
+   Guidotto da Cremona dies leaving a girl to Giacomino da
  Pavia. She has two lovers in Faenza, to wit, Giannole
  di Severino and Minghino di Mingole, who fight
  about her. She is discovered to be Giannole's sister,
  and is given to Minghino to wife.
-     <!--(/i)-->
-    </p>
-   </argument>
-   <p>
-    <h3>
-     [Voice: neifile]
-    </h3>
-   </p>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p05050002"/>
-     <!--(sc)-->
-     All
-     <!--(/sc)-->
-     the ladies laughed so heartily over the story of the
+  </p>
+ </argument>
+ <p>
+  <h3>
+   [Voice: neifile]
+  </h3>
+ </p>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p05050002">
+    [002]
+   </a>
+   All
+   the ladies laughed so heartily over the story of the
  nightingale, that, even when Filostrato had finished, they could not control
  their merriment. However, when the laughter was somewhat
  abated, the queen said:
-     <q direct="unspecified">
-      Verily if thou didst yesterday afflict us,
+   <q direct="unspecified">
+    Verily if thou didst yesterday afflict us,
  to-day thou hast tickled us to such purpose that none of us may
  justly complain of thee.
-     </q>
-     Then, as the turn had now come round
+   </q>
+   Then, as the turn had now come round
  to Neifile, she bade her give them a story. And thus, blithely,
  Neifile began:
-    </p>
-   </div3>
-   <div3 type="commentary" who="neifile">
-    <p>
-     <milestone id="p05050003"/>
-     As Filostrato went to Romagna for the matter of
+  </p>
+ </div3>
+ <div3 type="commentary" who="neifile">
+  <p>
+   <a name="p05050003">
+    [003]
+   </a>
+   As Filostrato went to Romagna for the matter of
  his discourse, I too am fain to make a short journey through the
  same country in what I am about to relate to you.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p05050004"/>
-    I say, then, that there dwelt of yore in the city of Fano two
+  </p>
+ </div3>
+ <p>
+  <a name="p05050004">
+   [004]
+  </a>
+  I say, then, that there dwelt of yore in the city of Fano two
  Lombards, the one ycleped Guidotto da Cremona and the other
  Giacomino da Pavia, men advanced in life, who, being soldiers, had
  spent the best part of their youth in feats of arms.
-    <milestone id="p05050005"/>
-    Now Guidotto,
+  <a name="p05050005">
+   [005]
+  </a>
+  Now Guidotto,
  being at the point of death, and having no son or any friend or kinsman
  in whom he placed more trust than in Giacomino, left him a
  girl of about ten years, and all that he had in the world; and so,
  having given him to know not a little of his affairs, he died.
-    <milestone id="p05050006"/>
-    About
+  <a name="p05050006">
+   [006]
+  </a>
+  About
  the same time the city of Faenza, which had long been at war and
  in a most sorry plight, began to recover some measure of prosperity;
  and thereupon liberty to return thither on honourable terms was
  accorded to all that were so minded. Whither, accordingly, Giacomino,
  who had dwelt there aforetime, and liked the place, returned
-    <pb n="31"/>
-    with all his goods and chattels, taking with him the girl left him by
+  with all his goods and chattels, taking with him the girl left him by
  Guidotto, whom he loved and entreated as his daughter.
-    <milestone id="p05050007"/>
-    The girl
+  <a name="p05050007">
+   [007]
+  </a>
+  The girl
  grew up as beautiful a maiden as was to be found in the city; and
  no less debonair and modest was she than fair. Wherefore she
  lacked not admirers; but above all two young men, both very gallant
  and of equal merit, the one Giannole di Severino, the other Minghino
  di Mingole, affected her with so ardent a passion, that, growing
  jealous, they came to hate one another with an inordinate hatred.
-    <milestone id="p05050008"/>
-    Right gladly would each have espoused her, she being now fifteen
+  <a name="p05050008">
+   [008]
+  </a>
+  Right gladly would each have espoused her, she being now fifteen
  years old, but that his kinsmen forbade it; wherefore seeing that
  neither might have her in an honourable way, each determined to
  compass his end as best he might.
-   </p>
-   <p>
-    <milestone id="p05050009"/>
-    Now Giacomino had in his house an ancient maid, and a man, by
+ </p>
+ <p>
+  <a name="p05050009">
+   [009]
+  </a>
+  Now Giacomino had in his house an ancient maid, and a man, by
  name Crivello, a very pleasant and friendly sort of fellow, with whom
  Giannole grew familiar, and in due time confided to him all his love,
  praying him to further the attainment of his desire, and promising to
  reward him handsomely, if he did so.
-    <milestone id="p05050010"/>
-    Crivello made answer:
-    <q direct="unspecified">
-     Thou
+  <a name="p05050010">
+   [010]
+  </a>
+  Crivello made answer:
+  <q direct="unspecified">
+   Thou
  must know that there is but one way in which I might be of service
  to thee in this affair: I might contrive that thou shouldst be where
  she is when Giacomino is gone off to supper; but, were I to presume
@@ -110,78 +121,99 @@ layout: "single"
  This, if it please thee, I promise to do for thee, and will be as good
  as my word; and then thou canst do whatever thou mayst deem
  most expedient.
-    </q>
-    <milestone id="p05050011"/>
-    Giannole said that he asked no more; and so 'twas
+  </q>
+  <a name="p05050011">
+   [011]
+  </a>
+  Giannole said that he asked no more; and so 'twas
  arranged.
-   </p>
-   <p>
-    <milestone id="p05050012"/>
-    Meanwhile Minghino on his part had made friends with the
+ </p>
+ <p>
+  <a name="p05050012">
+   [012]
+  </a>
+  Meanwhile Minghino on his part had made friends with the
  maid, on whom he had so wrought that she had carried several
  messages to the girl, and had gone far to kindle her to his love, and
  furthermore had promised to contrive that he should meet her when
  for any cause Giacomino should be from home in the evening.
-    <milestone id="p05050013"/>
-    And
+  <a name="p05050013">
+   [013]
+  </a>
+  And
  so it befell that no long time after these parleys, Giacomino, by
  Crivello's management, was to go sup at the house of a friend, and
  by preconcert between Crivello and Giannole, upon signal given,
  Giannole was to come to Giacomino's house and find the door open.
-    <milestone id="p05050014"/>
-    The maid, on her part, witting nought of the understanding between
+  <a name="p05050014">
+   [014]
+  </a>
+  The maid, on her part, witting nought of the understanding between
  Crivello and Giannole, let Minghino know that Giacomino would not
  sup at home, and bade him be near the house, so that he might come
  and enter it on sight of a signal from her.
-    <milestone id="p05050015"/>
-    The evening came; neither
-    <pb n="32"/>
-    of the lovers knew aught of what the other was about; but, being
+  <a name="p05050015">
+   [015]
+  </a>
+  The evening came; neither
+  of the lovers knew aught of what the other was about; but, being
  suspicious of one another, they came to take possession, each with
  his own company of armed friends. Minghino, while awaiting the
  signal, rested with his company in the house of one of his friends
  hard by the girl's house: Giannole with his company was posted a
  little farther off.
-    <milestone id="p05050016"/>
-    Crivello and the maid, when Giacomino was gone,
+  <a name="p05050016">
+   [016]
+  </a>
+  Crivello and the maid, when Giacomino was gone,
  did each their endeavour to get the other out of the way. Crivello
  said to the maid:
-    <q direct="unspecified">
-     How is it thou takest not thyself off to bed,
+  <q direct="unspecified">
+   How is it thou takest not thyself off to bed,
  but goest still hither and thither about the house?
-    </q>
-    <milestone id="p05050017"/>
-    And the maid
+  </q>
+  <a name="p05050017">
+   [017]
+  </a>
+  And the maid
  said to Crivello:
-    <q direct="unspecified">
-     Nay, but why goest thou not after thy master?
+  <q direct="unspecified">
+   Nay, but why goest thou not after thy master?
  Thou hast supped; what awaitest thou here?
-    </q>
-    <milestone id="p05050018"/>
-    And so, neither
+  </q>
+  <a name="p05050018">
+   [018]
+  </a>
+  And so, neither
       being able to make the other quit the post,
-    <milestone id="p05050019"/>
-    Crivello, the hour
+  <a name="p05050019">
+   [019]
+  </a>
+  Crivello, the hour
  concerted with Giannole being come, said to himself: What care
  I for her? If she will not keep quiet, 'tis like to be the worse for
  her. Whereupon he gave the signal, and hied him to the door,
  which he had no sooner opened, than Giannole entered with two of
  his companions, and finding the girl in the saloon, laid hands on her
  with intent to carry her off.
-    <milestone id="p05050020"/>
-    The girl struggled, and shrieked amain,
+  <a name="p05050020">
+   [020]
+  </a>
+  The girl struggled, and shrieked amain,
  as did also the maid. Minghino, fearing the noise, hasted to the
  spot with his companions; and, seeing that the girl was already being
  borne across the threshold, they drew their swords, and cried out in
  chorus:
-    <q direct="unspecified">
-     Ah! Traitors that ye are, ye are all dead men! 'Twill
+  <q direct="unspecified">
+   Ah! Traitors that ye are, ye are all dead men! 'Twill
  go otherwise than ye think for. What means this force?
-    </q>
-    Which
+  </q>
+  Which
  said, they fell upon them with their swords,
-    <milestone id="p05050021"/>
-    while the neighbours,
+  <a name="p05050021">
+   [021]
+  </a>
+  while the neighbours,
  alarmed by the noise, came hurrying forth with lights and arms, and
  protested that 'twas an outrage, and took Minghino's part. So, after
  a prolonged struggle, Minghino wrested the girl from Giannole, and
@@ -189,164 +221,197 @@ layout: "single"
  separated before the officers of the Governor of the city came up
  and arrested not a few of them; among them Minghino and Giannole
  and Crivello, whom they marched off to prison.
-    <milestone id="p05050022"/>
-    However,
+  <a name="p05050022">
+   [022]
+  </a>
+  However,
  peace being restored and Giacomino returned, 'twas with no little
  chagrin that he heard of the affair; but finding upon investigation
  that the girl was in no wise culpable, he was somewhat reassured;
  and determined, lest the like should again happen, to bestow the girl
  in marriage as soon as might be.
-   </p>
-   <p>
-    <milestone id="p05050023"/>
-    On the morrow the kinsfolk of the two lovers, having learned
+ </p>
+ <p>
+  <a name="p05050023">
+   [023]
+  </a>
+  On the morrow the kinsfolk of the two lovers, having learned
  the truth of the matter, and knowing what evil might ensue to the
-    <pb n="33"/>
-    captives, if Giacomino should be minded to take the course which
+  captives, if Giacomino should be minded to take the course which
  he reasonably might, came and gave him good words, beseeching him
  to let the kindly feeling, the love, which they believed he bore
  to them, his suppliants, count for more with him than the wrong
  that the hare-brained gallants had done him, and on their part and
  their own offering to make any amend that he might require.
-    <milestone id="p05050024"/>
-    Giacomino, who had seen many things in his time, and lacked not
+  <a name="p05050024">
+   [024]
+  </a>
+  Giacomino, who had seen many things in his time, and lacked not
  sound sense, made answer briefly:
-    <q direct="unspecified">
-     Gentlemen, were I in my own
+  <q direct="unspecified">
+   Gentlemen, were I in my own
  country, as I am in yours, I hold myself in such sort your friend
  that nought would I do in this matter, or in any other, save what
  might be agreeable to you:
-     <milestone id="p05050025"/>
-     besides which, I have the more reason
+   <a name="p05050025">
+    [025]
+   </a>
+   besides which, I have the more reason
  to consider your wishes, because 'tis against you yourselves that you
  have offended, inasmuch as this damsel, whatever many folk may
  suppose, is neither of Cremona nor of Pavia, but is of Faenza, albeit
  neither I nor she, nor he from whom I had her, did ever wot whose
  daughter she was: wherefore, touching that you ask of me, I will
  even do just as you bid me.
-    </q>
-    <milestone id="p05050026"/>
-    The worthy men found it passing
+  </q>
+  <a name="p05050026">
+   [026]
+  </a>
+  The worthy men found it passing
  strange that the girl should be of Faenza; and having thanked Giacomino
  for his handsome answer, they besought him that he would be
  pleased to tell them how she had come into his hands, and how he
  knew that she was of Faenza.
-    <milestone id="p05050027"/>
-    To whom Giacomino replied on
+  <a name="p05050027">
+   [027]
+  </a>
+  To whom Giacomino replied on
  this wise:
-    <q direct="unspecified">
-     A comrade and friend I had, Guidotto da Cremona,
+  <q direct="unspecified">
+   A comrade and friend I had, Guidotto da Cremona,
  who, being at the point of death, told me that, when this city of
  Faenza was taken by the Emperor Frederic, he and his comrades,
  entering one of the houses during the sack, found there good store of
  booty, and never a soul save this girl,
-     <milestone id="p05050028"/>
-     who, being two years old or
+   <a name="p05050028">
+    [028]
+   </a>
+   who, being two years old or
  thereabouts, greeted him as father as he came up the stairs; wherefore
  he took pity on her, and carried her with whatever else was in the
  house away with him to Fano; where on his deathbed he left her to
  me, charging me in due time to bestow her in marriage, and give her
  all his goods and chattels by way of dowry:
-     <milestone id="p05050029"/>
-     but, albeit she is now
+   <a name="p05050029">
+    [029]
+   </a>
+   but, albeit she is now
  of marriageable age, I have not been able to provide her with a
  husband to my mind; though right glad should I be to do so, that
  nought like the event of yesterday may again befall me.
-    </q>
-   </p>
-   <p>
-    <milestone id="p05050030"/>
-    Now among the rest of those present was one Guglielmo da
+  </q>
+ </p>
+ <p>
+  <a name="p05050030">
+   [030]
+  </a>
+  Now among the rest of those present was one Guglielmo da
  Medicina, who had been with Guidotto on that occasion, and knew
  well whose house it was that Guidotto had sacked; and seeing the
  owner there among the rest, he went up to him, and said:
-    <q direct="unspecified">
-     Dost
-     <pb n="34"/>
-     hear, Bernabuccio, what Giacomino says?
-    </q>
-    <milestone id="p05050031"/>
-    <q direct="unspecified">
-     Ay,
-    </q>
-    answered
+  <q direct="unspecified">
+   Dost
+   hear, Bernabuccio, what Giacomino says?
+  </q>
+  <a name="p05050031">
+   [031]
+  </a>
+  <q direct="unspecified">
+   Ay,
+  </q>
+  answered
  Bernabuccio,
-    <q direct="unspecified">
-     and I gave the more heed thereto, for that I call to mind
+  <q direct="unspecified">
+   and I gave the more heed thereto, for that I call to mind
  that during those disorders I lost a little daughter of just the age that
  Giacomino speaks of.
-    </q>
-    <milestone id="p05050032"/>
-    <q direct="unspecified">
-     'Tis verily she then,
-    </q>
-    said Guglielmo,
-    <q direct="unspecified">
-     for once when I was with Guidotto I heard him describe what house
+  </q>
+  <a name="p05050032">
+   [032]
+  </a>
+  <q direct="unspecified">
+   'Tis verily she then,
+  </q>
+  said Guglielmo,
+  <q direct="unspecified">
+   for once when I was with Guidotto I heard him describe what house
  it was that he had sacked, and I wist that 'twas thine. Wherefore
  search thy memory if there be any sign by which thou thinkest to
  recognize her, and let her be examined that thou mayst be assured that
  she is thy daughter.
-    </q>
-    <milestone id="p05050033"/>
-    So Bernabuccio pondered a while, and then
+  </q>
+  <a name="p05050033">
+   [033]
+  </a>
+  So Bernabuccio pondered a while, and then
  recollected that she ought to have a scar, shewing like a tiny cross,
  above her left ear, being where he had excised a tumour a little while
  before that affair: wherefore without delay he went up to Giacomino,
  who was still there, and besought him to let him go home with
  him and see the damsel.
-    <milestone id="p05050034"/>
-    Giacomino gladly did so, and no sooner was
+  <a name="p05050034">
+   [034]
+  </a>
+  Giacomino gladly did so, and no sooner was
  the girl brought into Bernabuccio's presence, than, as he beheld her,
  'twas as if he saw the face of her mother, who was still a beautiful
  woman. However, he would not rest there, but besought Giacomino
  of his grace to permit him to lift a lock or two of hair above her left
  ear; whereto Giacomino consented.
-    <milestone id="p05050035"/>
-    So Bernabuccio approached
+  <a name="p05050035">
+   [035]
+  </a>
+  So Bernabuccio approached
  her where she stood somewhat shamefast, and with his right hand
  lifted her locks, and, seeing the cross, wist that in very truth she was
  his daughter, and tenderly wept and embraced her, albeit she withstood
  him;
-    <milestone id="p05050036"/>
-    and then, turning to Giacomino, he said:
-    <q direct="unspecified">
-     My
+  <a name="p05050036">
+   [036]
+  </a>
+  and then, turning to Giacomino, he said:
+  <q direct="unspecified">
+   My
  brother, the girl is my daughter; 'twas my house that Guidotto
  sacked, and so sudden was the assault that my wife, her mother,
  forgot her, and we have always hitherto supposed, that, my house
  being burned that same day, she perished in the flames.
-    </q>
-    <milestone id="p05050037"/>
-    Catching
+  </q>
+  <a name="p05050037">
+   [037]
+  </a>
+  Catching
  his words, and seeing that he was advanced in years, the girl inclined
  to believe him, and impelled by some occult instinct, suffered his
  embraces, and melting, mingled her tears with his.
-    <milestone id="p05050038"/>
-    Bernabuccio
+  <a name="p05050038">
+   [038]
+  </a>
+  Bernabuccio
  forthwith sent for her mother and her sisters and other kinswomen
  and her brothers, and having shewn her to them all, and told the
  story, after they had done her great cheer and embraced her a
  thousand times, to Giacomino's no small delight, he brought her
  home with him.
-    <milestone id="p05050039"/>
-    Which coming to the ears of the Governor of the
+  <a name="p05050039">
+   [039]
+  </a>
+  Which coming to the ears of the Governor of the
  city, the worthy man, knowing that Giannole, whom he had in
  ward, was Bernabuccio's son and the girl's brother, made up his
  mind to deal leniently with Giannole: wherefore he took upon
-    <pb n="35"/>
-    himself the part of mediator in the affair, and having made peace
+  himself the part of mediator in the affair, and having made peace
  between Bernabuccio and Giacomino and Giannole and Minghino,
  gave Agnesa--such was the damsel's name--to Minghino to wife, to
  the great delight of all Minghino's kinsfolk, and set at liberty not
  only Giannole and Minghino but Crivello, and the others their
  confederates in the affair.
-    <milestone id="p05050040"/>
-    Whereupon Minghino with the blithest
+  <a name="p05050040">
+   [040]
+  </a>
+  Whereupon Minghino with the blithest
  of hearts wedded Agnesa with all due pomp and circumstance, and
  brought her home, where for many a year thereafter he lived with
  her in peace and prosperity.
-   </p>
-  </div>
- </body>
-</html>
+ </p>
+</div>

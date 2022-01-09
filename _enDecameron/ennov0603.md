@@ -3,62 +3,66 @@ title: "Novel III"
 day: "ennov0603"
 layout: "single"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div id="nov0603" type="novella" who="lauretta">
-   <head>
-    Novel III
-   </head>
-   <argument>
-    <p>
-     <milestone id="p06030001"/>
-     <!--(i)-->
-     Monna Nonna de' Pulci by a ready retort silences the
+<div id="nov0603" type="novella" who="lauretta">
+ <h1>
+  Novel III
+ </h1>
+ <argument>
+  <p>
+   <a name="p06030001">
+    [001]
+   </a>
+   Monna Nonna de' Pulci by a ready retort silences the
 scarce seemly jesting of the Bishop of Florence.
-     <!--(/i)-->
-    </p>
-   </argument>
-   <p>
-    <h3>
-     [Voice: lauretta]
-    </h3>
-   </p>
-   <div3 type="commentary" who="author">
-    <p>
-     <milestone id="p06030002"/>
-     <!--(sc)-->
-     Pampinea's
-     <!--(/sc)-->
-     story ended, and praise not a little
+  </p>
+ </argument>
+ <p>
+  <h3>
+   [Voice: lauretta]
+  </h3>
+ </p>
+ <div3 type="commentary" who="author">
+  <p>
+   <a name="p06030002">
+    [002]
+   </a>
+   Pampinea's
+   story ended, and praise not a little
 	bestowed on Cisti alike for his apt speech and for his handsome present, the queen was
 	pleased to call forthwith for a story from Lauretta, who blithely thus began:
-    </p>
-   </div3>
-   <div3 type="commentary" who="lauretta">
-    <p>
-     <milestone id="p06030003"/>
-     Debonair my ladies, the excellency of wit, and our lack thereof, have
+  </p>
+ </div3>
+ <div3 type="commentary" who="lauretta">
+  <p>
+   <a name="p06030003">
+    [003]
+   </a>
+   Debonair my ladies, the excellency of wit, and our lack thereof, have
 	been noted with no small truth first by Pampinea and after her by Filomena. To which topic
 	'twere bootless to return: wherefore to that which has been said touching the nature of
 	wit I purpose but to add one word, to remind you that its bite should be as a sheep's bite
 	and not as a dog's; for if it bite like a dog, 'tis no longer wit but discourtesy.
-     <milestone id="p06030004"/>
-     With which maxim the words of Madonna Oretta, and the apt reply
+   <a name="p06030004">
+    [004]
+   </a>
+   With which maxim the words of Madonna Oretta, and the apt reply
 	of Cisti, accorded excellently. True indeed it is that if 'tis by way of retort, and one
 	that has received a dog's bite gives the biter a like bite in return, it does not seem to
 	be reprehensible, as otherwise it would have been.  Wherefore one must consider how and
 	when and on whom and likewise where one exercises one's wit.
-     <milestone id="p06030005"/>
-     By
+   <a name="p06030005">
+    [005]
+   </a>
+   By
 	ill observing which matters one of our prelates did once upon a time receive no less
 	shrewd a bite than he gave; as I will shew you in a short story.
-    </p>
-   </div3>
-   <p>
-    <milestone id="p06030006"/>
-    While Messer Antonio d'Orso, a
+  </p>
+ </div3>
+ <p>
+  <a name="p06030006">
+   [006]
+  </a>
+  While Messer Antonio d'Orso, a
 prelate both worthy and wise,
  was Bishop of Florence, there came thither a
 Catalan gentleman,
@@ -69,21 +73,22 @@ marshal.
 with especial favour was the very beautiful niece of a brother of the
  said
 bishop.
-    <milestone id="p06030007"/>
-    And having learned that her husband, though of good
-    <pb n="81"/>
-    family, was but a caitiff, and avaricious in the last degree, he
+  <a name="p06030007">
+   [007]
+  </a>
+  And having learned that her husband, though of good
+  family, was but a caitiff, and avaricious in the last degree, he
 struck
  a bargain with him that he should lie one night with the lady for
 
 five hundred florins of gold: whereupon he had the same number of
 
 popolins
-    <note>
-     A coin of the same size and design as the fiorino d'oro, but
+  <note>
+   A coin of the same size and design as the fiorino d'oro, but
 worth only two soldi.
-    </note>
-    of silver, which were then current, gilded,
+  </note>
+  of silver, which were then current, gilded,
 and having
  lain
  with the lady, albeit against her will, gave them to her
@@ -92,18 +97,20 @@ husband.
 with the loss and the laugh against him; and the bishop, like a wise
  man,
 feigned to know nought of the affair.
-    <milestone id="p06030008"/>
-    And so the bishop and
+  <a name="p06030008">
+   [008]
+  </a>
+  And so the bishop and
  the marshal
 being much together, it befell that on St. John's day, as
  they rode side
 by side down the street whence they start to run the
  palio,
-    <note>
-     A sort of
+  <note>
+   A sort of
 horse-race still in vogue at Siena.
-    </note>
-    and took
+  </note>
+  and took
  note of the ladies,
 the bishop espied a young gentle-woman,
  whom this present pestilence has
@@ -111,8 +118,10 @@ reft from us, Monna Nonna
  de' Pulci by name, a cousin of Messer Alesso
 Rinucci, whom you all
  must know;
-    <milestone id="p06030009"/>
-    whom, for that she was lusty and fair,
+  <a name="p06030009">
+   [009]
+  </a>
+  whom, for that she was lusty and fair,
 and of excellent
  discourse and a good courage, and but just settled with
 her husband
@@ -121,12 +130,14 @@ then,
  being close beside her, he laid his hand on the marshal's shoulder
 and
  said to her:
-    <q direct="unspecified">
-     Nonna, what thinkest thou of this gentleman? That
+  <q direct="unspecified">
+   Nonna, what thinkest thou of this gentleman? That
 thou mightst make a conquest of him?
-    </q>
-    <milestone id="p06030010"/>
-    Which words the lady
+  </q>
+  <a name="p06030010">
+   [010]
+  </a>
+  Which words the lady
  resented as
 a jibe at her honour, and like to tarnish it in the eyes
  of those, who
@@ -136,13 +147,15 @@ bestowing a thought upon the vindication of her
  honour, but being minded
 to return blow for blow, she retorted
  hastily:
-    <q direct="unspecified">
-     Perchance, Sir, he might
+  <q direct="unspecified">
+   Perchance, Sir, he might
 not make a conquest of me;
  but if he did so, I should want good money.
-    </q>
-    <milestone id="p06030011"/>
-    The answer stung
+  </q>
+  <a name="p06030011">
+   [011]
+  </a>
+  The answer stung
  both the marshal and the bishop to the quick, the one as
 contriver
  of the scurvy trick played upon the bishop's brother in regard
@@ -153,13 +166,13 @@ brother's
 face,
  but took themselves off in shame and silence, and said never a word
 more to her that day.
-   </p>
-   <p>
-    <milestone id="p06030012"/>
-    In such a case, then, the lady having received
+ </p>
+ <p>
+  <a name="p06030012">
+   [012]
+  </a>
+  In such a case, then, the lady having received
 a bite, 'twas allowable
  in her wittily to return it.
-   </p>
-  </div>
- </body>
-</html>
+ </p>
+</div>

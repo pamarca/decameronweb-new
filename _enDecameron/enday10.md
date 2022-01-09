@@ -3,43 +3,25 @@ title: "Tenth Day"
 day: "day10"
 layout: "single-xml"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div1 id="day10" ruler="panfilo" type="Day">
-   <head>
-    Tenth Day
-   </head>
-   <argument>
-    <p>
-     <h3>
-      [Voice: author]
-     </h3>
-    </p>
-    <p>
-     <milestone id="p10990001"/>
-     <!--(i)-->
-     Endeth here the ninth day of the Decameron, and
+<div id="day10" ruler="panfilo" type="Day">
+ <h1>
+  Tenth Day
+ </h1>
+ <argument>
+  <p>
+   <h2>
+    [Voice: author]
+   </h2>
+  </p>
+  <p>
+   <a name="p10990001">
+    [001]
+   </a>
+   Endeth here the ninth day of the Decameron, and
  beginneth the tenth, in which, under the rule of
  Pamfilo, discourse is had of such as in matters of
  love, or otherwise, have done something with liberality
  or magnificence.
-     <!--(/i)-->
-    </p>
-   </argument>
-   <!--***********************************Introduction*********************************-->
-   <!--***********************************Novella 1*********************************-->
-   <!--***********************************Novella 2*********************************-->
-   <!--***********************************Novella 3*********************************-->
-   <!--***********************************Novella 4*********************************-->
-   <!--***********************************Novella 5*********************************-->
-   <!--***********************************Novella 6*********************************-->
-   <!--***********************************Novella 7*********************************-->
-   <!--***********************************Novella 8*********************************-->
-   <!--***********************************Novella 9*********************************-->
-   <!--***********************************Novella 10*********************************-->
-   <!--***********************************Conclusion*********************************-->
-  </div1>
- </body>
-</html>
+  </p>
+ </argument>
+</div>

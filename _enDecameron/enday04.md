@@ -3,42 +3,24 @@ title: "Fourth Day"
 day: "day04"
 layout: "single-xml"
 ---
-<html>
- <head>
- </head>
- <body>
-  <div1 id="day04" ruler="filostrato" type="Day">
-   <head>
-    Fourth Day
-   </head>
-   <argument>
-    <p>
-     <h3>
-      [Voice: author]
-     </h3>
-    </p>
-    <p>
-     <milestone id="p04990001"/>
-     <!--(i)-->
-     Endeth here the third day of the Decameron, beginneth
+<div id="day04" ruler="filostrato" type="Day">
+ <h1>
+  Fourth Day
+ </h1>
+ <argument>
+  <p>
+   <h2>
+    [Voice: author]
+   </h2>
+  </p>
+  <p>
+   <a name="p04990001">
+    [001]
+   </a>
+   Endeth here the third day of the Decameron, beginneth
  the fourth, in which, under the rule of Filostrato,
  discourse is had of those whose loves had a disastrous
  close.
-     <!--(/i)-->
-    </p>
-   </argument>
-   <!--*********************Introduction******************************-->
-   <!--*********************Novella 1******************************-->
-   <!--************************Novella 2**************************-->
-   <!--***************************Novella 3*************************-->
-   <!--**************************Novella 4******************************-->
-   <!--********************************Novella 5*******************************-->
-   <!--***********************************Novella 6****************************-->
-   <!--*************************Novella 7*********************************-->
-   <!--*******************************Novella 8****************************-->
-   <!--*******************************Novella 9******************************-->
-   <!--********************************Novella 10***************************-->
-   <!--*****************************Conclusion*****************************-->
-  </div1>
- </body>
-</html>
+  </p>
+ </argument>
+</div>

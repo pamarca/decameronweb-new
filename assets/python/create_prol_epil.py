@@ -1,6 +1,6 @@
 import logging, os, pprint
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
 import bs4  # for assertions
 import helpers
 
@@ -9,6 +9,35 @@ english_xml_path = os.path.abspath( '../xml/engDecameron.xml' )
 italian_xml_path = os.path.abspath( '../xml/itDecameron.xml' )
 english_soup = helpers.load_xml(english_xml_path)
 italian_soup = helpers.load_xml(italian_xml_path)
+
+#remove div2+children and pb from div1
+def clean_div(soup):
+    #remove pb
+    for pb_tag in soup.find_all('pb'):
+        pb_tag.decompose()
+
+    #remove comments
+    comments = soup.find_all(text=lambda text:isinstance(text, Comment))
+    for comment in comments:
+        comment.extract()
+
+    #changing milestones
+    milestones = soup.select('milestone')
+    for milestone in milestones:
+        try:
+            mstone_id = milestone['id']
+        except:
+            mstone_id = 'None'
+
+        milestone.name = "a"
+        milestone['name'] = mstone_id
+        milestone.string = '[' + mstone_id[-3:] + ']'
+        del milestone['id']
+
+    # change head tag to h1
+    div_head = soup.select('head')
+    for head_tag in div_head:
+        head_tag.name = "h1"
 
 # add speaker line
 def add_speaker_line(soup):
@@ -25,6 +54,7 @@ def add_speaker_line(soup):
 #create prologue md file
 def prologue_md_file(soup, outpath, lang):
     prologue = soup.find('prologue')
+    prologue.name = "div"
     prologue_md = os.path.abspath('../../{}/'.format(outpath) + lang + prologue['id'] + '.md')
     #pretty_prologue = soup.front.prettify()
     with open(prologue_md, "w", encoding='utf-8') as file2:
@@ -36,8 +66,8 @@ def prologue_md_file(soup, outpath, lang):
             file2.write('---\n')
 
             #html structure
-            html_soup = BeautifulSoup('<html><head></head><body></body></html>', 'html.parser')
-            html_soup.body.append(prologue)
+            html_soup = BeautifulSoup('', 'html.parser')
+            html_soup.append(prologue)
             html_output = html_soup.prettify(formatter='html')
             file2.write(html_output)
     return
@@ -45,7 +75,9 @@ def prologue_md_file(soup, outpath, lang):
 #create epilogue md file
 def epilogue_md_file(soup, outpath, lang):
     epilogue = soup.find('epilogue')
+    epilogue.name = "div"
     trailer = soup.find('trailer')
+    trailer.name = "div"
     epilogue_md = os.path.abspath('../../{}/'.format(outpath) + lang + epilogue['id'] + '.md')
     #pretty_prologue = soup.front.prettify()
     with open(epilogue_md, "w", encoding='utf-8') as file2:
@@ -57,13 +89,15 @@ def epilogue_md_file(soup, outpath, lang):
             file2.write('---\n')
 
             #html structure
-            html_soup = BeautifulSoup('<html><head></head><body></body></html>', 'html.parser')
-            html_soup.body.append(epilogue)
-            html_soup.body.append(trailer)
+            html_soup = BeautifulSoup('', 'html.parser')
+            html_soup.append(epilogue)
+            html_soup.append(trailer)
             html_output = html_soup.prettify(formatter='html')
             file2.write(html_output)
     return
 
+clean_div_eng = clean_div(english_soup)
+clean_div_it = clean_div(italian_soup)
 
 speaker_eng = add_speaker_line(english_soup)
 speaker_it = add_speaker_line(italian_soup)

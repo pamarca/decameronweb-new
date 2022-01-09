@@ -41,18 +41,27 @@ def clean_div(soup):
 
 # add speaker line
 def add_speaker_line(soup):
-    sp_tag = soup.find('prologue')
-    sp_tag2 = soup.find('epilogue')
-    add_speaker = soup.new_tag('p')
-    add_speaker.string = '[Voice: author]'
+    #add speaker to proem
+    sp_tag_prol = soup.find('prologue')
+    add_speaker_prol = soup.new_tag('p')
+    add_speaker_prol.string = '[Voice: author]'
     #sp_tag.insert(2, add_speaker)
-    sp_tag.p.insert_before(add_speaker)
-    sp_tag2.p.insert_before(add_speaker)
-    add_speaker.string.wrap(soup.new_tag('h3'))
+    sp_tag_prol.p.insert_before(add_speaker_prol)
+    add_speaker_prol.string.wrap(soup.new_tag('h3'))
+
+    #add speaker to epologue
+    sp_tag_epil = soup.find('epilogue')
+    add_speaker_epil = soup.new_tag('p')
+    add_speaker_epil.string = '[Voice: author]'
+    sp_tag_epil.p.insert_before(add_speaker_epil)
+    add_speaker_epil.string.wrap(soup.new_tag('h3'))
+
     return
 
 #create prologue md file
 def prologue_md_file(soup, outpath, lang):
+    front = soup.find('front')
+    front.name = "div"
     prologue = soup.find('prologue')
     prologue.name = "div"
     prologue_md = os.path.abspath('../../{}/'.format(outpath) + lang + prologue['id'] + '.md')
@@ -67,7 +76,7 @@ def prologue_md_file(soup, outpath, lang):
 
             #html structure
             html_soup = BeautifulSoup('', 'html.parser')
-            html_soup.append(prologue)
+            html_soup.append(front)
             html_output = html_soup.prettify(formatter='html')
             file2.write(html_output)
     return

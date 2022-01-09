@@ -21,10 +21,11 @@ main:
 #itDecameron sidebar
 
 itDecameron:
+  - title: Proemio
+    url: /itDecameron/itProem/
   - title: Prima Giornata
+    url: /itDecameron/itday01/
     children:
-      - title: Argomento
-        url: /itDecameron/itday01/
       - title: Introduzione
         url: /itDecameron/itd01intro/
       - title: Novella Prima
@@ -50,9 +51,8 @@ itDecameron:
       - title: Conclusione
         url: /itDecameron/itd01conclu/
   - title: Seconda Giornata
+    url: /itDecameron/itday02/
     children:
-      - title: Argomento
-        url: /itDecameron/itday02/
       - title: Introduzione
         url: /itDecameron/itd02intro/
       - title: Novella Prima
@@ -78,9 +78,8 @@ itDecameron:
       - title: Conclusione
         url: /itDecameron/itd02conclu/
   - title: Terza Giornata
+    url: /itDecameron/itday03/
     children:
-      - title: Argomento
-        url: /itDecameron/itday03/
       - title: Introduzione
         url: /itDecameron/itd03intro/
       - title: Novella Prima
@@ -106,9 +105,8 @@ itDecameron:
       - title: Conclusione
         url: /itDecameron/itd03conclu/
   - title: Quarta Giornata
+    url: /itDecameron/itday04/
     children:
-      - title: Argomento
-        url: /itDecameron/itday04/
       - title: Introduzione
         url: /itDecameron/itd04intro/
       - title: Novella Prima
@@ -134,9 +132,8 @@ itDecameron:
       - title: Conclusione
         url: /itDecameron/itd04conclu/
   - title: Quinta Giornata
+    url: /itDecameron/itday05/
     children:
-      - title: Argomento
-        url: /itDecameron/itday05/
       - title: Introduzione
         url: /itDecameron/itd05intro/
       - title: Novella Prima
@@ -162,9 +159,8 @@ itDecameron:
       - title: Conclusione
         url: /itDecameron/itd05conclu/
   - title: Sesta Giornata
+    url: /itDecameron/itday06/
     children:
-      - title: Argomento
-        url: /itDecameron/itday06/
       - title: Introduzione
         url: /itDecameron/itd06intro/
       - title: Novella Prima
@@ -190,9 +186,8 @@ itDecameron:
       - title: Conclusione
         url: /itDecameron/itd06conclu/
   - title: Settima Giornata
+    url: /itDecameron/itday07/
     children:
-      - title: Argomento
-        url: /itDecameron/itday07/
       - title: Introduzione
         url: /itDecameron/itd07intro/
       - title: Novella Prima
@@ -218,9 +213,8 @@ itDecameron:
       - title: Conclusione
         url: /itDecameron/itd07conclu/
   - title: Ottava Giornata
+    url: /itDecameron/itday08/
     children:
-      - title: Argomento
-        url: /itDecameron/itday08/
       - title: Introduzione
         url: /itDecameron/itd08intro/
       - title: Novella Prima
@@ -246,9 +240,8 @@ itDecameron:
       - title: Conclusione
         url: /itDecameron/itd08conclu/
   - title: Nona Giornata
+    url: /itDecameron/itday09/
     children:
-      - title: Argomento
-        url: /itDecameron/itday09/
       - title: Introduzione
         url: /itDecameron/itd09intro/
       - title: Novella Prima
@@ -274,9 +267,8 @@ itDecameron:
       - title: Conclusione
         url: /itDecameron/itd09conclu/
   - title: Decima Giornata
+    url: /itDecameron/itday10/
     children:
-      - title: Argomento
-        url: /itDecameron/itday10/
       - title: Introduzione
         url: /itDecameron/itd10intro/
       - title: Novella Prima
@@ -301,15 +293,18 @@ itDecameron:
         url: /itDecameron/itnov1010/
       - title: Conclusione
         url: /itDecameron/itd10conclu/
+  - title: Epilogo
+    url: /itDecameron/itepilogue/
 
 
 #enDecameron sidebar
 
 enDecameron:
+  - title: Proem
+    url: /enDecameron/enproem/
   - title: First Day
+    url: /enDecameron/enday01/
     children:
-      - title: Argument
-        url: /enDecameron/enday01/
       - title: Introduction
         url: /enDecameron/end01intro/
       - title: Novel I
@@ -335,9 +330,8 @@ enDecameron:
       - title: Conclusion
         url: /enDecameron/end01conclu/
   - title: Second Day
+    url: /enDecameron/enday02/
     children:
-      - title: Argument
-        url: /enDecameron/enday02/
       - title: Introduction
         url: /enDecameron/end02intro/
       - title: Novel I
@@ -363,9 +357,8 @@ enDecameron:
       - title: Conclusion
         url: /enDecameron/end02conclu/
   - title: Third Day
+    url: /enDecameron/enday03/
     children:
-      - title: Argument
-        url: /enDecameron/enday03/
       - title: Introduction
         url: /enDecameron/end03intro/
       - title: Novel I
@@ -391,9 +384,8 @@ enDecameron:
       - title: Conclusion
         url: /enDecameron/end03conclu/
   - title: Fourth Day
+    url: /enDecameron/enday04/
     children:
-      - title: Argument
-        url: /enDecameron/enday04/
       - title: Introduction
         url: /enDecameron/end04intro/
       - title: Novel I
@@ -419,9 +411,8 @@ enDecameron:
       - title: Conclusion
         url: /enDecameron/end04conclu/
   - title: Fifth Day
+    url: /enDecameron/enday05/
     children:
-      - title: Argument
-        url: /enDecameron/enday05/
       - title: Introduction
         url: /enDecameron/end05intro/
       - title: Novel I
@@ -447,9 +438,8 @@ enDecameron:
       - title: Conclusion
         url: /enDecameron/end05conclu/
   - title: Sixth Day
+    url: /enDecameron/enday06/
     children:
-      - title: Argument
-        url: /enDecameron/enday06/
       - title: Introduction
         url: /enDecameron/end06intro/
       - title: Novel I
@@ -475,9 +465,8 @@ enDecameron:
       - title: Conclusion
         url: /enDecameron/end06conclu/
   - title: Seventh Day
+    url: /enDecameron/enday07/
     children:
-      - title: Argument
-        url: /enDecameron/enday07/
       - title: Introduction
         url: /enDecameron/end07intro/
       - title: Novel I
@@ -503,9 +492,8 @@ enDecameron:
       - title: Conclusion
         url: /enDecameron/end07conclu/
   - title: Eighth Day
+    url: /enDecameron/enday08/
     children:
-      - title: Argument
-        url: /enDecameron/enday08/
       - title: Introduction
         url: /enDecameron/end08intro/
       - title: Novel I
@@ -531,9 +519,8 @@ enDecameron:
       - title: Conclusion
         url: /enDecameron/end08conclu/
   - title: Ninth Day
+    url: /enDecameron/enday09/
     children:
-      - title: Argument
-        url: /enDecameron/enday09/
       - title: Introduction
         url: /enDecameron/end09intro/
       - title: Novel I
@@ -559,9 +546,8 @@ enDecameron:
       - title: Conclusion
         url: /enDecameron/end09conclu/
   - title: Tenth Day
+    url: /enDecameron/enday10/
     children:
-      - title: Argument
-        url: /enDecameron/enday10/
       - title: Introduction
         url: /enDecameron/end10intro/
       - title: Novel I
@@ -586,3 +572,5 @@ enDecameron:
         url: /enDecameron/ennov1010/
       - title: Conclusion
         url: /enDecameron/end10conclu/
+  - title: Epilogue
+    url: /enDecameron/enepilogue/

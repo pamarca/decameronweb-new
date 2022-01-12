@@ -1,26 +1,26 @@
 ---
 title: "Sesta Giornata"
 day: "day06"
-layout: "single-xml"
+layout: "single"
 ---
 <div id="day06" ruler="elissa" type="Day">
  <h1>
   Sesta Giornata
  </h1>
+ <p>
+  <h2>
+   [Voice: author]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h2>
-    [Voice: author]
-   </h2>
-  </p>
   <p>
    <a name="p06990001">
     [001]
    </a>
    Finisce la Quinta giornata del
-   <title>
+   <i>
     Decameron
-   </title>
+   </i>
    : incomincia la Sesta giornata, nella quale, sotto il reggimento d'
    <name persref="elissa" type="person">
     Elissa

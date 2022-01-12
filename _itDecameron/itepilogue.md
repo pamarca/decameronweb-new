@@ -1,16 +1,16 @@
 ---
 title: Epilogue
 day: "epilogue"
-layout: "single-xml"
+layout: "single"
 ---
 <div id="epilogue" who="author">
  <h1>
   Conclusione dell'autore
  </h1>
  <p>
-  <h3>
+  <h2>
    [Voice: author]
-  </h3>
+  </h2>
  </p>
  <p>
   <a name="p11980001">
@@ -205,9 +205,9 @@ layout: "single-xml"
    [030]
   </a>
   Qui finisce la Decima e ultima giornata del libro chiamato
-  <title>
+  <i>
    Decameron
-  </title>
+  </i>
   cognominato Prencipe Galeotto
  </p>
 </div>

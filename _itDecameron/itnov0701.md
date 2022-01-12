@@ -7,12 +7,12 @@ layout: "single"
  <h1>
   Novella Prima
  </h1>
+ <p>
+  <h2>
+   [Voice: emilia]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h3>
-    [Voice: emilia]
-   </h3>
-  </p>
   <p>
    <a name="p07010001">
     [001]
@@ -287,13 +287,13 @@ layout: "single"
     donna
    </name>
    , non aver paura, se ci&ograve; &egrave;, ch&eacute; io dissi dianzi il
-   <title type="prayer">
+   <i type="prayer">
     Te lucis
-   </title>
+   </i>
    e la
-   <title type="prayer">
+   <i type="prayer">
     'Ntemerata
-   </title>
+   </i>
    e tante altre buone orazioni, quando a letto ci andammo, e anche segnai il letto di canto in canto al nome del Patre e del Filio e dello Spirito Sancto, che temere non ci bisogna, ch&eacute; ella non ci pu&ograve;, per potere ch'ella abbia, nuocere.
   </q>
  </p>

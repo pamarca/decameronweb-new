@@ -1,26 +1,26 @@
 ---
 title: "Quinta Giornata"
 day: "day05"
-layout: "single-xml"
+layout: "single"
 ---
 <div id="day05" ruler="fiammetta" type="Day">
  <h1>
   Quinta Giornata
  </h1>
+ <p>
+  <h2>
+   [Voice: author]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h2>
-    [Voice: author]
-   </h2>
-  </p>
   <p>
    <a name="p05990001">
     [001]
    </a>
    Finisce la Quarta giornata del
-   <title>
+   <i>
     Decameron
-   </title>
+   </i>
    : incomincia la Quinta, nella quale, sotto il reggimento di
    <name persref="fiammetta" type="person">
     Fiammetta

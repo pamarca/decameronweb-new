@@ -7,12 +7,12 @@ layout: "single"
  <h1>
   Novella Ottava
  </h1>
+ <p>
+  <h2>
+   [Voice: lauretta]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h3>
-    [Voice: lauretta]
-   </h3>
-  </p>
   <p>
    <a name="p03080001">
     [001]
@@ -1037,9 +1037,9 @@ layout: "single"
    abate
   </name>
   rimaso co' monaci suoi, mostr&ograve; d'avere di questa cosa una grande ammirazione, e fecene divotamente cantare il
-  <title type="prayer">
+  <i type="prayer">
    Miserere
-  </title>
+  </i>
   .
   <name persref="ferondo" type="person">
    Ferondo

@@ -8,9 +8,9 @@ layout: "single"
   Conclusione
  </h1>
  <p>
-  <h3>
+  <h2>
    [Voice: author]
-  </h3>
+  </h2>
  </p>
  <p>
   <a name="p05970001">
@@ -86,9 +86,9 @@ layout: "single"
    Dioneo
   </name>
   fu comandato che cantasse una canzone. Il quale prestamente cominci&ograve;
-  <title type="song">
+  <i type="song">
    Monna Aldruda, levate la coda, Ch&eacute; buone novelle vi reco.
-  </title>
+  </i>
   <a name="p05970008">
    [008]
   </a>
@@ -105,21 +105,21 @@ layout: "single"
   :
   <q direct="unspecified" who="dioneo">
    Madonna, se io avessi cembalo, io direi:
-   <title type="song">
+   <i type="song">
     Alzatevi i panni, monna Lapa
-   </title>
+   </i>
    ; o
-   <title type="song">
+   <i type="song">
     Sotto l'ulivello &egrave; l'erba
-   </title>
+   </i>
    ; o voleste voi che io dicessi:
-   <title>
+   <i>
     L'onda del mare mi fa s&iacute; gran male
-   </title>
+   </i>
    ? Ma io non ho cembalo, e per ci&ograve; vedete voi qual voi volete di queste altre. Piacerebbevi:
-   <title type="song">
+   <i type="song">
     Esci fuor che sie tagliato, Com'un mio in su la campagna?
-   </title>
+   </i>
   </q>
  </p>
  <p>
@@ -145,9 +145,9 @@ layout: "single"
   disse Dioneo
   <q direct="unspecified">
    dir&ograve; io
-   <title type="song">
+   <i type="song">
     Monna Simona imbotta imbotta, E' non &egrave; del mese d'ottobre
-   </title>
+   </i>
    .
   </q>
  </p>
@@ -175,13 +175,13 @@ layout: "single"
   :
   <q direct="unspecified">
    No, madonna, non ve ne fate male: pur qual pi&uacute; vi piace? Io ne so pi&uacute; di mille. O volete
-   <title type="song">
+   <i type="song">
     Questo mio nicchio, s'io nol picchio
-   </title>
+   </i>
    o Deh fa pian, marito mio o
-   <title type="song">
+   <i type="song">
     Io mi comperai un gallo delle lire cento?
-   </title>
+   </i>
   </q>
  </p>
  <p>

@@ -1,26 +1,26 @@
 ---
 title: "Terza Giornata"
 day: "day03"
-layout: "single-xml"
+layout: "single"
 ---
 <div id="day03" ruler="neifile" type="Day">
  <h1>
   Terza Giornata
  </h1>
+ <p>
+  <h2>
+   [Voice: author]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h2>
-    [Voice: author]
-   </h2>
-  </p>
   <p>
    <a name="p03990001">
     [001]
    </a>
    Finisce la Seconda giornata del
-   <title>
+   <i>
     Decameron
-   </title>
+   </i>
    : incomincia la Terza, nella quale si ragiona, sotto il reggimento di
    <name persref="neifile" type="person">
     Neifile

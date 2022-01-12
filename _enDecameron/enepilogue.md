@@ -1,16 +1,16 @@
 ---
 title: Epilogue
 day: "epilogue"
-layout: "single-xml"
+layout: "single"
 ---
 <div id="epilogue" who="author">
  <h1>
   The Author's Epilogue
  </h1>
  <p>
-  <h3>
+  <h2>
    [Voice: author]
-  </h3>
+  </h2>
  </p>
  <p>
   <a name="p11980001">

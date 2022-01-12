@@ -8,9 +8,9 @@ layout: "single"
   Conclusion
  </h1>
  <p>
-  <h3>
+  <h2>
    [Voice: author]
-  </h3>
+  </h2>
  </p>
  <p>
   <a name="p05970001">
@@ -72,10 +72,10 @@ layout: "single"
   And the queen,
  while Emilia led a dance, called for a song from Dioneo, who at once
  came out with:
-  <title type="song">
+  <i type="song">
    Monna Aldruda, come perk up thy mood, a piece
       of glad tidings I bring thee
-  </title>
+  </i>
   .
   <a name="p05970008">
    [008]
@@ -90,26 +90,26 @@ layout: "single"
   <q direct="unspecified">
    Madam, had I a tabret, I
 	would sing:
-   <title type="song">
+   <i type="song">
     Up with your smock, Monna Lapa!
-   </title>
+   </i>
    or:
-   <title type="song">
+   <i type="song">
     Oh!
  the greensward under the olive!
-   </title>
+   </i>
    Or perchance you had liefer I
 	should give you:
-   <title type="song">
+   <i type="song">
     Woe is me, the wave of the sea!
-   </title>
+   </i>
    But no tabret
  have I: wherefore choose which of these others you will have.
 	Perchance you would like:
-   <title type="song">
+   <i type="song">
     Now hie thee to us forth, that so it
  may be cut, as May the fields about
-   </title>
+   </i>
    .
   </q>
   <a name="p05970010">
@@ -131,10 +131,10 @@ layout: "single"
   said Dioneo,
   <q direct="unspecified">
    I will sing:
-   <title type="song">
+   <i type="song">
     Monna
  Simona, embarrel, embarrel. Why, 'tis not the month of October
-   </title>
+   </i>
    .
   </q>
   <note>
@@ -164,19 +164,19 @@ layout: "single"
   <q direct="unspecified">
    only say which you prefer. I have
 	more than a thousand songs by heart. Perhaps you would like:
-   <title type="song">
+   <i type="song">
     This my little covert, make I ne'er it overt
-   </title>
+   </i>
    ; or:
-   <title type="song">
+   <i type="song">
     Gently, gently,
 	  husband mine
-   </title>
+   </i>
    ; or:
-   <title type="song">
+   <i type="song">
     A hundred pounds were none too high a
 	price for me a cock to buy
-   </title>
+   </i>
    .
   </q>
   <a name="p05970014">

@@ -42,6 +42,11 @@ def clean_div1(soup):
     for div_tag in soup.find_all('div1'):
         div_tag.name = 'div'
 
+    #change <title></title> to <i><i>
+    title_tags = soup.select('title')
+    for title_tag in title_tags:
+        title_tag.name = "i"
+
 
 # add speaker line
 def add_speaker_line(div1_variable, soup):
@@ -49,7 +54,7 @@ def add_speaker_line(div1_variable, soup):
         add_speaker = soup.new_tag('p')
         add_speaker.string = '[Voice: author]'
         #d1t.insert(2, add_speaker)
-        d1t.p.insert_before(add_speaker)
+        d1t.head.insert_after(add_speaker)
         add_speaker.string.wrap(soup.new_tag('h2'))
     return
 
@@ -82,7 +87,7 @@ def create_md_files(div1_results, div1_data_info, outpath, lang):
             file2.write('---\n')
             file2.write('title: "' + div1_data_info[cc]['head_text'] +'"\n')
             file2.write('day: "' + div1_data_info[cc]['id'] + '"\n')
-            file2.write('layout: "single-xml"\n')
+            file2.write('layout: "single"\n')
             file2.write('---\n')
 
             #html structure

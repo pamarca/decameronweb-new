@@ -7,12 +7,12 @@ layout: "single"
  <h1>
   Novella Seconda
  </h1>
+ <p>
+  <h2>
+   [Voice: panfilo]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h3>
-    [Voice: panfilo]
-   </h3>
-  </p>
   <p>
    <a name="p08020001">
     [001]
@@ -110,9 +110,9 @@ layout: "single"
    [009]
   </a>
   la qual nel vero era pure una piacevole e fresca foresozza, brunazza e ben tarchiata e atta a meglio saper macinar che alcuna altra; e oltre a ci&ograve; era quella che meglio sapeva sonare il cembalo e cantare
-  <title type="song">
+  <i type="song">
    L'acqua corre la borrana
-  </title>
+  </i>
   , e menare la ridda e il ballonchio, quando bisogno faceva, che vicina che ella avesse, con bel moccichino e gentile in mano.
   <a name="p08020010">
    [010]
@@ -122,13 +122,13 @@ layout: "single"
    prete
   </name>
   ne 'nvagh&iacute; s&iacute; forte, che egli ne menava smanie e tutto il d&iacute; andava aiato per poterla vedere; e quando la domenica mattina la sentiva in chiesa, diceva un
-  <title type="song">
+  <i type="song">
    Kyrie
-  </title>
+  </i>
   e un
-  <title type="song">
+  <i type="song">
    Sanctus
-  </title>
+  </i>
   sforzandosi ben di mostrarsi un gran maestro di canto, che pareva uno asino che ragghiasse, dove, quando non la vi vedea, si passava assai leggiermente; ma pur sapeva s&iacute; fare, che
   <name persref="bentivegnamazzo" type="person">
    Bentivegna del Mazzo

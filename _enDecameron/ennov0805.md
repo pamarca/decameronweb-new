@@ -7,12 +7,12 @@ layout: "single"
  <h1>
   Novel V
  </h1>
+ <p>
+  <h2>
+   [Voice: filostrato]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h3>
-    [Voice: filostrato]
-   </h3>
-  </p>
   <p>
    <a name="p08050001">
     [001]

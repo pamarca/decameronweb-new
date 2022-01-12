@@ -7,12 +7,12 @@ layout: "single"
  <h1>
   Novel VIII
  </h1>
+ <p>
+  <h2>
+   [Voice: filomena]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h3>
-    [Voice: filomena]
-   </h3>
-  </p>
   <p>
    <a name="p05080001">
     [001]

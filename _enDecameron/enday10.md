@@ -1,18 +1,18 @@
 ---
 title: "Tenth Day"
 day: "day10"
-layout: "single-xml"
+layout: "single"
 ---
 <div id="day10" ruler="panfilo" type="Day">
  <h1>
   Tenth Day
  </h1>
+ <p>
+  <h2>
+   [Voice: author]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h2>
-    [Voice: author]
-   </h2>
-  </p>
   <p>
    <a name="p10990001">
     [001]

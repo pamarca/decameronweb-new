@@ -1,26 +1,26 @@
 ---
 title: "Nona Giornata"
 day: "day09"
-layout: "single-xml"
+layout: "single"
 ---
 <div id="day09" ruler="emilia" type="Day">
  <h1>
   Nona Giornata
  </h1>
+ <p>
+  <h2>
+   [Voice: author]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h2>
-    [Voice: author]
-   </h2>
-  </p>
   <p>
    <a name="p09990001">
     [001]
    </a>
    Finisce l'Ottava giornata del
-   <title>
+   <i>
     Decameron
-   </title>
+   </i>
    : incomincia la Nona, nella quale, sotto il reggimento d'
    <name persref="emilia" type="person">
     Emilia

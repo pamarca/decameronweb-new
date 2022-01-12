@@ -7,12 +7,12 @@ layout: "single"
  <h1>
   Novel I
  </h1>
+ <p>
+  <h2>
+   [Voice: neifile]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h3>
-    [Voice: neifile]
-   </h3>
-  </p>
   <p>
    <a name="p08010001">
     [001]

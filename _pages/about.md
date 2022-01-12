@@ -2,9 +2,6 @@
 layout: single
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
-
-<div class="ornament">p</div>
+The *Decameron Web* was created at Brown University, based on the <a href="https://www.brown.edu/Departments/Italian_Studies/dweb/" target="_blank" rel="noopener noreferrer">previous version</a>, using the Minimal Mistakes Jekyll theme.

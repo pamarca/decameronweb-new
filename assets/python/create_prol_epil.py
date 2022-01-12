@@ -39,22 +39,28 @@ def clean_div(soup):
     for head_tag in div_head:
         head_tag.name = "h1"
 
+    #change <title></title> to <i><i>
+    title_tags = soup.select('title')
+    for title_tag in title_tags:
+        title_tag.name = "i"
+
 # add speaker line
 def add_speaker_line(soup):
     #add speaker to proem
     sp_tag_prol = soup.find('prologue')
     add_speaker_prol = soup.new_tag('p')
     add_speaker_prol.string = '[Voice: author]'
-    #sp_tag.insert(2, add_speaker)
-    sp_tag_prol.p.insert_before(add_speaker_prol)
-    add_speaker_prol.string.wrap(soup.new_tag('h3'))
+    #sp_tag_prol.insert(1, add_speaker_prol)
+    sp_tag_prol.h1.insert_after(add_speaker_prol)
+    add_speaker_prol.string.wrap(soup.new_tag('h2'))
 
     #add speaker to epologue
     sp_tag_epil = soup.find('epilogue')
     add_speaker_epil = soup.new_tag('p')
     add_speaker_epil.string = '[Voice: author]'
-    sp_tag_epil.p.insert_before(add_speaker_epil)
-    add_speaker_epil.string.wrap(soup.new_tag('h3'))
+    sp_tag_epil.h1.insert_after(add_speaker_epil)
+    #sp_tag_epil.p.insert_before(add_speaker_epil)
+    add_speaker_epil.string.wrap(soup.new_tag('h2'))
 
     return
 
@@ -64,7 +70,7 @@ def prologue_md_file(soup, outpath, lang):
     front.name = "div"
     prologue = soup.find('prologue')
     prologue.name = "div"
-    prologue.string = "Proem"
+    #prologue.string = "Proem"
     prologue_md = os.path.abspath('../../{}/'.format(outpath) + lang + prologue['id'] + '.md')
     #pretty_prologue = soup.front.prettify()
     with open(prologue_md, "w", encoding='utf-8') as file2:
@@ -72,12 +78,13 @@ def prologue_md_file(soup, outpath, lang):
             file2.write('---\n')
             file2.write('title: Proem' + '\n')
             file2.write('day: "' + prologue['id'] + '"\n')
-            file2.write('layout: "single-xml"\n')
+            file2.write('layout: "single"\n')
             file2.write('---\n')
 
             #html structure
             html_soup = BeautifulSoup('', 'html.parser')
             html_soup.append(front)
+            html_soup.append(prologue)
             html_output = html_soup.prettify(formatter='html')
             file2.write(html_output)
     return
@@ -95,7 +102,7 @@ def epilogue_md_file(soup, outpath, lang):
             file2.write('---\n')
             file2.write('title: Epilogue' + '\n')
             file2.write('day: "' + epilogue['id'] + '"\n')
-            file2.write('layout: "single-xml"\n')
+            file2.write('layout: "single"\n')
             file2.write('---\n')
 
             #html structure

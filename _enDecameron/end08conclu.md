@@ -8,9 +8,9 @@ layout: "single"
   Conclusion
  </h1>
  <p>
-  <h3>
+  <h2>
    [Voice: author]
-  </h3>
+  </h2>
  </p>
  <p>
   <a name="p08970001">

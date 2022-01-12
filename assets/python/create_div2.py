@@ -38,6 +38,11 @@ def clean_div2(soup):
     for div_tag in soup.find_all('div2'):
         div_tag.name = 'div'
 
+    #change <title></title> to <i><i>
+    title_tags = soup.select('title')
+    for title_tag in title_tags:
+        title_tag.name = "i"
+
 # adding speaker line
 def add_speaker_line(div2_variable, soup):
     for d2t in div2_variable:
@@ -46,8 +51,8 @@ def add_speaker_line(div2_variable, soup):
         add_speaker = soup.new_tag('p')
         add_speaker.string = '[Voice: ' + speaker + ']'
         #d2t.insert(2, add_speaker)
-        d2t.p.insert_before(add_speaker)
-        add_speaker.string.wrap(soup.new_tag('h3'))
+        d2t.head.insert_after(add_speaker)
+        add_speaker.string.wrap(soup.new_tag('h2'))
     return
 
 #create dict

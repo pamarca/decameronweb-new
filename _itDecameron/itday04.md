@@ -1,26 +1,26 @@
 ---
 title: "Quarta Giornata"
 day: "day04"
-layout: "single-xml"
+layout: "single"
 ---
 <div id="day04" ruler="filostrato" type="Day">
  <h1>
   Quarta Giornata
  </h1>
+ <p>
+  <h2>
+   [Voice: author]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h2>
-    [Voice: author]
-   </h2>
-  </p>
   <p>
    <a name="p04990001">
     [001]
    </a>
    Finisce la Terza giornata del
-   <title>
+   <i>
     Decameron
-   </title>
+   </i>
    : e incomincia la Quarta, nella quale, sotto il reggimento di
    <name persref="filostrato" type="person">
     Filostrato

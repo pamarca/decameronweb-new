@@ -1,18 +1,18 @@
 ---
 title: "First Day"
 day: "day01"
-layout: "single-xml"
+layout: "single"
 ---
 <div id="day01" ruler="pampinea" type="Day">
  <h1>
   First Day
  </h1>
+ <p>
+  <h2>
+   [Voice: author]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h2>
-    [Voice: author]
-   </h2>
-  </p>
   <p>
    <a name="p01990001">
     [001]

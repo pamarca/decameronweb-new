@@ -7,12 +7,12 @@ layout: "single"
  <h1>
   Novel II
  </h1>
+ <p>
+  <h2>
+   [Voice: panfilo]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h3>
-    [Voice: panfilo]
-   </h3>
-  </p>
   <p>
    <a name="p08020001">
     [001]
@@ -98,10 +98,10 @@ layout: "single"
  she was a winsome and lusty country lass, brown as a berry and
  buxom enough, and fitter than e'er another for his mill. Moreover
  she had not her match in playing the tabret and singing:
-  <title type="song">
+  <i type="song">
    The
  borage is full sappy
-  </title>
+  </i>
   ,
   <note>
    For this folk-song see
@@ -153,13 +153,13 @@ layout: "single"
  about the village on the chance of catching sight of her. And if of
  a Sunday morning he espied her in church, he strove might and main
  to acquit himself of his
-  <title type="song">
+  <i type="song">
    Kyrie
-  </title>
+  </i>
   and
-  <title type="song">
+  <i type="song">
    Sanctus
-  </title>
+  </i>
   in the style of a great
  singer, albeit his performance was liker to the braying of an ass:
  whereas, if he saw her not, he scarce exerted himself at all. However,

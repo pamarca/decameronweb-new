@@ -1,26 +1,26 @@
 ---
 title: "Seconda Giornata"
 day: "day02"
-layout: "single-xml"
+layout: "single"
 ---
 <div id="day02" ruler="filomena" type="Day">
  <h1>
   Seconda Giornata
  </h1>
+ <p>
+  <h2>
+   [Voice: author]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h2>
-    [Voice: author]
-   </h2>
-  </p>
   <p>
    <a name="p02990001">
     [001]
    </a>
    Finisce la Prima giornata del
-   <title>
+   <i>
     Decameron
-   </title>
+   </i>
    : e incomincia la Seconda, nella quale, sotto il reggimento di
    <name persref="filomena" type="person">
     Filomena

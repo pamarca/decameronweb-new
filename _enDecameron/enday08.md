@@ -1,18 +1,18 @@
 ---
 title: "Eighth Day"
 day: "day08"
-layout: "single-xml"
+layout: "single"
 ---
 <div id="day08" ruler="lauretta" type="Day">
  <h1>
   Eighth Day
  </h1>
+ <p>
+  <h2>
+   [Voice: author]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h2>
-    [Voice: author]
-   </h2>
-  </p>
   <p>
    <a name="p08990001">
     [001]

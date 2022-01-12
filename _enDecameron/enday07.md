@@ -1,18 +1,18 @@
 ---
 title: "Seventh Day"
 day: "day07"
-layout: "single-xml"
+layout: "single"
 ---
 <div id="day07" ruler="dioneo" type="Day">
  <h1>
   Seventh Day
  </h1>
+ <p>
+  <h2>
+   [Voice: author]
+  </h2>
+ </p>
  <argument>
-  <p>
-   <h2>
-    [Voice: author]
-   </h2>
-  </p>
   <p>
    <a name="p07990001">
     [001]

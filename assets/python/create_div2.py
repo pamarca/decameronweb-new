@@ -22,17 +22,17 @@ def clean_div2(soup):
         comment.extract()
 
     #changing milestones
-    milestones = soup.find_all('milestone')
-    for milestone in milestones:
-        try:
-            mstone_id = milestone['id']
-        except:
-            mstone_id = 'None'
-
-        milestone.name = "a"
-        milestone['name'] = mstone_id
-        milestone.string = '[' + mstone_id[-3:] + ']'
-        del milestone['id']
+    # milestones = soup.find_all('milestone')
+    # for milestone in milestones:
+    #     try:
+    #         mstone_id = milestone['id']
+    #     except:
+    #         mstone_id = 'None'
+    #
+    #     milestone.name = "a"
+    #     milestone['name'] = mstone_id
+    #     milestone.string = '[' + mstone_id[-3:] + ']'
+    #     del milestone['id']
 
     #change div1 into div
     for div_tag in soup.find_all('div2'):
@@ -77,14 +77,14 @@ def add_dict_to_div2(div2_variable):
     return div2_data_info
 
 #create md files with names from id containing md tags + xml text
-def create_md_files(div2_results, div2_data_info, outpath, lang):
+def create_md_files(div2_results, div2_data_info, outpath, mstone_dir):
     for cc, result in enumerate(div2_results):
-        filename_md = os.path.abspath('../../{}/'.format(outpath) + lang + div2_data_info[cc]['id'] + '.md')
+        filename_md = os.path.abspath('../../{}/'.format(outpath) + div2_data_info[cc]['id'] + '.md')
         with open(filename_md, "w", encoding='utf-8') as file2:
             #md tags
             file2.write('---\n')
             file2.write('title: "' + div2_data_info[cc]['head_text'] +'"\n')
-            file2.write('day: "' + lang + div2_data_info[cc]['id'] + '"\n')
+            file2.write('day: "' + div2_data_info[cc]['id'] + '"\n')
             file2.write('layout: "single"\n')
             file2.write('---\n')
 
@@ -96,6 +96,19 @@ def create_md_files(div2_results, div2_data_info, outpath, lang):
             div_head = html_soup.find_all('head')
             for head_tag in div_head:
                 head_tag.name = "h1"
+
+            # changing milestones
+            milestones = html_soup.select('milestone')
+            for milestone in milestones:
+                try:
+                    mstone_id = milestone['id']
+                except:
+                    mstone_id = 'None'
+
+                milestone.name = "a"
+                milestone['href'] = '{{ site.baseurl }}' + mstone_dir + '/' + div2_data_info[cc]['id'] + '#' + mstone_id
+                milestone.string = '[' + mstone_id[-3:] + ']'
+                del milestone['id']
 
             #outputting html
             html_output = html_soup.prettify(formatter='html')
@@ -114,12 +127,5 @@ div2_speaker_it = add_speaker_line(div2_results_it, italian_soup)
 div2_data_info_eng = add_dict_to_div2(div2_results_eng)
 div2_data_info_it = add_dict_to_div2(div2_results_it)
 
-create_md_files(div2_results_eng, div2_data_info_eng, '_enDecameron', 'en')
-create_md_files(div2_results_it, div2_data_info_it, '_itDecameron', 'it')
-
-# with open(english_xml_path, 'r') as md_file:
-#     content = md_file.read()
-#
-#     soup = BeautifulSoup(content, 'lxml')
-#     div2_tags = soup.div2
-#     div2_tags.name = 'div'
+create_md_files(div2_results_eng, div2_data_info_eng, '_enDecameron', 'itDecameron')
+create_md_files(div2_results_it, div2_data_info_it, '_itDecameron', 'enDecameron')

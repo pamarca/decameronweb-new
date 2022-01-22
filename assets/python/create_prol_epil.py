@@ -22,17 +22,17 @@ def clean_div(soup):
         comment.extract()
 
     #changing milestones
-    milestones = soup.select('milestone')
-    for milestone in milestones:
-        try:
-            mstone_id = milestone['id']
-        except:
-            mstone_id = 'None'
-
-        milestone.name = "a"
-        milestone['name'] = mstone_id
-        milestone.string = '[' + mstone_id[-3:] + ']'
-        del milestone['id']
+    # milestones = soup.select('milestone')
+    # for milestone in milestones:
+    #     try:
+    #         mstone_id = milestone['id']
+    #     except:
+    #         mstone_id = 'None'
+    #
+    #     milestone.name = "a"
+    #     milestone['name'] = mstone_id
+    #     milestone.string = '[' + mstone_id[-3:] + ']'
+    #     del milestone['id']
 
     # change head tag to h1
     div_head = soup.select('head')
@@ -65,13 +65,13 @@ def add_speaker_line(soup):
     return
 
 #create prologue md file
-def prologue_md_file(soup, outpath, lang):
+def prologue_md_file(soup, outpath, mstone_dir):
     front = soup.find('front')
     front.name = "div"
     prologue = soup.find('prologue')
     prologue.name = "div"
     #prologue.string = "Proem"
-    prologue_md = os.path.abspath('../../{}/'.format(outpath) + lang + prologue['id'] + '.md')
+    prologue_md = os.path.abspath('../../{}/'.format(outpath) + prologue['id'] + '.md')
     #pretty_prologue = soup.front.prettify()
     with open(prologue_md, "w", encoding='utf-8') as file2:
             #md tags
@@ -85,17 +85,31 @@ def prologue_md_file(soup, outpath, lang):
             html_soup = BeautifulSoup('', 'html.parser')
             html_soup.append(front)
             html_soup.append(prologue)
+
+            # changing milestones
+            milestones = html_soup.select('milestone')
+            for milestone in milestones:
+                try:
+                    mstone_id = milestone['id']
+                except:
+                    mstone_id = 'None'
+
+                milestone.name = "a"
+                milestone['href'] = '{{ site.baseurl }}' + mstone_dir + '/' + 'proem' + '#' + mstone_id
+                milestone.string = '[' + mstone_id[-3:] + ']'
+                del milestone['id']
+
             html_output = html_soup.prettify(formatter='html')
             file2.write(html_output)
     return
 
 #create epilogue md file
-def epilogue_md_file(soup, outpath, lang):
+def epilogue_md_file(soup, outpath, mstone_dir):
     epilogue = soup.find('epilogue')
     epilogue.name = "div"
     trailer = soup.find('trailer')
     trailer.name = "div"
-    epilogue_md = os.path.abspath('../../{}/'.format(outpath) + lang + epilogue['id'] + '.md')
+    epilogue_md = os.path.abspath('../../{}/'.format(outpath) + epilogue['id'] + '.md')
     #pretty_prologue = soup.front.prettify()
     with open(epilogue_md, "w", encoding='utf-8') as file2:
             #md tags
@@ -109,6 +123,20 @@ def epilogue_md_file(soup, outpath, lang):
             html_soup = BeautifulSoup('', 'html.parser')
             html_soup.append(epilogue)
             html_soup.append(trailer)
+
+            # changing milestones
+            milestones = html_soup.select('milestone')
+            for milestone in milestones:
+                try:
+                    mstone_id = milestone['id']
+                except:
+                    mstone_id = 'None'
+
+                milestone.name = "a"
+                milestone['href'] = '{{ site.baseurl }}' + mstone_dir + '/' + 'epilogue' + '#' + mstone_id
+                milestone.string = '[' + mstone_id[-3:] + ']'
+                del milestone['id']
+
             html_output = html_soup.prettify(formatter='html')
             file2.write(html_output)
     return
@@ -119,11 +147,11 @@ clean_div_it = clean_div(italian_soup)
 speaker_eng = add_speaker_line(english_soup)
 speaker_it = add_speaker_line(italian_soup)
 
-prologue_md_eng = prologue_md_file(english_soup, '_enDecameron', 'en')
-prologue_md_it = prologue_md_file(italian_soup, '_itDecameron', 'it')
+prologue_md_eng = prologue_md_file(english_soup, '_enDecameron', 'itDecameron')
+prologue_md_it = prologue_md_file(italian_soup, '_itDecameron', 'enDecameron')
 
-epilogue_md_eng = epilogue_md_file(english_soup, '_enDecameron', 'en')
-epilogue_md_it = epilogue_md_file(italian_soup, '_itDecameron', 'it')
+epilogue_md_eng = epilogue_md_file(english_soup, '_enDecameron', 'itDecameron')
+epilogue_md_it = epilogue_md_file(italian_soup, '_itDecameron', 'enDecameron')
 
 # #print epilogue
 # english_epilogue = english_soup.epilogue.prettify()

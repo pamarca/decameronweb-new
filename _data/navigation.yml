@@ -6,6 +6,8 @@ main:
     url: /itDecameron/
   - title: "English"
     url: /enDecameron/
+  - title: "Indices"
+    url: /indices/
   - title: "About"
     url: /about/
 
@@ -22,555 +24,555 @@ main:
 
 itDecameron:
   - title: Proemio
-    url: /itDecameron/itproem/
+    url: /itDecameron/proem/
   - title: Prima Giornata
-    url: /itDecameron/itday01/
+    url: /itDecameron/day01/
     children:
       - title: Introduzione
-        url: /itDecameron/itd01intro/
+        url: /itDecameron/d01intro/
       - title: Novella Prima
-        url: /itDecameron/itnov0101/
+        url: /itDecameron/nov0101/
       - title: Novella Seconda
-        url: /itDecameron/itnov0102/
+        url: /itDecameron/nov0102/
       - title: Novella Terza
-        url: /itDecameron/itnov0103/
+        url: /itDecameron/nov0103/
       - title: Novella Quarta
-        url: /itDecameron/itnov0104/
+        url: /itDecameron/nov0104/
       - title: Novella Quinta
-        url: /itDecameron/itnov0105/
+        url: /itDecameron/nov0105/
       - title: Novella Sesta
-        url: /itDecameron/itnov0106/
+        url: /itDecameron/nov0106/
       - title: Novella Settima
-        url: /itDecameron/itnov0107/
+        url: /itDecameron/nov0107/
       - title: Novella Ottava
-        url: /itDecameron/itnov0108/
+        url: /itDecameron/nov0108/
       - title: Novella Nona
-        url: /itDecameron/itnov0109/
+        url: /itDecameron/nov0109/
       - title: Novella Decima
-        url: /itDecameron/itnov0110/
+        url: /itDecameron/nov0110/
       - title: Conclusione
-        url: /itDecameron/itd01conclu/
+        url: /itDecameron/d01conclu/
   - title: Seconda Giornata
-    url: /itDecameron/itday02/
+    url: /itDecameron/day02/
     children:
       - title: Introduzione
-        url: /itDecameron/itd02intro/
+        url: /itDecameron/d02intro/
       - title: Novella Prima
-        url: /itDecameron/itnov0201/
+        url: /itDecameron/nov0201/
       - title: Novella Seconda
-        url: /itDecameron/itnov0202/
+        url: /itDecameron/nov0202/
       - title: Novella Terza
-        url: /itDecameron/itnov0203/
+        url: /itDecameron/nov0203/
       - title: Novella Quarta
-        url: /itDecameron/itnov0204/
+        url: /itDecameron/nov0204/
       - title: Novella Quinta
-        url: /itDecameron/itnov0205/
+        url: /itDecameron/nov0205/
       - title: Novella Sesta
-        url: /itDecameron/itnov0206/
+        url: /itDecameron/nov0206/
       - title: Novella Settima
-        url: /itDecameron/itnov0207/
+        url: /itDecameron/nov0207/
       - title: Novella Ottava
-        url: /itDecameron/itnov0208/
+        url: /itDecameron/nov0208/
       - title: Novella Nona
-        url: /itDecameron/itnov0209/
+        url: /itDecameron/nov0209/
       - title: Novella Decima
-        url: /itDecameron/itnov0210/
+        url: /itDecameron/nov0210/
       - title: Conclusione
-        url: /itDecameron/itd02conclu/
+        url: /itDecameron/d02conclu/
   - title: Terza Giornata
-    url: /itDecameron/itday03/
+    url: /itDecameron/day03/
     children:
       - title: Introduzione
-        url: /itDecameron/itd03intro/
+        url: /itDecameron/d03intro/
       - title: Novella Prima
-        url: /itDecameron/itnov0301/
+        url: /itDecameron/nov0301/
       - title: Novella Seconda
-        url: /itDecameron/itnov0302/
+        url: /itDecameron/nov0302/
       - title: Novella Terza
-        url: /itDecameron/itnov0303/
+        url: /itDecameron/nov0303/
       - title: Novella Quarta
-        url: /itDecameron/itnov0304/
+        url: /itDecameron/nov0304/
       - title: Novella Quinta
-        url: /itDecameron/itnov0305/
+        url: /itDecameron/nov0305/
       - title: Novella Sesta
-        url: /itDecameron/itnov0306/
+        url: /itDecameron/nov0306/
       - title: Novella Settima
-        url: /itDecameron/itnov0307/
+        url: /itDecameron/nov0307/
       - title: Novella Ottava
-        url: /itDecameron/itnov0308/
+        url: /itDecameron/nov0308/
       - title: Novella Nona
-        url: /itDecameron/itnov0309/
+        url: /itDecameron/nov0309/
       - title: Novella Decima
-        url: /itDecameron/itnov0310/
+        url: /itDecameron/nov0310/
       - title: Conclusione
-        url: /itDecameron/itd03conclu/
+        url: /itDecameron/d03conclu/
   - title: Quarta Giornata
-    url: /itDecameron/itday04/
+    url: /itDecameron/day04/
     children:
       - title: Introduzione
-        url: /itDecameron/itd04intro/
+        url: /itDecameron/d04intro/
       - title: Novella Prima
-        url: /itDecameron/itnov0401/
+        url: /itDecameron/nov0401/
       - title: Novella Seconda
-        url: /itDecameron/itnov0402/
+        url: /itDecameron/nov0402/
       - title: Novella Terza
-        url: /itDecameron/itnov0403/
+        url: /itDecameron/nov0403/
       - title: Novella Quarta
-        url: /itDecameron/itnov0404/
+        url: /itDecameron/nov0404/
       - title: Novella Quinta
-        url: /itDecameron/itnov0405/
+        url: /itDecameron/nov0405/
       - title: Novella Sesta
-        url: /itDecameron/itnov0406/
+        url: /itDecameron/nov0406/
       - title: Novella Settima
-        url: /itDecameron/itnov0407/
+        url: /itDecameron/nov0407/
       - title: Novella Ottava
-        url: /itDecameron/itnov0408/
+        url: /itDecameron/nov0408/
       - title: Novella Nona
-        url: /itDecameron/itnov0409/
+        url: /itDecameron/nov0409/
       - title: Novella Decima
-        url: /itDecameron/itnov0410/
+        url: /itDecameron/nov0410/
       - title: Conclusione
-        url: /itDecameron/itd04conclu/
+        url: /itDecameron/d04conclu/
   - title: Quinta Giornata
-    url: /itDecameron/itday05/
+    url: /itDecameron/day05/
     children:
       - title: Introduzione
-        url: /itDecameron/itd05intro/
+        url: /itDecameron/d05intro/
       - title: Novella Prima
-        url: /itDecameron/itnov0501/
+        url: /itDecameron/nov0501/
       - title: Novella Seconda
-        url: /itDecameron/itnov0502/
+        url: /itDecameron/nov0502/
       - title: Novella Terza
-        url: /itDecameron/itnov0503/
+        url: /itDecameron/nov0503/
       - title: Novella Quarta
-        url: /itDecameron/itnov0504/
+        url: /itDecameron/nov0504/
       - title: Novella Quinta
-        url: /itDecameron/itnov0505/
+        url: /itDecameron/nov0505/
       - title: Novella Sesta
-        url: /itDecameron/itnov0506/
+        url: /itDecameron/nov0506/
       - title: Novella Settima
-        url: /itDecameron/itnov0507/
+        url: /itDecameron/nov0507/
       - title: Novella Ottava
-        url: /itDecameron/itnov0508/
+        url: /itDecameron/nov0508/
       - title: Novella Nona
-        url: /itDecameron/itnov0509/
+        url: /itDecameron/nov0509/
       - title: Novella Decima
-        url: /itDecameron/itnov0510/
+        url: /itDecameron/nov0510/
       - title: Conclusione
-        url: /itDecameron/itd05conclu/
+        url: /itDecameron/d05conclu/
   - title: Sesta Giornata
-    url: /itDecameron/itday06/
+    url: /itDecameron/day06/
     children:
       - title: Introduzione
-        url: /itDecameron/itd06intro/
+        url: /itDecameron/d06intro/
       - title: Novella Prima
-        url: /itDecameron/itnov0601/
+        url: /itDecameron/nov0601/
       - title: Novella Seconda
-        url: /itDecameron/itnov0602/
+        url: /itDecameron/nov0602/
       - title: Novella Terza
-        url: /itDecameron/itnov0603/
+        url: /itDecameron/nov0603/
       - title: Novella Quarta
-        url: /itDecameron/itnov0604/
+        url: /itDecameron/nov0604/
       - title: Novella Quinta
-        url: /itDecameron/itnov0605/
+        url: /itDecameron/nov0605/
       - title: Novella Sesta
-        url: /itDecameron/itnov0606/
+        url: /itDecameron/nov0606/
       - title: Novella Settima
-        url: /itDecameron/itnov0607/
+        url: /itDecameron/nov0607/
       - title: Novella Ottava
-        url: /itDecameron/itnov0608/
+        url: /itDecameron/nov0608/
       - title: Novella Nona
-        url: /itDecameron/itnov0609/
+        url: /itDecameron/nov0609/
       - title: Novella Decima
-        url: /itDecameron/itnov0610/
+        url: /itDecameron/nov0610/
       - title: Conclusione
-        url: /itDecameron/itd06conclu/
+        url: /itDecameron/d06conclu/
   - title: Settima Giornata
-    url: /itDecameron/itday07/
+    url: /itDecameron/day07/
     children:
       - title: Introduzione
-        url: /itDecameron/itd07intro/
+        url: /itDecameron/d07intro/
       - title: Novella Prima
-        url: /itDecameron/itnov0701/
+        url: /itDecameron/nov0701/
       - title: Novella Seconda
-        url: /itDecameron/itnov0702/
+        url: /itDecameron/nov0702/
       - title: Novella Terza
-        url: /itDecameron/itnov0703/
+        url: /itDecameron/nov0703/
       - title: Novella Quarta
-        url: /itDecameron/itnov0704/
+        url: /itDecameron/nov0704/
       - title: Novella Quinta
-        url: /itDecameron/itnov0705/
+        url: /itDecameron/nov0705/
       - title: Novella Sesta
-        url: /itDecameron/itnov0706/
+        url: /itDecameron/nov0706/
       - title: Novella Settima
-        url: /itDecameron/itnov0707/
+        url: /itDecameron/nov0707/
       - title: Novella Ottava
-        url: /itDecameron/itnov0708/
+        url: /itDecameron/nov0708/
       - title: Novella Nona
-        url: /itDecameron/itnov0709/
+        url: /itDecameron/nov0709/
       - title: Novella Decima
-        url: /itDecameron/itnov0710/
+        url: /itDecameron/nov0710/
       - title: Conclusione
-        url: /itDecameron/itd07conclu/
+        url: /itDecameron/d07conclu/
   - title: Ottava Giornata
-    url: /itDecameron/itday08/
+    url: /itDecameron/day08/
     children:
       - title: Introduzione
-        url: /itDecameron/itd08intro/
+        url: /itDecameron/d08intro/
       - title: Novella Prima
-        url: /itDecameron/itnov0801/
+        url: /itDecameron/nov0801/
       - title: Novella Seconda
-        url: /itDecameron/itnov0802/
+        url: /itDecameron/nov0802/
       - title: Novella Terza
-        url: /itDecameron/itnov0803/
+        url: /itDecameron/nov0803/
       - title: Novella Quarta
-        url: /itDecameron/itnov0804/
+        url: /itDecameron/nov0804/
       - title: Novella Quinta
-        url: /itDecameron/itnov0805/
+        url: /itDecameron/nov0805/
       - title: Novella Sesta
-        url: /itDecameron/itnov0806/
+        url: /itDecameron/nov0806/
       - title: Novella Settima
-        url: /itDecameron/itnov0807/
+        url: /itDecameron/nov0807/
       - title: Novella Ottava
-        url: /itDecameron/itnov0808/
+        url: /itDecameron/nov0808/
       - title: Novella Nona
-        url: /itDecameron/itnov0809/
+        url: /itDecameron/nov0809/
       - title: Novella Decima
-        url: /itDecameron/itnov0810/
+        url: /itDecameron/nov0810/
       - title: Conclusione
-        url: /itDecameron/itd08conclu/
+        url: /itDecameron/d08conclu/
   - title: Nona Giornata
-    url: /itDecameron/itday09/
+    url: /itDecameron/day09/
     children:
       - title: Introduzione
-        url: /itDecameron/itd09intro/
+        url: /itDecameron/d09intro/
       - title: Novella Prima
-        url: /itDecameron/itnov0901/
+        url: /itDecameron/nov0901/
       - title: Novella Seconda
-        url: /itDecameron/itnov0902/
+        url: /itDecameron/nov0902/
       - title: Novella Terza
-        url: /itDecameron/itnov0903/
+        url: /itDecameron/nov0903/
       - title: Novella Quarta
-        url: /itDecameron/itnov0904/
+        url: /itDecameron/nov0904/
       - title: Novella Quinta
-        url: /itDecameron/itnov0905/
+        url: /itDecameron/nov0905/
       - title: Novella Sesta
-        url: /itDecameron/itnov0906/
+        url: /itDecameron/nov0906/
       - title: Novella Settima
-        url: /itDecameron/itnov0907/
+        url: /itDecameron/nov0907/
       - title: Novella Ottava
-        url: /itDecameron/itnov0908/
+        url: /itDecameron/nov0908/
       - title: Novella Nona
-        url: /itDecameron/itnov0909/
+        url: /itDecameron/nov0909/
       - title: Novella Decima
-        url: /itDecameron/itnov0910/
+        url: /itDecameron/nov0910/
       - title: Conclusione
-        url: /itDecameron/itd09conclu/
+        url: /itDecameron/d09conclu/
   - title: Decima Giornata
-    url: /itDecameron/itday10/
+    url: /itDecameron/day10/
     children:
       - title: Introduzione
-        url: /itDecameron/itd10intro/
+        url: /itDecameron/d10intro/
       - title: Novella Prima
-        url: /itDecameron/itnov1001/
+        url: /itDecameron/nov1001/
       - title: Novella Seconda
-        url: /itDecameron/itnov1002/
+        url: /itDecameron/nov1002/
       - title: Novella Terza
-        url: /itDecameron/itnov1003/
+        url: /itDecameron/nov1003/
       - title: Novella Quarta
-        url: /itDecameron/itnov1004/
+        url: /itDecameron/nov1004/
       - title: Novella Quinta
-        url: /itDecameron/itnov1005/
+        url: /itDecameron/nov1005/
       - title: Novella Sesta
-        url: /itDecameron/itnov1006/
+        url: /itDecameron/nov1006/
       - title: Novella Settima
-        url: /itDecameron/itnov1007/
+        url: /itDecameron/nov1007/
       - title: Novella Ottava
-        url: /itDecameron/itnov1008/
+        url: /itDecameron/nov1008/
       - title: Novella Nona
-        url: /itDecameron/itnov1009/
+        url: /itDecameron/nov1009/
       - title: Novella Decima
-        url: /itDecameron/itnov1010/
+        url: /itDecameron/nov1010/
       - title: Conclusione
-        url: /itDecameron/itd10conclu/
+        url: /itDecameron/d10conclu/
   - title: Epilogo
-    url: /itDecameron/itepilogue/
+    url: /itDecameron/epilogue/
 
 
 #enDecameron sidebar
 
 enDecameron:
   - title: Proem
-    url: /enDecameron/enproem/
+    url: /enDecameron/proem/
   - title: First Day
-    url: /enDecameron/enday01/
+    url: /enDecameron/day01/
     children:
       - title: Introduction
-        url: /enDecameron/end01intro/
+        url: /enDecameron/d01intro/
       - title: Novel I
-        url: /enDecameron/ennov0101/
+        url: /enDecameron/nov0101/
       - title: Novel II
-        url: /enDecameron/ennov0102/
+        url: /enDecameron/nov0102/
       - title: Novel III
-        url: /enDecameron/ennov0103/
+        url: /enDecameron/nov0103/
       - title: Novel IV
-        url: /enDecameron/ennov0104/
+        url: /enDecameron/nov0104/
       - title: Novel V
-        url: /enDecameron/ennov0105/
+        url: /enDecameron/nov0105/
       - title: Novel VI
-        url: /enDecameron/ennov0106/
+        url: /enDecameron/nov0106/
       - title: Novel VII
-        url: /enDecameron/ennov0107/
+        url: /enDecameron/nov0107/
       - title: Novel VIII
-        url: /enDecameron/ennov0108/
+        url: /enDecameron/nov0108/
       - title: Novel IX
-        url: /enDecameron/ennov0109/
+        url: /enDecameron/nov0109/
       - title: Novel X
-        url: /enDecameron/ennov0110/
+        url: /enDecameron/nov0110/
       - title: Conclusion
-        url: /enDecameron/end01conclu/
+        url: /enDecameron/d01conclu/
   - title: Second Day
-    url: /enDecameron/enday02/
+    url: /enDecameron/day02/
     children:
       - title: Introduction
-        url: /enDecameron/end02intro/
+        url: /enDecameron/d02intro/
       - title: Novel I
-        url: /enDecameron/ennov0201/
+        url: /enDecameron/nov0201/
       - title: Novel II
-        url: /enDecameron/ennov0202/
+        url: /enDecameron/nov0202/
       - title: Novel III
-        url: /enDecameron/ennov0203/
+        url: /enDecameron/nov0203/
       - title: Novel IV
-        url: /enDecameron/ennov0204/
+        url: /enDecameron/nov0204/
       - title: Novel V
-        url: /enDecameron/ennov0205/
+        url: /enDecameron/nov0205/
       - title: Novel VI
-        url: /enDecameron/ennov0206/
+        url: /enDecameron/nov0206/
       - title: Novel VII
-        url: /enDecameron/ennov0207/
+        url: /enDecameron/nov0207/
       - title: Novel VIII
-        url: /enDecameron/ennov0208/
+        url: /enDecameron/nov0208/
       - title: Novel IX
-        url: /enDecameron/ennov0209/
+        url: /enDecameron/nov0209/
       - title: Novel X
-        url: /enDecameron/ennov0210/
+        url: /enDecameron/nov0210/
       - title: Conclusion
-        url: /enDecameron/end02conclu/
+        url: /enDecameron/d02conclu/
   - title: Third Day
-    url: /enDecameron/enday03/
+    url: /enDecameron/day03/
     children:
       - title: Introduction
-        url: /enDecameron/end03intro/
+        url: /enDecameron/d03intro/
       - title: Novel I
-        url: /enDecameron/ennov0301/
+        url: /enDecameron/nov0301/
       - title: Novel II
-        url: /enDecameron/ennov0302/
+        url: /enDecameron/nov0302/
       - title: Novel III
-        url: /enDecameron/ennov0303/
+        url: /enDecameron/nov0303/
       - title: Novel IV
-        url: /enDecameron/ennov0304/
+        url: /enDecameron/nov0304/
       - title: Novel V
-        url: /enDecameron/ennov0305/
+        url: /enDecameron/nov0305/
       - title: Novel VI
-        url: /enDecameron/ennov0306/
+        url: /enDecameron/nov0306/
       - title: Novel VII
-        url: /enDecameron/ennov0307/
+        url: /enDecameron/nov0307/
       - title: Novel VIII
-        url: /enDecameron/ennov0308/
+        url: /enDecameron/nov0308/
       - title: Novel IX
-        url: /enDecameron/ennov0309/
+        url: /enDecameron/nov0309/
       - title: Novel X
-        url: /enDecameron/ennov0310/
+        url: /enDecameron/nov0310/
       - title: Conclusion
-        url: /enDecameron/end03conclu/
+        url: /enDecameron/d03conclu/
   - title: Fourth Day
-    url: /enDecameron/enday04/
+    url: /enDecameron/day04/
     children:
       - title: Introduction
-        url: /enDecameron/end04intro/
+        url: /enDecameron/d04intro/
       - title: Novel I
-        url: /enDecameron/ennov0401/
+        url: /enDecameron/nov0401/
       - title: Novel II
-        url: /enDecameron/ennov0402/
+        url: /enDecameron/nov0402/
       - title: Novel III
-        url: /enDecameron/ennov0403/
+        url: /enDecameron/nov0403/
       - title: Novel IV
-        url: /enDecameron/ennov0404/
+        url: /enDecameron/nov0404/
       - title: Novel V
-        url: /enDecameron/ennov0405/
+        url: /enDecameron/nov0405/
       - title: Novel VI
-        url: /enDecameron/ennov0406/
+        url: /enDecameron/nov0406/
       - title: Novel VII
-        url: /enDecameron/ennov0407/
+        url: /enDecameron/nov0407/
       - title: Novel VIII
-        url: /enDecameron/ennov0408/
+        url: /enDecameron/nov0408/
       - title: Novel IX
-        url: /enDecameron/ennov0409/
+        url: /enDecameron/nov0409/
       - title: Novel X
-        url: /enDecameron/ennov0410/
+        url: /enDecameron/nov0410/
       - title: Conclusion
-        url: /enDecameron/end04conclu/
+        url: /enDecameron/d04conclu/
   - title: Fifth Day
-    url: /enDecameron/enday05/
+    url: /enDecameron/day05/
     children:
       - title: Introduction
-        url: /enDecameron/end05intro/
+        url: /enDecameron/d05intro/
       - title: Novel I
-        url: /enDecameron/ennov0501/
+        url: /enDecameron/nov0501/
       - title: Novel II
-        url: /enDecameron/ennov0502/
+        url: /enDecameron/nov0502/
       - title: Novel III
-        url: /enDecameron/ennov0503/
+        url: /enDecameron/nov0503/
       - title: Novel IV
-        url: /enDecameron/ennov0504/
+        url: /enDecameron/nov0504/
       - title: Novel V
-        url: /enDecameron/ennov0505/
+        url: /enDecameron/nov0505/
       - title: Novel VI
-        url: /enDecameron/ennov0506/
+        url: /enDecameron/nov0506/
       - title: Novel VII
-        url: /enDecameron/ennov0507/
+        url: /enDecameron/nov0507/
       - title: Novel VIII
-        url: /enDecameron/ennov0508/
+        url: /enDecameron/nov0508/
       - title: Novel IX
-        url: /enDecameron/ennov0509/
+        url: /enDecameron/nov0509/
       - title: Novel X
-        url: /enDecameron/ennov0510/
+        url: /enDecameron/nov0510/
       - title: Conclusion
-        url: /enDecameron/end05conclu/
+        url: /enDecameron/d05conclu/
   - title: Sixth Day
-    url: /enDecameron/enday06/
+    url: /enDecameron/day06/
     children:
       - title: Introduction
-        url: /enDecameron/end06intro/
+        url: /enDecameron/d06intro/
       - title: Novel I
-        url: /enDecameron/ennov0601/
+        url: /enDecameron/nov0601/
       - title: Novel II
-        url: /enDecameron/ennov0602/
+        url: /enDecameron/nov0602/
       - title: Novel III
-        url: /enDecameron/ennov0603/
+        url: /enDecameron/nov0603/
       - title: Novel IV
-        url: /enDecameron/ennov0604/
+        url: /enDecameron/nov0604/
       - title: Novel V
-        url: /enDecameron/ennov0605/
+        url: /enDecameron/nov0605/
       - title: Novel VI
-        url: /enDecameron/ennov0606/
+        url: /enDecameron/nov0606/
       - title: Novel VII
-        url: /enDecameron/ennov0607/
+        url: /enDecameron/nov0607/
       - title: Novel VIII
-        url: /enDecameron/ennov0608/
+        url: /enDecameron/nov0608/
       - title: Novel IX
-        url: /enDecameron/ennov0609/
+        url: /enDecameron/nov0609/
       - title: Novel X
-        url: /enDecameron/ennov0610/
+        url: /enDecameron/nov0610/
       - title: Conclusion
-        url: /enDecameron/end06conclu/
+        url: /enDecameron/d06conclu/
   - title: Seventh Day
-    url: /enDecameron/enday07/
+    url: /enDecameron/day07/
     children:
       - title: Introduction
-        url: /enDecameron/end07intro/
+        url: /enDecameron/d07intro/
       - title: Novel I
-        url: /enDecameron/ennov0701/
+        url: /enDecameron/nov0701/
       - title: Novel II
-        url: /enDecameron/ennov0702/
+        url: /enDecameron/nov0702/
       - title: Novel III
-        url: /enDecameron/ennov0703/
+        url: /enDecameron/nov0703/
       - title: Novel IV
-        url: /enDecameron/ennov0704/
+        url: /enDecameron/nov0704/
       - title: Novel V
-        url: /enDecameron/ennov0705/
+        url: /enDecameron/nov0705/
       - title: Novel VI
-        url: /enDecameron/ennov0706/
+        url: /enDecameron/nov0706/
       - title: Novel VII
-        url: /enDecameron/ennov0707/
+        url: /enDecameron/nov0707/
       - title: Novel VIII
-        url: /enDecameron/ennov0708/
+        url: /enDecameron/nov0708/
       - title: Novel IX
-        url: /enDecameron/ennov0709/
+        url: /enDecameron/nov0709/
       - title: Novel X
-        url: /enDecameron/ennov0710/
+        url: /enDecameron/nov0710/
       - title: Conclusion
-        url: /enDecameron/end07conclu/
+        url: /enDecameron/d07conclu/
   - title: Eighth Day
-    url: /enDecameron/enday08/
+    url: /enDecameron/day08/
     children:
       - title: Introduction
-        url: /enDecameron/end08intro/
+        url: /enDecameron/d08intro/
       - title: Novel I
-        url: /enDecameron/ennov0801/
+        url: /enDecameron/nov0801/
       - title: Novel II
-        url: /enDecameron/ennov0802/
+        url: /enDecameron/nov0802/
       - title: Novel III
-        url: /enDecameron/ennov0803/
+        url: /enDecameron/nov0803/
       - title: Novel IV
-        url: /enDecameron/ennov0804/
+        url: /enDecameron/nov0804/
       - title: Novel V
-        url: /enDecameron/ennov0805/
+        url: /enDecameron/nov0805/
       - title: Novel VI
-        url: /enDecameron/ennov0806/
+        url: /enDecameron/nov0806/
       - title: Novel VII
-        url: /enDecameron/ennov0807/
+        url: /enDecameron/nov0807/
       - title: Novel VIII
-        url: /enDecameron/ennov0808/
+        url: /enDecameron/nov0808/
       - title: Novel IX
-        url: /enDecameron/ennov0809/
+        url: /enDecameron/nov0809/
       - title: Novel X
-        url: /enDecameron/ennov0810/
+        url: /enDecameron/nov0810/
       - title: Conclusion
-        url: /enDecameron/end08conclu/
+        url: /enDecameron/d08conclu/
   - title: Ninth Day
-    url: /enDecameron/enday09/
+    url: /enDecameron/day09/
     children:
       - title: Introduction
-        url: /enDecameron/end09intro/
+        url: /enDecameron/d09intro/
       - title: Novel I
-        url: /enDecameron/ennov0901/
+        url: /enDecameron/nov0901/
       - title: Novel II
-        url: /enDecameron/ennov0902/
+        url: /enDecameron/nov0902/
       - title: Novel III
-        url: /enDecameron/ennov0903/
+        url: /enDecameron/nov0903/
       - title: Novel IV
-        url: /enDecameron/ennov0904/
+        url: /enDecameron/nov0904/
       - title: Novel V
-        url: /enDecameron/ennov0905/
+        url: /enDecameron/nov0905/
       - title: Novel VI
-        url: /enDecameron/ennov0906/
+        url: /enDecameron/nov0906/
       - title: Novel VII
-        url: /enDecameron/ennov0907/
+        url: /enDecameron/nov0907/
       - title: Novel VIII
-        url: /enDecameron/ennov0908/
+        url: /enDecameron/nov0908/
       - title: Novel IX
-        url: /enDecameron/ennov0909/
+        url: /enDecameron/nov0909/
       - title: Novel X
-        url: /enDecameron/ennov0910/
+        url: /enDecameron/nov0910/
       - title: Conclusion
-        url: /enDecameron/end09conclu/
+        url: /enDecameron/d09conclu/
   - title: Tenth Day
-    url: /enDecameron/enday10/
+    url: /enDecameron/day10/
     children:
       - title: Introduction
-        url: /enDecameron/end10intro/
+        url: /enDecameron/d10intro/
       - title: Novel I
-        url: /enDecameron/ennov1001/
+        url: /enDecameron/nov1001/
       - title: Novel II
-        url: /enDecameron/ennov1002/
+        url: /enDecameron/nov1002/
       - title: Novel III
-        url: /enDecameron/ennov1003/
+        url: /enDecameron/nov1003/
       - title: Novel IV
-        url: /enDecameron/ennov1004/
+        url: /enDecameron/nov1004/
       - title: Novel V
-        url: /enDecameron/ennov1005/
+        url: /enDecameron/nov1005/
       - title: Novel VI
-        url: /enDecameron/ennov1006/
+        url: /enDecameron/nov1006/
       - title: Novel VII
-        url: /enDecameron/ennov1007/
+        url: /enDecameron/nov1007/
       - title: Novel VIII
-        url: /enDecameron/ennov1008/
+        url: /enDecameron/nov1008/
       - title: Novel IX
-        url: /enDecameron/ennov1009/
+        url: /enDecameron/nov1009/
       - title: Novel X
-        url: /enDecameron/ennov1010/
+        url: /enDecameron/nov1010/
       - title: Conclusion
-        url: /enDecameron/end10conclu/
+        url: /enDecameron/d10conclu/
   - title: Epilogue
-    url: /enDecameron/enepilogue/
+    url: /enDecameron/epilogue/

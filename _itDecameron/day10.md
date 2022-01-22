@@ -14,7 +14,7 @@ layout: "single"
  </p>
  <argument>
   <p>
-   <a href="{{ site.baseurl }}enDecameron/day10#p10990001">
+   <a href="{{ site.baseurl }}enDecameron/day10#p10990001" id="p10990001">
     [001]
    </a>
    Finisce la Nona giornata del

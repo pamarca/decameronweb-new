@@ -13,13 +13,13 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970001">
+  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970001" id="p01970001">
    [001]
   </a>
   As the young ladies and the three young men finished their story-telling
       the sun was westering and the heat of the day in great
       measure abated.
-  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970002">
+  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970002" id="p01970002">
    [002]
   </a>
   Which their queen observing, debonairly thus she
@@ -34,7 +34,7 @@ layout: "single"
 	the future; and in order that what the new queen shall decide to be
 	meet for the morrow may be made ready beforehand, I decree that
 	from this time forth the days begin at this hour.
-   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970003">
+   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970003" id="p01970003">
     [003]
    </a>
    And so in reverent
@@ -42,7 +42,7 @@ layout: "single"
 	and solace we commit the governance of our realm for the morrow
 	into the hands of Queen Filomena, most discreet of damsels.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970004">
+  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970004" id="p01970004">
    [004]
   </a>
   So saying she arose, took the laurel wreath from her brow, and with a
@@ -51,7 +51,7 @@ layout: "single"
       queen, doing her due and graceful homage.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970005">
+  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970005" id="p01970005">
    [005]
   </a>
   Queen Filomena modestly blushed a little to find herself thus
@@ -61,7 +61,7 @@ layout: "single"
       all the appointments made by Pampinea, and making all needful
       arrangements for the following morning and evening, which they
       were to pass where they then were. Whereupon she thus spoke:
-  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970006">
+  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970006" id="p01970006">
    [006]
   </a>
   <q direct="unspecified">
@@ -72,14 +72,14 @@ layout: "single"
 	that you may understand what I think of doing, and by consequence
 	may be able to amplify or curtail it at your pleasure, I will in few
 	words make known to you my purpose.
-   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970007">
+   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970007" id="p01970007">
     [007]
    </a>
    The course observed by
 	Pampinea to-day, if I have judged aright, seems to be alike commendable
 	and delectable; wherefore, until by lapse of time, or for some
 	other cause, it grow tedious, I purpose not to alter it.
-   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970008">
+   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970008" id="p01970008">
     [008]
    </a>
    So when we
@@ -87,7 +87,7 @@ layout: "single"
 	hence and enjoy a short walk; at sundown we will sup in the cool;
 	and we will then sing a few songs and otherwise divert ourselves,
 	until it is time to go to sleep.
-   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970009">
+   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970009" id="p01970009">
     [009]
    </a>
    To-morrow we will rise in the cool
@@ -96,7 +96,7 @@ layout: "single"
 	dance, sleep, and having risen, will here resume our story-telling,
    wherein, methinks, pleasure and profit unite in superabundant
 	measure.
-   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970010">
+   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970010" id="p01970010">
     [010]
    </a>
    True it is that Pampinea, by reason of her late election to
@@ -107,7 +107,7 @@ layout: "single"
 	world Fortune has made men the sport of divers accidents, and so it
 	will continue until the end, the theme, so please you, shall in each
 	case be the same;
-   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970011">
+   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970011" id="p01970011">
     [011]
    </a>
    <seg type="topic">
@@ -117,7 +117,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970012">
+  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970012" id="p01970012">
    [012]
   </a>
   The ladies and the young men alike commended the rule thus
@@ -131,14 +131,14 @@ layout: "single"
 	endure; which favour is this: that I be not bound by the assigned
 	theme if I am not so minded, but that I have leave to choose such
 	topic as best shall please me.
-   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970013">
+   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970013" id="p01970013">
     [013]
    </a>
    And lest any suppose that I crave this
 	grace as one that has not stories ready to hand, I am henceforth
 	content that mine be always the last.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970014">
+  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970014" id="p01970014">
    [014]
   </a>
   The queen, knowing him to
@@ -146,7 +146,7 @@ layout: "single"
       this favour in order that, if the company were jaded, he might have
       an opportunity to recreate them by some amusing story, gladly, with
       the consent of the rest, granted his petition.
-  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970015">
+  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970015" id="p01970015">
    [015]
   </a>
   She then rose, and
@@ -155,7 +155,7 @@ layout: "single"
       shaded by trees close set amid living rock and fresh green herbage.
       Bare of foot and arm they entered the stream, and roving hither and
       thither amused themselves in divers ways till
-  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970016">
+  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970016" id="p01970016">
    [016]
   </a>
   in due time they returned
@@ -164,7 +164,7 @@ layout: "single"
       was to sing a song accompanied by Dioneo on the lute.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970017">
+  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970017" id="p01970017">
    [017]
   </a>
   Accordingly Lauretta led a dance, while Emilia with passion
@@ -172,7 +172,7 @@ layout: "single"
  </p>
  <div3 type="song" who="emilia">
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970018">
+   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970018" id="p01970018">
     [018]
    </a>
    <l>
@@ -186,7 +186,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970019">
+   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970019" id="p01970019">
     [019]
    </a>
    <l>
@@ -212,7 +212,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970020">
+   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970020" id="p01970020">
     [020]
    </a>
    <l>
@@ -238,7 +238,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970021">
+   <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970021" id="p01970021">
     [021]
    </a>
    <l>
@@ -265,7 +265,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970022">
+  <a href="{{ site.baseurl }}itDecameron/d01conclu#p01970022" id="p01970022">
    [022]
   </a>
   This ballade, to which all heartily responded, albeit its words

@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970001">
+  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970001" id="p99970001">
    [001]
   </a>
   Come
@@ -43,34 +43,34 @@ layout: "single"
   e tornossi a sedere.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970002">
+  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970002" id="p99970002">
    [002]
   </a>
   <name persref="emilia" type="person">
    Emilia
   </name>
   , non tanto dell'esser reina fatta quanto del vedersi cos&iacute; in pubblico commendare di ci&ograve; che le donne sogliono essere pi&uacute; vaghe, un pochetto si vergogn&ograve; e tal nel viso divenne qual in su l'aurora son le novelle rose; ma pur, poi che tenuti ebbe gli occhi alquanto bassi e ebbe il rossore dato luogo, avendo col suo siniscalco de' fatti pertinenti alla brigata ordinato, cos&iacute; cominci&ograve; a parlare:
-  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970003">
+  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970003" id="p99970003">
    [003]
   </a>
   <q direct="unspecified">
    Dilettose donne, assai manifestamente veggiamo che, poi che i buoi alcuna parte del giorno hanno faticato sotto il giogo ristretti, quegli esser dal giogo alleviati e disciolti, e liberamente dove lor pi&uacute; piace, per li boschi lasciati sono andare alla pastura:
-   <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970004">
+   <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970004" id="p99970004">
     [004]
    </a>
    e veggiamo ancora non esser men belli, ma molto pi&uacute;, i giardini di varie piante fronzuti che i boschi ne' quali solamente querce veggiamo; per le quali cose io estimo, avendo riguardo quanti giorni sotto certa legge ristretti ragionato abbiamo, che, s&iacute; come a bisognosi, di vagare alquanto e vagando riprender forze a rientrar sotto il giogo non solamente sia utile ma oportuno.
-   <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970005">
+   <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970005" id="p99970005">
     [005]
    </a>
    E per ci&ograve; quello che domane, seguendo il vostro dilettevole ragionar, sia da dire non intendo di ristrignervi sotto alcuna spezialit&agrave;, ma voglio che ciascun secondo che gli piace ragioni, fermamente tenendo che la variet&agrave; delle cose che si diranno non meno graziosa ne fia che l'avrete pur d'una parlato; e cos&iacute; avendo fatto, chi appresso di me nel reame verr&agrave;, s&iacute; come pi&uacute; forti, con maggior sicurt&agrave; ne potr&agrave; nelle usate leggi ristrignere.
   </q>
-  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970006">
+  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970006" id="p99970006">
    [006]
   </a>
   E detto questo, infino all'ora della cena libert&agrave; concedette a ciascuno.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970007">
+  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970007" id="p99970007">
    [007]
   </a>
   Commend&ograve; ciascun la
@@ -82,7 +82,7 @@ layout: "single"
    bella fontana
   </name>
   con festa e con piacer cenarono, e dopo la cena al modo usato cantando e ballando si trastullarono.
-  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970008">
+  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970008" id="p99970008">
    [008]
   </a>
   Alla fine la reina, per seguire de' suoi predecessori lo stilo, non obstanti quelle che volontariamente avevan dette pi&uacute; di loro, comand&ograve; a
@@ -93,7 +93,7 @@ layout: "single"
  </p>
  <div3 type="song" who="panfilo">
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970009">
+   <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970009" id="p99970009">
     [009]
    </a>
    <l>
@@ -107,7 +107,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970010">
+   <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970010" id="p99970010">
     [010]
    </a>
    <l>
@@ -139,7 +139,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970011">
+   <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970011" id="p99970011">
     [011]
    </a>
    <l>
@@ -171,7 +171,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970012">
+   <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970012" id="p99970012">
     [012]
    </a>
    <l>
@@ -204,7 +204,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970013">
+  <a href="{{ site.baseurl }}enDecameron/d08conclu#p99970013" id="p99970013">
    [013]
   </a>
   La canzone di

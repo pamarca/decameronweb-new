@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d02intro#p02980002">
+  <a href="{{ site.baseurl }}enDecameron/d02intro#p02980002" id="p02980002">
    [002]
   </a>
   Gi&agrave; per tutto aveva il sol recato con la sua luce il nuovo giorno e gli uccelli su per li verdi rami cantando piacevoli versi ne davano agli orecchi testimonianza, quando parimente tutte le donne e i tre giovani levatisi ne'
@@ -21,7 +21,7 @@ layout: "single"
    giardini
   </name>
   se ne entrarono, e le rugiadose erbe con lento passo scalpitando d'una parte in un'altra, belle ghirlande faccendosi, per lungo spazio diportando s'andarono.
-  <a href="{{ site.baseurl }}enDecameron/d02intro#p02980003">
+  <a href="{{ site.baseurl }}enDecameron/d02intro#p02980003" id="p02980003">
    [003]
   </a>
   E s&iacute; come il trapassato giorno avean fatto, cos&iacute; fecero il presente: per lo fresco avendo mangiato, dopo alcun ballo s'andarono a riposare, e da quello appresso la
@@ -37,7 +37,7 @@ layout: "single"
    pratello
   </name>
   venuti a lei dintorno si posero a sedere.
-  <a href="{{ site.baseurl }}enDecameron/d02intro#p02980004">
+  <a href="{{ site.baseurl }}enDecameron/d02intro#p02980004" id="p02980004">
    [004]
   </a>
   Ella, la quale era formosa e di piacevole aspetto molto, della sua ghirlanda dello alloro coronata, alquanto stata e tutta la sua compagnia riguardata nel viso, a

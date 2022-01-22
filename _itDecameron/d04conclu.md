@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970001">
+  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970001" id="p04970001">
    [001]
   </a>
   Se le prime novelle li petti delle vaghe donne avevan contristati questa ultima di
@@ -21,7 +21,7 @@ layout: "single"
    Dioneo
   </name>
   le fece ben tanto ridere, e spezialmente quando disse lo stratic&ograve; aver l'uncino attaccato che essi si poterono della compassione avuta dell'altre ristorare.
-  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970002">
+  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970002" id="p04970002">
    [002]
   </a>
   Ma veggendo il
@@ -33,7 +33,7 @@ layout: "single"
    Fiammetta
   </name>
   la pose, dicendo:
-  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970003">
+  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970003" id="p04970003">
    [003]
   </a>
   <q direct="unspecified" who="filostrato">
@@ -41,7 +41,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970004">
+  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970004" id="p04970004">
    [004]
   </a>
   La
@@ -49,7 +49,7 @@ layout: "single"
    Fiammetta
   </name>
   li cui capelli eran crespi, lunghi e d'oro e sopra li candidi e dilicati omeri ricadenti, e il viso ritondetto con un colore vero di bianchi gigli e di vermiglie rose mescolati tutto splendido, con due occhi in testa che parevano d'un falcon pellegrino e con una boccuccia piccolina, li cui labbri parevan due rubinetti,
-  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970005">
+  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970005" id="p04970005">
    [005]
   </a>
   sorridendo rispose:
@@ -66,13 +66,13 @@ layout: "single"
    </seg>
    .
   </q>
-  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970006">
+  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970006" id="p04970006">
    [006]
   </a>
   La qual proposizione a tutti piacque: e essa, fattosi il siniscalco venire, e delle cose opportune con lui insieme avendo disposto, tutta la brigata, da seder levandosi, per infino all'ora della cena lietamente licenzi&ograve;.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970007">
+  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970007" id="p04970007">
    [007]
   </a>
   Costoro adunque, parte per lo
@@ -84,7 +84,7 @@ layout: "single"
    mulina
   </name>
   che fuor di quel macinavano, e chi qua e chi l&agrave;, a prender secondo i diversi appetiti diversi diletti si diedono infino all'ora della cena.
-  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970008">
+  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970008" id="p04970008">
    [008]
   </a>
   La qual venuta, tutti raccolti, come usati erano, appresso della
@@ -100,7 +100,7 @@ layout: "single"
    reina
   </name>
   :
-  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970009">
+  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970009" id="p04970009">
    [009]
   </a>
   <q direct="unspecified" who="fiammetta">
@@ -111,7 +111,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970010">
+  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970010" id="p04970010">
    [010]
   </a>
   <name persref="filostrato" type="person">
@@ -121,7 +121,7 @@ layout: "single"
  </p>
  <div3 type="song" who="filostrato">
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970011">
+   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970011" id="p04970011">
     [011]
    </a>
    <l>
@@ -135,7 +135,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970012">
+   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970012" id="p04970012">
     [012]
    </a>
    <l>
@@ -167,7 +167,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970013">
+   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970013" id="p04970013">
     [013]
    </a>
    <l>
@@ -199,7 +199,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970014">
+   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970014" id="p04970014">
     [014]
    </a>
    <l>
@@ -231,7 +231,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970015">
+   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970015" id="p04970015">
     [015]
    </a>
    <l>
@@ -263,7 +263,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970016">
+   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970016" id="p04970016">
     [016]
    </a>
    <l>
@@ -295,7 +295,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970017">
+   <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970017" id="p04970017">
     [017]
    </a>
    <l>
@@ -328,7 +328,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970018">
+  <a href="{{ site.baseurl }}enDecameron/d04conclu#p04970018" id="p04970018">
    [018]
   </a>
   Dimostrarono le parole di questa canzone assai chiaro qual fosse l'animo di

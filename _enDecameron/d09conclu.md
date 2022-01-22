@@ -13,13 +13,13 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970001">
+  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970001" id="p09970001">
    [001]
   </a>
   What laughter this story drew from the ladies, who understood it
  better than Dioneo had wished, may be left to the imagination of
  the fair one that now laughs thereat.
-  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970002">
+  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970002" id="p09970002">
    [002]
   </a>
   However, as the stories were
@@ -34,7 +34,7 @@ layout: "single"
  which God give thee grace to accomplish, even as He has given me
  grace to make thee king.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970003">
+  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970003" id="p09970003">
    [003]
   </a>
   With gladsome acknowledgment of the
@@ -52,7 +52,7 @@ layout: "single"
  the example of his predecessors, he made all meet arrangements in
  concert with the seneschal: after which, he turned to the expectant
  ladies, and thus spoke:
-  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970004">
+  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970004" id="p09970004">
    [004]
   </a>
   <q direct="unspecified">
@@ -65,7 +65,7 @@ layout: "single"
  thought how you may discourse of the ensuing theme: to wit, of
  such as in matters of love, or otherwise, have done something with
  liberality or magnificence.
-   <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970005">
+   <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970005" id="p09970005">
     [005]
    </a>
    By the telling, and (still more) by the
@@ -79,14 +79,14 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970006">
+  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970006" id="p09970006">
    [006]
   </a>
   The gay company having, one and all, approved the theme, rose
  at a word from their new king, and betook them to their wonted
  pastimes, and so, according as they severally had most lief, diverted
  them,
-  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970007">
+  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970007" id="p09970007">
    [007]
   </a>
   until they blithely reunited for supper, which being served
@@ -98,7 +98,7 @@ layout: "single"
  </p>
  <div3 type="song" who="neifile">
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970008">
+   <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970008" id="p09970008">
     [008]
    </a>
    <l>
@@ -112,7 +112,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970009">
+   <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970009" id="p09970009">
     [009]
    </a>
    <l>
@@ -138,7 +138,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970010">
+   <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970010" id="p09970010">
     [010]
    </a>
    <l>
@@ -164,7 +164,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970011">
+   <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970011" id="p09970011">
     [011]
    </a>
    <l>
@@ -190,7 +190,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970012">
+   <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970012" id="p09970012">
     [012]
    </a>
    <l>
@@ -224,7 +224,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970013">
+  <a href="{{ site.baseurl }}itDecameron/d09conclu#p09970013" id="p09970013">
    [013]
   </a>
   The king and all the ladies did not a little commend Neifile's

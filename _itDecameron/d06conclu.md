@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970001">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970001" id="p06970001">
    [001]
   </a>
   Questa novella porse igualmente a tutta la brigata grandissimo piacere e sollazzo, e molto per tutti fu riso di
@@ -29,7 +29,7 @@ layout: "single"
    Dioneo
   </name>
   , e disse:
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970002">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970002" id="p06970002">
    [002]
   </a>
   <q direct="unspecified" who="elissa">
@@ -41,7 +41,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970003">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970003" id="p06970003">
    [003]
   </a>
   <name persref="dioneo" type="person">
@@ -51,7 +51,7 @@ layout: "single"
   <q direct="unspecified" who="dioneo">
    Assai volte gi&agrave; ne potete aver veduti, io dico delli re da scacchi, troppo pi&uacute; cari che io non sono; e per certo, se voi m'ubidiste come vero re si dee ubidire, io vi farei goder di quello senza il che per certo niuna festa compiutamente &egrave; lieta. Ma lasciamo star queste parole: io regger&ograve; come io sapr&ograve;.
   </q>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970004">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970004" id="p06970004">
    [004]
   </a>
   E fattosi secondo il costume usato venire il siniscalco, ci&ograve; che a fare avesse quanto durasse la sua signoria ordinatamente gl'impose, e appresso disse:
@@ -61,11 +61,11 @@ layout: "single"
     Licisca
    </name>
    non fosse poco avanti qui venuta, la quale con le sue parole m'ha trovata materia a' futuri ragionamenti di domane, io dubito che io non avessi gran pezza penato a trovar tema da ragionare.
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970005">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970005" id="p06970005">
     [005]
    </a>
    Ella, come voi udiste, disse che vicina non avea che pulcella ne fosse andata a marito e sogiunse che ben sapeva quante e quali beffe le maritate ancora facessero a' mariti.
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970006">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970006" id="p06970006">
     [006]
    </a>
    Ma lasciando stare la prima parte, che &egrave; opera fanciullesca, reputo che la seconda debbia essere piacevole a ragionarne, e perci&ograve; voglio che domane si dica, poi che donna
@@ -80,7 +80,7 @@ layout: "single"
   .
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970007">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970007" id="p06970007">
    [007]
   </a>
   Il ragionare di s&iacute; fatta materia pareva a alcuna delle donne che male a lor si convenisse, e pregavanlo che mutasse la proposta gi&agrave; detta; alle quali il
@@ -88,47 +88,47 @@ layout: "single"
    re
   </name>
   rispose:
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970008">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970008" id="p06970008">
    [008]
   </a>
   <q direct="unspecified" who="dioneo">
    Donne, io conosco ci&ograve; che io ho imposto non meno che facciate voi, e da imporlo non mi pot&eacute; istorre quello che voi mi volete mostrare, pensando che il tempo &egrave; tale che, guardandosi e gli uomini e le donne d'operar disonestamente, ogni ragionare &egrave; conceduto.
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970009">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970009" id="p06970009">
     [009]
    </a>
    Or non sapete voi che, per la perversit&agrave; di questa stagione, li giudici hanno lasciati i tribunali? le leggi, cos&iacute; le divine come le umane, tacciono? e ampia licenzia per conservar la vita &egrave; conceduta a ciascuno?
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970010">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970010" id="p06970010">
     [010]
    </a>
    Per che, se alquanto s'allarga la vostra onest&agrave; nel favellare, non per dover con l'opere mai alcuna cosa sconcia seguire ma per dare diletto a voi e a altrui, non veggio con che argomento da concedere vi possa nello avvenire riprendere alcuno.
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970011">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970011" id="p06970011">
     [011]
    </a>
    Oltre a questo la nostra brigata, dal primo d&iacute; infino a questa ora stata onestissima, per cosa che detta ci si sia non mi pare che in atto alcuno si sia maculata n&eacute; si maculer&agrave; con l'aiuto di Dio.
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970012">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970012" id="p06970012">
     [012]
    </a>
    Appresso, chi &egrave; colui che non conosca la vostra onest&agrave;? La quale non che i ragionamenti sollazzevoli ma il terrore della morte non credo che potesse smagare.
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970013">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970013" id="p06970013">
     [013]
    </a>
    E a dirvi il vero, chi sapesse che voi vi cessaste da queste ciance ragionare alcuna volta forse suspicherebbe che voi in ci&ograve; non foste colpevoli, e per ci&ograve; ragionare non ne voleste.
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970014">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970014" id="p06970014">
     [014]
    </a>
    Senza che voi mi fareste un bello onore, essendo io stato ubidente a tutti, e ora, avendomi vostro re fatto, mi voleste la legge porre in mano, e di quello non dire che io avessi imposto.
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970015">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970015" id="p06970015">
     [015]
    </a>
    Lasciate adunque questa suspizione pi&uacute; atta a' cattivi animi che a' nostri, e con la buona ventura pensi ciascuna di dirla bella.
   </q>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970016">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970016" id="p06970016">
    [016]
   </a>
   Quando le donne ebbero udito questo, dissero che cos&iacute; fosse come gli piacesse: per che il re per infino a ora della cena di fare il suo piacere diede licenzia a ciascuno.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970017">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970017" id="p06970017">
    [017]
   </a>
   Era ancora il sole molto alto, per ci&ograve; che il ragionamento era stato brieve: per che, essendosi
@@ -140,7 +140,7 @@ layout: "single"
    Elissa
   </name>
   , chiamate l'altre donne da una parte, disse:
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970018">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970018" id="p06970018">
    [018]
   </a>
   <q direct="unspecified" who="elissa">
@@ -153,7 +153,7 @@ layout: "single"
   .
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970019">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970019" id="p06970019">
    [019]
   </a>
   Le donne risposono che erano apparecchiate; e chiamata una delle lor fanti, senza farne alcuna cosa sentire a' giovani, si misero in via: n&eacute; guari pi&uacute; d'un miglio furono andate, che alla
@@ -165,7 +165,7 @@ layout: "single"
    chiarissimo fiumicello
   </name>
   , entrarono, e viderla tanto bella e tanto dilettevole, e spezialmente in quel tempo che era il caldo grande, quanto pi&uacute; si potesse divisare.
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970020">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970020" id="p06970020">
    [020]
   </a>
   E secondo che alcuna di loro poi mi ridisse, il piano, che nella valle era, cos&iacute; era ritondo come se a sesta fosse stato fatto, quantunque artificio della natura e non manual paresse: e era di giro poco pi&uacute; che un mezzo miglio, intorniato di
@@ -175,7 +175,7 @@ layout: "single"
   di non troppa altezza, e in su la sommit&agrave; di ciascuna si vedeva un palagio quasi in forma fatto d'un bel castelletto.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970021">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970021" id="p06970021">
    [021]
   </a>
   Le piagge delle quali
@@ -183,7 +183,7 @@ layout: "single"
    montagnette
   </name>
   cos&iacute; digradando giuso verso il pian discendevano, come ne' teatri veggiamo dalla lor sommit&agrave; i gradi infino all'infimo venire successivamente ordinati, sempre ristrignendo il cerchio loro.
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970022">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970022" id="p06970022">
    [022]
   </a>
   E erano queste piagge, quante alla piaga del mezzogiorno ne riguardavano, tutte di vigne, d'ulivi, di mandorli, di ciriegi, di fichi e d'altre maniere assai d'
@@ -191,11 +191,11 @@ layout: "single"
    albori fruttiferi
   </name>
   piene senza spanna perdersene.
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970023">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970023" id="p06970023">
    [023]
   </a>
   Quelle le quali il carro di tramontana guardava, tutte eran boschetti di querciuoli, di frassini e d'altri arberi verdissimi e ritti quanto pi&uacute; esser poteano.
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970024">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970024" id="p06970024">
    [024]
   </a>
   Il piano appresso, senza aver pi&uacute; entrate che quella donde le donne venute v'erano, era pieno d'abeti, di cipressi, d'allori e d'alcun pini s&iacute; ben composti e s&iacute; bene ordinati, come se qualunque &egrave; di ci&ograve; il migliore artefice gli avesse piantati: e fra essi poco sole o niente, allora che egli era alto, entrava infino al suolo, il quale era tutto un
@@ -205,7 +205,7 @@ layout: "single"
   d'erba minutissima e piena di fiori porporini e d'altri.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970025">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970025" id="p06970025">
    [025]
   </a>
   E oltre a questo, quel che non meno di diletto che altro porgeva, era un
@@ -217,7 +217,7 @@ layout: "single"
    montagnette
   </name>
   dividea, cadeva gi&uacute; per balzi di pietra viva, e cadendo faceva un romore a udire assai dilettevole, e sprizzando pareva da lungi ariento vivo che d'alcuna cosa premuta minutamente sprizzasse;
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970026">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970026" id="p06970026">
    [026]
   </a>
   e come gi&uacute; al piccol pian pervenia, cos&iacute; quivi in un bel canaletto raccolta infino al mezzo del piano velocissima discorreva, e ivi faceva un picciol
@@ -225,17 +225,17 @@ layout: "single"
    laghetto
   </name>
   , quale talvolta per modo di vivaio fanno ne' lor giardini i cittadini che di ci&ograve; hanno destro.
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970027">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970027" id="p06970027">
    [027]
   </a>
   E era questo laghetto non pi&uacute; profondo che sia una statura d'uomo infino al petto lunga; e senza avere in s&eacute; mistura alcuna, chiarissimo il suo fondo mostrava esser d'una minutissima ghiaia, la quale tutta, chi altro non avesse avuto a fare, avrebbe volendo potuta annoverare; n&eacute; solamente nell'acqua vi si vedeva il fondo riguardando, ma tanto pesce in qua e in l&agrave; andar discorrendo, che oltre al diletto era una maraviglia;
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970028">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970028" id="p06970028">
    [028]
   </a>
   n&eacute; da altra ripa era chiuso che dal suolo del prato, tanto d'intorno a quel pi&uacute; bello quanto pi&uacute; dell'umido sentiva di quello. L'acqua la quale alla sua capacit&agrave; soprabondava un altro canaletto ricevea, per lo qual fuori del valloncello uscendo, alle parti pi&uacute; basse se ne correva.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970029">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970029" id="p06970029">
    [029]
   </a>
   In questo adunque venute le giovani donne, poi che per tutto riguardato ebbero e molto commendato il luogo, essendo il caldo grande e vedendosi il
@@ -243,21 +243,21 @@ layout: "single"
    pelaghetto
   </name>
   davanti e senza alcun sospetto d'esser vedute, diliberaron di volersi bagnare.
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970030">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970030" id="p06970030">
    [030]
   </a>
   E comandato alla lor fante che sopra la via per la quale quivi s'entrava dimorasse e guardasse se alcun venisse e loro il facesse sentire, tutte e sette si spogliarono e entrarono in esso, il quale non altramenti li lor corpi candidi nascondeva che farebbe una vermiglia rosa un sottil vetro.
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970031">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970031" id="p06970031">
    [031]
   </a>
   Le quali essendo in quello, n&eacute; per ci&ograve; alcuna turbazion d'acqua nascendone, cominciarono come potevano a andare in qua in l&agrave; di dietro a' pesci, i quali male avevan dove nascondersi, e a volerne con esso le mani pigliare.
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970032">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970032" id="p06970032">
    [032]
   </a>
   E poi che in cos&iacute; fatta festa, avendone presi alcuni, dimorate furono alquanto, uscite di quello si rivestirono e senza poter pi&uacute; commendare il luogo che commendato l'avessero, parendo lor tempo da dover tornar verso casa, con soave passo, molto della bellezza del luogo parlando, in cammino si misero.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970033">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970033" id="p06970033">
    [033]
   </a>
   E al palagio giunte a assai buona ora, ancora quivi trovarono i giovani giucando dove lasciati gli aveano; alli quali
@@ -271,7 +271,7 @@ layout: "single"
   .
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970034">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970034" id="p06970034">
    [034]
   </a>
   <q direct="unspecified" who="dioneo">
@@ -286,7 +286,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970035">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970035" id="p06970035">
    [035]
   </a>
   Disse
@@ -300,7 +300,7 @@ layout: "single"
   , e distesamente gli narr&ograve; donde venivano e come era fatto il luogo e quanto di quivi distante e ci&ograve; che fatto avevano.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970036">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970036" id="p06970036">
    [036]
   </a>
   Il
@@ -308,7 +308,7 @@ layout: "single"
    re
   </name>
   , udendo contare la bellezza del luogo, disideroso di vederlo, prestamente fece comandar la cena: la qual poi che con assai piacer di tutti fu fornita, li tre giovani con li lor famigliari, lasciate le donne, se n'andarono a questa valle, e ogni cosa considerata, non essendovene alcuno di loro stato mai pi&uacute;, quella per una delle belle cose del mondo lodarono.
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970037">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970037" id="p06970037">
    [037]
   </a>
   E poi che bagnati si furono e rivestiti, per ci&ograve; che troppo tardi si faceva, se ne tornarono a casa, dove trovarono le donne che facevano una carola a un verso che facea la
@@ -320,7 +320,7 @@ layout: "single"
    Valle delle Donne
   </name>
   , assai di bene e di lode ne dissero.
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970038">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970038" id="p06970038">
    [038]
   </a>
   Per la qual cosa il
@@ -328,7 +328,7 @@ layout: "single"
    re
   </name>
   , fattosi venire il siniscalco, gli comand&ograve; che la seguente mattina l&agrave; facesse che fosse apparecchiato e portatovi alcun letto se alcun volesse o dormire o giacersi di meriggiana.
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970039">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970039" id="p06970039">
    [039]
   </a>
   Appresso questo, fatto venir de' lumi e vino e confetti e alquanto riconfortatisi, comand&ograve; che ogn'uomo fosse in sul ballare; e avendo per suo volere
@@ -344,7 +344,7 @@ layout: "single"
    Elissa
   </name>
   le disse piacevolemente:
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970040">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970040" id="p06970040">
    [040]
   </a>
   <q direct="unspecified" who="dioneo">
@@ -353,7 +353,7 @@ layout: "single"
   .
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970041">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970041" id="p06970041">
    [041]
   </a>
   A cui
@@ -364,7 +364,7 @@ layout: "single"
  </p>
  <div3 type="song" who="elissa">
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970042">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970042" id="p06970042">
     [042]
    </a>
    <l>
@@ -378,7 +378,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970043">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970043" id="p06970043">
     [043]
    </a>
    <l>
@@ -404,7 +404,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970044">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970044" id="p06970044">
     [044]
    </a>
    <l>
@@ -430,7 +430,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970045">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970045" id="p06970045">
     [045]
    </a>
    <l>
@@ -456,7 +456,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970046">
+   <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970046" id="p06970046">
     [046]
    </a>
    <l>
@@ -483,7 +483,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970047">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970047" id="p06970047">
    [047]
   </a>
   Poi che con un sospiro assai pietoso
@@ -491,7 +491,7 @@ layout: "single"
    Elissa
   </name>
   ebbe alla sua canzon fatta fine, ancor che tutti si maravigliasser di tali parole, niuno per ci&ograve; ve n'ebbe che potesse avvisare chi di cos&iacute; cantare le fosse cagione.
-  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970048">
+  <a href="{{ site.baseurl }}enDecameron/d06conclu#p06970048" id="p06970048">
    [048]
   </a>
   Ma il

@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970001">
+  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970001" id="p08970001">
    [001]
   </a>
   No sooner was Dioneo's story ended, than Lauretta, witting
@@ -32,7 +32,7 @@ layout: "single"
  her seat.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970002">
+  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970002" id="p08970002">
    [002]
   </a>
   Not so much to receive the crown, as to be thus commended to
@@ -42,7 +42,7 @@ layout: "single"
  with downcast eyes: then, as the blush faded away, she raised them;
  and having given her seneschal her commands touching all matters
  pertaining to the company, thus she spake:
-  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970003">
+  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970003" id="p08970003">
    [003]
   </a>
   <q direct="unspecified">
@@ -51,7 +51,7 @@ layout: "single"
  part of the day under the coercive yoke, they are relieved thereof and
  loosed, and suffered to go seek their pasture at their own sweet will
    in the woods;
-   <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970004">
+   <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970004" id="p08970004">
     [004]
    </a>
    nor can we fail to observe that gardens luxuriant with
@@ -61,7 +61,7 @@ layout: "single"
  laws, 'twill be not only meet but profitable for us, being in need of
  relaxation, to roam a while, and so recruit our strength to undergo
  the yoke once more.
-   <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970005">
+   <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970005" id="p08970005">
     [005]
    </a>
    And therefore I am minded that to-morrow
@@ -73,14 +73,14 @@ layout: "single"
  will find you more vigorous, and be therefore all the more forward
  to reimpose upon you the wonted restraint of our laws.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970006">
+  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970006" id="p08970006">
    [006]
   </a>
   Having so
  said, she dismissed all the company until supper-time.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970007">
+  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970007" id="p08970007">
    [007]
   </a>
   All approved the wisdom of what the queen had said; and being
@@ -90,7 +90,7 @@ layout: "single"
  come, they gathered about the fair fountain, and took their meal with
  gay and festal cheer. Supper ended, they addressed them to their
  wonted pastime of song and dance.
-  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970008">
+  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970008" id="p08970008">
    [008]
   </a>
   At the close of which the queen,
@@ -100,7 +100,7 @@ layout: "single"
  </p>
  <div3 type="song" who="panfilo">
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970009">
+   <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970009" id="p08970009">
     [009]
    </a>
    <l>
@@ -114,7 +114,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970010">
+   <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970010" id="p08970010">
     [010]
    </a>
    <l>
@@ -146,7 +146,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970011">
+   <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970011" id="p08970011">
     [011]
    </a>
    <l>
@@ -178,7 +178,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970012">
+   <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970012" id="p08970012">
     [012]
    </a>
    <l>
@@ -211,7 +211,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970013">
+  <a href="{{ site.baseurl }}itDecameron/d08conclu#p08970013" id="p08970013">
    [013]
   </a>
   So ended Pamfilo his song: whereto all the company responded

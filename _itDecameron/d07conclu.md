@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970001">
+  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970001" id="p07970001">
    [001]
   </a>
   <name>
@@ -34,7 +34,7 @@ layout: "single"
   e riposesi a sedere.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970002">
+  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970002" id="p07970002">
    [002]
   </a>
   La
@@ -50,7 +50,7 @@ layout: "single"
    palagio
   </name>
   tornare; e appresso ci&ograve; che a fare avesse, mentre il suo reggimento durasse, gli divis&ograve;.
-  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970003">
+  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970003" id="p07970003">
    [003]
   </a>
   Quindi, rivolta alla compagnia, disse:
@@ -59,7 +59,7 @@ layout: "single"
     Dioneo
    </name>
    volle ieri che oggi si ragionasse delle beffe che le donne fanno a' mariti; e, se non fosse ch'io non voglio mostrare d'essere di schiatta di can botolo che incontanente si vuol vendicare, io direi che domane si dovesse ragionare delle beffe che gli uomini fanno alle lor mogli.
-   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970004">
+   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970004" id="p07970004">
     [004]
    </a>
    Ma, lasciando star questo, dico che ciascun pensi di
@@ -71,11 +71,11 @@ layout: "single"
   e cos&iacute; detto, levatasi in pi&egrave;, per infino ad ora di cena licenzi&ograve; la brigata.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970005">
+  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970005" id="p07970005">
    [005]
   </a>
   Levaronsi adunque le donne e gli uomini parimente, de' quali alcuni scalzi per la chiara acqua cominciarono ad andare, e altri tra' belli e diritti alberi sopra il verde prato s'andavano diportando.
-  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970006">
+  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970006" id="p07970006">
    [006]
   </a>
   <name persref="dioneo" type="person">
@@ -98,7 +98,7 @@ layout: "single"
    pelaghetto
   </name>
   a tavola postisi, quivi al canto di mille uccelli, rinfrescati sempre da un'aura soave che da quelle montagnette dattorno nasceva, senza alcuna mosca, riposatamente e con letizia cenarono.
-  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970007">
+  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970007" id="p07970007">
    [007]
   </a>
   E levate le tavole, poi che alquanto la
@@ -114,7 +114,7 @@ layout: "single"
    bel palagio
   </name>
   assai vicino di notte pervennero.
-  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970008">
+  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970008" id="p07970008">
    [008]
   </a>
   Dove con freschissimi vini e con confetti la fatica del picciol cammin cacciata via, intorno della
@@ -126,7 +126,7 @@ layout: "single"
    Tindaro
   </name>
   e quando d'altri suon carolando.
-  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970009">
+  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970009" id="p07970009">
    [009]
   </a>
   Ma alla fine la
@@ -141,7 +141,7 @@ layout: "single"
  </p>
  <div3 type="song" who="filomena">
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970010">
+   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970010" id="p07970010">
     [010]
    </a>
    <l>
@@ -155,7 +155,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970011">
+   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970011" id="p07970011">
     [011]
    </a>
    <l>
@@ -187,7 +187,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970012">
+   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970012" id="p07970012">
     [012]
    </a>
    <l>
@@ -219,7 +219,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970013">
+   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970013" id="p07970013">
     [013]
    </a>
    <l>
@@ -252,7 +252,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970014">
+   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970014" id="p07970014">
     [014]
    </a>
    <l>
@@ -285,7 +285,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970015">
+  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970015" id="p07970015">
    [015]
   </a>
   Estimar fece questa canne a tutta la brigata che nuovo e piacevole amore
@@ -297,7 +297,7 @@ layout: "single"
    reina
   </name>
   che il d&iacute; seguente era venerd&iacute;, cos&iacute; a tutti piacevolmente disse:
-  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970016">
+  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970016" id="p07970016">
    [016]
   </a>
   <q direct="unspecified" who="lauretta">
@@ -306,7 +306,7 @@ layout: "single"
     Neifile
    </name>
    , e a' ragionamenti dilettevoli demmo luogo, e il simigliante facemmo del sabato subsequente.
-   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970017">
+   <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970017" id="p07970017">
     [017]
    </a>
    Per che, volendo il buono essemplo datone da
@@ -317,7 +317,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970018">
+  <a href="{{ site.baseurl }}enDecameron/d07conclu#p07970018" id="p07970018">
    [018]
   </a>
   Piacque a tutti il divoto parlare della loro

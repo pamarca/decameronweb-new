@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970001">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970001" id="p05970001">
    [001]
   </a>
   Essendo adunque la novella di
@@ -34,14 +34,14 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970002">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970002" id="p05970002">
    [002]
   </a>
   <name persref="elissa" type="person">
    Elissa
   </name>
   , ricevuto l'onore, s&iacute; come per adietro era stato fatto cos&iacute; fece ella: ch&eacute; dato col siniscalco primieramente ordine a ci&ograve; che bisogno facea per lo tempo della sua signoria, con contentamento della brigata disse:
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970003">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970003" id="p05970003">
    [003]
   </a>
   <q direct="unspecified">
@@ -53,7 +53,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970004">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970004" id="p05970004">
    [004]
   </a>
   Questo fu commendato molto da tutti: per la qual cosa la
@@ -61,17 +61,17 @@ layout: "single"
    reina
   </name>
   levatasi in pi&egrave; loro tutti infino all'ora della cena licenzi&ograve;.
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970005">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970005" id="p05970005">
    [005]
   </a>
   L'onesta brigata, vedendo la reina levata, tutta si dirizz&ograve;, e, secondo il modo usato, ciascuno a quello che pi&uacute; diletto gli era si diede.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970006">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970006" id="p05970006">
    [006]
   </a>
   Ma essendo gi&agrave; di cantare le cicale ristate, fatto ogn'uom richiamare, a cena andarono; la quale con lieta festa fornita, a cantare e a sonare tutti si diedero.
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970007">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970007" id="p05970007">
    [007]
   </a>
   E avendo gi&agrave; con volere della
@@ -89,13 +89,13 @@ layout: "single"
   <i type="song">
    Monna Aldruda, levate la coda, Ch&eacute; buone novelle vi reco.
   </i>
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970008">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970008" id="p05970008">
    [008]
   </a>
   Di che tutte le donne cominciarono a ridere, e massimamente la reina, la quale gli comand&ograve; che quella lasciasse e dicessene un'altra.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970009">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970009" id="p05970009">
    [009]
   </a>
   Disse
@@ -123,7 +123,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970010">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970010" id="p05970010">
    [010]
   </a>
   Disse la
@@ -136,7 +136,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970011">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970011" id="p05970011">
    [011]
   </a>
   <q direct="unspecified" who="dioneo">
@@ -152,7 +152,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970012">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970012" id="p05970012">
    [012]
   </a>
   La
@@ -165,7 +165,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970013">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970013" id="p05970013">
    [013]
   </a>
   Disse
@@ -185,7 +185,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970014">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970014" id="p05970014">
    [014]
   </a>
   La
@@ -201,7 +201,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970015">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970015" id="p05970015">
    [015]
   </a>
   <name persref="dioneo" type="person">
@@ -211,7 +211,7 @@ layout: "single"
  </p>
  <div3 type="song" who="dioneo">
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970016">
+   <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970016" id="p05970016">
     [016]
    </a>
    <l>
@@ -225,7 +225,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970017">
+   <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970017" id="p05970017">
     [017]
    </a>
    <l>
@@ -257,7 +257,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970018">
+   <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970018" id="p05970018">
     [018]
    </a>
    <l>
@@ -289,7 +289,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970019">
+   <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970019" id="p05970019">
     [019]
    </a>
    <l>
@@ -322,7 +322,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970020">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970020" id="p05970020">
    [020]
   </a>
   Da poi che
@@ -338,7 +338,7 @@ layout: "single"
    Dioneo
   </name>
   .
-  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970021">
+  <a href="{{ site.baseurl }}enDecameron/d05conclu#p05970021" id="p05970021">
    [021]
   </a>
   Ma poi che alquanto della notte fu trapassata, e la reina, sentendo gi&agrave; il caldo del d&iacute; esser vinto dalla freschezza della notte, comand&ograve; che ciascuno infino al d&iacute; seguente a suo piacere s'andasse a riposare.

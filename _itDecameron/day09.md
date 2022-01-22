@@ -14,7 +14,7 @@ layout: "single"
  </p>
  <argument>
   <p>
-   <a href="{{ site.baseurl }}enDecameron/day09#p09990001">
+   <a href="{{ site.baseurl }}enDecameron/day09#p09990001" id="p09990001">
     [001]
    </a>
    Finisce l'Ottava giornata del

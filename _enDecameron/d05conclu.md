@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970001">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970001" id="p05970001">
    [001]
   </a>
   Dioneo's story, whereat the ladies laughed the less for shamefastness
@@ -24,7 +24,7 @@ layout: "single"
   <q direct="unspecified">
    Madam, 'tis now your turn to bear sway.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970002">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970002" id="p05970002">
    [002]
   </a>
   The
@@ -32,7 +32,7 @@ layout: "single"
  predecessors: she first conferred with the seneschal, and directed him
  how meetly to order all things during the time of her sovereignty;
  which done to the satisfaction of the company:
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970003">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970003" id="p05970003">
    [003]
   </a>
   <q direct="unspecified">
@@ -49,24 +49,24 @@ layout: "single"
  that it be of such as by some sprightly sally have repulsed an attack,
  or by some ready retort or device have avoided loss, peril or scorn.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970004">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970004" id="p05970004">
    [004]
   </a>
   The rule being heartily approved by all, the queen rose and dismissed
  them till supper-time.
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970005">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970005" id="p05970005">
    [005]
   </a>
   So the honourable company, seeing the queen
  risen, rose all likewise, and as their wont was, betook them to their
  diversions as to each seemed best.
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970006">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970006" id="p05970006">
    [006]
   </a>
   But when the cicalas had hushed
  their chirping, all were mustered again for supper; and having blithely
  feasted, they all addressed them to song and dance.
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970007">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970007" id="p05970007">
    [007]
   </a>
   And the queen,
@@ -77,13 +77,13 @@ layout: "single"
       of glad tidings I bring thee
   </i>
   .
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970008">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970008" id="p05970008">
    [008]
   </a>
   Whereat all the ladies fell a laughing,
  and most of all the queen, who bade him give them no more of that,
  but sing another.
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970009">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970009" id="p05970009">
    [009]
   </a>
   Quoth Dioneo:
@@ -112,7 +112,7 @@ layout: "single"
    </i>
    .
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970010">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970010" id="p05970010">
    [010]
   </a>
   <q direct="unspecified">
@@ -122,7 +122,7 @@ layout: "single"
   <q direct="unspecified">
    give us another.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970011">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970011" id="p05970011">
    [011]
   </a>
   <q direct="unspecified">
@@ -142,7 +142,7 @@ layout: "single"
 	song is evidently amoe
    bean.
   </note>
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970012">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970012" id="p05970012">
    [012]
   </a>
   <q direct="unspecified">
@@ -153,7 +153,7 @@ layout: "single"
    give us
 	a proper song, wilt thou? for we will have none of these.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970013">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970013" id="p05970013">
    [013]
   </a>
   <q direct="unspecified">
@@ -179,7 +179,7 @@ layout: "single"
    </i>
    .
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970014">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970014" id="p05970014">
    [014]
   </a>
   The queen now shewed some offence,
@@ -193,7 +193,7 @@ layout: "single"
    and give us a proper song: else thou mayst prove
 	the quality of my ire.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970015">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970015" id="p05970015">
    [015]
   </a>
   Whereupon Dioneo forthwith ceased his
@@ -201,7 +201,7 @@ layout: "single"
  </p>
  <div3 type="song" who="dioneo">
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970016">
+   <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970016" id="p05970016">
     [016]
    </a>
    <l>
@@ -215,7 +215,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970017">
+   <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970017" id="p05970017">
     [017]
    </a>
    <l>
@@ -247,7 +247,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970018">
+   <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970018" id="p05970018">
     [018]
    </a>
    <l>
@@ -279,7 +279,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970019">
+   <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970019" id="p05970019">
     [019]
    </a>
    <l>
@@ -312,13 +312,13 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970020">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970020" id="p05970020">
    [020]
   </a>
   When Dioneo's silence shewed that his song was ended, the
  queen accorded it no stinted meed of praise; after which she
  caused not a few other songs to be sung.
-  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970021">
+  <a href="{{ site.baseurl }}itDecameron/d05conclu#p05970021" id="p05970021">
    [021]
   </a>
   Thus passed some part

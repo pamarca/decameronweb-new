@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980002">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980002" id="p01980002">
    [002]
   </a>
   As often, most gracious ladies, as I bethink me, how compassionate
@@ -23,26 +23,26 @@ layout: "single"
  what must needs revive the sorrowful memory of the late mortal
  pestilence, the course whereof was grievous not merely to eyewitnesses
  but to all who in any other wise had cognisance of it.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980003">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980003" id="p01980003">
    [003]
   </a>
   But I would have you know, that you need not therefore be fearful
  to read further, as if your reading were ever to be accompanied
  by sighs and tears.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980004">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980004" id="p01980004">
    [004]
   </a>
   This horrid beginning will be to you even
  such as to wayfarers is a steep and rugged mountain, beyond which
  stretches a plain most fair and delectable, which the toil of the ascent
  and descent does but serve to render more agreeable to them;
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980005">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980005" id="p01980005">
    [005]
   </a>
   for, as
  the last degree of joy brings with it sorrow, so misery has ever its
  sequel of happiness.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980006">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980006" id="p01980006">
    [006]
   </a>
   To this brief exordium of woe--brief, I say,
@@ -50,7 +50,7 @@ layout: "single"
  forthwith the sweets and delights which I have promised you, and
  which, perhaps, had I not done so, were not to have been expected
  from it.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980007">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980007" id="p01980007">
    [007]
   </a>
   In truth, had it been honestly possible to guide you whither
@@ -61,7 +61,7 @@ layout: "single"
  enter upon it, if I would write of them at all.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980008">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980008" id="p01980008">
    [008]
   </a>
   I say, then, that the years of the beatific incarnation of the Son
@@ -76,7 +76,7 @@ layout: "single"
  and so, calamitously, had spread into the West.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980009">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980009" id="p01980009">
    [009]
   </a>
   In Florence, despite all that human wisdom and forethought could
@@ -90,7 +90,7 @@ layout: "single"
  that shewed as if miraculous.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980010">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980010" id="p01980010">
    [010]
   </a>
   Not such were they as in the East, where an issue of blood from
@@ -99,7 +99,7 @@ layout: "single"
  tumours in the groin or the armpits, some of which grew as large as
  a common apple, others as an egg, some more, some less, which the
  common folk called gavoccioli.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980011">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980011" id="p01980011">
    [011]
   </a>
   From the two said parts of the
@@ -108,13 +108,13 @@ layout: "single"
  began to change, black spots or livid making their appearance in
  many cases on the arm or the thigh or elsewhere, now few and large,
  now minute and numerous.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980012">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980012" id="p01980012">
    [012]
   </a>
   And as the gavocciolo had been and
  still was an infallible token of approaching death, such also were
  these spots on whomsoever they shewed themselves.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980013">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980013" id="p01980013">
    [013]
   </a>
   Which maladies
@@ -130,13 +130,13 @@ layout: "single"
  cases without any fever or other attendant malady.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980014">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980014" id="p01980014">
    [014]
   </a>
   Moreover, the virulence of the pest was the greater by reason that
  intercourse was apt to convey it from the sick to the whole, just as
  fire devours things dry or greasy when they are brought close to it.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980015">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980015" id="p01980015">
    [015]
   </a>
   Nay, the evil went yet further, for not merely by speech or association
@@ -146,7 +146,7 @@ layout: "single"
  seemed thereby to contract the disease.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980016">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980016" id="p01980016">
    [016]
   </a>
   So marvellous sounds that which I have now to relate, that, had
@@ -155,7 +155,7 @@ layout: "single"
  I had had it from the lips of a credible witness.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980017">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980017" id="p01980017">
    [017]
   </a>
   I say, then, that such was the energy of the contagion of the said
@@ -165,7 +165,7 @@ layout: "single"
  touched by some other living creature, not of the human species,
  were the occasion, not merely of sickening, but of an almost instantaneous
  death.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980018">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980018" id="p01980018">
    [018]
   </a>
   Whereof my own eyes (as I said a little before) had
@@ -179,7 +179,7 @@ layout: "single"
  disturbed.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980019">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980019" id="p01980019">
    [019]
   </a>
   In which circumstances, not to speak of many others of a similar
@@ -188,7 +188,7 @@ layout: "single"
  almost all of them to the same harsh resolution, to wit, to shun and
  abhor all contact with the sick and all that belonged to them,
   thinking thereby to make each his own health secure.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980020">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980020" id="p01980020">
    [020]
   </a>
   Among whom
@@ -202,7 +202,7 @@ layout: "single"
  wines, holding converse with none but one another, lest tidings of
  sickness or death should reach them, and diverting their minds with
  music and such other delights as they could devise.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980021">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980021" id="p01980021">
    [021]
   </a>
   Others, the bias
@@ -215,7 +215,7 @@ layout: "single"
  with an entire disregard of rule or measure, and by preference making
  the houses of others, as it were, their inns, if they but saw in them
  aught that was particularly to their taste or liking;
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980022">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980022" id="p01980022">
    [022]
   </a>
   which they were
@@ -225,7 +225,7 @@ layout: "single"
  between the stranger who presented himself and the rightful lord.
  Thus, adhering ever to their inhuman determination to shun the sick,
  as far as possible, they ordered their life.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980023">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980023" id="p01980023">
    [023]
   </a>
   In this extremity of our
@@ -238,7 +238,7 @@ layout: "single"
  own eyes.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980024">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980024" id="p01980024">
    [024]
   </a>
   Not a few there were who belonged to neither of the two said
@@ -254,7 +254,7 @@ layout: "single"
  dead and the dying, and the odours of drugs.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980025">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980025" id="p01980025">
    [025]
   </a>
   Some again, the most sound, perhaps, in judgment, as they were
@@ -271,7 +271,7 @@ layout: "single"
  last hour was come.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980026">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980026" id="p01980026">
    [026]
   </a>
   Of the adherents of these divers opinions not all died, neither did
@@ -279,7 +279,7 @@ layout: "single"
  that sickened, and by those who retained their health were treated after
  the example which they themselves, while whole, had set, being everywhere
  left to languish in almost total neglect.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980027">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980027" id="p01980027">
    [027]
   </a>
   Tedious were it to
@@ -292,7 +292,7 @@ layout: "single"
  and scarcely to be believed, fathers and mothers were found to abandon
  their own children, untended, unvisited, to their fate, as if they had
  been strangers.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980028">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980028" id="p01980028">
    [028]
   </a>
   Wherefore the sick of both sexes, whose number
@@ -304,7 +304,7 @@ layout: "single"
  no further than to supply the immediate and expressed wants of the
   sick, and to watch them die; in which service they themselves not
  seldom perished with their gains.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980029">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980029" id="p01980029">
    [029]
   </a>
   In consequence of which dearth
@@ -317,7 +317,7 @@ layout: "single"
  been a woman, submitting of necessity to that which her malady
  required; wherefrom, perchance, there resulted in after time some
  loss of modesty in such as recovered.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980030">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980030" id="p01980030">
    [030]
   </a>
   Besides which many succumbed,
@@ -327,14 +327,14 @@ layout: "single"
  and nightly took place in the city, was such that those who heard
  the tale--not to say witnessed the fact--were struck dumb with
       amazement.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980031">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980031" id="p01980031">
    [031]
   </a>
   Whereby, practices contrary to the former habits of
  the citizens could hardly fail to grow up among the survivors.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980032">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980032" id="p01980032">
    [032]
   </a>
   It had been, as to-day it still is, the custom for the women that
@@ -346,13 +346,13 @@ layout: "single"
  in front of the house, to receive the corpse; and so the dead man
  was borne on the shoulders of his peers, with funeral pomp of taper
  and dirge, to the church selected by him before his death.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980033">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980033" id="p01980033">
    [033]
   </a>
   Which
  rites, as the pestilence waxed in fury, were either in whole or in
  great part disused, and gave way to others of a novel order.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980034">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980034" id="p01980034">
    [034]
   </a>
   For
@@ -363,7 +363,7 @@ layout: "single"
  the jest, the festal gathering; observances which the women, domestic
  piety in large measure set aside, had adopted with very great
  advantage to their health.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980035">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980035" id="p01980035">
    [035]
   </a>
   Few also there were whose bodies were
@@ -384,7 +384,7 @@ layout: "single"
  the priests distress themselves with too long and solemn an office,
  but with the aid of the becchini hastily consigned the corpse to the
  first tomb which they found untenanted.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980036">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980036" id="p01980036">
    [036]
   </a>
   The condition of the
@@ -394,7 +394,7 @@ layout: "single"
  houses, where they sickened by thousands a day, and, being without
  service or help of any kind, were, so to speak, irredeemably devoted
  to the death which overtook them.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980037">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980037" id="p01980037">
    [037]
   </a>
   Many died daily or nightly in
@@ -405,13 +405,13 @@ layout: "single"
  was a sepulchre.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980038">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980038" id="p01980038">
    [038]
   </a>
   It was the common practice of most of the neighbours, moved no
  less by fear of contamination by the putrefying bodies than by charity
  towards the deceased,
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980039">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980039" id="p01980039">
    [039]
   </a>
   to drag the corpses out of the houses with their
@@ -424,7 +424,7 @@ layout: "single"
  but quite a considerable number of such cases occurred, one bier
  sufficing for husband and wife, two or three brothers, father and son,
  and so forth.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980040">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980040" id="p01980040">
    [040]
   </a>
   And times without number it happened, that, as two
@@ -433,7 +433,7 @@ layout: "single"
  rear of them, so that, whereas the priests supposed that they had
  but one corpse to bury, they discovered that there were six or
  eight, or sometimes more.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980041">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980041" id="p01980041">
    [041]
   </a>
   Nor, for all their number, were their
@@ -447,7 +447,7 @@ layout: "single"
  disasters, so that they became indifferent to them.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980042">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980042" id="p01980042">
    [042]
   </a>
   As consecrated ground there was not in extent sufficient to
@@ -459,7 +459,7 @@ layout: "single"
  corpses as they arrived by hundreds at a time, piling them up as
  merchandise is stowed in the hold of a ship, tier upon tier, each
  covered with a little earth, until the trench would hold no more.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980043">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980043" id="p01980043">
    [043]
   </a>
   But I spare to rehearse with minute particularity each of the woes
@@ -470,7 +470,7 @@ layout: "single"
  on the farm, in the homestead, the poor hapless husbandmen
  and their families, forlorn of physicians' care or servants' tendance,
  perished day and night alike, not as men, but rather as beasts.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980044">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980044" id="p01980044">
    [044]
   </a>
   Wherefore, they too, like the citizens, abandoned all rule of life, all
@@ -479,20 +479,20 @@ layout: "single"
  to yield her fruit in due season of their beasts and their lands and
  their past labours, but left no means unused, which ingenuity could
  devise, to waste their accumulated store;
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980045">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980045" id="p01980045">
    [045]
   </a>
   denying shelter to their
  oxen, asses, sheep, goats, pigs, fowls, nay, even to their dogs, man's
  most faithful companions, and driving them out into the fields to
  roam at large amid the unsheaved, nay, unreaped corn.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980046">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980046" id="p01980046">
    [046]
   </a>
   Many of
  which, as if endowed with reason, took their fill during the day, and
  returned home at night without any guidance of herdsman.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980047">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980047" id="p01980047">
    [047]
   </a>
   But
@@ -506,7 +506,7 @@ layout: "single"
  lives within the walls of the city of Florence, which before the
  deadly visitation would not have been supposed to contain so many
  people!
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980048">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980048" id="p01980048">
    [048]
   </a>
   How many grand palaces, how many stately homes, how
@@ -521,7 +521,7 @@ layout: "single"
  evening came, supped with their forefathers in the other world!
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980049">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980049" id="p01980049">
    [049]
   </a>
   Irksome it is to myself to rehearse in detail so sorrowful a history.
@@ -535,7 +535,7 @@ layout: "single"
  and fair and of good understanding were they all, as also of noble
  birth, gentle manners, and a modest sprightliness. In age none
  exceeded twenty-eight, or fell short of eighteen years.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980050">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980050" id="p01980050">
    [050]
   </a>
   Their names
@@ -548,7 +548,7 @@ layout: "single"
  somewhat restricted; nor would I furnish material to detractors,
  ever ready to bestow their bite where praise is due, to cast by invidious
  speech the least slur upon the honour of these noble ladies.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980051">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980051" id="p01980051">
    [051]
   </a>
   Wherefore,
@@ -560,7 +560,7 @@ layout: "single"
  and the last, not without reason, shall be named Elisa.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980052">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980052" id="p01980052">
    [052]
   </a>
   'Twas not of set purpose but by mere chance that these ladies met
@@ -570,7 +570,7 @@ layout: "single"
  times.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980053">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980053" id="p01980053">
    [053]
   </a>
   So they continued for a while, and then Pampinea, the rest listening
@@ -583,14 +583,14 @@ layout: "single"
  reason in every one that is born. Which right is accorded in such
  measure that in defence thereof men have been held blameless in
  taking life.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980054">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980054" id="p01980054">
     [054]
    </a>
    And if this be allowed by the laws, albeit on their
  stringency depends the well-being of every mortal, how much more
  exempt from censure should we, and all other honest folk, be in
  taking such means as we may for the preservation of our life?
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980055">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980055" id="p01980055">
     [055]
    </a>
    As
@@ -601,7 +601,7 @@ layout: "single"
  at this I do marvel greatly, that, though none of us lacks a woman's
  wit, yet none of us has recourse to any means to avert that which
  we all justly fear.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980056">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980056" id="p01980056">
     [056]
    </a>
    Here we tarry, as if, methinks, for no other
@@ -611,7 +611,7 @@ layout: "single"
  offices at the canonical hours, or, by our weeds of woe, to obtrude on
  the attention of every one that enters, the nature and degree of our
  sufferings.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980057">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980057" id="p01980057">
     [057]
    </a>
    And if we quit the church, we see dead or sick folk carried
@@ -624,14 +624,14 @@ layout: "single"
  of the people, fostered on our blood, becchini, as they call themselves,
  who for our torment go prancing about here and there and everywhere,
  making mock of our miseries in scurrilous songs.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980058">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980058" id="p01980058">
     [058]
    </a>
    Nor hear
  we aught but: Such and such are dead; or, Such and such are
  dying; and should hear dolorous wailing on every hand, were there
  but any to wail.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980059">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980059" id="p01980059">
     [059]
    </a>
    Or go we home, what see we there? I know not
@@ -641,13 +641,13 @@ layout: "single"
  where I may, I encounter the ghosts of the departed, not with their
  wonted mien, but with something horrible in their aspect that appals
  me.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980060">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980060" id="p01980060">
     [060]
    </a>
    For which reasons church and street and home are alike distressful
  to me, and the more so that none, methinks, having means and place
  of retirement as we have, abides here save only we;
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980061">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980061" id="p01980061">
     [061]
    </a>
    or if any such
@@ -656,7 +656,7 @@ layout: "single"
  opposites, so they but answer the cravings of appetite, and, alone or
  in company, do daily and nightly what things soever give promise of
  most gratification.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980062">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980062" id="p01980062">
     [062]
    </a>
    Nor are these secular persons alone; but such as
@@ -664,7 +664,7 @@ layout: "single"
  to carnal pleasures, persuading themselves that they are permissible
  to them, and only forbidden to others, and, thereby thinking to
  escape, are become unchaste and dissolute.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980063">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980063" id="p01980063">
     [063]
    </a>
    If such be our circumstances--and
@@ -675,7 +675,7 @@ layout: "single"
  which unites soul and body is stronger in us than in others, so that
  there is no blow that may light upon it, of which we need be
  apprehensive?
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980064">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980064" id="p01980064">
     [064]
    </a>
    If so, we err, we are deceived. What insensate folly
@@ -683,7 +683,7 @@ layout: "single"
  number and condition of those, young as we, and of both sexes, who
  have succumbed to this cruel pestilence, to find therein conclusive
  evidence to the contrary.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980065">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980065" id="p01980065">
     [065]
    </a>
    And lest from lethargy or indolence we
@@ -696,7 +696,7 @@ layout: "single"
  live as honourable women on one of the estates, of which none of us
  has any lack, with all cheer of festal gathering and other delights, so
  long as in no particular we overstep the bounds of reason.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980066">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980066" id="p01980066">
     [066]
    </a>
    There we
@@ -705,19 +705,19 @@ layout: "single"
  also we shall have a larger view of the heavens, which, however harsh
  to usward, yet deny not their eternal beauty; things fairer far for
  epe to rest on than the desolate walls of our city.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980067">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980067" id="p01980067">
     [067]
    </a>
    Moreover, we
  shall there breathe a fresher air, find ampler store of things meet for
  such as live in these times, have fewer causes of annoy.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980068">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980068" id="p01980068">
     [068]
    </a>
    For, though
  the husbandmen die there, even as here the citizens, they are
  dispersed in scattered homesteads, and 'tis thus less painful to witness.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980069">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980069" id="p01980069">
     [069]
    </a>
    Nor, so far as I can see, is there a soul here whom we shall desert;
@@ -725,12 +725,12 @@ layout: "single"
  kinsfolk being either dead or fled in fear of death, no more regardful
  of us than if we were strangers, we are left alone in our great
  affliction.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980070">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980070" id="p01980070">
     [070]
    </a>
    No censure, then, can fall on us if we do as I propose;
  and otherwise grievous suffering, perhaps death, may ensue.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980071">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980071" id="p01980071">
     [071]
    </a>
    Wherefore,
@@ -738,7 +738,7 @@ layout: "single"
  things needful, we sojourn, now on this, now on the other estate,
  and in such way of life continue, until we see--if death should not
  first overtake us--the end which Heaven reserves for these events.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980072">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980072" id="p01980072">
     [072]
    </a>
    And I remind you that it will be at least as seemly in us to leave
@@ -747,14 +747,14 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980073">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980073" id="p01980073">
    [073]
   </a>
   The other ladies praised Pampinea's plan, and indeed were so
  prompt to follow it, that they had already begun to discuss the
  manner in some detail, as if they were forthwith to rise from their
  seats and take the road,
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980074">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980074" id="p01980074">
    [074]
   </a>
   when Filomena, whose judgment was
@@ -767,7 +767,7 @@ layout: "single"
  women are minded towards one another, when they are alone
    together, and how ill they are able to rule themselves without the
  guidance of some man.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980075">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980075" id="p01980075">
     [075]
    </a>
    We are sensitive, perverse, suspicious,
@@ -776,7 +776,7 @@ layout: "single"
  up sooner, and with less credit to us, than it should. Against which
  it were well to provide at the outset.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980076">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980076" id="p01980076">
    [076]
   </a>
   Said then Elisa:
@@ -785,7 +785,7 @@ layout: "single"
  doubt man is woman's head, and, without man's governance, it is
  seldom that aught that we do is brought to a commendable conclusion.
  But how are we to come by the men?
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980077">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980077" id="p01980077">
     [077]
    </a>
    Every one of us
@@ -798,7 +798,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980078">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980078" id="p01980078">
    [078]
   </a>
   While the ladies were thus conversing, there came into the church
@@ -807,7 +807,7 @@ layout: "single"
  sinister course of events, nor the loss of friends or kinsfolk, nor fear
  for their own safety, had availed to quench, or even temper, the
  ardour of their love.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980079">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980079" id="p01980079">
    [079]
   </a>
   The first was called Pamfilo, the second
@@ -816,7 +816,7 @@ layout: "single"
  to their exceeding great solace, they might have sight of their fair
  friends, all three of whom chanced to be among the said seven ladies,
  besides some that were of kin to the young men.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980080">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980080" id="p01980080">
    [080]
   </a>
   At one and the
@@ -828,13 +828,13 @@ layout: "single"
  discreet, and will gladly give us their guidance and escort, so we but
  take them into our service.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980081">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980081" id="p01980081">
    [081]
   </a>
   Whereupon Neifile, crimson from brow
  to neck with the blush of modesty, being one of those that had a
  lover among the young men, said:
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980082">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980082" id="p01980082">
    [082]
   </a>
   <q direct="unspecified">
@@ -844,7 +844,7 @@ layout: "single"
  onerous than this which you propose for them, and their good and
  honourable company worthy of ladies fairer by far and more tenderly
    to be cherished than such as we.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980083">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980083" id="p01980083">
     [083]
    </a>
    But 'tis no secret that they love
@@ -852,7 +852,7 @@ layout: "single"
  us, we may thereby give occasion for scandal and censure merited
  neither by us nor by them.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980084">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980084" id="p01980084">
    [084]
   </a>
   <q direct="unspecified">
@@ -865,19 +865,19 @@ layout: "single"
  so I but live honestly, my conscience gives me no
  disquietude; if others asperse me, God and the truth will take arms
  in my defence.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980085">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980085" id="p01980085">
     [085]
    </a>
    Now, should they be disposed to attend us, of a truth
  we might say with Pampinea, that fortune favours our enterprise.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980086">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980086" id="p01980086">
    [086]
   </a>
   The silence which followed betokened consent on the part of the other
  ladies, who then with one accord resolved to call the young men, and
  acquaint them with their purpose, and pray them to be of their company.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980087">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980087" id="p01980087">
    [087]
   </a>
   So without further parley Pampinea, who had a kinsman
@@ -885,14 +885,14 @@ layout: "single"
  intently regarding them; and greeting them gaily, she opened to them
  their plan, and besought them on the part of herself and her friends
  to join their company on terms of honourable and fraternal comradeship.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980088">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980088" id="p01980088">
    [088]
   </a>
   At first the young men thought she did but trifle with them;
  but when they saw that she was in earnest, they answered with
  alacrity that they were ready, and promptly, even before they left
  the church, set matters in train for their departure.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980089">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980089" id="p01980089">
    [089]
   </a>
   So all things
@@ -902,7 +902,7 @@ layout: "single"
  the morrow, being Wednesday, about daybreak, and took the road;
  nor had they journeyed more than two short miles when they
  arrived at their destination.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980090">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980090" id="p01980090">
    [090]
   </a>
   The estate
@@ -915,7 +915,7 @@ layout: "single"
  distance from the nearest highway, and, embowered in shrubberies
  of divers hues, and other greenery, afforded the eye a pleasant
  prospect.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980091">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980091" id="p01980091">
    [091]
   </a>
   On the summit of the hill was a palace with galleries,
@@ -928,7 +928,7 @@ layout: "single"
  small delight, found their beds already made, the rooms well swept
   and garnished with flowers of every sort that the season could afford,
  and the floors carpeted with rushes.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980092">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980092" id="p01980092">
    [092]
   </a>
   When they were seated,
@@ -937,7 +937,7 @@ layout: "single"
   <q direct="unspecified">
    My ladies, 'tis not our forethought so much as your own
  mother-wit that has guided us hither.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980093">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980093" id="p01980093">
     [093]
    </a>
    How you mean to dispose
@@ -948,7 +948,7 @@ layout: "single"
  give me leave to hie me back to the stricken city, there to abide
  with my cares.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980094">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980094" id="p01980094">
    [094]
   </a>
   To whom blithely Pampinea replied, as if she too
@@ -957,7 +957,7 @@ layout: "single"
    Well sayest thou, Dioneo, excellent
  well; gaily we mean to live; 'twas a refuge from sorrow that here
  we sought, nor had we other cause to come hither.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980095">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980095" id="p01980095">
     [095]
    </a>
    But, as no
@@ -967,7 +967,7 @@ layout: "single"
  authority, honoured and obeyed by us as our superior, whose
  exclusive care it shall be to devise how we may pass our time
  blithely.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980096">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980096" id="p01980096">
     [096]
    </a>
    And that each in turn may prove the weight of the care,
@@ -982,7 +982,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980097">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980097" id="p01980097">
    [097]
   </a>
   Pampinea's speech was received with the utmost applause, and
@@ -996,7 +996,7 @@ layout: "single"
  sovereignty.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980098">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980098" id="p01980098">
    [098]
   </a>
   No sooner was Queen Pampinea crowned than she bade all be
@@ -1010,7 +1010,7 @@ layout: "single"
  delight and without reproach, I first of all constitute Dioneo's man,
  Parmeno, my seneschal, and entrust him with the care and control
  of all our household, and all that belongs to the service of the hall.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980099">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980099" id="p01980099">
     [099]
    </a>
    Pamfilo's man, Sirisco, I appoint treasurer and chancellor of our
@@ -1018,13 +1018,13 @@ layout: "single"
  and Sirisco are too busy about their duties to serve their masters,
  let Filostrato's man, Tindaro, have charge of the chambers of all
  three.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980100">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980100" id="p01980100">
     [100]
    </a>
    My maid, Misia, and Filomena's maid, Licisca, will keep in
  the kitchen, and with all due diligence prepare such dishes as
  Parmeno shall bid them.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980101">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980101" id="p01980101">
     [101]
    </a>
    Lauretta's maid, Chimera, and Fiammetta's
@@ -1035,7 +1035,7 @@ layout: "single"
  you may, hear or see what you may, bring us any tidings but such as
  be cheerful.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980102">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980102" id="p01980102">
    [102]
   </a>
   These orders thus succinctly given were received with
@@ -1052,7 +1052,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980103">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980103" id="p01980103">
    [103]
   </a>
   Thus dismissed by their new queen the gay company sauntered
@@ -1061,7 +1061,7 @@ layout: "single"
  love-songs.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980104">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980104" id="p01980104">
    [104]
   </a>
   Having thus spent the time allowed them by the queen, they
@@ -1071,14 +1071,14 @@ layout: "single"
  like silver, and sprays of broom scattered everywhere. So, at the bidding
  of the queen, they washed their hands, and all took their places
  as marshalled by Parmeno.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980105">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980105" id="p01980105">
    [105]
   </a>
   Dishes, daintily prepared, were served,
   and the finest wines were at hand; the three serving-men did their
  office noiselessly; in a word all was fair and ordered in a seemly
  manner;
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980106">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980106" id="p01980106">
    [106]
   </a>
   whereby the spirits of the company rose, and they
@@ -1088,14 +1088,14 @@ layout: "single"
  how to tread a measure, and some of them played and sang with
  great skill: so, at her command, Dioneo having taken a lute, and
  Fiammetta a viol, they struck up a dance in sweet concert;
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980107">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980107" id="p01980107">
    [107]
   </a>
   and,
  the servants being dismissed to their repast, the queen, attended by
  the other ladies and the two young men, led off a stately carol; which
  ended they fell to singing ditties dainty and gay.
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980108">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980108" id="p01980108">
    [108]
   </a>
   Thus they diverted
@@ -1107,7 +1107,7 @@ layout: "single"
  went to bed.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980109">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980109" id="p01980109">
    [109]
   </a>
   Shortly after none
@@ -1126,7 +1126,7 @@ layout: "single"
  grass, and hearkened while she thus spoke:
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980110">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980110" id="p01980110">
    [110]
   </a>
   <q direct="unspecified">
@@ -1135,7 +1135,7 @@ layout: "single"
  the height of folly to quit this spot at present. Here the air
  is cool and the prospect fair, and here, observe, are dice and chess.
  Take, then, your pleasure as you may be severally minded;
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980111">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980111" id="p01980111">
     [111]
    </a>
    but, if
@@ -1144,7 +1144,7 @@ layout: "single"
  neither the winner nor the onlooker much the better pleased, but
  in telling of stories, in which the invention of one may afford
  solace to all the company of his hearers.
-   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980112">
+   <a href="{{ site.baseurl }}itDecameron/d01intro#p01980112" id="p01980112">
     [112]
    </a>
    You will not each have
@@ -1157,12 +1157,12 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980113">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980113" id="p01980113">
    [113]
   </a>
   The queen's proposal being approved by all, ladies and men alike,
  she added:
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980114">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980114" id="p01980114">
    [114]
   </a>
   <q direct="unspecified">
@@ -1170,7 +1170,7 @@ layout: "single"
  we be free to discourse of such matters as most commend themselves
  to each in turn.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980115">
+  <a href="{{ site.baseurl }}itDecameron/d01intro#p01980115" id="p01980115">
    [115]
   </a>
   She then addressed Pamfilo, who sat on her

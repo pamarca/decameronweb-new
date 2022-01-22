@@ -14,7 +14,7 @@ layout: "single"
  </p>
  <argument>
   <p>
-   <a href="{{ site.baseurl }}enDecameron/day07#p07990001">
+   <a href="{{ site.baseurl }}enDecameron/day07#p07990001" id="p07990001">
     [001]
    </a>
    Finisce la Sesta Giornata del

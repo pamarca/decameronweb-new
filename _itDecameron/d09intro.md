@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d09intro#p09980002">
+  <a href="{{ site.baseurl }}enDecameron/d09intro#p09980002" id="p09980002">
    [002]
   </a>
   La luce, il cui splendore la notte fugge, aveva gi&agrave; l'ottavo cielo d'azzurrino in color cilestro mutato tutto, e cominciavansi i fioretti per li prati a levar suso, quando
@@ -29,20 +29,20 @@ layout: "single"
    palagio
   </name>
   lontano se n'andarono, e per quello entrati, videro gli animali, s&iacute; come cavriuoli, cervi e altri, quasi sicuri da' cacciatori per la soprastante pistolenzia, non altramenti aspettargli che se senza tema o dimestichi fossero divenuti.
-  <a href="{{ site.baseurl }}enDecameron/d09intro#p09980003">
+  <a href="{{ site.baseurl }}enDecameron/d09intro#p09980003" id="p09980003">
    [003]
   </a>
   E ora a questo e ora a quell'altro appressandosi, quasi giugnere gli dovessero, faccendogli correre e saltare, per alcuno spazio sollazzo presero: ma gi&agrave; inalzando il sole, parve a tutti di ritornare.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d09intro#p09980004">
+  <a href="{{ site.baseurl }}enDecameron/d09intro#p09980004" id="p09980004">
    [004]
   </a>
   Essi eran tutti di frondi di quercia inghirlandati, con le mani piene o d'erbe odorifere o di fiori; e chi scontrati gli avesse, niuna altra cosa avrebbe potuto dire se non:
   <q direct="unspecified">
    O costor non saranno dalla morte vinti o ella gli uccider&agrave; lieti.
   </q>
-  <a href="{{ site.baseurl }}enDecameron/d09intro#p09980005">
+  <a href="{{ site.baseurl }}enDecameron/d09intro#p09980005" id="p09980005">
    [005]
   </a>
   Cos&iacute; adunque, piede innanzi pi&egrave; venendosene, cantando e cianciando e motteggiando, pervennero al
@@ -50,7 +50,7 @@ layout: "single"
    palagio
   </name>
   , dove ogni cosa ordinatamente disposta e li lor famigliari lieti e festeggianti trovarono.
-  <a href="{{ site.baseurl }}enDecameron/d09intro#p09980006">
+  <a href="{{ site.baseurl }}enDecameron/d09intro#p09980006" id="p09980006">
    [006]
   </a>
   Quivi riposatisi alquanto, non prima a tavola andarono che sei canzonette pi&uacute; liete l'una che l'altra, da' giovani e dalle donne cantate furono. Appresso alle quali, data l'acqua alle mani, tutti secondo il piacere della
@@ -58,7 +58,7 @@ layout: "single"
    reina
   </name>
   gli mise il siniscalco a tavola, dove, le vivande venute, allegri tutti mangiarono: e da quello levati, al carolare e al sonare si dierono per alquanto spazio, e poi, comandandolo la reina, chi volle s'and&ograve; a riposare.
-  <a href="{{ site.baseurl }}enDecameron/d09intro#p09980007">
+  <a href="{{ site.baseurl }}enDecameron/d09intro#p09980007" id="p09980007">
    [007]
   </a>
   Ma gi&agrave; l'ora usitata venuta, ciascuno nel luogo usato s'adun&ograve; a ragionare, dove la reina, a

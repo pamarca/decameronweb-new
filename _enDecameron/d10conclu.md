@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970001">
+  <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970001" id="p00970001">
    [001]
   </a>
   So ended Dioneo's story, whereof the ladies, diversely inclining,
@@ -21,7 +21,7 @@ layout: "single"
  discoursed not a little, when the king, having glanced at the sky,
  and marked that the sun was now low, insomuch that 'twas nigh the
  vesper hour, still keeping his seat, thus began:
-  <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970002">
+  <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970002" id="p00970002">
    [002]
   </a>
   <q direct="unspecified">
@@ -30,7 +30,7 @@ layout: "single"
  the past and apprehending the present that the wit of mortals
  consists; but by one means or the other to be able to foresee the
  future is by the sages accounted the height of wisdom.
-   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970003">
+   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970003" id="p00970003">
     [003]
    </a>
    Now,
@@ -39,7 +39,7 @@ layout: "single"
  the dismal and dolorous and afflicting spectacles that have ceased
  not in our city since this season of pestilence began, took our departure
  from Florence.
-   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970004">
+   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970004" id="p00970004">
     [004]
    </a>
    Wherein, to my thinking, we have done
@@ -51,7 +51,7 @@ layout: "single"
  one and all, apt to incite weak minds to that which is not seemly,
  neither on your part, nor on ours, have I marked deed or word, or
  aught of any kind, that called for reprehension;
-   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970005">
+   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970005" id="p00970005">
     [005]
    </a>
    but, by what I have
@@ -59,7 +59,7 @@ layout: "single"
  sisters have ever reigned among us. Which, assuredly, for the honour
  and advantage which you and I have had thereof, is most grateful to
    me.
-   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970006">
+   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970006" id="p00970006">
     [006]
    </a>
    Wherefore, lest too long continuance in this way of life might
@@ -68,7 +68,7 @@ layout: "single"
  our day's share of the honour which still remains in me, I should
  deem it meet, so you be of like mind, that we now go back whence
  we came:
-   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970007">
+   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970007" id="p00970007">
     [007]
    </a>
    and that the rather that our company, the bruit whereof
@@ -81,7 +81,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970008">
+  <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970008" id="p00970008">
    [008]
   </a>
   Much debate ensued among the ladies and young men; but in
@@ -90,7 +90,7 @@ layout: "single"
  summoned the seneschal; and having conferred with him of the
  order he was to observe on the morrow, he dismissed the company
  until supper-time.
-  <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970009">
+  <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970009" id="p00970009">
    [009]
   </a>
   So, the king being risen, the ladies and the rest
@@ -103,7 +103,7 @@ layout: "single"
  </p>
  <div3 type="song" who="fiammetta">
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970010">
+   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970010" id="p00970010">
     [010]
    </a>
    <l>
@@ -117,7 +117,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970011">
+   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970011" id="p00970011">
     [011]
    </a>
    <l>
@@ -149,7 +149,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970012">
+   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970012" id="p00970012">
     [012]
    </a>
    <l>
@@ -181,7 +181,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970013">
+   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970013" id="p00970013">
     [013]
    </a>
    <l>
@@ -213,7 +213,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970014">
+   <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970014" id="p00970014">
     [014]
    </a>
    <l>
@@ -246,7 +246,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970015">
+  <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970015" id="p00970015">
    [015]
   </a>
   As soon as Fiammetta had ended her song, Dioneo, who was
@@ -258,7 +258,7 @@ layout: "single"
   </q>
   Several other songs followed; and it being then nigh upon
  midnight, all, as the king was pleased to order, betook them to rest.
-  <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970016">
+  <a href="{{ site.baseurl }}itDecameron/d10conclu#p00970016" id="p00970016">
    [016]
   </a>
   With the first light of the new day they rose, and, the seneschal

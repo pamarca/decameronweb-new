@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980002">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980002" id="p03980002">
    [002]
   </a>
   The
@@ -25,7 +25,7 @@ layout: "single"
  the decampment, as it were, begun, he hastily completed the equipment
  of the baggage-train, and set off therewith, attended by the
       rest of the servants, in rear of the ladies and gentlemen.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980003">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980003" id="p03980003">
    [003]
   </a>
   So, to the
@@ -45,7 +45,7 @@ layout: "single"
   they arrived at a palace most fair
  and sumptuous, which stood out somewhat from the plain, being
  situate upon a low eminence.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980004">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980004" id="p03980004">
    [004]
   </a>
   On entering, they first traversed its
@@ -59,14 +59,14 @@ layout: "single"
  and such flowers as the season afforded, and thither the discreet
  seneschal brought comfits and wines most choice and excellent,
  wherewith they were refreshed.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980005">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980005" id="p03980005">
    [005]
   </a>
   Whereupon they hied them to a
  walled garden adjoining the palace; which, the gate being opened,
  they entered, and wonder-struck by the beauty of the whole passed
  on to examine more attentively the several parts.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980006">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980006" id="p03980006">
    [006]
   </a>
   It was bordered
@@ -80,7 +80,7 @@ layout: "single"
  and jasmine; insomuch that there was no part of the garden but one
  might walk there not merely in the morning but at high noon in
  grateful shade and fragrance, completely screened from the sun.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980007">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980007" id="p03980007">
    [007]
   </a>
   As
@@ -88,7 +88,7 @@ layout: "single"
  them, to specify their sorts, to describe the order of their arrangement;
  enough, in brief, that there was abundance of every rarer species that
  our climate allows.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980008">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980008" id="p03980008">
    [008]
   </a>
   In the middle of the garden, a thing not less
@@ -98,7 +98,7 @@ layout: "single"
  living verdure of orange-trees and cedars, which shewed not only
  flowers but fruits both new and old, and were no less grateful to the
  smell by their fragrance than to the eye by their shade.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980009">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980009" id="p03980009">
    [009]
   </a>
   In the
@@ -108,7 +108,7 @@ layout: "single"
  which sent forth a jet of water of such volume and to such an
  altitude that it fell, not without a delicious plash, into the basin in
  quantity amply sufficient to turn a mill-wheel.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980010">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980010" id="p03980010">
    [010]
   </a>
   The overflow was
@@ -120,7 +120,7 @@ layout: "single"
   and, clear as crystal, slid down towards the plain, turning by the way
  two mill-wheels with extreme velocity to the no small profit of the
  lord.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980011">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980011" id="p03980011">
    [011]
   </a>
   The aspect of this garden, its fair order, the plants and the
@@ -129,7 +129,7 @@ layout: "single"
  they knew not how it could receive any accession of beauty, or what
  other form could be given to Paradise, if it were to be planted on
  earth.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980012">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980012" id="p03980012">
    [012]
   </a>
   So, excellently well pleased, they roved about it, plucking
@@ -138,7 +138,7 @@ layout: "single"
  mutual emulation, when suddenly a sight as fair and delightsome as
  novel, which, engrossed by the other beauties of the place, they had
  hitherto overlooked, met their eyes.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980013">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980013" id="p03980013">
    [013]
   </a>
   For the garden, they now saw,
@@ -149,7 +149,7 @@ layout: "single"
  creature roved carelessly seeking his pleasure at his own sweet will.
  All which served immensely to reinforce their already abundant
  delight.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980014">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980014" id="p03980014">
    [014]
   </a>
   At length, however, they had enough of wandering about
@@ -163,14 +163,14 @@ layout: "single"
  and song and dance, and so sped the hours, until, as the heat increased,
  the queen deemed it time that whoso was so minded should go to
  sleep.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980015">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980015" id="p03980015">
    [015]
   </a>
   Some there were that did so; others were too charmed by
  the beauty of the place to think of leaving it; but tarried there, and,
  while the rest slept, amused themselves with reading romances or
  playing at chess or dice.
-  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980016">
+  <a href="{{ site.baseurl }}itDecameron/d03intro#p03980016" id="p03980016">
    [016]
   </a>
   However, after none, there was a general

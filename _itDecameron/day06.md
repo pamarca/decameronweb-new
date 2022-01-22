@@ -14,7 +14,7 @@ layout: "single"
  </p>
  <argument>
   <p>
-   <a href="{{ site.baseurl }}enDecameron/day06#p06990001">
+   <a href="{{ site.baseurl }}enDecameron/day06#p06990001" id="p06990001">
     [001]
    </a>
    Finisce la Quinta giornata del

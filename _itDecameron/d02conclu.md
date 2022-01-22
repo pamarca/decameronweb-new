@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970001">
+  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970001" id="p02970001">
    [001]
   </a>
   Questa novella di&egrave; tanto che ridere a tutta la compagnia, che niuna ve n'era a cui non dolessero le mascelle: e di pari consentimento tutte le donne dissero che
@@ -25,7 +25,7 @@ layout: "single"
    Bernab&ograve;
   </name>
   era stato una bestia.
-  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970002">
+  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970002" id="p02970002">
    [002]
   </a>
   Ma poi che la novella fu finita e le risa ristate, avendo la
@@ -43,35 +43,35 @@ layout: "single"
   : e a seder si ripose.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970003">
+  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970003" id="p02970003">
    [003]
   </a>
   <name persref="neifile" type="person">
    Neifile
   </name>
   del ricevuto onore un poco arross&ograve;, e tal nel viso divenne qual fresca rosa d'aprile o di maggio in su lo schiarir del giorno si mostra, con gli occhi vaghi e sintillanti non altramenti che matutina stella, un poco bassi. Ma poi che l'onesto romor de' circustanti, nel quale il favor loro verso la reina lietamente mostravano, si fu riposato e ella ebbe ripreso l'animo, alquanto pi&uacute; alta che usata non era sedendo, disse:
-  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970004">
+  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970004" id="p02970004">
    [004]
   </a>
   <q direct="unspecified" who="neifile">
    Poi che cos&iacute; &egrave; che io vostra reina sono, non dilungandomi dalla maniera tenuta per quelle che davanti a me sono state, il cui reggimento voi ubidendo commendato avete, il parer mio in poche parole vi far&ograve; manifesto, il quale se dal vostro consiglio sar&agrave; commendato, quel seguiremo.
-   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970005">
+   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970005" id="p02970005">
     [005]
    </a>
    Come voi sapete, domane &egrave; venerd&iacute; e il seguente d&iacute; sabato, giorni, per le vivande le quali s'usano in quegli, alquanto tediosi alle pi&uacute; genti; senza che il venerd&iacute;, avendo riguardo che in esso Colui che per la nostra vita mor&iacute; sostenne passione, &egrave; degno di reverenza, per che giusta cosa e molto onesta reputerei che, a onor di Dio, pi&uacute; tosto a orazioni che a novelle vacassimo.
-   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970006">
+   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970006" id="p02970006">
     [006]
    </a>
    E il sabato appresso usanza &egrave; delle donne di lavarsi la testa, di tor via ogni polvere, ogni sucidume che per la fatica di tutta la passata settimana sopravenuta fosse; e soglion similmente assai, a reverenza della Vergine Madre del Figliuolo di Dio, digiunare, e da indi in avanti per onor della sopravegnente domenica da ciascuna opera riposarsi: per che, non potendo cos&iacute; appieno in quel d&iacute; l'ordine da noi preso nel vivere seguitare, similmente stimo sia ben fatto quel d&iacute; delle novelle ci posiamo.
-   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970007">
+   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970007" id="p02970007">
     [007]
    </a>
    Appresso, per ci&ograve; che noi qui quatro d&iacute; dimorate saremo, se noi vogliam tor via che gente nuova non ci sopravenga, reputo oportuno di mutarci di qui e andarne altrove; e il dove io ho gi&agrave; pensato e proveduto.
-   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970008">
+   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970008" id="p02970008">
     [008]
    </a>
    Quivi quando noi saremo domenica appresso dormire adunati, avendo noi oggi avuto assai largo spazio da discorrere ragionando, s&iacute; perch&eacute; pi&uacute; tempo da pensare avrete e s&iacute; perch&eacute; sar&agrave; ancora pi&uacute; bello che un poco si ristringa del novellare la licenzia e che sopra uno de' molti fatti della fortuna si dica, e ho pensato che questo sar&agrave;:
-   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970009">
+   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970009" id="p02970009">
     [009]
    </a>
    <seg type="topic">
@@ -85,7 +85,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970010">
+  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970010" id="p02970010">
    [010]
   </a>
   Ciascuno commend&ograve; il parlare e il diviso della
@@ -95,7 +95,7 @@ layout: "single"
   , e cos&iacute; statuiron che fosse. La quale appresso questo, fattosi chiamare il suo siniscalco, dove metter dovesse la sera le tavole e quello appresso che far dovesse in tutto il tempo della sua signoria pienamente gli divis&ograve;; e cos&iacute; fatto, in pi&egrave; dirizzata con la sua brigata, a far quello che pi&uacute; piacesse a ciascuno gli licenzi&ograve;.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970011">
+  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970011" id="p02970011">
    [011]
   </a>
   Presero adunque le donne e gli uomini inverso un
@@ -118,7 +118,7 @@ layout: "single"
  </p>
  <div3 type="song" who="pampinea">
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970012">
+   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970012" id="p02970012">
     [012]
    </a>
    <l>
@@ -129,7 +129,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970013">
+   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970013" id="p02970013">
     [013]
    </a>
    <l>
@@ -158,7 +158,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970014">
+   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970014" id="p02970014">
     [014]
    </a>
    <l>
@@ -187,7 +187,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970015">
+   <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970015" id="p02970015">
     [015]
    </a>
    <l>
@@ -217,7 +217,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970016">
+  <a href="{{ site.baseurl }}enDecameron/d02conclu#p02970016" id="p02970016">
    [016]
   </a>
   Appresso questa, pi&uacute; altre se ne cantarono e pi&uacute; danze si fecero e sonarono diversi suoni; ma estimando la

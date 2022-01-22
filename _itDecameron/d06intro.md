@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980002">
+  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980002" id="p06980002">
    [002]
   </a>
   Aveva la luna, essendo nel mezzo del cielo, perduti i raggi suoi, e gi&agrave; per la nuova luce vegnente ogni parte del nostro mondo era chiara, quando la
@@ -25,7 +25,7 @@ layout: "single"
    bel palagio
   </name>
   , su per la rugiada spaziandosi, s'allontanarono, d'una e d'altra cosa varii ragionamenti tegnendo e della pi&uacute; bellezza e della meno delle raccontate novelle disputando e ancora de' varii casi recitati in quelle rinnovando le risa, infino a tanto che, gi&agrave; pi&uacute; alzandosi il sole e cominciandosi a riscaldare, a tutti parve di dover verso casa tornare: per che, voltati i passi, l&agrave; se ne vennero.
-  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980003">
+  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980003" id="p06980003">
    [003]
   </a>
   E quivi, essendo gi&agrave; le tavole messe e ogni cosa d'erbucce odorose e di be' fiori seminata, avanti che il caldo surgesse pi&uacute;, per comandamento della reina si misero a mangiare. E questo con festa fornito, avanti che altro facessero, alquante canzonette belle e leggiadre cantate, chi and&ograve; a dormire e chi a giucare a scacchi e chi a tavole; e
@@ -47,7 +47,7 @@ layout: "single"
   cominciarono a cantare.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980004">
+  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980004" id="p06980004">
    [004]
   </a>
   E gi&agrave; l'ora venuta del dovere a concistoro tornare, fatti tutti dalla
@@ -55,7 +55,7 @@ layout: "single"
    reina
   </name>
   chiamare, come usati erano dintorno alla fonte si posero a sedere; e volendo gi&agrave; la reina comandare la prima novella, avvenne cosa che ancora adivenuta non v'era, cio&egrave; che per la reina e per tutti fu un gran romore udito che per le fanti e' famigliari si faceva in cucina.
-  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980005">
+  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980005" id="p06980005">
    [005]
   </a>
   Laonde, fatto chiamare il siniscalco e domandato qual gridasse e qual fosse del romore la cagione, rispose che il romore era tra
@@ -67,7 +67,7 @@ layout: "single"
    Tindaro
   </name>
   ma la cagione egli non sapea, s&iacute; come colui che pure allora giugnea per fargli star cheti, quando per parte di lei era stato chiamato.
-  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980006">
+  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980006" id="p06980006">
    [006]
   </a>
   Al quale la reina comand&ograve; che incontanente quivi facesse venire la
@@ -81,7 +81,7 @@ layout: "single"
   ; li quali venuti, domand&ograve; la reina qual fosse la cagione del loro romore.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980007">
+  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980007" id="p06980007">
    [007]
   </a>
   Alla quale volendo
@@ -101,7 +101,7 @@ layout: "single"
    reina
   </name>
   rivolta disse:
-  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980008">
+  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980008" id="p06980008">
    [008]
   </a>
   <q direct="unspecified" who="licisca">
@@ -122,18 +122,18 @@ layout: "single"
     Monte Nero
    </name>
    per forza e con ispargimento di sangue; e io dico che non &egrave; vero, anzi v'entr&ograve; paceficamente e con gran piacer di quei d'entro.
-   <a href="{{ site.baseurl }}enDecameron/d06intro#p06980009">
+   <a href="{{ site.baseurl }}enDecameron/d06intro#p06980009" id="p06980009">
     [009]
    </a>
    E &egrave; ben s&iacute; bestia costui, che egli si crede troppo bene che le giovani sieno s&iacute; sciocche, che elle stieno a perdere il tempo loro stando alla bada del padre e de' fratelli, che delle sette volte le sei soprastanno tre o quatro anni pi&uacute; che non debbono a maritarle.
-   <a href="{{ site.baseurl }}enDecameron/d06intro#p06980010">
+   <a href="{{ site.baseurl }}enDecameron/d06intro#p06980010" id="p06980010">
     [010]
    </a>
    Frate, bene starebbono se elle s'indugiasser tanto! Alla f&eacute; di Cristo, ch&eacute; debbo sapere quello che io mi dico quando io giuro: io non ho vicina che pulcella ne sia andata a marito, e anche delle maritate so io ben quante e quali beffe elle fanno a' mariti: e questo pecorone mi vuol far conoscer le femine, come se io fossi nata ieri!
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980011">
+  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980011" id="p06980011">
    [011]
   </a>
   Mentre la
@@ -147,7 +147,7 @@ layout: "single"
   l'aveva ben sei volte imposto silenzio ma niente valea: ella non ristette mai infino a tanto che ella ebbe detto ci&ograve; che ella volle.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980012">
+  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980012" id="p06980012">
    [012]
   </a>
   Ma poi che fatto ebbe alle parole fine, la
@@ -167,7 +167,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980013">
+  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980013" id="p06980013">
    [013]
   </a>
   Alla qual
@@ -191,7 +191,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980014">
+  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980014" id="p06980014">
    [014]
   </a>
   La qual cosa la
@@ -207,7 +207,7 @@ layout: "single"
    Ben lo diceva io: vatti con Dio, credi tu saper pi&uacute; di me tu, che non hai ancora rasciutti gli occhi? Gran merc&eacute;, non ci son vivuta invano io, no
   </q>
   ;
-  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980015">
+  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980015" id="p06980015">
    [015]
   </a>
   e, se non fosse che la
@@ -219,7 +219,7 @@ layout: "single"
    Tindaro
   </name>
   mand&ograve; via, niuna altra cosa avrebbero avuta a fare in tutto quel giorno che attendere a lei.
-  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980016">
+  <a href="{{ site.baseurl }}enDecameron/d06intro#p06980016" id="p06980016">
    [016]
   </a>
   Li quali poi che partiti furono, la reina impose a

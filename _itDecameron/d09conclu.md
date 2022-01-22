@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970001">
+  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970001" id="p09970001">
    [001]
   </a>
   Quanto di questa novella si ridesse, meglio dalle donne intesa che
@@ -21,7 +21,7 @@ layout: "single"
    Dioneo
   </name>
   non voleva, colei sel pensi che ancora ne rider&agrave;.
-  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970002">
+  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970002" id="p09970002">
    [002]
   </a>
   Ma essendo le novelle finite e il sole gi&agrave; cominciando a intiepidire, e la
@@ -38,7 +38,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970003">
+  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970003" id="p09970003">
    [003]
   </a>
   <name persref="panfilo" type="person">
@@ -49,7 +49,7 @@ layout: "single"
    La vostra virt&uacute; e degli altri miei subditi far&agrave; s&iacute;, che io, come gli altri sono stati, sar&ograve; da lodare
   </q>
   ; e secondo il costume de' suoi predecessori col siniscalco delle cose oportune avendo disposto, alle donne aspettanti si rivolse e disse:
-  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970004">
+  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970004" id="p09970004">
    [004]
   </a>
   <q direct="unspecified" who="panfilo">
@@ -62,18 +62,18 @@ layout: "single"
     di chi liberalmente ovvero magnificamente alcuna cosa operasse intorno a' fatti d'amore o d'altra cosa
    </seg>
    .
-   <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970005">
+   <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970005" id="p09970005">
     [005]
    </a>
    Queste cose e dicendo e udendo senza dubbio gli animi vostri ben disposti a valorosamente adoperare accender&agrave;: ch&eacute; la vita nostra, che altro che brieve esser non puote nel mortal corpo, si perpetuer&agrave; nella laudevole fama; il che ciascuno che al ventre solamente, a guisa che le bestie fanno, non serve, dee non solamente desiderare ma con ogni studio cercare e operare.
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970006">
+  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970006" id="p09970006">
    [006]
   </a>
   La tema piacque alla lieta brigata, la quale con licenzia del nuovo re tutta levatasi da sedere, agli usati diletti si diede, ciascuno secondo quello a che pi&uacute; dal desidero era tirato;
-  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970007">
+  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970007" id="p09970007">
    [007]
   </a>
   e cos&iacute; fecero insino all'ora della cena. Alla quale con festa venuti, e serviti diligentemente e con ordine, dopo la fine di quella si levarono a' balli costumati, e forse mille canzonette pi&uacute; sollazzevoli di parole che di canto maestrevoli avendo cantate, comand&ograve; il re a
@@ -84,7 +84,7 @@ layout: "single"
  </p>
  <div3 type="song" who="neifile">
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970008">
+   <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970008" id="p09970008">
     [008]
    </a>
    <l>
@@ -98,7 +98,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970009">
+   <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970009" id="p09970009">
     [009]
    </a>
    <l>
@@ -124,7 +124,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970010">
+   <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970010" id="p09970010">
     [010]
    </a>
    <l>
@@ -150,7 +150,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970011">
+   <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970011" id="p09970011">
     [011]
    </a>
    <l>
@@ -176,7 +176,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970012">
+   <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970012" id="p09970012">
     [012]
    </a>
    <l>
@@ -207,7 +207,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970013">
+  <a href="{{ site.baseurl }}enDecameron/d09conclu#p09970013" id="p09970013">
    [013]
   </a>
   Assai fu e dal

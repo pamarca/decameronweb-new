@@ -13,14 +13,14 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970001">
+  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970001" id="p02970001">
    [001]
   </a>
   This story provoked so much laughter that the jaws of every one
  in the company ached; and all the ladies by common consent
   acknowledged that Dioneo was right, and pronounced Bernab&ograve; a
  blockhead.
-  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970002">
+  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970002" id="p02970002">
    [002]
   </a>
   But when the story was ended and the laughter had
@@ -34,7 +34,7 @@ layout: "single"
 	people;
   </q>
   and so she resumed her seat.
-  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970003">
+  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970003" id="p02970003">
    [003]
   </a>
   Neifile coloured somewhat
@@ -45,7 +45,7 @@ layout: "single"
  blithe token of the favour in which they held their queen, was
  hushed, and her courage revived, she raised herself somewhat more
  in her seat than she was wont, and thus spoke:
-  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970004">
+  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970004" id="p02970004">
    [004]
   </a>
   <q direct="unspecified">
@@ -55,7 +55,7 @@ layout: "single"
  obedience but your approbation. I will therefore in few words
  explain to you the course which, if it commend itself to your
  wisdom, we will follow.
-   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970005">
+   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970005" id="p02970005">
     [005]
    </a>
    To-morrow, you know, is Friday, and the
@@ -65,7 +65,7 @@ layout: "single"
  on that day that He who died for us bore His passion; wherefore
  'twould be in my judgment both right and very seemly, if, in honour
  of God, we then bade story-telling give place to prayer.
-   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970006">
+   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970006" id="p02970006">
     [006]
    </a>
    On
@@ -77,14 +77,14 @@ layout: "single"
  work. Wherefore, as we cannot then completely carry out our
  plan of life, we shall, I think, do well to intermit our story-telling
  on that day also.
-   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970007">
+   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970007" id="p02970007">
     [007]
    </a>
    We shall then have been here four days; and
  lest we should be surprised by new-comers, I deem it expedient that
  we shift our quarters, and I have already taken thought for our next
  place of sojourn.
-   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970008">
+   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970008" id="p02970008">
     [008]
    </a>
    Where, being arrived on Sunday, we will assemble
@@ -93,7 +93,7 @@ layout: "single"
  time for thought, and it will be best to set some limits to the license
  of our story-telling, that of the many diversities of Fortune's handiwork
  we make one our theme, whereof I have also made choice,
-   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970009">
+   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970009" id="p02970009">
     [009]
    </a>
    to
@@ -104,7 +104,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970010">
+  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970010" id="p02970010">
    [010]
   </a>
   All applauded the queen's speech and plan, to which, therefore,
@@ -113,7 +113,7 @@ layout: "single"
  explained to him all that he had to do during the time of her
  sovereignty. This done, she rose with her train, and gave leave to
  all to take their pleasure as to each might seem best.
-  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970011">
+  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970011" id="p02970011">
    [011]
   </a>
   So the ladies
@@ -125,7 +125,7 @@ layout: "single"
  </p>
  <div3 type="song" who="pampinea">
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970012">
+   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970012" id="p02970012">
     [012]
    </a>
    <l>
@@ -136,7 +136,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970013">
+   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970013" id="p02970013">
     [013]
    </a>
    <l>
@@ -165,7 +165,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970014">
+   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970014" id="p02970014">
     [014]
    </a>
    <l>
@@ -194,7 +194,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970015">
+   <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970015" id="p02970015">
     [015]
    </a>
    <l>
@@ -224,7 +224,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970016">
+  <a href="{{ site.baseurl }}itDecameron/d02conclu#p02970016" id="p02970016">
    [016]
   </a>
   Some other songs and dances followed, to the accompaniment

@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d10intro#p10980002">
+  <a href="{{ site.baseurl }}itDecameron/d10intro#p10980002" id="p10980002">
    [002]
   </a>
   Some
@@ -21,7 +21,7 @@ layout: "single"
       those of the eastern sky, as the sun's rays smote them anear, were
  already fringed as with most lucent gold, when uprose Pamfilo, and
  roused the ladies and his comrades.
-  <a href="{{ site.baseurl }}itDecameron/d10intro#p10980003">
+  <a href="{{ site.baseurl }}itDecameron/d10intro#p10980003" id="p10980003">
    [003]
   </a>
   And all the company being
@@ -32,7 +32,7 @@ layout: "single"
  life, whereof there was much to tell and much to answer, until, as
  the sun gained strength, they returned, having made quite a long
  round, to the palace;
-  <a href="{{ site.baseurl }}itDecameron/d10intro#p10980004">
+  <a href="{{ site.baseurl }}itDecameron/d10intro#p10980004" id="p10980004">
    [004]
   </a>
   and being gathered about the fountain, such as

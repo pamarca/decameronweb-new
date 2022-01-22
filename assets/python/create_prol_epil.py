@@ -97,7 +97,7 @@ def prologue_md_file(soup, outpath, mstone_dir):
                 milestone.name = "a"
                 milestone['href'] = '{{ site.baseurl }}' + mstone_dir + '/' + 'proem' + '#' + mstone_id
                 milestone.string = '[' + mstone_id[-3:] + ']'
-                del milestone['id']
+                #del milestone['id']
 
             html_output = html_soup.prettify(formatter='html')
             file2.write(html_output)
@@ -135,7 +135,6 @@ def epilogue_md_file(soup, outpath, mstone_dir):
                 milestone.name = "a"
                 milestone['href'] = '{{ site.baseurl }}' + mstone_dir + '/' + 'epilogue' + '#' + mstone_id
                 milestone.string = '[' + mstone_id[-3:] + ']'
-                del milestone['id']
 
             html_output = html_soup.prettify(formatter='html')
             file2.write(html_output)

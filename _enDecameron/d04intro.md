@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980002">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980002" id="p04980002">
    [002]
   </a>
   Dearest
@@ -22,7 +22,7 @@ layout: "single"
  and reading, I formed the opinion that the vehement and
  scorching blast of envy was apt to vent itself only upon lofty towers
       or the highest tree-tops: but therein I find that I misjudged;
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980003">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980003" id="p04980003">
    [003]
   </a>
   for,
@@ -33,7 +33,7 @@ layout: "single"
  written as they are not only in the vulgar Florentine, and in prose,
  and without dedicatory flourish, but also in as homely and simple a
  style as may be;
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980004">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980004" id="p04980004">
    [004]
   </a>
   nevertheless all this has not stood me in such stead
@@ -41,7 +41,7 @@ layout: "single"
  blast, and altogether lacerated by the bite of this same envy.
  Whereby I may very well understand that 'tis true, what the sages
  aver, that only misery is exempt from envy in the present life.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980005">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980005" id="p04980005">
    [005]
   </a>
   Know then, discreet my ladies, that some there are, who, reading
@@ -49,7 +49,7 @@ layout: "single"
  'tis not a seemly thing that I should take so much pleasure in
  ministering to your gratification and solace; and some have found
  more fault with me for praising you as I do.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980006">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980006" id="p04980006">
    [006]
   </a>
   Others, affecting to
@@ -59,7 +59,7 @@ layout: "single"
  tender regard to my fame, aver that I should do more wisely to keep
   ever with the Muses on Parnassus, than to forgather with you in such
  vain dalliance.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980007">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980007" id="p04980007">
    [007]
   </a>
   Those again there are, who, evincing less wisdom
@@ -69,13 +69,13 @@ layout: "single"
  disparagement of my work, strive might and main to make it appear
  that the matters which I relate fell out otherwise than as I set them
  forth.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980008">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980008" id="p04980008">
    [008]
   </a>
   Such then, noble ladies, are the blasts, such the sharp and
  cruel fangs, by which, while I champion your cause, I am assailed,
  harassed and well-nigh pierced through and through.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980009">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980009" id="p04980009">
    [009]
   </a>
   Which
@@ -85,7 +85,7 @@ layout: "single"
  castigation they deserve, to give them such slight answer as may
  secure my ears some respite of their clamour; and that without
  delay;
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980010">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980010" id="p04980010">
    [010]
   </a>
   seeing that, if already, though I have not completed the
@@ -94,7 +94,7 @@ layout: "single"
  receive no check, they may have grown so numerous, that 'twould
  scarce tax their powers to sink me; and that your forces, great though
  they be, would not suffice to withstand them.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980011">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980011" id="p04980011">
    [011]
   </a>
   However I am
@@ -104,7 +104,7 @@ layout: "single"
  made you acquainted, but a part of one, that its very incompleteness
  may shew that it is not one of them: wherefore, addressing my
  assailants, I say:
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980012">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980012" id="p04980012">
    [012]
   </a>
   That in our city there was in old time a citizen
@@ -113,14 +113,14 @@ layout: "single"
  condition, who had a wife that he most dearly loved, as did she him,
  so that their life passed in peace and concord, nor there was aught
  they studied so much as how to please each other perfectly.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980013">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980013" id="p04980013">
    [013]
   </a>
   Now it
  came to pass, as it does to every one, that the good lady departed this
  life, leaving Filippo nought of hers but an only son, that she had had
  by him, and who was then about two years old.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980014">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980014" id="p04980014">
    [014]
   </a>
   His wife's death left
@@ -128,7 +128,7 @@ layout: "single"
  one: and sorely missing the companionship that was most dear to
  him, he resolved to have done with the world, and devote himself
   and his little son to the service of God.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980015">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980015" id="p04980015">
    [015]
   </a>
   Wherefore, having dedicated
@@ -142,13 +142,13 @@ layout: "single"
  saints, and teaching him nought else but holy orisons: in which way
  of life he kept him not a few years, never suffering him to quit the
  cell or see aught but himself.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980016">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980016" id="p04980016">
    [016]
   </a>
   From time to time the worthy man
  would go Florence, where divers of the faithful would afford him
  relief according to his needs, and so he would return to his cell.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980017">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980017" id="p04980017">
    [017]
   </a>
   And thus it fell out that one day Filippo, now an aged man, being
@@ -168,7 +168,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980018">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980018" id="p04980018">
    [018]
   </a>
   The worthy man, bethinking him that his son was now grown
@@ -179,7 +179,7 @@ layout: "single"
   </q>
   And
  so, as he must needs go to Florence, he took the boy with him.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980019">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980019" id="p04980019">
    [019]
   </a>
   Where, seeing the palaces, the houses, the churches, and all matters
@@ -187,7 +187,7 @@ layout: "single"
  recollection than if he had never seen them, the boy found all passing
  strange, and questioned his father of not a few of them, what they
  were and how they were named;
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980020">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980020" id="p04980020">
    [020]
   </a>
   his curiosity being no sooner
@@ -197,7 +197,7 @@ layout: "single"
  of damsels, fair and richly arrayed, being on their return from a
  wedding; whom the young man no sooner saw, than he asked his
  father what they might be.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980021">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980021" id="p04980021">
    [021]
   </a>
   <q direct="unspecified">
@@ -209,7 +209,7 @@ layout: "single"
  thy gaze on the ground, regard them not at all, for naughty things
  are they.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980022">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980022" id="p04980022">
    [022]
   </a>
   <q direct="unspecified">
@@ -219,7 +219,7 @@ layout: "single"
   <q direct="unspecified">
    and what is their name?
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980023">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980023" id="p04980023">
    [023]
   </a>
   The
@@ -229,7 +229,7 @@ layout: "single"
   <q direct="unspecified">
    They are called goslings.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980024">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980024" id="p04980024">
    [024]
   </a>
   Whereupon, wonderful
@@ -239,7 +239,7 @@ layout: "single"
   <q direct="unspecified">
    Prithee, father, let me have one of those goslings.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980025">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980025" id="p04980025">
    [025]
   </a>
   <q direct="unspecified">
@@ -251,7 +251,7 @@ layout: "single"
    speak not of them; they are
  naughty things.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980026">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980026" id="p04980026">
    [026]
   </a>
   <q direct="unspecified">
@@ -262,14 +262,14 @@ layout: "single"
    but are naughty
  things made like that?
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980027">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980027" id="p04980027">
    [027]
   </a>
   <q direct="unspecified">
    Ay,
   </q>
   returned the father.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980028">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980028" id="p04980028">
    [028]
   </a>
   Whereupon
@@ -286,7 +286,7 @@ layout: "single"
  me, do but let us take one of these goslings up there, and I will see
  that she have whereon to bill.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980029">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980029" id="p04980029">
    [029]
   </a>
   <q direct="unspecified">
@@ -302,7 +302,7 @@ layout: "single"
  him that he had brought the boy to Florence.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980030">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980030" id="p04980030">
    [030]
   </a>
   But enough of this story: 'tis time for me to cut it short, and
@@ -310,7 +310,7 @@ layout: "single"
  some of these my censors, that I am too fond of you, young ladies,
  and am at too great pains to pleasure you. Now that I am fond of
  you, and am at pains to pleasure you,
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980031">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980031" id="p04980031">
    [031]
   </a>
   I do most frankly and fully
@@ -325,7 +325,7 @@ layout: "single"
  mountain, within the narrow circuit of a cell, without other companion
  than his father, had no sooner seen you than 'twas you alone
  that he desired, that he demanded, that he sought with ardour?
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980032">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980032" id="p04980032">
    [032]
   </a>
   Will they tear, will they lacerate me with their censures, if I,
@@ -339,7 +339,7 @@ layout: "single"
  saw? Of a truth whoso taxes me thus must be one that, feeling,
  knowing nought of the pleasure and power of natural affection, loves
  you not, nor craves your love; and such an one I hold in light esteem.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980033">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980033" id="p04980033">
    [033]
   </a>
   And as for those that go about to find ground of exception in my
@@ -349,7 +349,7 @@ layout: "single"
  me to pleasure those to whom Guido Cavalcanti and Dante Alighieri
  in their old age, and Messer Cino da Pistoia in extreme old age,
  accounted it an honour and found it a delight to minister gratification.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980034">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980034" id="p04980034">
    [034]
   </a>
   And but that 'twere a deviation from the use and wont of
@@ -357,7 +357,7 @@ layout: "single"
  with stories of noble men of old time, who in their ripest age studied
  above all things else to pleasure the ladies; whereof if they be
  ignorant, go they and get them to school.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980035">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980035" id="p04980035">
    [035]
   </a>
   To keep with the Muses
@@ -370,7 +370,7 @@ layout: "single"
  Besides which, ladies have been to me the occasion of composing
  some thousand verses, but of never a verse that I made were the
  Muses the occasion.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980036">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980036" id="p04980036">
    [036]
   </a>
   Howbeit 'twas with their aid, 'twas under their
@@ -380,7 +380,7 @@ layout: "single"
  to the likeness which the ladies have to them; wherefore, while I
  weave these stories, I stray not so far from Mount Parnassus and the
  Muses as not a few perchance suppose.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980037">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980037" id="p04980037">
    [037]
   </a>
   But what shall we say to
@@ -392,7 +392,7 @@ layout: "single"
    Go seek it among the
  fables.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980038">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980038" id="p04980038">
    [038]
   </a>
   And in sooth the poets have found more bread among their
@@ -405,7 +405,7 @@ layout: "single"
  should I ever come to be in need of it, I know, like the Apostle,
  how to abound and to be in want, and so am minded to be beholden
  to none but myself.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980039">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980039" id="p04980039">
    [039]
   </a>
   As for those who say that these matters fell out
@@ -415,7 +415,7 @@ layout: "single"
  and study to amend my ways; but, until better evidence is forthcoming
  than their words, I shall adhere to my own opinion without
  seeking to deprive them of theirs, and give them tit for tat.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980040">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980040" id="p04980040">
    [040]
   </a>
   And
@@ -429,7 +429,7 @@ layout: "single"
  suffers to settle on the roofs of lofty palaces, and the summits
  of the tallest towers, whence if it fall, it cannot sink lower than the
  level from which it was raised.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980041">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980041" id="p04980041">
    [041]
   </a>
   And if I ever devoted myself and
@@ -440,7 +440,7 @@ layout: "single"
  whoso would withstand, has need of powers pre-eminent, and, even
  so, will oft-times labour not merely in vain but to his own most
  grievous disadvantage.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980042">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980042" id="p04980042">
    [042]
   </a>
   Such powers I own that I neither have, nor,
@@ -450,7 +450,7 @@ layout: "single"
  their life away; and, while they remain addicted to their delights,
   or rather corrupt tastes, let them leave me to follow my own bent
  during the brief life that is accorded us.
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980043">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980043" id="p04980043">
    [043]
   </a>
   But this has been a long
@@ -458,7 +458,7 @@ layout: "single"
  where we deviated, and continue in the course on which we started.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980044">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980044" id="p04980044">
    [044]
   </a>
   The sun had chased every star from the sky, and lifted the dank
@@ -466,7 +466,7 @@ layout: "single"
  having roused all his company, they hied them to the fair garden,
  and there fell to disporting themselves: the time for breakfast being
  come, they took it where they had supped on the preceding evening,
-  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980045">
+  <a href="{{ site.baseurl }}itDecameron/d04intro#p04980045" id="p04980045">
    [045]
   </a>
   and after they had slept they rose, when the sun was in his zenith,

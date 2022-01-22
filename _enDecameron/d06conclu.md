@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970001">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970001" id="p06970001">
    [001]
   </a>
   Immense was the delight and
@@ -29,7 +29,7 @@ note that therewith
  the close of her sovereignty was come, stood up, took
 off the
  crown, and set it on Dioneo's head, saying with a laugh:
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970002">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970002" id="p06970002">
    [002]
   </a>
   <q direct="unspecified">
@@ -40,7 +40,7 @@ govern and guide. Be thou king then; and let thy rule
  be such that, when
 'tis ended, we may have cause to commend it.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970003">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970003" id="p06970003">
    [003]
   </a>
   Dioneo took the crown,
@@ -58,7 +58,7 @@ may not be in any
  festivity. But enough of this: I will govern as best I
 may.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970004">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970004" id="p06970004">
    [004]
   </a>
   Then,
@@ -76,7 +76,7 @@ but for the visit that we had a while ago from Madam Licisca, who
 she said has furnished me with matter of discourse for
  to-morrow, I doubt
 I had been not a little put to it to find a theme.
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970005">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970005" id="p06970005">
     [005]
    </a>
    You heard how she said
@@ -86,7 +86,7 @@ virginity; adding that well she knew
    how many and what manner
 of tricks they, after marriage, played
  their husbands.
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970006">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970006" id="p06970006">
     [006]
    </a>
    The first count we
@@ -101,14 +101,14 @@ or for their
 husbands,
  and whether they were by the said husbands detected or no.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970007">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970007" id="p06970007">
    [007]
   </a>
   To
  discourse of such a topic some of the ladies deemed unmeet for them,
 and besought the king to find another theme. But the king made
  answer:
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970008">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970008" id="p06970008">
    [008]
   </a>
   <q direct="unspecified">
@@ -121,7 +121,7 @@ to declare unto me, for I wot the times are
 women have a care to do nought that is
  unseemly, 'tis allowable to them to
 discourse of what they please.
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970009">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970009" id="p06970009">
     [009]
    </a>
    For in sooth, as you must know, so out of
@@ -131,7 +131,7 @@ laws are silent, and
  ample licence to preserve his life as best he may is
 accorded to each
  and all.
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970010">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970010" id="p06970010">
     [010]
    </a>
    Wherefore, if you are somewhat less strict of
@@ -141,7 +141,7 @@ that you
  may afford solace to yourselves and others, I see not how you can
 be
  open to reasonable censure on the part of any.
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970011">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970011" id="p06970011">
     [011]
    </a>
    Furthermore, nought
@@ -150,7 +150,7 @@ that has been said from the first day to the present moment has,
 in any degree sullied the immaculate honour of your
  company, nor, God
 helping us, shall aught ever sully it.
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970012">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970012" id="p06970012">
     [012]
    </a>
    Besides,
@@ -160,7 +160,7 @@ not the quality of your honour? which
 not only the seductive influence
  of diverting discourse, but even the
 terror of death.
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970013">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970013" id="p06970013">
     [013]
    </a>
    And,
@@ -169,7 +169,7 @@ to discourse of
  these light matters for a while, would be apt to suspect
 that 'twas
  but for that you had yourselves erred in like sort.
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970014">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970014" id="p06970014">
     [014]
    </a>
    And truly
@@ -179,7 +179,7 @@ a
 you, if after making me your king and your lawgiver, you
  were to refuse to
 discourse of the theme which I prescribe.
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970015">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970015" id="p06970015">
     [015]
    </a>
    Away,
@@ -191,7 +191,7 @@ goodly story, and Fortune prosper her
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970016">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970016" id="p06970016">
    [016]
   </a>
   So spake the
@@ -200,7 +200,7 @@ king, and the ladies, hearkening, said that, even as
 should be: whereupon he gave all leave to do as they
   might be
 severally minded until the supper-hour.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970017">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970017" id="p06970017">
    [017]
   </a>
   The sun was still
@@ -210,7 +210,7 @@ the heaven, for they had not enlarged in their discourse:
 Dioneo with the other gallants being set to play
  at dice, Elisa called the
 other ladies apart, and said:
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970018">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970018" id="p06970018">
    [018]
   </a>
   <q direct="unspecified">
@@ -227,7 +227,7 @@ are minded to visit
 there, you will be
  very glad you came.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970019">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970019" id="p06970019">
    [019]
   </a>
   The ladies answered that they
@@ -243,7 +243,7 @@ sight, than which nought more fair and pleasant,
  especially at that time
 when the heat was great, could be imagined,
  met their eyes.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970020">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970020" id="p06970020">
    [020]
   </a>
   Within the
@@ -257,7 +257,7 @@ art, not man's: 'twas girdled
  about by six hills of no great height, each
 crowned with a palace
  that shewed as a goodly little castle.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970021">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970021" id="p06970021">
    [021]
   </a>
   The slopes of
@@ -266,7 +266,7 @@ the hills were
 successive
  tiers, ever abridging their circle, that we see in our
 theatres;
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970022">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970022" id="p06970022">
    [022]
   </a>
   and as
@@ -276,7 +276,7 @@ close with
 fruit-bearing
  trees not a few, that there was not a hand's-breadth of
 vacant space.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970023">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970023" id="p06970023">
    [023]
   </a>
   Those that fronted the north were in like manner
@@ -284,7 +284,7 @@ vacant space.
 with copses of oak saplings, ashes and other trees, as green
  and straight
 as might be.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970024">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970024" id="p06970024">
    [024]
   </a>
   Besides which, the plain, which was shut
@@ -301,7 +301,7 @@ scarce a ray of light might
  reach the ground, which was all one lawn of
 the finest turf, pranked
  with the hyacinth and divers other flowers.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970025">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970025" id="p06970025">
    [025]
   </a>
   Add
@@ -315,7 +315,7 @@ gratifying to the ear,
  and, seen from a distance, shewed as a spray of
 finest, powdered
  quick-silver,
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970026">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970026" id="p06970026">
    [026]
   </a>
   and no sooner reached the little plain,
@@ -326,7 +326,7 @@ velocity
 like
  the fishponds that townsfolk sometimes make in their gardens, when
 they have occasion for them.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970027">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970027" id="p06970027">
    [027]
   </a>
   The lake was not so deep but that a
@@ -342,7 +342,7 @@ counted the stones. Nor was it
 such a multitude of fishes,
  glancing to and fro, as was at once a delight
 and a marvel to behold.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970028">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970028" id="p06970028">
    [028]
   </a>
   Bank it had none, but its margin was the lawn, to
@@ -354,7 +354,7 @@ from
  the vale, it glided swiftly to the plain below.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970029">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970029" id="p06970029">
    [029]
   </a>
   To which
@@ -365,7 +365,7 @@ finding it commendable, and marking the lake
 'twas very hot, and they deemed themselves
  secure from observation,
 resolve to take a bath.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970030">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970030" id="p06970030">
    [030]
   </a>
   So, having bidden
@@ -377,7 +377,7 @@ approach it, they all seven undressed
 whiteness of their flesh
  was even such a veil as fine glass is to the
 vermeil of the rose.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970031">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970031" id="p06970031">
    [031]
   </a>
   They,
@@ -388,7 +388,7 @@ thither after the
  fish, which had much ado where to bestow themselves so
 as to
  escape out of their hands.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970032">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970032" id="p06970032">
    [032]
   </a>
   In which diversion they spent some time,
@@ -401,7 +401,7 @@ they began slowly sauntering thither, dilating much as
 beauty of the place, albeit they could not extol
  it more than they had
 already done.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970033">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970033" id="p06970033">
    [033]
   </a>
   'Twas still quite early when
@@ -414,7 +414,7 @@ quoth Pampinea with a
    We have stolen a march upon you
 to-day.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970034">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970034" id="p06970034">
    [034]
   </a>
   <q direct="unspecified">
@@ -425,7 +425,7 @@ to-day.
    'tis with you do
 first and say after?
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970035">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970035" id="p06970035">
    [035]
   </a>
   <q direct="unspecified">
@@ -437,7 +437,7 @@ him at large whence they came,
  and what the place was like, and how far
 'twas off, and what they
  had done.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970036">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970036" id="p06970036">
    [036]
   </a>
   What she said of the beauty of the spot
@@ -451,7 +451,7 @@ of them
  had ever been before, and, having marked all its beauties,
 extolled it
  as scarce to be matched in all the world.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970037">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970037" id="p06970037">
    [037]
   </a>
   Then, as the hour
@@ -462,7 +462,7 @@ clothes, returned to the ladies, whom they found dancing a carol to
 that Fiammetta sang, which done, they conversed of the
  Ladies' Vale,
 waxing eloquent in praise thereof:
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970038">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970038" id="p06970038">
    [038]
   </a>
   insomuch that the
@@ -471,7 +471,7 @@ seneschal, and bade him have some beds made ready
  and carried thither on
 the morrow, that any that were so minded
  might there take their siesta.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970039">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970039" id="p06970039">
    [039]
   </a>
   He
@@ -482,7 +482,7 @@ slight refection, he
 Pamfilo led a
  dance, and then the king, turning with gracious mien to
 Elisa:
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970040">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970040" id="p06970040">
    [040]
   </a>
   <q direct="unspecified">
@@ -496,7 +496,7 @@ honour
 or
  the song; wherefore sing us whatsoever thou hast most lief.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970041">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970041" id="p06970041">
    [041]
   </a>
   <q direct="unspecified">
@@ -507,7 +507,7 @@ voice began:
  </p>
  <div3 type="song" who="elissa">
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970042">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970042" id="p06970042">
     [042]
    </a>
    <l>
@@ -523,7 +523,7 @@ I may elude for aye.
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970043">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970043" id="p06970043">
     [043]
    </a>
    <l>
@@ -554,7 +554,7 @@ prey.
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970044">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970044" id="p06970044">
     [044]
    </a>
    <l>
@@ -585,7 +585,7 @@ my grief to allay.
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970045">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970045" id="p06970045">
     [045]
    </a>
    <l>
@@ -616,7 +616,7 @@ lay.
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970046">
+   <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970046" id="p06970046">
     [046]
    </a>
    <l>
@@ -648,7 +648,7 @@ gay.
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970047">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970047" id="p06970047">
    [047]
   </a>
   So with a most piteous sigh ended Elisa her song,
@@ -656,7 +656,7 @@ whereat all
  wondered exceedingly, nor might any conjecture wherefore she
 so
  sang.
-  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970048">
+  <a href="{{ site.baseurl }}itDecameron/d06conclu#p06970048" id="p06970048">
    [048]
   </a>
   But the king, who was in a jolly humour, sent for Tindaro,

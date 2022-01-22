@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d05intro#p05980002">
+  <a href="{{ site.baseurl }}itDecameron/d05intro#p05980002" id="p05980002">
    [002]
   </a>
   All
@@ -25,7 +25,7 @@ layout: "single"
  adown the hill and about the dewy meads of the broad champaign
  she sauntered, talking gaily of divers matters, until the sun had
       attained some height.
-  <a href="{{ site.baseurl }}itDecameron/d05intro#p05980003">
+  <a href="{{ site.baseurl }}itDecameron/d05intro#p05980003" id="p05980003">
    [003]
   </a>
   Then, feeling his rays grow somewhat
@@ -40,7 +40,7 @@ layout: "single"
   </note>
   and a balladette or two, gaily, at the
  queen's behest, sat them down to eat.
-  <a href="{{ site.baseurl }}itDecameron/d05intro#p05980004">
+  <a href="{{ site.baseurl }}itDecameron/d05intro#p05980004" id="p05980004">
    [004]
   </a>
   Meetly ordered and gladsome
@@ -49,7 +49,7 @@ layout: "single"
  Thereupon, being all dismissed by the queen until after the siesta,
  some hied them to rest, while others tarried taking their pleasure in
  the fair garden.
-  <a href="{{ site.baseurl }}itDecameron/d05intro#p05980005">
+  <a href="{{ site.baseurl }}itDecameron/d05intro#p05980005" id="p05980005">
    [005]
   </a>
   But shortly after none, all, at the queen's behest,

@@ -112,7 +112,6 @@ def create_md_files(div1_results, div1_data_info, outpath, mstone_dir):
                 milestone.name = "a"
                 milestone['href'] = '{{ site.baseurl }}' + mstone_dir + '/' + div1_data_info[cc]['id'] + '#' + mstone_id
                 milestone.string = '[' + mstone_id[-3:] + ']'
-                del milestone['id']
 
             #outputting html
             html_output = html_soup.prettify(formatter='html')

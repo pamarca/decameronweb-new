@@ -14,7 +14,7 @@ layout: "single"
  </p>
  <argument>
   <p>
-   <a href="{{ site.baseurl }}enDecameron/day08#p08990001">
+   <a href="{{ site.baseurl }}enDecameron/day08#p08990001" id="p08990001">
     [001]
    </a>
    Finisce la Settima giornata del

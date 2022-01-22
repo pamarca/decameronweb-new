@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970001">
+  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970001" id="p03970001">
    [001]
   </a>
   A thousand times or more had Dioneo's story brought the laugh to
@@ -27,7 +27,7 @@ layout: "single"
  how to guide the sheep than the sheep have yet succeeded in guiding
  the wolves.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970002">
+  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970002" id="p03970002">
    [002]
   </a>
   Whereat Filostrato said with a laugh:
@@ -39,7 +39,7 @@ layout: "single"
  as best I may be able, I will govern the kingdom committed to my
    charge.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970003">
+  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970003" id="p03970003">
    [003]
   </a>
   Whereupon Neifile took him up:
@@ -58,7 +58,7 @@ layout: "single"
    when you were so emaciated that your
  bones made music like a skeleton in the wind.
   </note>
-  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970004">
+  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970004" id="p03970004">
    [004]
   </a>
   Filostrato, perceiving that there was a scythe
@@ -68,7 +68,7 @@ layout: "single"
  all matters as he deemed would be best and most to the satisfaction of
  the company, while his sovereignty should last; and having so done,
  he turned to the ladies, and said:
-  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970005">
+  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970005" id="p03970005">
    [005]
   </a>
   <q direct="unspecified">
@@ -79,7 +79,7 @@ layout: "single"
  I knew how, to all his ways, my fate has been still the same, to be
  discarded for another, and go ever from bad to worse; and so, I
  suppose, 'twill be with me to the hour of my death.
-   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970006">
+   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970006" id="p03970006">
     [006]
    </a>
    Wherefore I am
@@ -96,7 +96,7 @@ layout: "single"
   Which said, he arose, and dismissed them all until supper-time.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970007">
+  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970007" id="p03970007">
    [007]
   </a>
   So fair and delightsome was the garden that none saw fit to quit
@@ -105,7 +105,7 @@ layout: "single"
  ladies gave chase to the kids and conies and other creatures that
  haunted it, and, scampering to and fro among them as they sate,
  had caused them a hundred times, or so, some slight embarrassment.
-  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970008">
+  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970008" id="p03970008">
    [008]
   </a>
   Dioneo and Fiammetta fell a singing of Messer Guglielmo
@@ -133,7 +133,7 @@ layout: "single"
  beautiful fountain, and supped with all glad and festal cheer.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970009">
+  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970009" id="p03970009">
    [009]
   </a>
   When the tables were removed, Filostrato, being minded to
@@ -145,7 +145,7 @@ layout: "single"
  mine own that seems meet for so gay a company; but, if you will
  be content with what I have, gladly will I give you thereof.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970010">
+  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970010" id="p03970010">
    [010]
   </a>
   <q direct="unspecified">
@@ -156,7 +156,7 @@ layout: "single"
    could be other than
  goodly and delectable. Wherefore give us even what thou hast.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970011">
+  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970011" id="p03970011">
    [011]
   </a>
   So
@@ -166,7 +166,7 @@ layout: "single"
  </p>
  <div3 type="song" who="lauretta">
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970012">
+   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970012" id="p03970012">
     [012]
    </a>
    <l>
@@ -180,7 +180,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970013">
+   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970013" id="p03970013">
     [013]
    </a>
    <l>
@@ -212,7 +212,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970014">
+   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970014" id="p03970014">
     [014]
    </a>
    <l>
@@ -244,7 +244,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970015">
+   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970015" id="p03970015">
     [015]
    </a>
    <l>
@@ -276,7 +276,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970016">
+   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970016" id="p03970016">
     [016]
    </a>
    <l>
@@ -308,7 +308,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970017">
+   <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970017" id="p03970017">
     [017]
    </a>
    <l>
@@ -341,7 +341,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970018">
+  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970018" id="p03970018">
    [018]
   </a>
   So ended Lauretta her song, to which all hearkened attentively,
@@ -349,7 +349,7 @@ layout: "single"
  moral after the Milanese fashion, to wit, that a good porker was
  better than pretty quean. Others construed it in a higher, better
  and truer sense, which 'tis not to the present purpose to unfold.
-  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970019">
+  <a href="{{ site.baseurl }}itDecameron/d03conclu#p03970019" id="p03970019">
    [019]
   </a>
   Some more songs followed by command of the king, who caused

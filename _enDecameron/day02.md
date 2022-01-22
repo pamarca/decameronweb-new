@@ -14,7 +14,7 @@ layout: "single"
  </p>
  <argument>
   <p>
-   <a href="{{ site.baseurl }}itDecameron/day02#p02990001">
+   <a href="{{ site.baseurl }}itDecameron/day02#p02990001" id="p02990001">
     [001]
    </a>
    Endeth here the first day of the Decameron; beginneth

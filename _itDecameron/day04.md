@@ -14,7 +14,7 @@ layout: "single"
  </p>
  <argument>
   <p>
-   <a href="{{ site.baseurl }}enDecameron/day04#p04990001">
+   <a href="{{ site.baseurl }}enDecameron/day04#p04990001" id="p04990001">
     [001]
    </a>
    Finisce la Terza giornata del

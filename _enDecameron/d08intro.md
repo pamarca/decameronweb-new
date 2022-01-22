@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d08intro#p08980002">
+  <a href="{{ site.baseurl }}itDecameron/d08intro#p08980002" id="p08980002">
    [002]
   </a>
   The
@@ -26,7 +26,7 @@ layout: "single"
  returned to the palace, and having breakfasted with gay and gladsome
  cheer, and sung and danced a while, were dismissed by the
 	queen, to rest them as to each might seem good.
-  <a href="{{ site.baseurl }}itDecameron/d08intro#p08980003">
+  <a href="{{ site.baseurl }}itDecameron/d08intro#p08980003" id="p08980003">
    [003]
   </a>
   But when the sun

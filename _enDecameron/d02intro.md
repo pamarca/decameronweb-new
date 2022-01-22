@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d02intro#p02980002">
+  <a href="{{ site.baseurl }}itDecameron/d02intro#p02980002" id="p02980002">
    [002]
   </a>
   The
@@ -25,7 +25,7 @@ layout: "single"
  little time they found their delight in sauntering about the dewy
  meads, straying hither and thither, culling flowers, and weaving them
       into fair garlands.
-  <a href="{{ site.baseurl }}itDecameron/d02intro#p02980003">
+  <a href="{{ site.baseurl }}itDecameron/d02intro#p02980003" id="p02980003">
    [003]
   </a>
   The day passed like its predecessor;
@@ -33,7 +33,7 @@ layout: "single"
  in the shade, and danced and slept until noon, when they rose,
  and, at their queen's behest, assembled in the cool meadow, and sat
       them down in a circle about her.
-  <a href="{{ site.baseurl }}itDecameron/d02intro#p02980004">
+  <a href="{{ site.baseurl }}itDecameron/d02intro#p02980004" id="p02980004">
    [004]
   </a>
   Fair and very debonair she shewed,

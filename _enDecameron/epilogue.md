@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980001">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980001" id="p11980001">
    [001]
   </a>
   Most
@@ -26,7 +26,7 @@ layout: "single"
 	  you. Wherefore, it but remains for me to render, first to God, and
 	  then to you, my thanks, and so to give a rest to my pen and weary
 	  hand.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980002">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980002" id="p11980002">
    [002]
   </a>
   But this I purpose not to allow them, until, briefly, as to
@@ -35,7 +35,7 @@ layout: "single"
 	  the beginning of the Fourth Day I have made the same plain--I
 	  shall have answered certain trifling objections that one of you, maybe,
 	  or some other, might advance.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980003">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980003" id="p11980003">
    [003]
   </a>
   Peradventure, then, some of you will
@@ -46,7 +46,7 @@ layout: "single"
 	  of these stories so unseemly, but that it may without offence be told
 	  by any one, if but seemly words be used; which rule, methinks, has
 	  here been very well observed.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980004">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980004" id="p11980004">
    [004]
   </a>
   But assume we that 'tis even so (for
@@ -58,7 +58,7 @@ layout: "single"
 	  of sound judgment scan with the eye of reason, and 'twill be abundantly
 	  manifest that, unless I had been minded to deform them, they
 	  could not have been otherwise recounted.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980005">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980005" id="p11980005">
    [005]
   </a>
   And if, perchance, they
@@ -81,7 +81,7 @@ layout: "single"
   polony
   , and
 	  plenty more besides of a like sort.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980006">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980006" id="p11980006">
    [006]
   </a>
   And therewithal privilege no
@@ -94,7 +94,7 @@ layout: "single"
 	  now with two nails.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980007">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980007" id="p11980007">
    [007]
   </a>
   Moreover, 'tis patent to all that 'twas not in the Church, of
@@ -108,13 +108,13 @@ layout: "single"
 	  a time when, if so one might save one's life, the most sedate might
 	  without disgrace walk abroad with his breeches for headgear, that
 	  these stories were told.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980008">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980008" id="p11980008">
    [008]
   </a>
   Which stories, such as they are, may, like
 	  all things else, be baneful or profitable according to the quality
 	  of the hearer.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980009">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980009" id="p11980009">
    [009]
   </a>
   Who knows not that wine is, as Cinciglione and
@@ -129,14 +129,14 @@ layout: "single"
 	  Who knows not that fire is most serviceable, nay, necessary, to
 	  mortals? Are we to say that, because it burns houses and villages
 	  and cities, it is a bad thing?
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980010">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980010" id="p11980010">
    [010]
   </a>
   Arms, in like manner, are the safeguard
 	  of those that desire to live in peace, and also by them are men
 	  not seldom maliciously slain, albeit the malice is not in them, but in
 	  those that use them for a malicious purpose.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980011">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980011" id="p11980011">
    [011]
   </a>
   Corrupt mind did never
@@ -144,20 +144,20 @@ layout: "single"
 	  has no profit of seemly words, so such as are scarce seemly may as
   little avail to contaminate a healthy mind as mud the radiance of
 	  the sun, or the deformities of earth the splendours of the heavens.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980012">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980012" id="p11980012">
    [012]
   </a>
   What books, what words, what letters, are more sacred, more excellent,
 	  more venerable, than those of Holy Writ? And yet there
 	  have been not a few that, perversely construing them, have brought
 	  themselves and others to perdition.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980013">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980013" id="p11980013">
    [013]
   </a>
   Everything is in itself good for
 	  somewhat, and being put to a bad purpose, may work manifold mischief.
 	  And so, I say, it is with my stories.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980014">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980014" id="p11980014">
    [014]
   </a>
   If any man shall be
@@ -169,7 +169,7 @@ layout: "single"
 	  less than profitable and seemly they can never be, if the times or the
 	  persons when and by whom they are read be such as when they
 	  were recounted.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980015">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980015" id="p11980015">
    [015]
   </a>
   If any lady must needs say paternosters or make
@@ -179,7 +179,7 @@ layout: "single"
 	  again.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980016">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980016" id="p11980016">
    [016]
   </a>
   In like manner there will be some who will say that there are
@@ -188,7 +188,7 @@ layout: "single"
 	  but such stories as were narrated; wherefore, 'twas for those by
 	  whom they were told to have a care that they were proper; in
 	  which case they would have been no less so as I wrote them.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980017">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980017" id="p11980017">
    [017]
   </a>
   But,
@@ -198,7 +198,7 @@ layout: "single"
 	  does all things well and perfectly. And Charlemagne, albeit he
 	  created the Paladins, wist not how to make them in such numbers
 	  as to form an army of them alone.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980018">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980018" id="p11980018">
    [018]
   </a>
   It must needs be that in the
@@ -209,7 +209,7 @@ layout: "single"
 	  as you for the most part are, I should have done foolishly, had I
 	  gone about searching and swinking to find matters very exquisite,
   and been sedulous to speak with great precision.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980019">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980019" id="p11980019">
    [019]
   </a>
   However, whoso
@@ -219,7 +219,7 @@ layout: "single"
 	  bosom.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980020">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980020" id="p11980020">
    [020]
   </a>
   Again, I doubt not there will be such as will say that some of
@@ -230,7 +230,7 @@ layout: "single"
 	  that 'twas to none but leisured ladies that I made proffer of my
 	  pains; nor can aught be long to him that reads but to pass the time,
 	  so only he thereby accomplish his purpose.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980021">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980021" id="p11980021">
    [021]
   </a>
   Succinctness were
@@ -243,7 +243,7 @@ layout: "single"
 	  refined by scholarly pursuits.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980022">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980022" id="p11980022">
    [022]
   </a>
   Nor make I any doubt but there are yet others who will say that
@@ -252,7 +252,7 @@ layout: "single"
 	  To these I am bound to render, and do render, my thanks, for that,
 	  prompted by well-meant zeal, they have so tender a regard to my
 	  reputation.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980023">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980023" id="p11980023">
    [023]
   </a>
   But to that, which they urge against me, I reply after
@@ -264,7 +264,7 @@ layout: "single"
 	  for their sins, are to-day, for the most part, full of jests and merry
 	  conceits, and drolleries, I deemed that the like stuff would not ill
 	  beseem my stories, written, as they were, to banish women's dumps.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980024">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980024" id="p11980024">
    [024]
   </a>
   However, if thereby they should laugh too much, they may be
@@ -272,13 +272,13 @@ layout: "single"
 	  Saviour, or the Complaint of the Magdalen.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980025">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980025" id="p11980025">
    [025]
   </a>
   And who shall question but that yet others there are who will
   say that I have an evil tongue and venomous, because here and there
 	  I tell the truth about the friars?
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980026">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980026" id="p11980026">
    [026]
   </a>
   Now for them that so say there
@@ -287,7 +287,7 @@ layout: "single"
 	  the love of God, and grind intermittently, and never blab; and, were
 	  they not all a trifle malodorous, intercourse with them would be
 	  much more agreeable.
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980027">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980027" id="p11980027">
    [027]
   </a>
   Nevertheless, I acknowledge that the things
@@ -297,7 +297,7 @@ layout: "single"
 	  own judgment, but forgo it to the best of my power--told me 'twas
 	  the goodliest and sweetest tongue in the world; and in sooth, when
 	  this occurred, few of the said stories were yet to write;
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980028">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980028" id="p11980028">
    [028]
   </a>
   nor, for that
@@ -305,7 +305,7 @@ layout: "single"
 	  them any further answer.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980029">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980029" id="p11980029">
    [029]
   </a>
   So, then, be every lady at liberty to say and believe whatever she
@@ -319,7 +319,7 @@ layout: "single"
 </div>
 <div>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980030">
+  <a href="{{ site.baseurl }}itDecameron/epilogue#p11980030" id="p11980030">
    [030]
   </a>
   Endeth here the tenth and last day of the book called

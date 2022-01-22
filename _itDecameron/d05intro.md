@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d05intro#p05980002">
+  <a href="{{ site.baseurl }}enDecameron/d05intro#p05980002" id="p05980002">
    [002]
   </a>
   Era gi&agrave; l'oriente tutto bianco e li surgenti raggi per tutto il nostro emisperio avevan fatto chiaro, quando
@@ -21,7 +21,7 @@ layout: "single"
    Fiammetta
   </name>
   da' dolci canti degli uccelli, li quali la prima ora del giorno su per gli albuscelli tutti lieti cantavano, incitata, s&uacute; si lev&ograve;, e tutte l'altre e i tre giovani fece chiamare; e con soave passo a' campi discesa, per l'ampia pianura su per le rugiadose erbe, infino a tanto che alquanto il sol fu alzato, con la sua compagnia, d'una cosa e d'altra con lor ragionando, diportando s'and&ograve;.
-  <a href="{{ site.baseurl }}enDecameron/d05intro#p05980003">
+  <a href="{{ site.baseurl }}enDecameron/d05intro#p05980003" id="p05980003">
    [003]
   </a>
   Ma sentendo che gi&agrave; i solar raggi si riscaldavano, verso la loro stanza volse i passi: alla qual pervenuti, con ottimi vini e con confetti il leggiere affanno avuto f&eacute; ristorare, e per lo
@@ -29,7 +29,7 @@ layout: "single"
    dilettevole giardino
   </name>
   infino all'ora del mangiare si diportarono. La qual venuta, essendo ogni cosa dal discretissimo siniscalco apparecchiata, poi che alcuna stampita e una ballatetta o due furon cantate, lietamente, secondo che alla reina piacque, si misero a mangiare.
-  <a href="{{ site.baseurl }}enDecameron/d05intro#p05980004">
+  <a href="{{ site.baseurl }}enDecameron/d05intro#p05980004" id="p05980004">
    [004]
   </a>
   E quello ordinatamente e con letizia fatto, non dimenticato il preso ordine del danzare, e con gli strumenti e con le canzoni alquante danzette fecero. Appresso alle quali infino a passata l'ora del dormire la
@@ -41,7 +41,7 @@ layout: "single"
    bel giardino
   </name>
   si rimasero.
-  <a href="{{ site.baseurl }}enDecameron/d05intro#p99980005">
+  <a href="{{ site.baseurl }}enDecameron/d05intro#p99980005" id="p99980005">
    [005]
   </a>
   Ma tutti, un poco passata la nona, quivi, come alla reina piacque, vicini alla fonte secondo l'usato modo si ragunarono; e essendosi la reina a seder posta

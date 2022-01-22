@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d08intro#p08980002">
+  <a href="{{ site.baseurl }}enDecameron/d08intro#p08980002" id="p08980002">
    [002]
   </a>
   Gi&agrave; nella sommit&agrave; de' pi&uacute; alti monti apparivano la
@@ -29,7 +29,7 @@ layout: "single"
    chiesetta
   </name>
   lor vicina visitata, in quella il divino officio ascoltarono. E a casa tornatisene, poi che con letizia e con festa ebber mangiato, cantarono e danzarono alquanto; e appresso, licenziati dalla reina, chi volle andare a riposarsi pot&eacute;.
-  <a href="{{ site.baseurl }}enDecameron/d08intro#p08980003">
+  <a href="{{ site.baseurl }}enDecameron/d08intro#p08980003" id="p08980003">
    [003]
   </a>
   Ma avendo il sol gi&agrave; passato il cerchio di meriggio, come alla reina piacque, al novellare usato tutti appresso la

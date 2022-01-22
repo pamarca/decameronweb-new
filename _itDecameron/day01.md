@@ -14,7 +14,7 @@ layout: "single"
  </p>
  <argument>
   <p>
-   <a href="{{ site.baseurl }}enDecameron/day01#p01990001">
+   <a href="{{ site.baseurl }}enDecameron/day01#p01990001" id="p01990001">
     [001]
    </a>
    Comincia la Prima giornata del

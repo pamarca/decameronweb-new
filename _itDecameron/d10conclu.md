@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970001">
+  <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970001" id="p10970001">
    [001]
   </a>
   La novella di
@@ -27,12 +27,12 @@ layout: "single"
   , levato il viso verso il cielo, e vedendo che il sole era gi&agrave; basso all'ora di vespro, senza da seder levarsi, cos&iacute; cominci&ograve; a parlare:
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970002">
+  <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970002" id="p10970002">
    [002]
   </a>
   <q direct="unspecified" who="panfilo">
    Adorne donne, come io credo che voi conosciate, il senno de' mortali non consiste solamente nell'avere memoria le cose preterite o conoscere le presenti, ma per l'una e per l'altra di queste sapere antiveder le future &egrave; da' solenni uomini senno grandissimo riputato.
-   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970003">
+   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970003" id="p10970003">
     [003]
    </a>
    Noi, come voi sapete, domane saranno quindici d&iacute;, per dovere alcun diporto pigliare a sostentamento della nostra sanit&agrave; e della vita, cessando le malinconie e' dolori e l'angoscie, le quali per la nostra citt&agrave; continuamente, poi che questo pistolenzioso tempo incominci&ograve;, si veggono, uscimmo di
@@ -40,26 +40,26 @@ layout: "single"
     Firenze
    </name>
    ;
-   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970004">
+   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970004" id="p10970004">
     [004]
    </a>
    il che secondo il mio giudicio noi onestamente abbiam fatto; per ci&ograve; che, se io ho saputo ben riguardare, quantunque liete novelle e forse attrattive a concupiscenzia dette ci sieno, e del continuo mangiato e bevuto bene, e sonato e cantato (cose tutte da incitare le deboli menti a cose meno oneste), niuno atto, niuna parola, niuna cosa n&eacute; dalla vostra parte n&eacute; dalla nostra ci ho conosciuta da biasimare:
-   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970005">
+   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970005" id="p10970005">
     [005]
    </a>
    continua onest&agrave;, continua concordia, continua fraternal dimestichezza mi ci &egrave; paruta vedere e sentire; il che senza dubbio in onore e servigio di voi e di me m'&egrave; carissimo.
-   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970006">
+   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970006" id="p10970006">
     [006]
    </a>
    E per ci&ograve;, acci&ograve; che per troppa lunga consuetudine alcuna cosa che in fastidio si convertisse nascer non ne potesse, e perch&eacute; alcuno la nostra troppo lunga dimoranza gavillar non potesse, e avendo ciascun di noi, la sua giornata, avuta la sua parte dell'onore che in me ancora dimora, giudicherei, quando piacer fosse di voi, che convenevole cosa fosse omai il tornarci l&agrave; onde ci partimmo.
-   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970007">
+   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970007" id="p10970007">
     [007]
    </a>
    Senza che, se voi ben riguardate, la nostra brigata, gi&agrave; da pi&uacute; altre saputa da torno, per maniera potrebbe multiplicare che ogni nostra consolazion ci torrebbe; e per ci&ograve;, se voi il mio consiglio approvate, io mi server&ograve; la corona donatami per infino alla nostra partita, che intendo che sia domattina; ove voi altramenti diliberaste, io ho gi&agrave; pronto cui per lo d&iacute; seguente ne debbia incoronare.
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970008">
+  <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970008" id="p10970008">
    [008]
   </a>
   I ragionamenti furon molti tra le donne e tra' giovani, ma ultimamente presero per utile e per onesto il consiglio del
@@ -69,7 +69,7 @@ layout: "single"
   , e cos&iacute; di fare diliberarono come egli aveva ragionato; per la qual cosa esso, fattosi il siniscalco chiamare, con lui del modo che a tenere avesse nella seguente mattina parl&ograve;, e licenziata la brigata infino all'ora della cena, in pi&egrave; si lev&ograve;.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970009">
+  <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970009" id="p10970009">
    [009]
   </a>
   Le donne e gli altri levatisi, non altramenti che usati si fossero, chi a un diletto e chi a un altro si diede. E l'ora del la cena venuta, con sommo piacere furono a quella, e dopo quella a cantare e a sonare e a carolare cominciarono; e menando la
@@ -84,7 +84,7 @@ layout: "single"
  </p>
  <div3 type="song" who="fiammetta">
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970010">
+   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970010" id="p10970010">
     [010]
    </a>
    <l>
@@ -98,7 +98,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970011">
+   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970011" id="p10970011">
     [011]
    </a>
    <l>
@@ -130,7 +130,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970012">
+   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970012" id="p10970012">
     [012]
    </a>
    <l>
@@ -162,7 +162,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970013">
+   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970013" id="p10970013">
     [013]
    </a>
    <l>
@@ -194,7 +194,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970014">
+   <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970014" id="p10970014">
     [014]
    </a>
    <l>
@@ -227,7 +227,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970015">
+  <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970015" id="p10970015">
    [015]
   </a>
   Come la
@@ -249,7 +249,7 @@ layout: "single"
   piacque, tutti s'andarono a riposare.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970016">
+  <a href="{{ site.baseurl }}enDecameron/d10conclu#p10970016" id="p10970016">
    [016]
   </a>
   E come il nuovo giorno apparve, levati, avendo gi&agrave; il siniscalco via ogni lor cosa mandata, dietro alla guida del discreto

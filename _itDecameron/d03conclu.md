@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970001">
+  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970001" id="p03970001">
    [001]
   </a>
   Mille fiate o pi&uacute; aveva la novella di Dioneo a rider mosse l'oneste donne, tali e s&iacute; fatte lor parevan le sue parole; per che, venuto egli al conchiuder di quella, conoscendo la
@@ -30,7 +30,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970002">
+  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970002" id="p03970002">
    [002]
   </a>
   <name persref="filostrato" type="person">
@@ -42,7 +42,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970003">
+  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970003" id="p03970003">
    [003]
   </a>
   A cui
@@ -63,19 +63,19 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970004">
+  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970004" id="p03970004">
    [004]
   </a>
   <name persref="filostrato" type="person">
    Filostrato
   </name>
   , conoscendo che falci si trovavan non meno che egli avesse strali, lasciato stare il motteggiare, a darsi al governo del regno commesso cominci&ograve;: e, fattosi il siniscalco chiamare, a che punto le cose fossero tutte volle sentire; e oltre a questo, secondo che avvis&ograve; che bene stesse e che dovesse sodisfare alla compagnia, per quanto la sua signoria dovea durare, discretamente ordin&ograve;: e quindi, rivolto alle donne, disse:
-  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970005">
+  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970005" id="p03970005">
    [005]
   </a>
   <q direct="unspecified">
    Amorose donne, per la mia disaventura, poscia che io ben da mal conobbi, sempre per la bellezza d'alcuna di voi stato sono a Amor subgetto, n&eacute; l'essere umile n&eacute; l'essere ubbidiente n&eacute; il seguirlo in ci&ograve; che per me s'&egrave; conosciuto alla seconda in tutti i suoi costumi, m'&egrave; valuto, che io prima per altro abbandonato e poi non sia sempre di male in peggio andato; e cos&iacute; credo che io andr&ograve; di qui alla morte.
-   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970006">
+   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970006" id="p03970006">
     [006]
    </a>
    E per ci&ograve; non d'altra materia domane mi piace che si ragioni se non di quello che a' miei fatti &egrave; pi&uacute; conforme, cio&egrave;
@@ -87,7 +87,7 @@ layout: "single"
   ; e cos&iacute; detto, in pi&egrave; levatosi, per infino all'ora della cena licenzi&ograve; ciascuno.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970007">
+  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970007" id="p03970007">
    [007]
   </a>
   Era s&iacute; bello il
@@ -95,7 +95,7 @@ layout: "single"
    giardino
   </name>
   e s&iacute; dilettevole, che alcuno non vi fu che eleggesse di quello uscire per pi&uacute; piacere altrove dover sentire; anzi, non faccendo il sol gi&agrave; tiepido alcuna noia a seguire, i cavriuoli e i conigli e gli altri animali che erano per quello e che a lor sedenti forse cento volte per mezzo lor saltando, eran venuti a dar noia, si dierono alcune a seguitare.
-  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970008">
+  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970008" id="p03970008">
    [008]
   </a>
   <name persref="dioneo" type="person">
@@ -120,7 +120,7 @@ layout: "single"
   , quivi con grandissimo diletto cenaron la sera.
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970009">
+  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970009" id="p03970009">
    [009]
   </a>
   <name persref="filostrato" type="person">
@@ -136,7 +136,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970010">
+  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970010" id="p03970010">
    [010]
   </a>
   Alla quale il
@@ -149,7 +149,7 @@ layout: "single"
   </q>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970011">
+  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970011" id="p03970011">
    [011]
   </a>
   La
@@ -160,7 +160,7 @@ layout: "single"
  </p>
  <div3 type="song" who="lauretta">
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970012">
+   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970012" id="p03970012">
     [012]
    </a>
    <l>
@@ -174,7 +174,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970013">
+   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970013" id="p03970013">
     [013]
    </a>
    <l>
@@ -206,7 +206,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970014">
+   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970014" id="p03970014">
     [014]
    </a>
    <l>
@@ -238,7 +238,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970015">
+   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970015" id="p03970015">
     [015]
    </a>
    <l>
@@ -270,7 +270,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970016">
+   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970016" id="p03970016">
     [016]
    </a>
    <l>
@@ -302,7 +302,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970017">
+   <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970017" id="p03970017">
     [017]
    </a>
    <l>
@@ -335,7 +335,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970018">
+  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970018" id="p03970018">
    [018]
   </a>
   Qui fece fine la
@@ -347,7 +347,7 @@ layout: "single"
    meglio un buon porco che una bella tosa;
   </seg>
   altri furono di pi&uacute; sublime e migliore e pi&uacute; vero intelletto, del quale al presente recitar non accade.
-  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970019">
+  <a href="{{ site.baseurl }}enDecameron/d03conclu#p03970019" id="p03970019">
    [019]
   </a>
   Il re, dopo questa, su l'erba e 'n su i fiori avendo fatti molti doppieri accendere ne fece pi&uacute; altre cantare infin che gi&agrave; ogni stella a cader cominci&ograve; che salia; per che, ora parendogli da dormire, comand&ograve; che con la buona notte ciascuno alla sua camera si tornasse.

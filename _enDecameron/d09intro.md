@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d09intro#p09980002">
+  <a href="{{ site.baseurl }}itDecameron/d09intro#p09980002" id="p09980002">
    [002]
   </a>
   The
@@ -43,14 +43,14 @@ layout: "single"
  time of pestilence they had nought to fear from the hunter, stand
  awaiting them with no more sign of fear than if they had been
       tamed:
-  <a href="{{ site.baseurl }}itDecameron/d09intro#p09980003">
+  <a href="{{ site.baseurl }}itDecameron/d09intro#p09980003" id="p09980003">
    [003]
   </a>
   and so, making now towards this, now towards the other of
  them as if to touch them, they diverted themselves for a while by
  making them skip and run. But, as soon as the sun was in the
  ascendant, by common consent they turned back,
-  <a href="{{ site.baseurl }}itDecameron/d09intro#p09980004">
+  <a href="{{ site.baseurl }}itDecameron/d09intro#p09980004" id="p09980004">
    [004]
   </a>
   and whoso met
@@ -60,13 +60,13 @@ layout: "single"
    Either shall death not vanquish these, or they will meet it with a
  light heart.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d09intro#p09980005">
+  <a href="{{ site.baseurl }}itDecameron/d09intro#p09980005" id="p09980005">
    [005]
   </a>
   So, slowly wended they their way, now singing, now
  bandying quips and merry jests, to the palace, where they found all
  things in order meet, and their servants in blithe and merry cheer.
-  <a href="{{ site.baseurl }}itDecameron/d09intro#p09980006">
+  <a href="{{ site.baseurl }}itDecameron/d09intro#p09980006" id="p09980006">
    [006]
   </a>
   A while they rested, nor went they to table until six ditties, each
@@ -77,7 +77,7 @@ layout: "single"
  being risen, they trod some measures to the accompaniment
  of music; and then, by the queen's command, whoso would betook
  him to rest.
-  <a href="{{ site.baseurl }}itDecameron/d09intro#p09980007">
+  <a href="{{ site.baseurl }}itDecameron/d09intro#p09980007" id="p09980007">
    [007]
   </a>
   However, the accustomed hour being come, they all

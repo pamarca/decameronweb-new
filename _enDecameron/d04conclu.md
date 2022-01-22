@@ -13,14 +13,14 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970001">
+  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970001" id="p04970001">
    [001]
   </a>
   Heartsore as the gentle ladies had been made by the preceding
  stories, this last of Dioneo provoked them to such merriment, more
  especially the passage about the Stadic and the hook, that they lacked
  not relief of the piteous mood engendered by the others.
-  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970002">
+  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970002" id="p04970002">
    [002]
   </a>
   But the
@@ -31,7 +31,7 @@ layout: "single"
  he rose, took the laurel wreath from his head, and, while the ladies
  watched to see to whom he would give it, set it graciously upon the
  blond head of Fiammetta, saying:
-  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970003">
+  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970003" id="p04970003">
    [003]
   </a>
   <q direct="unspecified">
@@ -39,7 +39,7 @@ layout: "single"
  deeming that thou, better than any other, wilt know how to make
  to-morrow console our fair companions for the rude trials of to-day.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970004">
+  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970004" id="p04970004">
    [004]
   </a>
   Fiammetta, whose wavy tresses fell in a flood of gold over her white
@@ -48,7 +48,7 @@ layout: "single"
  rose, who carried two eyes in her head that matched those of a
  peregrine falcon, while her tiny sweet mouth shewed a pair of lips
  that shone as rubies, replied with a smile:
-  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970005">
+  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970005" id="p04970005">
    [005]
   </a>
   <q direct="unspecified">
@@ -62,14 +62,14 @@ layout: "single"
    </seg>
    .
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970006">
+  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970006" id="p04970006">
    [006]
   </a>
   The theme propounded was
  approved by all; whereupon the queen called the seneschal, and
  having made with him all meet arrangements, rose and gaily dismissed
  all the company until the supper hour;
-  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970007">
+  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970007" id="p04970007">
    [007]
   </a>
   wherefore, some
@@ -77,7 +77,7 @@ layout: "single"
  as soon to pall, others bending their steps towards the mills that
  were grinding without, each, as and where it seemed best, they took
  meanwhile their several pleasures.
-  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970008">
+  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970008" id="p04970008">
    [008]
   </a>
   The supper hour come, they all
@@ -85,7 +85,7 @@ layout: "single"
  gayest of spirits and well served they supped. Then rising they
  addressed them, as was their wont, to dance and song, and while
   Filomena led the dance:
-  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970009">
+  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970009" id="p04970009">
    [009]
   </a>
   <q direct="unspecified">
@@ -100,7 +100,7 @@ layout: "single"
  vexed with thy misfortunes, we ordain that thou give us one of
  them, whichever thou mayst prefer.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970010">
+  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970010" id="p04970010">
    [010]
   </a>
   Filostrato answered that he
@@ -108,7 +108,7 @@ layout: "single"
  </p>
  <div3 type="song" who="filostrato">
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970011">
+   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970011" id="p04970011">
     [011]
    </a>
    <l>
@@ -122,7 +122,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970012">
+   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970012" id="p04970012">
     [012]
    </a>
    <l>
@@ -154,7 +154,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970013">
+   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970013" id="p04970013">
     [013]
    </a>
    <l>
@@ -186,7 +186,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970014">
+   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970014" id="p04970014">
     [014]
    </a>
    <l>
@@ -218,7 +218,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970015">
+   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970015" id="p04970015">
     [015]
    </a>
    <l>
@@ -250,7 +250,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970016">
+   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970016" id="p04970016">
     [016]
    </a>
    <l>
@@ -282,7 +282,7 @@ layout: "single"
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970017">
+   <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970017" id="p04970017">
     [017]
    </a>
    <l>
@@ -320,7 +320,7 @@ layout: "single"
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970018">
+  <a href="{{ site.baseurl }}itDecameron/d04conclu#p04970018" id="p04970018">
    [018]
   </a>
   Filostrato's mood and its cause were made abundantly manifest

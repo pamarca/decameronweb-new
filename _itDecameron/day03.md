@@ -14,7 +14,7 @@ layout: "single"
  </p>
  <argument>
   <p>
-   <a href="{{ site.baseurl }}enDecameron/day03#p03990001">
+   <a href="{{ site.baseurl }}enDecameron/day03#p03990001" id="p03990001">
     [001]
    </a>
    Finisce la Seconda giornata del

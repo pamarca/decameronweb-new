@@ -6,7 +6,7 @@ layout: "single"
 <div>
  <argument>
   <p>
-   <a href="{{ site.baseurl }}itDecameron/proem#p99990001">
+   <a href="{{ site.baseurl }}itDecameron/proem#p99990001" id="p99990001">
     [001]
    </a>
    Beginneth here the book called Decameron, otherwise
@@ -26,7 +26,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990002">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990002" id="p99990002">
    [002]
   </a>
   '
@@ -36,7 +36,7 @@ layout: "single"
 	  need of comfort and have found it in others: among whom, if any
 	  had ever need thereof or found it precious or delectable, I may be
 	  numbered;
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990003">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990003" id="p99990003">
    [003]
   </a>
   seeing that from my early youth even to the present I
@@ -56,14 +56,14 @@ layout: "single"
 	  superabundant ardour engendered in the soul by ill-bridled desire;
 	  the which, as it allowed me no reasonable period of quiescence,
 	  frequently occasioned me an inordinate distress.
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990004">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990004" id="p99990004">
    [004]
   </a>
   In which distress
 	  so much relief was afforded me by the delectable discourse of a friend
 	  and his commendable consolations, that I entertain a very solid
 	  conviction that to them I owe it that I am not dead.
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990005">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990005" id="p99990005">
    [005]
   </a>
   But, as it
@@ -77,14 +77,14 @@ layout: "single"
 	  too far out in navigating its deep seas; so that, whereas it was used
 	  to be grievous, now, all discomfort being done away, I find that
 	  which remains to be delightful.
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990006">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990006" id="p99990006">
    [006]
   </a>
   But the cessation of the pain has
 	  not banished the memory of the kind offices done me by those who
 	  shared by sympathy the burden of my griefs; nor will it ever, I
 	  believe, pass from me except by death.
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990007">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990007" id="p99990007">
    [007]
   </a>
   And as among the virtues
@@ -97,20 +97,20 @@ layout: "single"
 	  fortune, need it not, at least to such as may be apt to receive it.
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990008">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990008" id="p99990008">
    [008]
   </a>
   And though my support or comfort, so to say, may be of little
 	  avail to the needy, nevertheless it seems to me meet to offer it most
 	  readily where the need is most apparent, because it will there be
 	  most serviceable and also most kindly received.
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990009">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990009" id="p99990009">
    [009]
   </a>
   Who will deny, that
 	  it should be given, for all that it may be worth, to gentle ladies
 	  much rather than to men?
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990010">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990010" id="p99990010">
    [010]
   </a>
   Within their soft bosoms, betwixt fear
@@ -121,7 +121,7 @@ layout: "single"
 	  their time within the narrow compass of their chambers, they live,
 	  so to say, a life of vacant ease, and, yearning and renouncing in the
 	  same moment, meditate divers matters which cannot all be cheerful.
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990011">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990011" id="p99990011">
    [011]
   </a>
   If thereby a melancholy bred of amorous desire make entrance into
@@ -129,7 +129,7 @@ layout: "single"
 	  dispelled by a change of ideas. Besides which they have much less
 	  power to support such a weight than men. For, when men are
 	  enamoured, their case is very different, as we may readily perceive.
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990012">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990012" id="p99990012">
    [012]
   </a>
   They, if they are afflicted by a melancholy and heaviness of mood,
@@ -140,7 +140,7 @@ layout: "single"
 	  dumpish mood, at least for some space of time; and shortly after, by
 	  one way or another, either solace ensues, or the dumps become less
 	  grievous.
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990013">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990013" id="p99990013">
    [013]
   </a>
   Wherefore, in some measure to compensate the injustice
@@ -153,7 +153,7 @@ layout: "single"
 	  days by an honourable company of seven ladies and three young men
 	  in the time of the late mortal pestilence, as also some canzonets sung
 	  by the said ladies for their delectation.
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990014">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990014" id="p99990014">
    [014]
   </a>
   In which pleasant novels
@@ -164,7 +164,7 @@ layout: "single"
 	  forth therein, and also good counsel, in that they may learn what to
 	  shun, and likewise what to pursue. Which cannot, I believe, come
 	  to pass, unless the dumps be banished by diversion of mind.
-  <a href="{{ site.baseurl }}itDecameron/proem#p99990015">
+  <a href="{{ site.baseurl }}itDecameron/proem#p99990015" id="p99990015">
    [015]
   </a>
   And if

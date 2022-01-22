@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970001">
+  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970001" id="p07970001">
    [001]
   </a>
   The sun was westering, and a light breeze blew,
@@ -33,14 +33,14 @@ deem meet for our common solace and delectation;
   </q>
   and having so said, he sat him
 down again.
-  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970002">
+  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970002" id="p07970002">
    [002]
   </a>
   Queen Lauretta sent for the seneschal, and bade him have a care
 that the tables should be set in the pleasant vale somewhat earlier than had been their
 wont, that their return to the palace might be more leisurely; after which she gave him to
 know what else he had to do during her sovereignty.
-  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970003">
+  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970003" id="p07970003">
    [003]
   </a>
   Then turning to the
@@ -54,7 +54,7 @@ company:
 discourse of the tricks that wives play their husbands; and but that I am minded not to
 shew as of the breed of yelping curs, that are ever prompt to retaliate, I would ordain
 that to-morrow we discourse of the tricks that husbands play their wives.
-   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970004">
+   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970004" id="p07970004">
     [004]
    </a>
    However, in lieu thereof, I will have every one take thought to tell of those
@@ -65,13 +65,13 @@ that of to-day.
   </q>
   So saying, she rose and dismissed the company until
 supper-time.
-  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970005">
+  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970005" id="p07970005">
    [005]
   </a>
   So the ladies and the men being risen, some bared their feet and
 betook them to the clear water, there to disport them, while others took their pleasure
 upon the green lawn amid the trees that there grew goodly and straight.
-  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970006">
+  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970006" id="p07970006">
    [006]
   </a>
   For no
@@ -82,7 +82,7 @@ supper-time. Which being come, they sat them down at table beside the little lak
 there, while a thousand songsters charmed their ears, and a gentle breeze, that blew from
 the environing hills, fanned them, and never a fly annoyed them, reposefully and joyously
 they supped.
-  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970007">
+  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970007" id="p07970007">
    [007]
   </a>
   The tables removed, they roved a while about the pleasant vale,
@@ -90,14 +90,14 @@ and then, the sun being still high, for 'twas but half vespers, the queen gave t
 and they wended their way back to their wonted abode, and going slowly, and beguiling the
 way with quips and quirks without number upon divers matters, nor those alone of which
 they had that day discoursed, they arrived, hard upon nightfall, at the goodly palace.
-  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970008">
+  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970008" id="p07970008">
    [008]
   </a>
   There, the short walk's fatigue dispelled by wines most cool and
 comfits, they presently gathered for the dance about the fair fountain,
 and now they footed it to the strains of Tindaro's cornemuse, and now to other
 music.
-  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970009">
+  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970009" id="p07970009">
    [009]
   </a>
   Which done, the queen bade Filomena give them a song; and thus Filomena
@@ -105,7 +105,7 @@ sang:
  </p>
  <div3 type="song" who="filomena">
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970010">
+   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970010" id="p07970010">
     [010]
    </a>
    <l>
@@ -121,7 +121,7 @@ was parted to my grievous dole?
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970011">
+   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970011" id="p07970011">
     [011]
    </a>
    <l>
@@ -159,7 +159,7 @@ console.
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970012">
+   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970012" id="p07970012">
     [012]
    </a>
    <l>
@@ -197,7 +197,7 @@ whole.
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970013">
+   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970013" id="p07970013">
     [013]
    </a>
    <l>
@@ -235,7 +235,7 @@ control.
    </l>
   </lg>
   <lg>
-   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970014">
+   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970014" id="p07970014">
     [014]
    </a>
    <l>
@@ -274,7 +274,7 @@ soul.
   </lg>
  </div3>
  <p>
-  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970015">
+  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970015" id="p07970015">
    [015]
   </a>
   This song set all the company conjecturing what new and delightsome love might now hold
@@ -284,7 +284,7 @@ sight alone
 might yield, some that were there grew envious of her excess of happiness.  However, the
 song being ended, the queen, bethinking her that the morrow was Friday, thus graciously
 addressed them all:
-  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970016">
+  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970016" id="p07970016">
    [016]
   </a>
   <q direct="unspecified">
@@ -292,7 +292,7 @@ addressed them all:
 to-morrow is the day that is sacred to the passion of our Lord, which, if ye remember, we
 kept devoutly when Neifile was queen, intermitting delectable discourse, as we did also on
 the ensuing Saturday.
-   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970017">
+   <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970017" id="p07970017">
     [017]
    </a>
    Where
@@ -301,7 +301,7 @@ excellent example, I deem that now, as then, 'twere a seemly thing to surcease f
 our pastime of story-telling for those two days, and compose our minds to meditation on
 what was at that season accomplished for the weal of our souls.
   </q>
-  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970018">
+  <a href="{{ site.baseurl }}itDecameron/d07conclu#p07970018" id="p07970018">
    [018]
   </a>
   All the

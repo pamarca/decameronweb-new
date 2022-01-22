@@ -13,7 +13,7 @@ layout: "single"
   </h2>
  </p>
  <p>
-  <a href="{{ site.baseurl }}enDecameron/d10intro#p10980002">
+  <a href="{{ site.baseurl }}enDecameron/d10intro#p10980002" id="p10980002">
    [002]
   </a>
   Ancora eran vermigli certi nuvoletti nell'occidente, essendo gi&agrave; quegli dello oriente nelle loro estremit&agrave; simili ad oro lucentissimi divenuti per li solari raggi che molto loro avvicinandosi li ferieno, quando
@@ -21,7 +21,7 @@ layout: "single"
    Panfilo
   </name>
   levatosi, le donne e' suoi compagni fece chiamare.
-  <a href="{{ site.baseurl }}enDecameron/d10intro#p10980003">
+  <a href="{{ site.baseurl }}enDecameron/d10intro#p10980003" id="p10980003">
    [003]
   </a>
   E venuti tutti, con loro insieme diliberato del dove andar potessero al lor diletto, con lento passo si mise innanzi, accompagnato da
@@ -37,7 +37,7 @@ layout: "single"
    palagio
   </name>
   si ritornarono.
-  <a href="{{ site.baseurl }}enDecameron/d10intro#p10980004">
+  <a href="{{ site.baseurl }}enDecameron/d10intro#p10980004" id="p10980004">
    [004]
   </a>
   E quivi dintorno alla

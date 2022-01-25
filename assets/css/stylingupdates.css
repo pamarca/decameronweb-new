@@ -90,7 +90,6 @@ p, ul, li, head {
 	font-weight: 700;
 }
 
-
 .horizline {
 	border-top: thick #ccc69a !important;
 }
@@ -131,4 +130,21 @@ a.pagination--pager:hover {
 	.page__content > p {
 		clear: both;
 	}
+}
+
+div.side-by-side {
+		 display: flex;
+		flex-flow: row wrap;
+}
+
+note {
+  display: none;
+}
+
+note:hover {
+  display: block;
+}
+
+note:target {
+	display: block;
 }
